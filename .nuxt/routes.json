@@ -2,613 +2,757 @@
   {
     "name": "index___ar",
     "path": "/ar",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/index.vue",
-    "chunkName": "pages/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_21ff4601"
   },
   {
     "name": "index___de",
     "path": "/de",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/index.vue",
-    "chunkName": "pages/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_21ff4601"
   },
   {
     "name": "index___en",
     "path": "/en",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/index.vue",
-    "chunkName": "pages/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_21ff4601"
   },
   {
     "name": "index___id",
     "path": "/id",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/index.vue",
-    "chunkName": "pages/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_21ff4601"
   },
   {
     "name": "index___pt",
     "path": "/pt",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/index.vue",
-    "chunkName": "pages/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_21ff4601"
   },
   {
     "name": "index___zh",
     "path": "/zh",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/index.vue",
-    "chunkName": "pages/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_21ff4601"
   },
   {
     "name": "about___ar",
     "path": "/ar/about",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/about/index.vue",
-    "chunkName": "pages/about/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_ae99e474"
   },
   {
     "name": "blank-page___ar",
     "path": "/ar/blank-page",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/blank-page.vue",
-    "chunkName": "pages/blank-page"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_50fce8c9"
   },
   {
     "name": "blog___ar",
     "path": "/ar/blog",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/blog/index.vue",
-    "chunkName": "pages/blog/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_61d3f45f"
   },
   {
     "name": "collection___ar",
     "path": "/ar/collection",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/collection/index.vue",
-    "chunkName": "pages/collection/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\index.vue",
+    "chunkName": "pages/collection/index",
+    "_name": "_6f7622a3"
   },
   {
     "name": "contact___ar",
     "path": "/ar/contact",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/contact/index.vue",
-    "chunkName": "pages/contact/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\index.vue",
+    "chunkName": "pages/contact/index",
+    "_name": "_34980513"
   },
   {
     "name": "login___ar",
     "path": "/ar/login",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/login.vue",
-    "chunkName": "pages/login"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_28b22dd0"
   },
   {
     "name": "register___ar",
     "path": "/ar/register",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/register.vue",
-    "chunkName": "pages/register"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_5a3f0e78"
+  },
+  {
+    "name": "services-detail___ar",
+    "path": "/ar/services-detail",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\services-detail\\\\index.vue",
+    "chunkName": "pages/services-detail/index",
+    "_name": "_808ed8da"
   },
   {
     "name": "about___de",
     "path": "/de/about",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/about/index.vue",
-    "chunkName": "pages/about/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_ae99e474"
   },
   {
     "name": "blank-page___de",
     "path": "/de/blank-page",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/blank-page.vue",
-    "chunkName": "pages/blank-page"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_50fce8c9"
   },
   {
     "name": "blog___de",
     "path": "/de/blog",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/blog/index.vue",
-    "chunkName": "pages/blog/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_61d3f45f"
   },
   {
     "name": "collection___de",
     "path": "/de/collection",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/collection/index.vue",
-    "chunkName": "pages/collection/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\index.vue",
+    "chunkName": "pages/collection/index",
+    "_name": "_6f7622a3"
   },
   {
     "name": "contact___de",
     "path": "/de/contact",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/contact/index.vue",
-    "chunkName": "pages/contact/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\index.vue",
+    "chunkName": "pages/contact/index",
+    "_name": "_34980513"
   },
   {
     "name": "login___de",
     "path": "/de/login",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/login.vue",
-    "chunkName": "pages/login"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_28b22dd0"
   },
   {
     "name": "register___de",
     "path": "/de/register",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/register.vue",
-    "chunkName": "pages/register"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_5a3f0e78"
+  },
+  {
+    "name": "services-detail___de",
+    "path": "/de/services-detail",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\services-detail\\\\index.vue",
+    "chunkName": "pages/services-detail/index",
+    "_name": "_808ed8da"
   },
   {
     "name": "about___en",
     "path": "/en/about",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/about/index.vue",
-    "chunkName": "pages/about/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_ae99e474"
   },
   {
     "name": "blank-page___en",
     "path": "/en/blank-page",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/blank-page.vue",
-    "chunkName": "pages/blank-page"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_50fce8c9"
   },
   {
     "name": "blog___en",
     "path": "/en/blog",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/blog/index.vue",
-    "chunkName": "pages/blog/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_61d3f45f"
   },
   {
     "name": "collection___en",
     "path": "/en/collection",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/collection/index.vue",
-    "chunkName": "pages/collection/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\index.vue",
+    "chunkName": "pages/collection/index",
+    "_name": "_6f7622a3"
   },
   {
     "name": "contact___en",
     "path": "/en/contact",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/contact/index.vue",
-    "chunkName": "pages/contact/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\index.vue",
+    "chunkName": "pages/contact/index",
+    "_name": "_34980513"
   },
   {
     "name": "login___en",
     "path": "/en/login",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/login.vue",
-    "chunkName": "pages/login"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_28b22dd0"
   },
   {
     "name": "register___en",
     "path": "/en/register",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/register.vue",
-    "chunkName": "pages/register"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_5a3f0e78"
+  },
+  {
+    "name": "services-detail___en",
+    "path": "/en/services-detail",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\services-detail\\\\index.vue",
+    "chunkName": "pages/services-detail/index",
+    "_name": "_808ed8da"
   },
   {
     "name": "about___id",
     "path": "/id/about",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/about/index.vue",
-    "chunkName": "pages/about/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_ae99e474"
   },
   {
     "name": "blank-page___id",
     "path": "/id/blank-page",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/blank-page.vue",
-    "chunkName": "pages/blank-page"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_50fce8c9"
   },
   {
     "name": "blog___id",
     "path": "/id/blog",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/blog/index.vue",
-    "chunkName": "pages/blog/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_61d3f45f"
   },
   {
     "name": "collection___id",
     "path": "/id/collection",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/collection/index.vue",
-    "chunkName": "pages/collection/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\index.vue",
+    "chunkName": "pages/collection/index",
+    "_name": "_6f7622a3"
   },
   {
     "name": "contact___id",
     "path": "/id/contact",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/contact/index.vue",
-    "chunkName": "pages/contact/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\index.vue",
+    "chunkName": "pages/contact/index",
+    "_name": "_34980513"
   },
   {
     "name": "login___id",
     "path": "/id/login",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/login.vue",
-    "chunkName": "pages/login"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_28b22dd0"
   },
   {
     "name": "register___id",
     "path": "/id/register",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/register.vue",
-    "chunkName": "pages/register"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_5a3f0e78"
+  },
+  {
+    "name": "services-detail___id",
+    "path": "/id/services-detail",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\services-detail\\\\index.vue",
+    "chunkName": "pages/services-detail/index",
+    "_name": "_808ed8da"
   },
   {
     "name": "about___pt",
     "path": "/pt/about",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/about/index.vue",
-    "chunkName": "pages/about/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_ae99e474"
   },
   {
     "name": "blank-page___pt",
     "path": "/pt/blank-page",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/blank-page.vue",
-    "chunkName": "pages/blank-page"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_50fce8c9"
   },
   {
     "name": "blog___pt",
     "path": "/pt/blog",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/blog/index.vue",
-    "chunkName": "pages/blog/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_61d3f45f"
   },
   {
     "name": "collection___pt",
     "path": "/pt/collection",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/collection/index.vue",
-    "chunkName": "pages/collection/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\index.vue",
+    "chunkName": "pages/collection/index",
+    "_name": "_6f7622a3"
   },
   {
     "name": "contact___pt",
     "path": "/pt/contact",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/contact/index.vue",
-    "chunkName": "pages/contact/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\index.vue",
+    "chunkName": "pages/contact/index",
+    "_name": "_34980513"
   },
   {
     "name": "login___pt",
     "path": "/pt/login",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/login.vue",
-    "chunkName": "pages/login"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_28b22dd0"
   },
   {
     "name": "register___pt",
     "path": "/pt/register",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/register.vue",
-    "chunkName": "pages/register"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_5a3f0e78"
+  },
+  {
+    "name": "services-detail___pt",
+    "path": "/pt/services-detail",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\services-detail\\\\index.vue",
+    "chunkName": "pages/services-detail/index",
+    "_name": "_808ed8da"
   },
   {
     "name": "about___zh",
     "path": "/zh/about",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/about/index.vue",
-    "chunkName": "pages/about/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_ae99e474"
   },
   {
     "name": "blank-page___zh",
     "path": "/zh/blank-page",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/blank-page.vue",
-    "chunkName": "pages/blank-page"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_50fce8c9"
   },
   {
     "name": "blog___zh",
     "path": "/zh/blog",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/blog/index.vue",
-    "chunkName": "pages/blog/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_61d3f45f"
   },
   {
     "name": "collection___zh",
     "path": "/zh/collection",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/collection/index.vue",
-    "chunkName": "pages/collection/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\index.vue",
+    "chunkName": "pages/collection/index",
+    "_name": "_6f7622a3"
   },
   {
     "name": "contact___zh",
     "path": "/zh/contact",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/contact/index.vue",
-    "chunkName": "pages/contact/index"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\index.vue",
+    "chunkName": "pages/contact/index",
+    "_name": "_34980513"
   },
   {
     "name": "login___zh",
     "path": "/zh/login",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/login.vue",
-    "chunkName": "pages/login"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_28b22dd0"
   },
   {
     "name": "register___zh",
     "path": "/zh/register",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/register.vue",
-    "chunkName": "pages/register"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_5a3f0e78"
+  },
+  {
+    "name": "services-detail___zh",
+    "path": "/zh/services-detail",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\services-detail\\\\index.vue",
+    "chunkName": "pages/services-detail/index",
+    "_name": "_808ed8da"
   },
   {
     "name": "about-team___ar",
     "path": "/ar/about/team",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/about/team.vue",
-    "chunkName": "pages/about/team"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\team.vue",
+    "chunkName": "pages/about/team",
+    "_name": "_a88890ce"
   },
   {
     "name": "blog-detail-blog___ar",
     "path": "/ar/blog/detail-blog",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/blog/detail-blog.vue",
-    "chunkName": "pages/blog/detail-blog"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
+    "chunkName": "pages/blog/detail-blog",
+    "_name": "_49723d6b"
   },
   {
     "name": "collection-detail-product___ar",
     "path": "/ar/collection/detail-product",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/collection/detail-product.vue",
-    "chunkName": "pages/collection/detail-product"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\detail-product.vue",
+    "chunkName": "pages/collection/detail-product",
+    "_name": "_758cd872"
   },
   {
     "name": "collection-products___ar",
     "path": "/ar/collection/products",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/collection/products.vue",
-    "chunkName": "pages/collection/products"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\products.vue",
+    "chunkName": "pages/collection/products",
+    "_name": "_11441b23"
   },
   {
     "name": "contact-with-map___ar",
     "path": "/ar/contact/with-map",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/contact/with-map.vue",
-    "chunkName": "pages/contact/with-map"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
+    "chunkName": "pages/contact/with-map",
+    "_name": "_5cd768a4"
   },
   {
     "name": "utils-coming-soon___ar",
     "path": "/ar/utils/coming-soon",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/coming-soon.vue",
-    "chunkName": "pages/utils/coming-soon"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\coming-soon.vue",
+    "chunkName": "pages/utils/coming-soon",
+    "_name": "_422df997"
   },
   {
     "name": "utils-faq___ar",
     "path": "/ar/utils/faq",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/faq.vue",
-    "chunkName": "pages/utils/faq"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\faq.vue",
+    "chunkName": "pages/utils/faq",
+    "_name": "_587e7066"
   },
   {
     "name": "utils-maintenance___ar",
     "path": "/ar/utils/maintenance",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/maintenance.vue",
-    "chunkName": "pages/utils/maintenance"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\maintenance.vue",
+    "chunkName": "pages/utils/maintenance",
+    "_name": "_798059e3"
   },
   {
     "name": "utils-pricing___ar",
     "path": "/ar/utils/pricing",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/pricing.vue",
-    "chunkName": "pages/utils/pricing"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\pricing.vue",
+    "chunkName": "pages/utils/pricing",
+    "_name": "_473e1116"
   },
   {
     "name": "about-team___de",
     "path": "/de/about/team",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/about/team.vue",
-    "chunkName": "pages/about/team"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\team.vue",
+    "chunkName": "pages/about/team",
+    "_name": "_a88890ce"
   },
   {
     "name": "blog-detail-blog___de",
     "path": "/de/blog/detail-blog",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/blog/detail-blog.vue",
-    "chunkName": "pages/blog/detail-blog"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
+    "chunkName": "pages/blog/detail-blog",
+    "_name": "_49723d6b"
   },
   {
     "name": "collection-detail-product___de",
     "path": "/de/collection/detail-product",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/collection/detail-product.vue",
-    "chunkName": "pages/collection/detail-product"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\detail-product.vue",
+    "chunkName": "pages/collection/detail-product",
+    "_name": "_758cd872"
   },
   {
     "name": "collection-products___de",
     "path": "/de/collection/products",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/collection/products.vue",
-    "chunkName": "pages/collection/products"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\products.vue",
+    "chunkName": "pages/collection/products",
+    "_name": "_11441b23"
   },
   {
     "name": "contact-with-map___de",
     "path": "/de/contact/with-map",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/contact/with-map.vue",
-    "chunkName": "pages/contact/with-map"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
+    "chunkName": "pages/contact/with-map",
+    "_name": "_5cd768a4"
   },
   {
     "name": "utils-coming-soon___de",
     "path": "/de/utils/coming-soon",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/coming-soon.vue",
-    "chunkName": "pages/utils/coming-soon"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\coming-soon.vue",
+    "chunkName": "pages/utils/coming-soon",
+    "_name": "_422df997"
   },
   {
     "name": "utils-faq___de",
     "path": "/de/utils/faq",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/faq.vue",
-    "chunkName": "pages/utils/faq"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\faq.vue",
+    "chunkName": "pages/utils/faq",
+    "_name": "_587e7066"
   },
   {
     "name": "utils-maintenance___de",
     "path": "/de/utils/maintenance",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/maintenance.vue",
-    "chunkName": "pages/utils/maintenance"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\maintenance.vue",
+    "chunkName": "pages/utils/maintenance",
+    "_name": "_798059e3"
   },
   {
     "name": "utils-pricing___de",
     "path": "/de/utils/pricing",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/pricing.vue",
-    "chunkName": "pages/utils/pricing"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\pricing.vue",
+    "chunkName": "pages/utils/pricing",
+    "_name": "_473e1116"
   },
   {
     "name": "about-team___en",
     "path": "/en/about/team",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/about/team.vue",
-    "chunkName": "pages/about/team"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\team.vue",
+    "chunkName": "pages/about/team",
+    "_name": "_a88890ce"
   },
   {
     "name": "blog-detail-blog___en",
     "path": "/en/blog/detail-blog",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/blog/detail-blog.vue",
-    "chunkName": "pages/blog/detail-blog"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
+    "chunkName": "pages/blog/detail-blog",
+    "_name": "_49723d6b"
   },
   {
     "name": "collection-detail-product___en",
     "path": "/en/collection/detail-product",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/collection/detail-product.vue",
-    "chunkName": "pages/collection/detail-product"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\detail-product.vue",
+    "chunkName": "pages/collection/detail-product",
+    "_name": "_758cd872"
   },
   {
     "name": "collection-products___en",
     "path": "/en/collection/products",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/collection/products.vue",
-    "chunkName": "pages/collection/products"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\products.vue",
+    "chunkName": "pages/collection/products",
+    "_name": "_11441b23"
   },
   {
     "name": "contact-with-map___en",
     "path": "/en/contact/with-map",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/contact/with-map.vue",
-    "chunkName": "pages/contact/with-map"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
+    "chunkName": "pages/contact/with-map",
+    "_name": "_5cd768a4"
   },
   {
     "name": "utils-coming-soon___en",
     "path": "/en/utils/coming-soon",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/coming-soon.vue",
-    "chunkName": "pages/utils/coming-soon"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\coming-soon.vue",
+    "chunkName": "pages/utils/coming-soon",
+    "_name": "_422df997"
   },
   {
     "name": "utils-faq___en",
     "path": "/en/utils/faq",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/faq.vue",
-    "chunkName": "pages/utils/faq"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\faq.vue",
+    "chunkName": "pages/utils/faq",
+    "_name": "_587e7066"
   },
   {
     "name": "utils-maintenance___en",
     "path": "/en/utils/maintenance",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/maintenance.vue",
-    "chunkName": "pages/utils/maintenance"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\maintenance.vue",
+    "chunkName": "pages/utils/maintenance",
+    "_name": "_798059e3"
   },
   {
     "name": "utils-pricing___en",
     "path": "/en/utils/pricing",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/pricing.vue",
-    "chunkName": "pages/utils/pricing"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\pricing.vue",
+    "chunkName": "pages/utils/pricing",
+    "_name": "_473e1116"
   },
   {
     "name": "about-team___id",
     "path": "/id/about/team",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/about/team.vue",
-    "chunkName": "pages/about/team"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\team.vue",
+    "chunkName": "pages/about/team",
+    "_name": "_a88890ce"
   },
   {
     "name": "blog-detail-blog___id",
     "path": "/id/blog/detail-blog",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/blog/detail-blog.vue",
-    "chunkName": "pages/blog/detail-blog"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
+    "chunkName": "pages/blog/detail-blog",
+    "_name": "_49723d6b"
   },
   {
     "name": "collection-detail-product___id",
     "path": "/id/collection/detail-product",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/collection/detail-product.vue",
-    "chunkName": "pages/collection/detail-product"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\detail-product.vue",
+    "chunkName": "pages/collection/detail-product",
+    "_name": "_758cd872"
   },
   {
     "name": "collection-products___id",
     "path": "/id/collection/products",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/collection/products.vue",
-    "chunkName": "pages/collection/products"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\products.vue",
+    "chunkName": "pages/collection/products",
+    "_name": "_11441b23"
   },
   {
     "name": "contact-with-map___id",
     "path": "/id/contact/with-map",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/contact/with-map.vue",
-    "chunkName": "pages/contact/with-map"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
+    "chunkName": "pages/contact/with-map",
+    "_name": "_5cd768a4"
   },
   {
     "name": "utils-coming-soon___id",
     "path": "/id/utils/coming-soon",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/coming-soon.vue",
-    "chunkName": "pages/utils/coming-soon"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\coming-soon.vue",
+    "chunkName": "pages/utils/coming-soon",
+    "_name": "_422df997"
   },
   {
     "name": "utils-faq___id",
     "path": "/id/utils/faq",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/faq.vue",
-    "chunkName": "pages/utils/faq"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\faq.vue",
+    "chunkName": "pages/utils/faq",
+    "_name": "_587e7066"
   },
   {
     "name": "utils-maintenance___id",
     "path": "/id/utils/maintenance",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/maintenance.vue",
-    "chunkName": "pages/utils/maintenance"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\maintenance.vue",
+    "chunkName": "pages/utils/maintenance",
+    "_name": "_798059e3"
   },
   {
     "name": "utils-pricing___id",
     "path": "/id/utils/pricing",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/pricing.vue",
-    "chunkName": "pages/utils/pricing"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\pricing.vue",
+    "chunkName": "pages/utils/pricing",
+    "_name": "_473e1116"
   },
   {
     "name": "about-team___pt",
     "path": "/pt/about/team",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/about/team.vue",
-    "chunkName": "pages/about/team"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\team.vue",
+    "chunkName": "pages/about/team",
+    "_name": "_a88890ce"
   },
   {
     "name": "blog-detail-blog___pt",
     "path": "/pt/blog/detail-blog",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/blog/detail-blog.vue",
-    "chunkName": "pages/blog/detail-blog"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
+    "chunkName": "pages/blog/detail-blog",
+    "_name": "_49723d6b"
   },
   {
     "name": "collection-detail-product___pt",
     "path": "/pt/collection/detail-product",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/collection/detail-product.vue",
-    "chunkName": "pages/collection/detail-product"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\detail-product.vue",
+    "chunkName": "pages/collection/detail-product",
+    "_name": "_758cd872"
   },
   {
     "name": "collection-products___pt",
     "path": "/pt/collection/products",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/collection/products.vue",
-    "chunkName": "pages/collection/products"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\products.vue",
+    "chunkName": "pages/collection/products",
+    "_name": "_11441b23"
   },
   {
     "name": "contact-with-map___pt",
     "path": "/pt/contact/with-map",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/contact/with-map.vue",
-    "chunkName": "pages/contact/with-map"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
+    "chunkName": "pages/contact/with-map",
+    "_name": "_5cd768a4"
   },
   {
     "name": "utils-coming-soon___pt",
     "path": "/pt/utils/coming-soon",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/coming-soon.vue",
-    "chunkName": "pages/utils/coming-soon"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\coming-soon.vue",
+    "chunkName": "pages/utils/coming-soon",
+    "_name": "_422df997"
   },
   {
     "name": "utils-faq___pt",
     "path": "/pt/utils/faq",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/faq.vue",
-    "chunkName": "pages/utils/faq"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\faq.vue",
+    "chunkName": "pages/utils/faq",
+    "_name": "_587e7066"
   },
   {
     "name": "utils-maintenance___pt",
     "path": "/pt/utils/maintenance",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/maintenance.vue",
-    "chunkName": "pages/utils/maintenance"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\maintenance.vue",
+    "chunkName": "pages/utils/maintenance",
+    "_name": "_798059e3"
   },
   {
     "name": "utils-pricing___pt",
     "path": "/pt/utils/pricing",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/pricing.vue",
-    "chunkName": "pages/utils/pricing"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\pricing.vue",
+    "chunkName": "pages/utils/pricing",
+    "_name": "_473e1116"
   },
   {
     "name": "about-team___zh",
     "path": "/zh/about/team",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/about/team.vue",
-    "chunkName": "pages/about/team"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\team.vue",
+    "chunkName": "pages/about/team",
+    "_name": "_a88890ce"
   },
   {
     "name": "blog-detail-blog___zh",
     "path": "/zh/blog/detail-blog",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/blog/detail-blog.vue",
-    "chunkName": "pages/blog/detail-blog"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
+    "chunkName": "pages/blog/detail-blog",
+    "_name": "_49723d6b"
   },
   {
     "name": "collection-detail-product___zh",
     "path": "/zh/collection/detail-product",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/collection/detail-product.vue",
-    "chunkName": "pages/collection/detail-product"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\detail-product.vue",
+    "chunkName": "pages/collection/detail-product",
+    "_name": "_758cd872"
   },
   {
     "name": "collection-products___zh",
     "path": "/zh/collection/products",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/collection/products.vue",
-    "chunkName": "pages/collection/products"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\products.vue",
+    "chunkName": "pages/collection/products",
+    "_name": "_11441b23"
   },
   {
     "name": "contact-with-map___zh",
     "path": "/zh/contact/with-map",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/contact/with-map.vue",
-    "chunkName": "pages/contact/with-map"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
+    "chunkName": "pages/contact/with-map",
+    "_name": "_5cd768a4"
   },
   {
     "name": "utils-coming-soon___zh",
     "path": "/zh/utils/coming-soon",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/coming-soon.vue",
-    "chunkName": "pages/utils/coming-soon"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\coming-soon.vue",
+    "chunkName": "pages/utils/coming-soon",
+    "_name": "_422df997"
   },
   {
     "name": "utils-faq___zh",
     "path": "/zh/utils/faq",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/faq.vue",
-    "chunkName": "pages/utils/faq"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\faq.vue",
+    "chunkName": "pages/utils/faq",
+    "_name": "_587e7066"
   },
   {
     "name": "utils-maintenance___zh",
     "path": "/zh/utils/maintenance",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/maintenance.vue",
-    "chunkName": "pages/utils/maintenance"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\maintenance.vue",
+    "chunkName": "pages/utils/maintenance",
+    "_name": "_798059e3"
   },
   {
     "name": "utils-pricing___zh",
     "path": "/zh/utils/pricing",
-    "component": "/Users/codematics/Desktop/codematics-SPA/pages/utils/pricing.vue",
-    "chunkName": "pages/utils/pricing"
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\pricing.vue",
+    "chunkName": "pages/utils/pricing",
+    "_name": "_473e1116"
   }
 ]

@@ -5,7 +5,7 @@ import ClientOnly from 'vue-client-only'
 import NoSsr from 'vue-no-ssr'
 import { createRouter } from './router.js'
 import NuxtChild from './components/nuxt-child.js'
-import NuxtError from '../layouts/error.vue'
+import NuxtError from '..\\layouts\\error.vue'
 import Nuxt from './components/nuxt.js'
 import App from './App.js'
 import { setContext, getLocation, getRouteData, normalizeError } from './utils'
@@ -13,20 +13,20 @@ import { createStore } from './store.js'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_61b3498f from 'nuxt_plugin_plugin_61b3498f' // Source: ./vuetify/plugin.js (mode: 'all')
-import nuxt_plugin_pluginutils_1f39e686 from 'nuxt_plugin_pluginutils_1f39e686' // Source: ./nuxt-i18n/plugin.utils.js (mode: 'all')
-import nuxt_plugin_pluginrouting_234a2b5e from 'nuxt_plugin_pluginrouting_234a2b5e' // Source: ./nuxt-i18n/plugin.routing.js (mode: 'all')
-import nuxt_plugin_pluginmain_10198abe from 'nuxt_plugin_pluginmain_10198abe' // Source: ./nuxt-i18n/plugin.main.js (mode: 'all')
-import nuxt_plugin_nuxtgooglemaps_76c54162 from 'nuxt_plugin_nuxtgooglemaps_76c54162' // Source: ./nuxt-google-maps.js (mode: 'all')
-import nuxt_plugin_nuxtmq_5cc75c1d from 'nuxt_plugin_nuxtmq_5cc75c1d' // Source: ./nuxt-mq.js (mode: 'all')
-import nuxt_plugin_vuefragmentconfig_12a6b83c from 'nuxt_plugin_vuefragmentconfig_12a6b83c' // Source: ../plugins/vue-fragment-config (mode: 'all')
-import nuxt_plugin_vuewowconfig_32ee3066 from 'nuxt_plugin_vuewowconfig_32ee3066' // Source: ../plugins/vue-wow-config (mode: 'all')
-import nuxt_plugin_i18nconfig_ad306bc6 from 'nuxt_plugin_i18nconfig_ad306bc6' // Source: ../plugins/i18n-config.js (mode: 'all')
-import nuxt_plugin_vueyoutubeconfig_52b5d649 from 'nuxt_plugin_vueyoutubeconfig_52b5d649' // Source: ../plugins/vue-youtube-config (mode: 'client')
-import nuxt_plugin_vuelightboxconfig_28f6899d from 'nuxt_plugin_vuelightboxconfig_28f6899d' // Source: ../plugins/vue-lightbox-config (mode: 'client')
-import nuxt_plugin_carousselconfig_6e4e7344 from 'nuxt_plugin_carousselconfig_6e4e7344' // Source: ../plugins/caroussel-config (mode: 'client')
-import nuxt_plugin_countupconfig_ca7ae10a from 'nuxt_plugin_countupconfig_ca7ae10a' // Source: ../plugins/countup-config (mode: 'client')
-import nuxt_plugin_vuescrollnav_65918480 from 'nuxt_plugin_vuescrollnav_65918480' // Source: ../plugins/vue-scroll-nav (mode: 'client')
+import nuxt_plugin_plugin_2e3be15a from 'nuxt_plugin_plugin_2e3be15a' // Source: .\\vuetify\\plugin.js (mode: 'all')
+import nuxt_plugin_pluginutils_270277de from 'nuxt_plugin_pluginutils_270277de' // Source: .\\nuxt-i18n\\plugin.utils.js (mode: 'all')
+import nuxt_plugin_pluginrouting_7dde911c from 'nuxt_plugin_pluginrouting_7dde911c' // Source: .\\nuxt-i18n\\plugin.routing.js (mode: 'all')
+import nuxt_plugin_pluginmain_694d4fd3 from 'nuxt_plugin_pluginmain_694d4fd3' // Source: .\\nuxt-i18n\\plugin.main.js (mode: 'all')
+import nuxt_plugin_nuxtgooglemaps_2d65fe8c from 'nuxt_plugin_nuxtgooglemaps_2d65fe8c' // Source: .\\nuxt-google-maps.js (mode: 'all')
+import nuxt_plugin_nuxtmq_1abb0c76 from 'nuxt_plugin_nuxtmq_1abb0c76' // Source: .\\nuxt-mq.js (mode: 'all')
+import nuxt_plugin_vuefragmentconfig_12a6b83c from 'nuxt_plugin_vuefragmentconfig_12a6b83c' // Source: ..\\plugins\\vue-fragment-config (mode: 'all')
+import nuxt_plugin_vuewowconfig_32ee3066 from 'nuxt_plugin_vuewowconfig_32ee3066' // Source: ..\\plugins\\vue-wow-config (mode: 'all')
+import nuxt_plugin_i18nconfig_ad306bc6 from 'nuxt_plugin_i18nconfig_ad306bc6' // Source: ..\\plugins\\i18n-config.js (mode: 'all')
+import nuxt_plugin_vueyoutubeconfig_52b5d649 from 'nuxt_plugin_vueyoutubeconfig_52b5d649' // Source: ..\\plugins\\vue-youtube-config (mode: 'client')
+import nuxt_plugin_vuelightboxconfig_28f6899d from 'nuxt_plugin_vuelightboxconfig_28f6899d' // Source: ..\\plugins\\vue-lightbox-config (mode: 'client')
+import nuxt_plugin_carousselconfig_6e4e7344 from 'nuxt_plugin_carousselconfig_6e4e7344' // Source: ..\\plugins\\caroussel-config (mode: 'client')
+import nuxt_plugin_countupconfig_ca7ae10a from 'nuxt_plugin_countupconfig_ca7ae10a' // Source: ..\\plugins\\countup-config (mode: 'client')
+import nuxt_plugin_vuescrollnav_65918480 from 'nuxt_plugin_vuescrollnav_65918480' // Source: ..\\plugins\\vue-scroll-nav (mode: 'client')
 
 // Component: <ClientOnly>
 Vue.component(ClientOnly.name, ClientOnly)
@@ -94,7 +94,7 @@ async function createApp(ssrContext, config = {}) {
   // here we inject the router and store to all child components,
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
-    head: {"htmlAttrs":{"dir":"ltr"},"title":"Awrora Agency | Vue Landing Page Template","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"name":"description","content":"Awrora Agency | Vue Landing Page Template"},{"name":"msapplication-TileColor","content":"#FFFFFF"},{"name":"msapplication-TileImage","content":"\u002Ffavicons\u002Fms-icon-144x144.png"},{"name":"theme-color","content":"#2196f3"},{"property":"author","content":"awrora"},{"property":"og:site_name","content":"awrora.ux-maestro.com"},{"property":"og:locale","content":"en_US"},{"property":"og:type","content":"website"},{"property":"twitter:site","content":"awrora.ux-maestro.com"},{"property":"twitter:domain","content":"awrora.ux-maestro.com"},{"property":"twitter:creator","content":"awrora"},{"property":"twitter:card","content":"summary"},{"property":"twitter:image:src","content":"\u002Fimages\u002Flogo.png"},{"property":"og:url","content":"awrora1.indisains.com\u002Fagency"},{"property":"og:title","content":"Agency Theme"},{"property":"og:description","content":"Awrora Agency | Vue Landing Page Template"},{"name":"twitter:site","content":"awrora1.indisains.com\u002Fagency"},{"name":"twitter:card","content":"summary_large_image"},{"name":"twitter:image","content":"\u002Fstatic\u002Fimages\u002Fagency-logo.png"},{"property":"og:image","content":"\u002Fstatic\u002Fimages\u002Fagency-logo.png"},{"property":"og:image:width","content":"1200"},{"property":"og:image:height","content":"630"}],"link":[{"rel":"shortcut icon","href":"\u002Ffavicons\u002Ffavicon.ico"},{"rel":"apple-touch-icon","sizes":"57x57","href":"\u002Ffavicons\u002Fapple-icon-57x57.png"},{"rel":"apple-touch-icon","sizes":"60x60","href":"\u002Ffavicons\u002Fapple-icon-60x60.png"},{"rel":"apple-touch-icon","sizes":"72x72","href":"\u002Ffavicons\u002Fapple-icon-72x72.png"},{"rel":"apple-touch-icon","sizes":"76x76","href":"\u002Ffavicons\u002Fapple-icon-76x76.png"},{"rel":"apple-touch-icon","sizes":"114x114","href":"\u002Ffavicons\u002Fapple-icon-114x114.png"},{"rel":"apple-touch-icon","sizes":"120x120","href":"\u002Ffavicons\u002Fapple-icon-120x120.png"},{"rel":"apple-touch-icon","sizes":"144x144","href":"\u002Ffavicons\u002Fapple-icon-144x144.png"},{"rel":"apple-touch-icon","sizes":"152x152","href":"\u002Ffavicons\u002Fapple-icon-152x152.png"},{"rel":"apple-touch-icon","sizes":"180x180","href":"\u002Ffavicons\u002Fapple-icon-180x180.png"},{"rel":"icon","type":"image\u002Fpng","sizes":"192x192","href":"\u002Ffavicons\u002Fandroid-icon-192x192.png"},{"rel":"icon","type":"image\u002Fpng","sizes":"32x32","href":"\u002Ffavicon-32x32.png"},{"rel":"icon","type":"image\u002Fpng","sizes":"16x16","href":"\u002Ffavicon-16x16.png"},{"rel":"manifest","href":"\u002Ffavicons\u002Fmanifest.json"},{"rel":"stylesheet","href":"https:\u002F\u002Ffonts.googleapis.com\u002Ficon?family=Material+Icons"},{"rel":"stylesheet","href":"https:\u002F\u002Funpkg.com\u002Fionicons@3.0.0\u002Fdist\u002Fcss\u002Fionicons.min.css"},{"rel":"stylesheet","type":"text\u002Fcss","href":"https:\u002F\u002Ffonts.googleapis.com\u002Fcss?family=Roboto:100,300,400,500,700,900&display=swap"},{"rel":"stylesheet","type":"text\u002Fcss","href":"https:\u002F\u002Fcdn.jsdelivr.net\u002Fnpm\u002F@mdi\u002Ffont@latest\u002Fcss\u002Fmaterialdesignicons.min.css"}],"style":[],"script":[]},
+    head: {"htmlAttrs":{"dir":"ltr"},"title":"Codematics Inc.","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"name":"description","content":"Codematics Inc."},{"name":"msapplication-TileColor","content":"#FFFFFF"},{"name":"msapplication-TileImage","content":"\u002Ffavicons\u002Fms-icon-144x144.png"},{"name":"theme-color","content":"#c92228"},{"property":"author","content":"awrora"},{"property":"og:site_name","content":"awrora.ux-maestro.com"},{"property":"og:locale","content":"en_US"},{"property":"og:type","content":"website"},{"property":"twitter:site","content":"awrora.ux-maestro.com"},{"property":"twitter:domain","content":"awrora.ux-maestro.com"},{"property":"twitter:creator","content":"awrora"},{"property":"twitter:card","content":"summary"},{"property":"twitter:image:src","content":"\u002Fimages\u002Flogo.png"},{"property":"og:url","content":"awrora1.indisains.com\u002Fagency"},{"property":"og:title","content":"Agency Theme"},{"property":"og:description","content":"Codematics Inc."},{"name":"twitter:site","content":"awrora1.indisains.com\u002Fagency"},{"name":"twitter:card","content":"summary_large_image"},{"name":"twitter:image","content":"\u002Fstatic\u002Fimages\u002Fagency-logo.png"},{"property":"og:image","content":"\u002Fstatic\u002Fimages\u002Fagency-logo.png"},{"property":"og:image:width","content":"1200"},{"property":"og:image:height","content":"630"}],"link":[{"rel":"shortcut icon","href":"\u002Ffavicons\u002Ffavicon.ico"},{"rel":"apple-touch-icon","sizes":"57x57","href":"\u002Ffavicons\u002Fapple-icon-57x57.png"},{"rel":"apple-touch-icon","sizes":"60x60","href":"\u002Ffavicons\u002Fapple-icon-60x60.png"},{"rel":"apple-touch-icon","sizes":"72x72","href":"\u002Ffavicons\u002Fapple-icon-72x72.png"},{"rel":"apple-touch-icon","sizes":"76x76","href":"\u002Ffavicons\u002Fapple-icon-76x76.png"},{"rel":"apple-touch-icon","sizes":"114x114","href":"\u002Ffavicons\u002Fapple-icon-114x114.png"},{"rel":"apple-touch-icon","sizes":"120x120","href":"\u002Ffavicons\u002Fapple-icon-120x120.png"},{"rel":"apple-touch-icon","sizes":"144x144","href":"\u002Ffavicons\u002Fapple-icon-144x144.png"},{"rel":"apple-touch-icon","sizes":"152x152","href":"\u002Ffavicons\u002Fapple-icon-152x152.png"},{"rel":"apple-touch-icon","sizes":"180x180","href":"\u002Ffavicons\u002Fapple-icon-180x180.png"},{"rel":"icon","type":"image\u002Fpng","sizes":"192x192","href":"\u002Ffavicons\u002Fandroid-icon-192x192.png"},{"rel":"icon","type":"image\u002Fpng","sizes":"32x32","href":"\u002Ffavicon-32x32.png"},{"rel":"icon","type":"image\u002Fpng","sizes":"16x16","href":"\u002Ffavicon-16x16.png"},{"rel":"manifest","href":"\u002Ffavicons\u002Fmanifest.json"},{"rel":"stylesheet","href":"https:\u002F\u002Ffonts.googleapis.com\u002Ficon?family=Material+Icons"},{"rel":"stylesheet","href":"https:\u002F\u002Funpkg.com\u002Fionicons@3.0.0\u002Fdist\u002Fcss\u002Fionicons.min.css"},{"rel":"stylesheet","type":"text\u002Fcss","href":"https:\u002F\u002Ffonts.googleapis.com\u002Fcss?family=Roboto:100,300,400,500,700,900&display=swap"},{"rel":"stylesheet","type":"text\u002Fcss","href":"https:\u002F\u002Fcdn.jsdelivr.net\u002Fnpm\u002F@mdi\u002Ffont@latest\u002Fcss\u002Fmaterialdesignicons.min.css"}],"style":[],"script":[]},
 
     store,
     router,
@@ -223,28 +223,28 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_61b3498f === 'function') {
-    await nuxt_plugin_plugin_61b3498f(app.context, inject)
+  if (typeof nuxt_plugin_plugin_2e3be15a === 'function') {
+    await nuxt_plugin_plugin_2e3be15a(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_pluginutils_1f39e686 === 'function') {
-    await nuxt_plugin_pluginutils_1f39e686(app.context, inject)
+  if (typeof nuxt_plugin_pluginutils_270277de === 'function') {
+    await nuxt_plugin_pluginutils_270277de(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_pluginrouting_234a2b5e === 'function') {
-    await nuxt_plugin_pluginrouting_234a2b5e(app.context, inject)
+  if (typeof nuxt_plugin_pluginrouting_7dde911c === 'function') {
+    await nuxt_plugin_pluginrouting_7dde911c(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_pluginmain_10198abe === 'function') {
-    await nuxt_plugin_pluginmain_10198abe(app.context, inject)
+  if (typeof nuxt_plugin_pluginmain_694d4fd3 === 'function') {
+    await nuxt_plugin_pluginmain_694d4fd3(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_nuxtgooglemaps_76c54162 === 'function') {
-    await nuxt_plugin_nuxtgooglemaps_76c54162(app.context, inject)
+  if (typeof nuxt_plugin_nuxtgooglemaps_2d65fe8c === 'function') {
+    await nuxt_plugin_nuxtgooglemaps_2d65fe8c(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_nuxtmq_5cc75c1d === 'function') {
-    await nuxt_plugin_nuxtmq_5cc75c1d(app.context, inject)
+  if (typeof nuxt_plugin_nuxtmq_1abb0c76 === 'function') {
+    await nuxt_plugin_nuxtmq_1abb0c76(app.context, inject)
   }
 
   if (typeof nuxt_plugin_vuefragmentconfig_12a6b83c === 'function') {

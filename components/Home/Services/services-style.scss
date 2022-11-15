@@ -114,10 +114,10 @@
     @include palette-background-paper;
     margin: $spacing1 / 2;
     .theme--dark & {
-      color: $palette-primary-light
+      color: $palette-primary-main
     }
     .theme--light & {
-      color: $palette-primary-dark
+      color: $palette-primary-main
     }
     @include rtl-flip
   }

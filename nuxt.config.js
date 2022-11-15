@@ -21,7 +21,7 @@ module.exports = {
       { name: 'msapplication-TileColor', content: '#FFFFFF' },
       { name: 'msapplication-TileImage', content: '/favicons/ms-icon-144x144.png' },
       // PWA primary color
-      { name: 'theme-color', content: theme.primary},
+      { name: 'theme-color', content: theme.primary },
       // Facebook
       { property: 'author', content: 'awrora' },
       { property: 'og:site_name', content: 'awrora.ux-maestro.com' },
@@ -67,7 +67,8 @@ module.exports = {
   /*
   ** Customize the progress-bar color
   */
-  loading: { color: theme.primary },
+  // loading: { color: theme.primary },
+  loading: { color: '#c92228' },
   /*
   ** Global CSS
   */
@@ -178,7 +179,7 @@ module.exports = {
       vus: { cacheBusting: true },
       scss: { sourceMap: false }
     },
-    extend (config, ctx) {
+    extend(config, ctx) {
       config.plugins.push(
         new FilterWarningsPlugin({
           exclude: /Critical dependency: the request of a dependency is an expression/
@@ -201,7 +202,7 @@ module.exports = {
   layoutTransition: {
     name: 'layout',
     mode: 'out-in',
-    beforeEnter (el) {
+    beforeEnter(el) {
       console.log('Before enter...');
     },
     afterLeave(el) {

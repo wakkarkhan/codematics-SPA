@@ -1,67 +1,63 @@
 <template>
   <div class="root">
     <v-container class="fixed-width">
-      <u-animate-container>
-        <v-row>
-          <v-col cols="12" md="5" class="py-6 ps-lg-15">
-            <div class="ms-md-15">
-              <title-deco :text="$t('agency.about_title')" />
-              <u-animate
-                :offset="180"
-                name="zoomInShort"
-                delay="0.1s"
-                duration="0.3s"
-              >
-                <div class="puzzle" v-if="isDesktop">
-                  <div class="piece-small-top">
-                    <span />
-                  </div>
-                  <div class="piece-small-bottom">
-                    <span />
-                  </div>
-                </div>
-              </u-animate>
-              <u-animate
-                :offset="180"
-                name="zoomInShort"
-                delay="0.3s"
-                duration="0.5s"
-              >
-                <div class="deco">
-                  <div class="big" />
-                  <div class="medium" />
-                  <div class="small" />
-                </div>
-              </u-animate>
-            </div>
-          </v-col>
-          <v-col cols="12" md="7" class="px-6">
-            <div>
-              <h4 class="title-default use-text-subtitle">
-                {{ $t('agency.about_subtitle') }}
-              </h4>
-              <counter />
-            </div>
-          </v-col>
-        </v-row>
-      </u-animate-container>
+      <v-row>
+        <v-col cols="12" md="12" class="text-center">
+            <h2 class="title-primary">{{ $t('about.section_title') }}</h2>
+            <p class="special-p">{{ $t('about.section_para') }}</p>
+        </v-col>
+      </v-row>
+
+      <v-row>
+        <v-col cols="12" md="6" class="py-6">
+          <div>
+            <p>{{ $t('about.para_1') }}</p>
+            <p>{{ $t('about.para_2') }}</p>
+            <p>{{ $t('about.para_3') }}</p>
+            <p>{{ $t('about.para_4') }}</p>
+          </div>
+        </v-col>
+
+        <v-col cols="12" md="6" class="px-6">
+          <div>
+            <ProgressBar />
+          </div>
+        </v-col>
+      </v-row>
     </v-container>
   </div>
 </template>
 
 <style lang="scss" scoped>
-@import './about-style';
-@import '../../Title/title-style';
+  @import './about-style';
+  @import '../../Title/title-style';
+
+  .root {
+    background-color: #141618;
+    color: #ffffff;
+  }
+
+  .title-primary {
+    margin-bottom: 9px;
+    line-height: 1.2;
+  }
+
+  p {
+    margin-bottom: 0;
+    margin-top: 20px;
+  }
+
+  .special-p {
+    margin-top: 9px;
+  }
 </style>
 
 <script>
-import Counter from '../Counter'
-import TitleDeco from '../../Title/WithDecoration'
+import ProgressBar from '../../About/Progress.vue'
 
 export default {
   components: {
-    Counter,
-    TitleDeco
+    ProgressBar
   },
   data() {
     return {
@@ -71,11 +67,5 @@ export default {
   mounted() {
     this.loaded = true
   },
-  computed: {
-    isDesktop() {
-      const lgUp = this.$store.state.breakpoints.lgUp
-      return lgUp.indexOf(this.$mq) > -1
-    }
-  }
 }
 </script>

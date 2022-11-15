@@ -1,5 +1,5 @@
 @mixin title-base {
-  text-transform: capitalize;
+  text-transform: uppercase;
   font-weight: bold;
   margin-bottom: $spacing5;
   position: relative;
@@ -7,12 +7,12 @@
 
 .title-primary {
   .theme--dark & {
-    color: $palette-primary-light
+    color: $palette-primary-main
   }
   .theme--light & {
-    color: $palette-primary-dark
+    color: $palette-primary-main
   }
-  font-size: 48px;
+  font-size: 29px;
   line-height: 62px;
   @include breakpoints-down(md) {
     font-size: 38px;

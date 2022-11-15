@@ -1,7 +1,7 @@
 const brand = {
   agency: {
-    name: 'Agency',
-    desc: 'Awrora Agency | Vue Landing Page Template',
+    name: 'Codematics',
+    desc: 'Codematics Inc.',
     prefix: 'awrora',
     footerText: 'Awrora Theme 2022',
     logoText: 'Awrora Theme',

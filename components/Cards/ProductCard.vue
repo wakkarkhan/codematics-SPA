@@ -1,9 +1,9 @@
 <template>
   <v-card :class="[orientation, type]" class="product-card">
     <a :href="href" v-ripple class="hidden-link">&nbsp;</a>
-    <figure>
+    <!-- <figure>
       <img :src="img" :alt="title" />
-    </figure>
+    </figure> -->
     <div class="desc">
       <div class="text">
         <h6 class="title pb-2 text-truncate">{{ title }}</h6>
@@ -25,7 +25,7 @@
           </div>
           <strong v-if="price > 0">${{ price }}</strong>
         </div>
-        <v-btn :href="href" block class="button" outlined color="primary">
+        <v-btn :href="link.agency.servicesDetail" block class="button" color="primary">
           {{ $t('common.btn_detail') }}
         </v-btn>
       </div>
@@ -34,11 +34,23 @@
 </template>
 
 <style lang="scss" scoped>
-@import './product-card';
+  @import './product-card';
 </style>
 
 <script>
+import link from '~/static/text/link'
+  
 export default {
+  data() {
+    return {
+      loaded: false,
+      link: link,
+    }
+  },
+  mounted() {
+    this.loaded = true
+  },
+
   props: {
     type: {
       type: String,

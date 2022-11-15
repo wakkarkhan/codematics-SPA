@@ -6,36 +6,46 @@
         <div id="home">
           <banner-slider />
         </div>
+
         <section
           id="about"
           class="space-top"
         >
           <about />
         </section>
+
+        <section 
+          id="case-studies"
+          :class="[isTablet ? 'space-top-short' : 'space-top']"
+        >
+          <case-studies />
+        </section>
+
         <section
           id="services"
           :class="[isTablet ? 'space-top-short' : 'space-top']"
         >
           <services />
         </section>
+
         <section
           id="our-expertise"
           :class="[isMobile ? 'space-top-short' : 'space-top']"
         >
           <expertise />
         </section>
+
         <section
           id="testimonials"
           :class="[isMobile ? 'space-top-short' : 'space-top']"
         >
           <testimonials />
         </section>
+
         <section id="company" class="space-top-short space-bottom-short">
           <company-logo />
         </section>
-        <section id="case-studies">
-          <case-studies />
-        </section>
+
         <div
           id="call-to-action"
           class="space-bottom-short"
@@ -47,9 +57,9 @@
       <hidden point="smDown">
         <corner />
       </hidden>
-      <hidden point="mdDown">
+      <!-- <hidden point="mdDown">
         <notification />
-      </hidden>
+      </hidden> -->
     </div>
   </div>
 </template>
@@ -71,7 +81,7 @@ import CaseStudies from '~/components/Home/CaseStudies'
 import CallAction from '~/components/CallAction'
 import Hidden from '~/components/Hidden'
 import Corner from '~/components/Home/Corner'
-import Notification from '~/components/Notification'
+// import Notification from '~/components/Notification'
 import brand from '~/static/text/brand'
 
 export default {
@@ -87,7 +97,7 @@ export default {
     CallAction,
     Hidden,
     Corner,
-    Notification,
+    // Notification,
     'main-footer': Footer
   },
   head() {

@@ -1,9 +1,9 @@
-import locale6010b66b from '../../static/lang/en-US.js'
-import localed9eab500 from '../../static/lang/ar-AR.js'
-import locale1b218780 from '../../static/lang/de-DE.js'
-import locale2431a480 from '../../static/lang/id-ID.js'
-import locale13dd0660 from '../../static/lang/pt-PT.js'
-import localeaf3512c0 from '../../static/lang/zh-ZH.js'
+import locale6010b66b from '../..\\static\\lang\\en-US.js'
+import localed9eab500 from '../..\\static\\lang\\ar-AR.js'
+import locale1b218780 from '../..\\static\\lang\\de-DE.js'
+import locale2431a480 from '../..\\static\\lang\\id-ID.js'
+import locale13dd0660 from '../..\\static\\lang\\pt-PT.js'
+import localeaf3512c0 from '../..\\static\\lang\\zh-ZH.js'
 
 export const Constants = {
   COMPONENT_OPTIONS_KEY: "nuxtI18n",
@@ -25,7 +25,7 @@ export const options = {
   sortRoutes: true,
   strategy: "prefix",
   lazy: false,
-  langDir: "/Users/codematics/Desktop/codematics-SPA/static/lang",
+  langDir: "C:\\xampp\\htdocs\\codematics-SPA\\static\\lang",
   rootRedirect: null,
   detectBrowserLanguage: {"alwaysRedirect":false,"cookieCrossOrigin":true,"cookieDomain":null,"cookieKey":"i18n_redirected","cookieSecure":false,"fallbackLocale":"","redirectOn":"root","useCookie":true},
   differentDomains: false,

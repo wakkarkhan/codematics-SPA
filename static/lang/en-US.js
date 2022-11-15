@@ -1,5 +1,5 @@
 export default () => {
-  return new Promise(function(resolve) {
+  return new Promise(function (resolve) {
     resolve({
       common: {
         "title": "A simple example",
@@ -176,8 +176,47 @@ export default () => {
         "cta_btn": 'contact us',
         "office_title": 'Our Office',
         "office_head": 'Head Quarter',
-        "office_branch": 'Branch Office'
-      }
+        "office_branch": 'Branch Office',
+      },
+      about: {
+        "para_1": 'Our mission & vision encompasses a peaceful and safe world for us all, and for our future generations. In this regard, we are working towards making strong and tolerable communities using IT as a base by taking a holistic approach towards simplifying and solving issues we daily experience in our lives.',
+        "para_2": 'Also, with a diverse team of innovative and energetic entrepreneurs, together we are working towards growing the digital economy of Pakistan. Our team of professionals has expertise in developing entertaining games, mobile applications, 3D Modelling and animation, Graphic designing, Digital Marketing, and research and development.',
+        "para_3": 'As our Corporate Social Responsibility (CSR), we are working continuously on solving social issues through leveraging technology and moving towards building much stronger communities. We are working tirelessly for creating a positive and sustainable impact in the society in health, technological, and business sectors.',
+        "para_4": 'Our project “The Blood Community” is no less than a lifesaving movement, “Auto Silence Prayers” is bringing tolerance in our society, and “URRAAN: Runway to digital flight” is determined towards strengthening digital economy and creating empowerment opportunities for young innovators in Pakistan.',
+
+        "skill_1": 'Mobile Applications Development ',
+        "skill_2": 'Web Development',
+        "skill_3": 'Game Development',
+        "skill_4": '3D Modelling and Animation',
+        "skill_5": 'Graphic Designing',
+        "skill_6": 'Digital Marketing',
+        "skill_7": 'Research and Development',
+
+        "section_title": 'About Us',
+        "section_para": 'Codematics: For a Better, Safe and Peaceful World',
+      },
+      services: {
+        "section_title": 'Our Expertise',
+        "section_para": 'Our advanced and state of the art skill set makes us stand high in the digital world in services',
+
+        "service_1": 'The global scenario of Mobile Apps Development is currently witnessing enormous growth. With so many apps coming up on popular platforms like Android, iOS, and Windows We have received Top App Development Agency awards from Payoneer....',
+        "service_2": 'Team Codematics possess excellent web development skills. Our web designers and developers know their job well when it comes to developing an eye-catching and effective website for you. We preen ourselves in providing all aspects...',
+        "service_3": 'Making and developing games from an idea to its functional stage is where all the fun lies. Team Codematics has the expertise of developing .Our game specialists with first-hand experience and priority to innovation, are on a mission to....',
+        "service_4": 'One of the reasons we use Unity3D is its visual editor which makes creating interactive games accessible to both creative and technical individuals. Unity3D is one of the powerful . Our team focuses on 3D game environments and assets .....',
+        "service_5": 'In a world increasingly driven by visual content, businesses and individuals are constantly searching for the “best way to stand out” among a crowded field. Team Graphics offers full-fledged designing services including UI and UX designs, Android and iOS mobile app .....',
+        "service_6": 'We at Codematics have the expertise of working on how to use the web and digital space to achieve core business goals. From Business planning to deployment and marketing execution Our Digital Marketing team efficiently leverages the expertise in local, national......',
+
+        "service_1_title": 'Mobile Apps Development',
+        "service_2_title": 'Web Development',
+        "service_3_title": 'Game Development',
+        "service_4_title": '3D Modeling & Animation',
+        "service_5_title": 'Graphic Design',
+        "service_6_title": 'Digital Marketing',
+      },
+      caseStudies: {
+        "section_title": 'Learn About Our Projects',
+        "section_para": 'An eye for detail makes our work excellent',
+      },
     })
   })
 }

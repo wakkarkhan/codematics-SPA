@@ -17,16 +17,16 @@ let store = {};
   // Enforce store modules
   store.modules = store.modules || {}
 
-  resolveStoreModules(require('../store/breakpoints.js'), 'breakpoints.js')
-  resolveStoreModules(require('../store/ui.js'), 'ui.js')
+  resolveStoreModules(require('..\\store\\breakpoints.js'), 'breakpoints.js')
+  resolveStoreModules(require('..\\store\\ui.js'), 'ui.js')
 
   // If the environment supports hot reloading...
 
   if (process.client && module.hot) {
     // Whenever any Vuex module is updated...
     module.hot.accept([
-      '../store/breakpoints.js',
-      '../store/ui.js',
+      '..\\store\\breakpoints.js',
+      '..\\store\\ui.js',
     ], () => {
       // Update `root.modules` with the latest definitions.
       updateModules()

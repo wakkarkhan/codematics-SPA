@@ -3,6 +3,7 @@ const link = {
     home: '/',
     about: '/about',
     team: '/about/team',
+    servicesDetail: '/services-detail',
     blog: '/blog',
     blogDetail: '/blog/detail-blog',
     login: '/login',

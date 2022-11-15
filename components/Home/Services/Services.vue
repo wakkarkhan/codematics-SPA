@@ -2,20 +2,15 @@
   <div class="root">
     <u-animate-container>
       <v-container class="carousel-header">
-        <h4 class="title-primary">
-          {{ $t('agency.services_title') }}
-        </h4>
-        <v-btn
-          :href="link.agency.product"
-          color="primary"
-          text
-          class="view-all"
-        >
-          {{ $t('common.btn_seeall') }}
-          <v-icon>mdi-arrow-right</v-icon>
-        </v-btn>
+        <v-row>
+          <v-col cols="12" md="12" class="text-center">
+              <h2 class="title-primary">{{ $t('services.section_title') }}</h2>
+              <p class="special-p">{{ $t('services.section_para') }}</p>
+          </v-col>
+        </v-row>
       </v-container>
-      <div class="carousel-handle">
+      
+      <v-container class="carousel-handle fixed-width">
         <div v-if="loaded" class="carousel-wrap">
           <slick
             ref="slick"
@@ -31,10 +26,11 @@
                 :title="item.title"
                 :desc="item.desc"
                 :img="item.img"
-                :rating="item.raitng"
+                :rating="item.rating"
                 type="over"
               />
             </div>
+
             <div class="item">
               <div class="carousel-prop">
                 <div />
@@ -42,7 +38,8 @@
             </div>
           </slick>
         </div>
-      </div>
+      </v-container>
+
       <div class="floating-artwork">
         <v-container class="fixed-width">
           <div class="artwork">
@@ -92,8 +89,27 @@
 </template>
 
 <style lang="scss" scoped>
-@import './services-style.scss';
-@import '../../Title/title-style.scss';
+  @import './services-style.scss';
+  @import '../../Title/title-style.scss';
+
+  .title-primary {
+    margin-bottom: 9px;
+    line-height: 1.2;
+  }
+
+  .root {
+    background: var(--v-primary-lighten5) !important;
+  }
+
+  .special-p {
+    font-size: 18px !important;
+    color: #777777;
+  }
+
+  .theme--light .deco[data-v-a6052fc0]:before {
+    // box-shadow: -30px 20px 0px 0px var(--v-secondarylight-base);
+    box-shadow: none;
+  }
 </style>
 
 <script>
@@ -117,8 +133,10 @@ export default {
       slickOptions: {
         dots: false,
         infinite: false,
+        centerMode: false,
         speed: 500,
         slidesToShow: 4,
+        slidesToScroll: 3,
         arrows: false,
         slidesToScroll: 1,
         variableWidth: true,
@@ -139,39 +157,39 @@ export default {
       },
       servicesList: [
         {
-          title: 'Lorem Ipsum',
+          title: 'Mobile Apps Development',
           desc:
-            'Proin ac arcu nisl. Duis eu molestie lectus. Nam quis mauris faucibus, aliquet elit eu, rhoncus ipsum.',
+            'The global scenario of Mobile Apps Development is currently witnessing enormous growth. With so many apps coming up on popular platforms like Android, iOS, and Windows We have received Top App Development Agency awards from Payoneer.',
           img: imgAPI.agency[2]
         },
         {
-          title: 'Etiam rhoncus',
+          title: 'Web Development',
           desc:
-            'Proin quis pellentesque dui. Ut sed leo neque. Nullam aliquet iaculis neque a commodo.',
+            'Team Codematics possess excellent web development skills. Our web designers and developers know their job well when it comes to developing an eye-catching and effective website for you. We preen ourselves in providing all aspects.',
           img: imgAPI.agency[3]
         },
         {
-          title: 'Duis fermentum',
+          title: 'Game Development',
           desc:
-            'Quisque consectetur lectus vel orci porttitor gravida ac eu erat. Nullam accumsan nibh tortor.',
+            'Making and developing games from an idea to its functional stage is where all the fun lies. Team Codematics has the expertise of developing .Our game specialists with first-hand experience and priority to innovation, are on a mission to.',
           img: imgAPI.agency[4]
         },
         {
-          title: 'Lorem Ipsum',
+          title: '3D Modeling & Animation',
           desc:
-            'Proin ac arcu nisl. Duis eu molestie lectus. Nam quis mauris faucibus, aliquet elit eu, rhoncus ipsum.',
+            'One of the reasons we use Unity3D is its visual editor which makes creating interactive games accessible to both creative and technical individuals. Unity3D is one of the powerful . Our team focuses on 3D game environments and assets.',
           img: imgAPI.agency[2]
         },
         {
-          title: 'Etiam rhoncus',
+          title: 'Graphic Design',
           desc:
-            'Proin quis pellentesque dui. Ut sed leo neque. Nullam aliquet iaculis neque a commodo.',
+            'In a world increasingly driven by visual content, businesses and individuals are constantly searching for the “best way to stand out” among a crowded field. Team Graphics offers full-fledged designing services including UI and UX designs, Android and iOS mobile app',
           img: imgAPI.agency[3]
         },
         {
-          title: 'Duis fermentum',
+          title: 'Digital Marketing',
           desc:
-            'Quisque consectetur lectus vel orci porttitor gravida ac eu erat. Nullam accumsan nibh tortor.',
+            'We at Codematics have the expertise of working on how to use the web and digital space to achieve core business goals. From Business planning to deployment and marketing execution Our Digital Marketing team efficiently leverages the expertise in local, national.',
           img: imgAPI.agency[4]
         }
       ]

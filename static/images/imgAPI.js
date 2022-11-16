@@ -11,6 +11,7 @@ const img2d = {
     '',
     '/images/agency/testimonials_2d@2x.png'
   ],
+
   inner: [
     '',
     '/images/agency/about_2d@2x.png',
@@ -57,6 +58,27 @@ const img3d = {
 }
 
 const imgAPI = {
+  portfolio: [
+    '/images/portfolio/auto-silence.jpg',
+    '/images/portfolio/blood-community.jpg',
+    '/images/portfolio/flash.jpg',
+    '/images/portfolio/guess-the-word.jpg',
+    '/images/portfolio/kardaan.jpg',
+    '/images/portfolio/snap-war.jpg',
+    '/images/portfolio/universal-tv-remote.png',
+    '/images/portfolio/pcam.jpg',
+    '/images/portfolio/lg-tv.jpg',
+    '/images/portfolio/romatic-remote.jpg',
+    '/images/portfolio/remote-sony.jpg',
+  ],
+  banner: [
+    '/images/banner/blood-community.jpg',
+    '/images/banner/kardaan.jpg',
+    '/images/banner/main.jpg',
+    '/images/banner/plantation.jpg',
+    '/images/banner/tv_remote.jpg',
+    '/images/banner/urraan.jpg'
+  ],
   avatar: [
     '/images/avatars/pp_girl.svg',
     '/images/avatars/pp_girl2.svg',

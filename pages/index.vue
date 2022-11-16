@@ -9,7 +9,6 @@
 
         <section
           id="about"
-          class="space-top"
         >
           <about />
         </section>

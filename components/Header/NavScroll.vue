@@ -41,13 +41,13 @@
                 <logo type="landscape" />
               </a>
             </div>
-            <div class="main-menu" v-if="loaded && isDesktop">
+            <div class="main-menu text-right" v-if="loaded && isDesktop">
               <header-menu
                 :data-menu="dataMenu"
                 :single-nav="home"
               />
             </div>
-            <user-menu />
+            <!-- <user-menu /> -->
           </nav>
         </div>
       </v-container>
@@ -61,7 +61,7 @@
 
 <script>
 import Logo from '../Logo'
-import UserMenu from './TopNav/UserMenu'
+// import UserMenu from './TopNav/UserMenu'
 import SingleNav from './TopNav/SingleNav'
 import MobileNav from './SideNav/SingleNavMobile'
 import navMenu from './data/single'
@@ -82,7 +82,7 @@ export default {
     Logo,
     'mobile-menu': MobileNav,
     'header-menu': SingleNav,
-    UserMenu
+    // UserMenu
   },
   data() {
     return {

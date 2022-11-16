@@ -5,9 +5,9 @@ const brand = {
     prefix: 'awrora',
     footerText: 'Awrora Theme 2022',
     logoText: 'Awrora Theme',
-    projectName: 'Agency Theme',
+    projectName: 'Codematics Website',
     url: 'awrora1.indisains.com/agency',
-    img: '/static/images/agency-logo.png'
+    img: '/static/images/codematics-logo.png'
   }
 }
 

@@ -7,24 +7,56 @@
             <p class="special-p">{{ $t('caseStudies.section_para') }}</p>
         </v-col>
       </v-row>
-
-      <v-row>
-        <v-col cols="12" md="6" class="py-6">
-          <div>
-            <p>{{ $t('about.para_1') }}</p>
-            <p>{{ $t('about.para_2') }}</p>
-            <p>{{ $t('about.para_3') }}</p>
-            <p>{{ $t('about.para_4') }}</p>
-          </div>
-        </v-col>
-
-        <v-col cols="12" md="6" class="px-6">
-          <div>
-            <ProgressBar />
-          </div>
-        </v-col>
-      </v-row>
     </v-container>
+
+    <div class="carousel-handle fixed-width">
+        <v-btn
+          fab
+          small
+          aria-label="prev"
+          class="margin nav"
+          @click="prev()"
+        >
+          <v-icon>mdi-arrow-left</v-icon>
+        </v-btn>
+
+        <div v-if="loaded" class="carousel-wrap">
+          <slick
+            ref="slick"
+            :options="slickOptions"
+            @afterChange="handleAfterChange"
+          >
+            <div
+              v-for="(item, index) in portfolioList"
+              :key="index"
+              class="item"
+            >
+              <card
+                :thumb="item.img"
+                :title="item.title"
+                :img="item.img"
+                type="photo"
+              />
+            </div>
+
+            <div class="item">
+              <div class="carousel-prop">
+                <div />
+              </div>
+            </div>
+          </slick>
+        </div>
+
+        <v-btn
+          fab
+          small
+          aria-label="next"
+          class="margin nav next"
+          @click="next()"
+        >
+          <v-icon>mdi-arrow-right</v-icon>
+        </v-btn>
+      </div>
   </div>
 </template>
 
@@ -32,92 +64,166 @@
 @import './case-study-style.scss';
 @import '../../Title/title-style.scss';
 
+  .title-primary {
+    margin-bottom: 9px;
+    line-height: 1.2;
+  }
+
   p {
     margin-bottom: 0;
     margin-top: 20px;
   }
 
   .special-p {
-    margin-top: 9px;
+    font-size: 18px !important;
+    color: #777777;
+    margin-top: 0 !important;
+  }
+
+  .v-application .v-card:not(.v-sheet--tile):not(.v-card--shaped) {
+    border-radius: 0px;
+  }
+
+  .nav {
+    position: absolute;
+    border: none;
+    z-index: 12;
+    top: 48%;
+    width: 40px;
+    height: 40px!important;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+
+  .next {
+    right: 32px;
   }
 </style>
 
 <script>
-import imgApi from '~/static/images/imgAPI'
-import CaseCard from '../../Cards/CaseCard'
+import imgAPI from '~/static/images/imgAPI'
+import link from '~/static/text/link'
+import Card from '../../Cards/MediaCard'
+import SliderArt from '../SliderArt'
 
 export default {
   components: {
-    CaseCard
+    Card,
+    SliderArt,
+    Slick: () => import('vue-slick')
   },
   data() {
     return {
       visible: false,
+      imgAPI: imgAPI,
       index: 0,
       loaded: false,
       item: 0,
-      categories: [
-        'corporate',
-        'advertising',
-        'marketing',
-        'government',
-        'creative'
-      ],
-      caseData: [
+      link: link,
+      fade: false,
+      slickOptions: {
+        dots: false,
+        // autoplay: true,
+        autoplaySpeed: 2000,
+        infinite: false,
+        centerMode: false,
+        speed: 500,
+        slidesToShow: 3,
+        infinite: true,
+        arrows: true,
+        slidesToScroll: 1,
+        variableWidth: true,
+        responsive: [
+          {
+            breakpoint: 800,
+            settings: {
+              slidesToShow: 3
+            }
+          },
+          {
+            breakpoint: 480,
+            settings: {
+              slidesToShow: 2
+            }
+          }
+        ]
+      },
+      portfolioList: [
         {
-          bg: imgApi.agency[9],
-          logo: '/images/logos/cloud.png',
-          title: 'Donec commodo convallis ligula',
-          desc: 'Vestibulum consequat hendrerit',
-          size: 'big'
+          title: 'The Blood Community App',
+          img: imgAPI.portfolio[1]
         },
         {
-          bg: imgApi.agency[8],
-          logo: '/images/logos/fashion.png',
-          title: 'Donec commodo convallis ligula',
-          desc: 'Vestibulum consequat hendrerit',
-          size: 'big'
+          title: 'Kardaan: Handyman Services at Your Doorstep',
+          img: imgAPI.portfolio[4]
         },
         {
-          bg: imgApi.agency[5],
-          logo: '/images/logos/mobile.png',
-          title: 'Donec commodo convallis ligula',
-          desc: 'Vestibulum consequat hendrerit',
-          size: 'medium'
+          title: 'Flash on Call and SMS',
+          img: imgAPI.portfolio[2]
         },
         {
-          bg: imgApi.agency[6],
-          logo: '/images/logos/profile.png',
-          title: 'Donec commodo convallis ligula',
-          desc: 'Vestibulum consequat hendrerit',
-          size: 'medium'
+          title: 'Guess the Word MultiPlayer',
+          img: imgAPI.portfolio[3]
+        },
+     
+        {
+          title: 'Snap War',
+          img: imgAPI.portfolio[5]
         },
         {
-          bg: imgApi.agency[7],
-          logo: '/images/logos/architect.png',
-          title: 'Donec commodo convallis ligula',
-          desc: 'Vestibulum consequat hendrerit',
-          size: 'medium'
+          title: 'Universal TV Remote Control',
+          img: imgAPI.portfolio[6]
+        },
+        {
+          title: 'SCAM',
+          img: imgAPI.portfolio[7]
+        },
+        {
+          title: 'Codematics LG Remote Control',
+          img: imgAPI.portfolio[8]
+        },
+        {
+          title: 'Universal Remote Control for Roku Devices',
+          img: imgAPI.portfolio[9]
+        },
+        {
+          title: 'Auto Silence at Prayer Time',
+          img: imgAPI.portfolio[0]
+        },
+        {
+          title: 'Sony Bravia Android TV Remote Control',
+          img: imgAPI.portfolio[10]
         }
-      ]
+      ],
     }
   },
   mounted() {
     this.loaded = true
   },
   methods: {
+    next: function() {
+      this.$refs.slick.next()
+    },
+    prev: function() {
+      this.$refs.slick.prev()
+    },
     showImg(index) {
       this.index = index
       this.visible = true
     },
     handleHide() {
       this.visible = false
+    },
+    handleAfterChange(event, slick, currentSlide) {
+      const edge = this.portfolioList.length - 1 - this.slickOptions.slidesToShow
+      if (currentSlide <= edge) {
+        this.fade = true
+      } else {
+        this.fade = false
+      }
     }
   },
   computed: {
-    mdUp() {
-      return this.$mq === 'mdDown' || this.$mq === 'lgDown' || this.$mq === 'xl'
-    },
     imgs() {
       const arr = []
       this.caseData.map(item => {

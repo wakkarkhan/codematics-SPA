@@ -217,6 +217,25 @@ export default () => {
         "section_title": 'Learn About Our Projects',
         "section_para": 'An eye for detail makes our work excellent',
       },
+      banner: {
+        "banner_title_main": 'Codematics',
+        "banner_subtitle_main": 'For a better, safe and peaceful world',
+
+        "banner_title_kardaan": 'Kardaan Services',
+        "banner_subtitle_kardaan": 'Get your work done instantly',
+
+        "banner_title_bc": 'Blood Community',
+        "banner_subtitle_bc": 'Non-profit social cause for',
+
+        "banner_title_plant": 'Pakistan',
+        "banner_subtitle_plant": 'Play your role to make Pakistan',
+
+        "banner_title_tv": 'Universal TV Remote',
+        "banner_subtitle_tv": 'More than 100 million users',
+
+        "banner_title_urraan": 'Urraan',
+        "banner_subtitle_urraan": 'Runway to Digital Flight',
+      }
     })
   })
 }

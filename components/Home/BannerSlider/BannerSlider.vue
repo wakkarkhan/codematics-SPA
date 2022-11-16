@@ -30,6 +30,30 @@
             </div>
           </div>
         </div>
+        <div class="slide" :class="{ cur: currentSlide === 3 }">
+          <div class="inner">
+            <div class="deco-wrap">
+              <div class="deco bottom s3">&nbsp;</div>
+              <div class="deco top s3">&nbsp;</div>
+            </div>
+          </div>
+        </div>
+        <div class="slide" :class="{ cur: currentSlide === 4 }">
+          <div class="inner">
+            <div class="deco-wrap">
+              <div class="deco bottom s3">&nbsp;</div>
+              <div class="deco top s3">&nbsp;</div>
+            </div>
+          </div>
+        </div>
+        <div class="slide" :class="{ cur: currentSlide === 5 }">
+          <div class="inner">
+            <div class="deco-wrap">
+              <div class="deco bottom s3">&nbsp;</div>
+              <div class="deco top s3">&nbsp;</div>
+            </div>
+          </div>
+        </div>
       </slick>
       <slick
         class="slider"
@@ -68,7 +92,7 @@
                         <img class="mt-0" src="../../../static/images/banner/google-play-outline.png">
                       </a>
                       
-                      <a class="icons-play" style="width:25%; height: 25%;margin-left:10px" href="https://apps.apple.com/us/app/blood-community/id1235599120">
+                      <a class="icons-play" style="width:25%; height: 25%;margin-left:10px" href="https://apps.apple.com/pk/app/kardaan-doorstep-services/id1444422720">
                         <img class="mt-0" src="../../../static/images/banner/apple-store-outline.png">
                       </a>
                     </div>

@@ -71,6 +71,14 @@ const imgAPI = {
     '/images/portfolio/romatic-remote.jpg',
     '/images/portfolio/remote-sony.jpg',
   ],
+  services: [
+    '/images/services/3D.jpg',
+    '/images/services/digital_marketing.jpg',
+    '/images/services/game_development.png',
+    '/images/services/graphic_designing.jpg',
+    '/images/services/mobile_development.png',
+    '/images/services/web_development.png',
+  ],
   banner: [
     '/images/banner/blood-community.jpg',
     '/images/banner/kardaan.jpg',

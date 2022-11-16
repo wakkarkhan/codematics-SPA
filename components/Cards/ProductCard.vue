@@ -1,9 +1,9 @@
 <template>
   <v-card :class="[orientation, type]" class="product-card">
     <a :href="href" v-ripple class="hidden-link">&nbsp;</a>
-    <!-- <figure>
+    <figure>
       <img :src="img" :alt="title" />
-    </figure> -->
+    </figure>
     <div class="desc">
       <div class="text">
         <h6 class="title pb-2 text-truncate">{{ title }}</h6>

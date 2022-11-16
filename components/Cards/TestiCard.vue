@@ -4,7 +4,7 @@
       <p>
         {{ text }}
       </p>
-      <div class="rating">
+      <!-- <div class="rating">
         <v-icon
           v-for="index in star"
           :key="'active' + index"
@@ -19,8 +19,9 @@
         >
           mdi-star
         </v-icon>
-      </div>
+      </div> -->
     </v-card>
+    
     <div class="person">
       <v-avatar class="avatar">
         <img
@@ -49,7 +50,7 @@ export default {
   props: {
     avatar: {
       type: String,
-      required: true
+      required: false
     },
     title: {
       type: String,
@@ -65,7 +66,7 @@ export default {
     },
     star: {
       type: Number,
-      required: true
+      required: false
     }
   }
 }

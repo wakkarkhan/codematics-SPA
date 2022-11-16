@@ -3,7 +3,7 @@
     <u-animate-container>
       <v-container class="carousel-header">
         <v-row>
-          <v-col cols="12" md="12" class="text-center">
+          <v-col cols="12" md="12">
               <h2 class="title-primary">{{ $t('services.section_title') }}</h2>
               <p class="special-p">{{ $t('services.section_para') }}</p>
           </v-col>
@@ -26,7 +26,7 @@
                 :title="item.title"
                 :desc="item.desc"
                 :img="item.img"
-                :rating="item.rating"
+                :number="item.number"
                 type="over"
               />
             </div>
@@ -95,6 +95,7 @@
   .title-primary {
     margin-bottom: 9px;
     line-height: 1.2;
+    color: var(--v-primary-base) !important;
   }
 
   .root {
@@ -157,36 +158,42 @@ export default {
       },
       servicesList: [
         {
+          number: "Mobile-Apps-Development",
           title: 'Mobile Apps Development',
           desc:
             'The global scenario of Mobile Apps Development is currently witnessing enormous growth. With so many apps coming up on popular platforms like Android, iOS, and Windows We have received Top App Development Agency awards from Payoneer.',
-          img: imgAPI.services[4]
+          img: imgAPI.services[4],
         },
         {
+          number: "Web-Development",
           title: 'Web Development',
           desc:
             'Team Codematics possess excellent web development skills. Our web designers and developers know their job well when it comes to developing an eye-catching and effective website for you. We preen ourselves in providing all aspects.',
           img: imgAPI.services[5]
         },
         {
+          number: "Game-Development",
           title: 'Game Development',
           desc:
             'Making and developing games from an idea to its functional stage is where all the fun lies. Team Codematics has the expertise of developing .Our game specialists with first-hand experience and priority to innovation, are on a mission to.',
           img: imgAPI.services[2]
         },
         {
+          number: "3D-Modeling-and-Animation",
           title: '3D Modeling & Animation',
           desc:
             'One of the reasons we use Unity3D is its visual editor which makes creating interactive games accessible to both creative and technical individuals. Unity3D is one of the powerful . Our team focuses on 3D game environments and assets.',
           img: imgAPI.services[0]
         },
         {
+          number: "Graphic-Design",
           title: 'Graphic Design',
           desc:
             'In a world increasingly driven by visual content, businesses and individuals are constantly searching for the “best way to stand out” among a crowded field. Team Graphics offers full-fledged designing services including UI and UX designs, Android and iOS mobile app',
           img: imgAPI.services[3]
         },
         {
+          number: "Digital-Marketing",
           title: 'Digital Marketing',
           desc:
             'We at Codematics have the expertise of working on how to use the web and digital space to achieve core business goals. From Business planning to deployment and marketing execution Our Digital Marketing team efficiently leverages the expertise in local, national.',

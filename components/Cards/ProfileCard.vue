@@ -1,8 +1,5 @@
 <template>
-  <v-card
-    :class="[orientation, type]"
-    class="profile-card"
-  >
+  <v-card :class="[orientation, type]" class="profile-card">
     <div class="figure">
       <v-img
         :src="cover"
@@ -28,11 +25,6 @@
         <v-card-subtitle class="subtitle pa-0">
           {{ title }}
         </v-card-subtitle>
-        <v-card-text class="desc">
-          <span class="text--primary">
-            <span>{{ connection }} Connection</span>
-          </span>
-        </v-card-text>
         <v-btn
           v-if="orientation === 'portrait'"
           :href="href"
@@ -44,23 +36,6 @@
         </v-btn>
       </div>
       <div class="action-area">
-        <v-card-actions class="action">
-          <v-btn text>
-            <v-icon class="icon">mdi-account-multiple</v-icon>
-            {{ connection }}
-            Connection
-          </v-btn>
-          <v-btn text>
-            <v-icon class="icon">mdi-heart</v-icon>
-            {{ favorites }}
-            Favorites
-          </v-btn>
-          <v-btn text>
-            <v-icon class="icon">mdi-folder-multiple-image</v-icon>
-            {{ albums }}
-            Albums
-          </v-btn>
-        </v-card-actions>
         <v-btn
           v-if="orientation === 'landscape'"
           :href="href"
@@ -86,7 +61,7 @@ export default {
   props: {
     cover: {
       type: String,
-      required: true
+      required: false
     },
     avatar: {
       type: String,

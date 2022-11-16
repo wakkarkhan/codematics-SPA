@@ -235,6 +235,10 @@ export default () => {
 
         "banner_title_urraan": 'Urraan',
         "banner_subtitle_urraan": 'Runway to Digital Flight',
+      },
+      team: {
+        "section_title": 'Meet the team that builds the dream',
+        "section_para": 'Working as One Squad, One Game, and One Family',
       }
     })
   })

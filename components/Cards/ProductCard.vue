@@ -25,7 +25,7 @@
           </div>
           <strong v-if="price > 0">${{ price }}</strong>
         </div>
-        <v-btn :href="link.agency.servicesDetail" block class="button" color="primary">
+        <v-btn :href="href" block class="button" color="primary">
           {{ $t('common.btn_detail') }}
         </v-btn>
       </div>
@@ -34,23 +34,11 @@
 </template>
 
 <style lang="scss" scoped>
-  @import './product-card';
+@import './product-card';
 </style>
 
 <script>
-import link from '~/static/text/link'
-  
 export default {
-  data() {
-    return {
-      loaded: false,
-      link: link,
-    }
-  },
-  mounted() {
-    this.loaded = true
-  },
-
   props: {
     type: {
       type: String,

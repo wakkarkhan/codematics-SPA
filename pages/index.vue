@@ -56,9 +56,6 @@
       <hidden point="smDown">
         <corner />
       </hidden>
-      <!-- <hidden point="mdDown">
-        <notification />
-      </hidden> -->
     </div>
   </div>
 </template>
@@ -80,7 +77,6 @@ import CaseStudies from '~/components/Home/CaseStudies'
 import CallAction from '~/components/CallAction'
 import Hidden from '~/components/Hidden'
 import Corner from '~/components/Home/Corner'
-// import Notification from '~/components/Notification'
 import brand from '~/static/text/brand'
 
 export default {
@@ -96,7 +92,6 @@ export default {
     CallAction,
     Hidden,
     Corner,
-    // Notification,
     'main-footer': Footer
   },
   head() {

@@ -45,20 +45,20 @@
       height: 24px;
       font-size: 24px;
       margin-left: -2px;
-      color: $palette-primary-main;
+      color: #ffffff;
     }
   }
   &:hover {
-    background: $palette-primary-dark;
+    // background: $palette-primary-main;
     i {
-      color: $palette-primary-light !important;
+      color: $palette-primary-main !important;
     }
   }
 }
 .copyright {
   display: block;
   padding: spacing(1.5);
-  margin-top: spacing(3);
+  // margin-top: spacing(3);
   p {
     margin-bottom: 0
   }

@@ -1,33 +1,5 @@
 <template>
-  <u-animate-container>
-      <v-container class="carousel-header">
-        <v-row>
-          <v-col cols="12" md="12">
-              <h2 class="title-primary">{{ $t('services.section_title') }}</h2>
-              <p class="special-p">{{ $t('services.section_para') }}</p>
-          </v-col>
-        </v-row>
-      </v-container>
-
-       <div class="carousel mt-15" v-if="loaded">
-        <slick
-          ref="slick"
-          :options="slickOptions"
-        >
-          <div v-for="(item, index) in teamList" :key="index" class="item px-3">
-            <product-card2
-              :title="item.title"
-              :desc="item.desc"
-              :img="item.img"
-              type="full"
-              orientation="potrait"
-            />
-          </div>
-        </slick>
-      </div>
-  </u-animate-container>
-
-  <!-- <div class="bg-wrapper">
+  <div class="bg-wrapper">
     <div class="team-root">
       <v-container>
         <h4 class="use-text-title2 use-text-primary mb-3 title-primary">
@@ -35,7 +7,7 @@
         </h4>
         <p class="special-p use-text-subtitle2">{{ $t('team.section_para') }} </p>
       </v-container>
-
+      
       <div class="carousel mt-15" v-if="loaded">
         <slick
           ref="slick"
@@ -53,7 +25,7 @@
         </slick>
       </div>
     </div>
-  </div> -->
+  </div>
 </template>
 
 <style scoped lang="scss">

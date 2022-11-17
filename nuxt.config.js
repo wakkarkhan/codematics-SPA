@@ -112,13 +112,13 @@ module.exports = {
         defaultBreakpoint: 'default',
         breakpoints: {
           xsDown: 599,
-          xsUp: 600,
+          xsUp: 600, // use this
           smDown: 959,
-          smUp: 960,
+          smUp: 960, // use this
           mdDown: 1279,
-          mdUp: 1280,
+          mdUp: 1280, // use this
           lgDown: 1919,
-          lgUp: 1920,
+          lgUp: 1920, // default
           xl: Infinity
         }
       }

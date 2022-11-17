@@ -9,7 +9,7 @@
   img {
     height: 64px;
     margin: $spacing4;
-    filter: grayscale(1) contrast(0.5) brightness(1.5);
+    // filter: grayscale(1) contrast(0.5) brightness(1.5);
     transition: all 0.3s ease-out;
     &:hover {
       filter: none

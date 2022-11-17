@@ -15,7 +15,7 @@
 
         <section 
           id="case-studies"
-          :class="[isTablet ? 'space-top-short' : 'space-top']"
+          :class="[isTablet ? 'space-top-short' : '']"
         >
           <case-studies />
         </section>

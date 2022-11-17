@@ -75,7 +75,6 @@
   }
 
   .special-p {
-    font-size: 18px !important;
     color: #777777;
     margin-top: 0 !important;
   }

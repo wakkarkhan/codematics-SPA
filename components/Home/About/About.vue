@@ -9,12 +9,12 @@
       </v-row>
 
       <v-row>
-        <v-col cols="12" md="6" class="py-6">
+        <v-col cols="12" md="6" class="pt-0 py-md-6">
           <div>
-            <p>{{ $t('about.para_1') }}</p>
-            <p>{{ $t('about.para_2') }}</p>
-            <p>{{ $t('about.para_3') }}</p>
-            <p>{{ $t('about.para_4') }}</p>
+            <p class="mt-0 mt-md-5">{{ $t('about.para_1') }}</p>
+            <p class="mt-5">{{ $t('about.para_2') }}</p>
+            <p class="mt-5">{{ $t('about.para_3') }}</p>
+            <p class="mt-5">{{ $t('about.para_4') }}</p>
           </div>
         </v-col>
 
@@ -44,7 +44,6 @@
 
   p {
     margin-bottom: 0;
-    margin-top: 20px;
   }
 
   .special-p {

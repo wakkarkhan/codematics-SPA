@@ -1,6 +1,58 @@
 <template>
   <div class="root">
-   t
+    <u-animate-container>
+      <v-container class="carousel-header">
+        <h4 class="title-primary">
+          {{ $t('agency.testimonial_title') }}
+        </h4>
+      </v-container>
+      <div v-if="loaded" class="carousel">
+        <slick
+          ref="slick"
+          :options="slickOptions"
+          @afterChange="handleAfterChange"
+        >
+          <div
+            v-for="(item, index) in testiContent"
+            :key="index"
+            class="item"
+          >
+            <testimonial-card
+              :avatar="item.avatar"
+              :title="item.title"
+              :name="item.name"
+              :text="item.text"
+              :star="item.rating"
+            />
+          </div>
+          <div class="item" v-if="isDesktop">
+            <div class="item-props-last" />
+          </div>
+        </slick>
+      </div>
+      <div class="floating-artwork">
+        <v-container class="fixed-width">
+          <div class="artwork">
+            <slider-art :fade="fade">
+              <u-animate
+                :offset="-60"
+                name="fadeInLeftShort"
+                delay="0.3s"
+                duration="0.5s"
+              >
+                <img
+                  :src="imgAPI.agency[19]"
+                  :data-2d="imgAPI.agency[18]"
+                  :data-3d="imgAPI.agency[19]"
+                  class="img-2d3d"
+                  alt="services 3d"
+                />
+              </u-animate>
+            </slider-art>
+          </div>
+        </v-container>
+      </div>
+    </u-animate-container>
   </div>
 </template>
 
@@ -27,10 +79,11 @@ export default {
       fade: false,
       testiContent: [
         {
-          text: 'Codematics is amazing, dedicated and ambitious coding genius. I had problems with my website and codematics stepped up and took control of the situation. The work that was done took much longer than either of us anticipated, but they stuck with it and did everything to make it work right. I am very happy with their work ethic, eagerness to communicate, and frequent updates. Thank you.',
+          text: 'Sed imperdiet enim ligula, vitae viverra justo porta vel.',
           avatar: imgAPI.avatar[10],
           name: 'John Doe',
           title: 'Chief Digital Officer',
+          rating: 5
         },
         {
           text:
@@ -38,6 +91,7 @@ export default {
           avatar: imgAPI.avatar[1],
           name: 'Jean Doe',
           title: 'Chief Digital Officer',
+          rating: 4
         },
         {
           text:
@@ -45,7 +99,54 @@ export default {
           avatar: imgAPI.avatar[2],
           name: 'Jena Doe',
           title: 'Graphic Designer',
+          rating: 4
         },
+        {
+          text: 'Sed imperdiet enim ligula, vitae viverra justo porta vel.',
+          avatar: imgAPI.avatar[3],
+          name: 'Jovelin Doe',
+          title: 'Senior Graphic Designer',
+          rating: 3
+        },
+        {
+          text:
+            'Cras convallis lacus orci, tristique tincidunt magna consequat in. In vel pulvinar est, at euismod libero.',
+          avatar: imgAPI.avatar[4],
+          name: 'Jihan Doe',
+          title: 'CEO Software House',
+          rating: 5
+        },
+        {
+          text:
+            'Cras convallis lacus orci, tristique tincidunt magna consequat in. In vel pulvinar est, at euismod libero.',
+          avatar: imgAPI.avatar[6],
+          name: 'Jovelin Doe',
+          title: 'Senior Graphic Designer',
+          rating: 5
+        },
+        {
+          text:
+            'Cras convallis lacus orci, tristique tincidunt magna consequat in. In vel pulvinar est, at euismod libero.',
+          avatar: imgAPI.avatar[7],
+          name: 'John Doe',
+          title: 'Senior Graphic Designer',
+          rating: 4
+        },
+        {
+          text: 'Sed imperdiet enim ligula, vitae viverra justo porta vel.',
+          avatar: imgAPI.avatar[10],
+          name: 'John Doe',
+          title: 'Chief Digital Officer',
+          rating: 5
+        },
+        {
+          text:
+            'Cras convallis lacus orci, tristique tincidunt magna consequat in. In vel pulvinar est, at euismod libero.',
+          avatar: imgAPI.avatar[1],
+          name: 'Jean Doe',
+          title: 'Chief Digital Officer',
+          rating: 4
+        }
       ],
       slickOptions: {
         dots: true,

@@ -3,7 +3,7 @@
     <u-animate-container>
       <v-container class="carousel-header">
         <v-row>
-          <v-col cols="12" md="12">
+          <v-col cols="12" md="12" >
               <h2 class="title-primary">{{ $t('services.section_title') }}</h2>
               <p class="special-p">{{ $t('services.section_para') }}</p>
           </v-col>
@@ -12,7 +12,11 @@
       
       <v-container class="carousel-handle fixed-width">
         <div v-if="loaded" class="carousel-wrap">
-          <slick ref="slick" :options="slickOptions" @afterChange="handleAfterChange">
+          <slick
+            ref="slick"
+            :options="slickOptions"
+            @afterChange="handleAfterChange"
+          >
             <div
               v-for="(item, index) in servicesList"
               :key="index"
@@ -99,11 +103,10 @@
   }
 
   .special-p {
-    font-size: 18px !important;
     color: #777777;
   }
 
-  .theme--light .deco[data-v-a6052fc0]:before {
+  .theme--light .deco:before {
     // box-shadow: -30px 20px 0px 0px var(--v-secondarylight-base);
     box-shadow: none;
   }
@@ -135,6 +138,7 @@ export default {
         slidesToShow: 4,
         slidesToScroll: 3,
         arrows: false,
+        slidesToScroll: 1,
         variableWidth: true,
         responsive: [
           {

@@ -28,6 +28,13 @@
         </section>
 
         <section
+          id="counter"
+          :class="[isTablet ? 'space-top-short' : 'space-top']"
+        >
+          <counter />
+        </section>
+
+        <section
           id="our-expertise"
           :class="[isMobile ? 'space-top-short' : 'space-top']"
         >
@@ -78,6 +85,7 @@ import CallAction from '~/components/CallAction'
 import Hidden from '~/components/Hidden'
 import Corner from '~/components/Home/Corner'
 import brand from '~/static/text/brand'
+import Counter from '~/components/Home/Counter'
 
 export default {
   components: {
@@ -92,6 +100,7 @@ export default {
     CallAction,
     Hidden,
     Corner,
+    Counter,
     'main-footer': Footer
   },
   head() {

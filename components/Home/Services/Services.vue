@@ -12,11 +12,7 @@
       
       <v-container class="carousel-handle fixed-width">
         <div v-if="loaded" class="carousel-wrap">
-          <slick
-            ref="slick"
-            :options="slickOptions"
-            @afterChange="handleAfterChange"
-          >
+          <slick ref="slick" :options="slickOptions" @afterChange="handleAfterChange">
             <div
               v-for="(item, index) in servicesList"
               :key="index"
@@ -139,7 +135,6 @@ export default {
         slidesToShow: 4,
         slidesToScroll: 3,
         arrows: false,
-        slidesToScroll: 1,
         variableWidth: true,
         responsive: [
           {

@@ -7,27 +7,13 @@
     <div class="desc">
       <div class="text">
         <h6 class="title pb-2 text-truncate">{{ title }}</h6>
-        <p class="use-text-paragraph">
-          {{ desc }}
-        </p>
+        <p class="use-text-paragraph">{{ desc }}</p>
       </div>
       <div>
-        <div class="property">
-          <div class="rating" v-if="rating > 0">
-            <v-rating
-              :value="rating"
-              color="orange lighten-3"
-              background-color="grey"
-              length="5"
-              readonly
-              size="24"
-            />
-          </div>
-          <strong v-if="price > 0">${{ price }}</strong>
-        </div>
-        <v-btn :href="href" block class="button" color="primary">
-          {{ $t('common.btn_detail') }}
-        </v-btn>
+        
+      <v-btn :href="href" block class="button" color="primary">
+        {{ $t('common.btn_detail') }}
+      </v-btn>
       </div>
     </div>
   </v-card>
@@ -35,6 +21,10 @@
 
 <style lang="scss" scoped>
 @import './product-card';
+
+.desc {
+  padding: 16px 24px 16px 24px !important;
+}
 </style>
 
 <script>

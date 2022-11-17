@@ -6,13 +6,13 @@
     </figure>
     <div class="desc">
       <div class="text text-center">
-        <h6 class="title pb-2 text-truncate">{{ name }}</h6>
-        <p class="use-text-paragraph text-truncate">{{ title }}</p>
+        <h6 class="title pb-2 text-truncate">{{ title }}</h6>
+        <p class="use-text-paragraph">{{ desc }}</p>
       </div>
       <div>
-        <v-btn :href="link.agency.servicesDetail" block class="button" color="primary">
+        <!-- <v-btn :href="link.agency.servicesDetail" block class="button" color="primary">
           {{ $t('common.btn_detail') }}
-        </v-btn>
+        </v-btn> -->
       </div>
     </div>
   </v-card>
@@ -22,8 +22,18 @@
   @import './product-card';
 
   .avatar {
-    margin-right: 0 !important;
+    margin: auto;
   }
+
+  .desc p {
+    overflow: hidden !important;
+  }
+
+  .use-text-paragraph {
+    font-weight: var(--font-regular);
+    font-size: 16px;
+    line-height: 24px;
+}
 </style>
 
 <script>
@@ -49,11 +59,11 @@ export default {
       type: String,
       required: true
     },
-    name: {
+    title: {
       type: String,
       required: true
     },
-    title: {
+    desc: {
       type: String,
       required: true
     },
@@ -64,7 +74,7 @@ export default {
     href: {
       type: String,
       default: '#'
-    },
+    }
   }
 }
 </script>

@@ -1,5 +1,33 @@
 <template>
-  <div class="bg-wrapper">
+  <u-animate-container>
+      <v-container class="carousel-header">
+        <v-row>
+          <v-col cols="12" md="12">
+              <h2 class="title-primary">{{ $t('services.section_title') }}</h2>
+              <p class="special-p">{{ $t('services.section_para') }}</p>
+          </v-col>
+        </v-row>
+      </v-container>
+
+       <div class="carousel mt-15" v-if="loaded">
+        <slick
+          ref="slick"
+          :options="slickOptions"
+        >
+          <div v-for="(item, index) in teamList" :key="index" class="item px-3">
+            <product-card2
+              :title="item.title"
+              :desc="item.desc"
+              :img="item.img"
+              type="full"
+              orientation="potrait"
+            />
+          </div>
+        </slick>
+      </div>
+  </u-animate-container>
+
+  <!-- <div class="bg-wrapper">
     <div class="team-root">
       <v-container>
         <h4 class="use-text-title2 use-text-primary mb-3 title-primary">
@@ -7,6 +35,7 @@
         </h4>
         <p class="special-p use-text-subtitle2">{{ $t('team.section_para') }} </p>
       </v-container>
+
       <div class="carousel mt-15" v-if="loaded">
         <slick
           ref="slick"
@@ -14,9 +43,9 @@
         >
           <div v-for="(item, index) in teamList" :key="index" class="item px-3">
             <product-card2
-              :img="item.img"
-              :name="item.name"
               :title="item.title"
+              :desc="item.desc"
+              :img="item.img"
               type="full"
               orientation="potrait"
             />
@@ -24,7 +53,7 @@
         </slick>
       </div>
     </div>
-  </div>
+  </div> -->
 </template>
 
 <style scoped lang="scss">
@@ -62,13 +91,14 @@ export default {
     return {
       loaded: false,
       imgAPI: imgAPI,
+      fase: false,
       slickOptions: {
         dots: true,
         infite: false,
         arrows: false,
         slidesToShow: 5,
         slidesToScroll: 4,
-        variableWidth: true,
+        variableWidth: false,
         autoplay: false,
         responsive: [
           {
@@ -95,220 +125,185 @@ export default {
       },
       teamList: [
         {
-          title: 'Managing Director (MD) | Founder',
-          name: "Malik Ahsan",
+          desc: 'Managing Director (MD) | Founder',
+          title: "Malik Ahsan",
           img: imgAPI.team[1],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'CEO | Co-Founder',
-          name: "Hammad Lodhi",
+          desc: 'CEO | Co-Founder',
+          title: "Hammad Lodhi",
           img: imgAPI.team[2],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Director Development and Entrepreneurship | Co-Founder',
-          name: "Waseem Javed",
+          desc: 'Director Development and Entrepreneurship | Co-Founder',
+          title: "Waseem Javed",
           img: imgAPI.team[3],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'CTO | Full Stack Developer | Team Lead',
-          name: "Umair Saeed Mughal",
+          desc: 'CTO | Full Stack Developer | Team Lead',
+          title: "Umair Saeed Mughal",
           img: imgAPI.team[4],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Int. Bussiness Development Officer (USA)',
-          name: "Ihsan Mehdi",
+          desc: 'Int. Bussiness Development Officer (USA)',
+          title: "Ihsan Mehdi",
           img: imgAPI.team[5],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Int. Bussiness Development Officer (Europe)',
-          name: "Muhammad Asif",
+          desc: 'Int. Bussiness Development Officer (Europe)',
+          title: "Muhammad Asif",
           img: imgAPI.team[6],
-          cover: imgAPI.team[0]
         },
         {
-          title: '3D Modeler & Animator | Team Lead',
-          name: "Kaleem Ahmad",
+          desc: '3D Modeler & Animator | Team Lead',
+          title: "Kaleem Ahmad",
           img: imgAPI.team[8],
-          cover: imgAPI.team[0]
         },
         {
-          title: '3D Technical Director',
-          name: "Muhammad Mursaleen",
+          desc: '3D Technical Director',
+          title: "Muhammad Mursaleen",
           img: imgAPI.team[24],
-          cover: imgAPI.team[0]
         },
         {
-          title: '3D Animator | Modeler',
-          name: "Umaima Malik",
+          desc: '3D Animator | Modeler',
+          title: "Umaima Malik",
           img: imgAPI.team[19],
-          cover: imgAPI.team[0]
         },
         {
-          title: '3D Expert',
-          name: "Khalil Ur Rehman",
+          desc: '3D Expert',
+          title: "Khalil Ur Rehman",
           img: imgAPI.team[33],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Sr. Android Developer | Team Lead',
-          name: "Siffat Ullah Shah",
+          desc: 'Sr. Android Developer | Team Lead',
+          title: "Siffat Ullah Shah",
           img: imgAPI.team[9],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Sr. Android Developer',
-          name: "Ali Rehman",
+          desc: 'Sr. Android Developer',
+          title: "Ali Rehman",
           img: imgAPI.team[7],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Sr. Android Developer',
-          name: "Khurria Zafar",
+          desc: 'Sr. Android Developer',
+          title: "Khurria Zafar",
           img: imgAPI.team[17],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Android Developer',
-          name: "Mishal Nawaz",
+          desc: 'Android Developer',
+          title: "Mishal Nawaz",
           img: imgAPI.team[36],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Unity 3D Game Developer | Team Lead',
-          name: "Adil Hussain Shah",
+          desc: 'Unity 3D Game Developer | Team Lead',
+          title: "Adil Hussain Shah",
           img: imgAPI.team[10],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Unity 3D Game Developer',
-          name: "Aqsa Nadeem",
+          desc: 'Unity 3D Game Developer',
+          title: "Aqsa Nadeem",
           img: imgAPI.team[20],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Game Designer',
-          name: "Khizar Hayat",
+          desc: 'Game Designer',
+          title: "Khizar Hayat",
           img: imgAPI.team[25],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Mobile App Developer IOS | Team Lead',
-          name: "Zaid Ul Wahab",
+          desc: 'Mobile App Developer IOS | Team Lead',
+          title: "Zaid Ul Wahab",
           img: imgAPI.team[12],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Sr. IOS Developer',
-          name: "Ihsan Ullah",
+          desc: 'Sr. IOS Developer',
+          title: "Ihsan Ullah",
           img: imgAPI.team[21],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'iOS Engineer',
-          name: "Farhad Younas",
+          desc: 'iOS Engineer',
+          title: "Farhad Younas",
           img: imgAPI.team[34],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Full Stack Developer | Team Lead',
-          name: "Muhammad Waqar",
+          desc: 'Full Stack Developer | Team Lead',
+          title: "Muhammad Waqar",
           img: imgAPI.team[13],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Full Stack Developer',
-          name: "Shahzeb ur Rehman",
+          desc: 'Full Stack Developer',
+          title: "Shahzeb ur Rehman",
           img: imgAPI.team[11],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Full Stack Developer',
-          name: "Babar Ali Shah",
+          desc: 'Full Stack Developer',
+          title: "Babar Ali Shah",
           img: imgAPI.team[14],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Web Developer',
-          name: "Raja Usama",
+          desc: 'Web Developer',
+          title: "Raja Usama",
           img: imgAPI.team[30],
           cover: imgAPI.team[0]
         },
         {
-          title: 'Digital Marketer | Team Lead',
-          name: "Junaid Mir",
+          desc: 'Digital Marketer | Team Lead',
+          title: "Junaid Mir",
           img: imgAPI.team[15],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Digital Marketing Representitive | SEO Expert',
-          name: "Uzair Khan Jadoon",
+          desc: 'Digital Marketing Representitive | SEO Expert',
+          title: "Uzair Khan Jadoon",
           img: imgAPI.team[23],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Digital Marketer | Program Manager Urraan',
-          name: "Haris Riaz",
+          desc: 'Digital Marketer | Program Manager Urraan',
+          title: "Haris Riaz",
           img: imgAPI.team[28],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Content Creator',
-          name: "Maham Awan",
+          desc: 'Content Creator',
+          title: "Maham Awan",
           img: imgAPI.team[32],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Social Media Designer',
-          name: "Mehreen Gul",
+          desc: 'Social Media Designer',
+          title: "Mehreen Gul",
           img: imgAPI.team[35],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Business Development Manager KARDAAN',
-          name: "Sufyan Javed",
+          desc: 'Business Development Manager KARDAAN',
+          title: "Sufyan Javed",
           img: imgAPI.team[26],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Community Manager KARDAAN',
-          name: "Rameez Umer Khan",
+          desc: 'Community Manager KARDAAN',
+          title: "Rameez Umer Khan",
           img: imgAPI.team[27],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'UI/UX Product Designer | Team Lead',
-          name: "Sadaam Hussain",
+          desc: 'UI/UX Product Designer | Team Lead',
+          title: "Sadaam Hussain",
           img: imgAPI.team[16],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Social Media Designer',
-          name: "Anbar Rauf",
+          desc: 'Social Media Designer',
+          title: "Anbar Rauf",
           img: imgAPI.team[18],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Graphic Designer',
-          name: "Fatima Zahid",
+          desc: 'Graphic Designer',
+          title: "Fatima Zahid",
           img: imgAPI.team[31],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Admin | Accounts Officer',
-          name: "Obaid Ullah Khan",
+          desc: 'Admin | Accounts Officer',
+          title: "Obaid Ullah Khan",
           img: imgAPI.team[22],
-          cover: imgAPI.team[0]
         },
         {
-          title: 'Admin Assistant',
-          name: "Abu Huraira",
+          desc: 'Admin Assistant',
+          title: "Abu Huraira",
           img: imgAPI.team[29],
-          cover: imgAPI.team[0]
         },
       ]
     }

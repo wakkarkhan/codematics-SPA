@@ -1,9 +1,7 @@
 <template>
-  <fragment>
-    <div class="root">
-      <TeamSlider/>
-    </div>
-  </fragment>
+  <div class="root">
+    <TeamSlider/>
+  </div>
 </template>
 
 <style lang="scss" scoped>

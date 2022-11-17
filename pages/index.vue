@@ -35,6 +35,13 @@
         </section>
 
         <section
+          id="csr"
+          :class="[isTablet ? 'space-top-short' : 'space-top']"
+        >
+          <csr />
+        </section>
+
+        <section
           id="our-expertise"
           :class="[isMobile ? 'space-top-short' : 'space-top']"
         >
@@ -86,6 +93,7 @@ import Hidden from '~/components/Hidden'
 import Corner from '~/components/Home/Corner'
 import brand from '~/static/text/brand'
 import Counter from '~/components/Home/Counter'
+import Csr from '~/components/Home/Csr'
 
 export default {
   components: {
@@ -101,6 +109,7 @@ export default {
     Hidden,
     Corner,
     Counter,
+    Csr,
     'main-footer': Footer
   },
   head() {

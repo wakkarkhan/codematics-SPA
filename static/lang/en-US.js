@@ -239,6 +239,9 @@ export default () => {
       team: {
         "section_title": 'Meet the team that builds the dream',
         "section_para": 'Working as One Squad, One Game, and One Family',
+      },
+      csr: {
+        "section_title": 'Corporate Social Responsibility (CSR) Projects',
       }
     })
   })

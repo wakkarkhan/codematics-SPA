@@ -19,7 +19,7 @@ module.exports = {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { name: 'description', content: brand.agency.desc },
       { name: 'msapplication-TileColor', content: '#FFFFFF' },
-      { name: 'msapplication-TileImage', content: '/favicons/ms-icon-144x144.png' },
+      { name: 'msapplication-TileImage', content: '/favicons/icon-144x144.png' },
       // PWA primary color
       { name: 'theme-color', content: theme.primary },
       // Facebook

@@ -61,7 +61,7 @@
 </template>
 
 <style lang="scss" scoped>
-@import './case-study-style.scss';
+@import './projects-style.scss';
 @import '../../Title/title-style.scss';
 
   .title-primary {
@@ -150,48 +150,47 @@ export default {
       portfolioList: [
         {
           title: 'The Blood Community App',
-          img: imgAPI.portfolio[1]
+          img: imgAPI.projects[1]
         },
         {
           title: 'Kardaan: Handyman Services at Your Doorstep',
-          img: imgAPI.portfolio[4]
+          img: imgAPI.projects[4]
         },
         {
           title: 'Flash on Call and SMS',
-          img: imgAPI.portfolio[2]
+          img: imgAPI.projects[2]
         },
         {
           title: 'Guess the Word MultiPlayer',
-          img: imgAPI.portfolio[3]
+          img: imgAPI.projects[3]
         },
-     
         {
           title: 'Snap War',
-          img: imgAPI.portfolio[5]
+          img: imgAPI.projects[5]
         },
         {
           title: 'Universal TV Remote Control',
-          img: imgAPI.portfolio[6]
+          img: imgAPI.projects[6]
         },
         {
           title: 'SCAM',
-          img: imgAPI.portfolio[7]
+          img: imgAPI.projects[7]
         },
         {
           title: 'Codematics LG Remote Control',
-          img: imgAPI.portfolio[8]
+          img: imgAPI.projects[8]
         },
         {
           title: 'Universal Remote Control for Roku Devices',
-          img: imgAPI.portfolio[9]
+          img: imgAPI.projects[9]
         },
         {
           title: 'Auto Silence at Prayer Time',
-          img: imgAPI.portfolio[0]
+          img: imgAPI.projects[0]
         },
         {
           title: 'Sony Bravia Android TV Remote Control',
-          img: imgAPI.portfolio[10]
+          img: imgAPI.projects[10]
         }
       ],
     }

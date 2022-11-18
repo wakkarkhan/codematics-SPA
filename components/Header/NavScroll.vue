@@ -47,7 +47,6 @@
                 :single-nav="home"
               />
             </div>
-            <!-- <user-menu /> -->
           </nav>
         </div>
       </v-container>
@@ -61,7 +60,6 @@
 
 <script>
 import Logo from '../Logo'
-// import UserMenu from './TopNav/UserMenu'
 import SingleNav from './TopNav/SingleNav'
 import MobileNav from './SideNav/SingleNavMobile'
 import navMenu from './data/single'
@@ -82,7 +80,6 @@ export default {
     Logo,
     'mobile-menu': MobileNav,
     'header-menu': SingleNav,
-    // UserMenu
   },
   data() {
     return {
@@ -93,7 +90,10 @@ export default {
         createData(navMenu[0], '#' + navMenu[0]),
         createData(navMenu[1], '#' + navMenu[1]),
         createData(navMenu[2], '#' + navMenu[2]),
-        createData(navMenu[3], '#' + navMenu[3], -40)
+        createData(navMenu[3], '#' + navMenu[3],),
+        createData(navMenu[4], '#' + navMenu[4],),
+        createData(navMenu[5], '#' + navMenu[5],),
+        createData(navMenu[6], '#' + navMenu[6], -40)
       ]
     }
   },

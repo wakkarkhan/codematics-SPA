@@ -58,18 +58,18 @@ const img3d = {
 }
 
 const imgAPI = {
-  portfolio: [
-    '/images/portfolio/auto-silence.jpg',
-    '/images/portfolio/blood-community.jpg',
-    '/images/portfolio/flash.jpg',
-    '/images/portfolio/guess-the-word.jpg',
-    '/images/portfolio/kardaan.jpg',
-    '/images/portfolio/snap-war.jpg',
-    '/images/portfolio/universal-tv-remote.png',
-    '/images/portfolio/pcam.jpg',
-    '/images/portfolio/lg-tv.jpg',
-    '/images/portfolio/romatic-remote.jpg',
-    '/images/portfolio/remote-sony.jpg',
+  projects: [
+    '/images/projects/auto-silence.jpg',
+    '/images/projects/blood-community.jpg',
+    '/images/projects/flash.jpg',
+    '/images/projects/guess-the-word.jpg',
+    '/images/projects/kardaan.jpg',
+    '/images/projects/snap-war.jpg',
+    '/images/projects/universal-tv-remote.png',
+    '/images/projects/pcam.jpg',
+    '/images/projects/lg-tv.jpg',
+    '/images/projects/romatic-remote.jpg',
+    '/images/projects/remote-sony.jpg',
   ],
   services: [
     '/images/services/3D.jpg',

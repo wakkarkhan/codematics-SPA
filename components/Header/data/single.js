@@ -1,3 +1,3 @@
-const single = ['about', 'services', 'our-expertise', 'case-studies']
+const single = ['about', 'projects', 'services', 'our-team', 'testimonials', 'blog', 'contact']
 
 export default single

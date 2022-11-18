@@ -16,7 +16,7 @@
 </template>
 
 <style lang="scss" scoped>
-@import './expertise-style.scss';
+@import './our-team-style.scss';
 @import '../../Title/title-style.scss';
   .title-primary {
     margin-bottom: 9px;

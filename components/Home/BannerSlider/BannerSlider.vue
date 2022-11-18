@@ -328,8 +328,10 @@ export default {
         arrows: false,
         speed: 800,
         slidesToShow: 1,
+        slidesToScroll: 1,
         infinite: true,
-        autoplay: false,
+        autoplay: true,
+        autoplaySpeed: 2000,
         cssEase: 'ease-out',
         asNavFor: '.slider-deco',
         responsive: [

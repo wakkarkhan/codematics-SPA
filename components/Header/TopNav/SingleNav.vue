@@ -26,9 +26,6 @@
       >
         {{ $t('agency.header_'+item.name) }}
       </v-btn>
-      <!-- <v-btn href="/sample-pages" text>
-        {{ $t('common.header_sample_page') }}
-      </v-btn> -->
     </scrollactive>
   </fragment>
 </template>

@@ -14,10 +14,10 @@
         </section>
 
         <section 
-          id="case-studies"
+          id="projects"
           :class="[isTablet ? 'space-top-short' : '']"
         >
-          <case-studies />
+          <projects />
         </section>
 
         <section
@@ -42,10 +42,10 @@
         </section>
 
         <section
-          id="our-expertise"
+          id="our-team"
           :class="[isMobile ? 'space-top-short' : 'space-top']"
         >
-          <expertise />
+          <our-team />
         </section>
 
         <section
@@ -59,12 +59,12 @@
           <company-logo />
         </section>
 
-        <div
+        <!-- <div
           id="call-to-action"
           class="space-bottom-short"
         >
           <call-action />
-        </div>
+        </div> -->
       </div>
       <main-footer />
       <hidden point="smDown">
@@ -85,10 +85,10 @@ import CompanyLogo from '~/components/CompanyLogo'
 import BannerSlider from '~/components/Home/BannerSlider'
 import About from '~/components/Home/About'
 import Services from '~/components/Home/Services'
-import Expertise from '~/components/Home/Expertise'
+import OurTeam from '~/components/Home/OurTeam'
 import Testimonials from '~/components/Home/Testimonials'
-import CaseStudies from '~/components/Home/CaseStudies'
-import CallAction from '~/components/CallAction'
+import Projects from '~/components/Home/Projects'
+// import CallAction from '~/components/CallAction'
 import Hidden from '~/components/Hidden'
 import Corner from '~/components/Home/Corner'
 import brand from '~/static/text/brand'
@@ -101,11 +101,11 @@ export default {
     BannerSlider,
     About,
     Services,
-    Expertise,
+    OurTeam,
     Testimonials,
     CompanyLogo,
-    CaseStudies,
-    CallAction,
+    Projects,
+    // CallAction,
     Hidden,
     Corner,
     Counter,

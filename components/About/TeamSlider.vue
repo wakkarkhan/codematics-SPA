@@ -45,14 +45,14 @@ export default {
       imgAPI: imgAPI,
       fase: false,
       slickOptions: {
-        dots: true,
+        dots: false,
         infite: false,
         arrows: false,
         slidesToShow: 5,
-        slidesToScroll: 4,
+        slidesToScroll: 1,
         variableWidth: false,
-        autoplay: false,
-        autoplaySpeed: 1000,
+        autoplay: true,
+        autoplaySpeed: 3000,
         responsive: [
           {
             breakpoint: 1280,

@@ -147,9 +147,11 @@ export default () => {
       agency: {
         "header_about": 'about',
         "header_services": 'services',
-        "header_our-expertise": 'our expertise',
-        "header_case-studies": 'case studies',
+        "header_our-team": 'our team',
+        "header_projects": 'projects',
         "header_testimonials": "testimonials",
+        "header_blog": "blog",
+        "header_contact": "contact",
         "banner_title": 'Create Business Solution',
         "banner_subtitle":
           'We work with international startups, help entrepreneurs launch for the long term.',

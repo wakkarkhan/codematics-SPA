@@ -26,18 +26,6 @@
           </v-btn>
         </v-col>
       </v-row>
-      <!-- <nav>
-        <ul>
-          <li
-            v-for="(item, index) in menu"
-            :key="index"
-          >
-            <a :href="'#' + item">
-              {{ $t('agency.header_'+item) }}
-            </a>
-          </li>
-        </ul>
-      </nav> -->
     </v-container>
     
   </footer>

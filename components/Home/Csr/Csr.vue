@@ -9,21 +9,27 @@
         </v-row>
 
         <v-row>
-          <v-col cols="12" md="4" class="d-flex flex-column justify-space-between">
-            <div class="text-right">
-              <v-btn icon class="icon mt-5" outlined href="http://bloodcommunity.com/">
-                <i class="ion-ios-body" />
-              </v-btn>
+          <v-col cols="12" md="4" class="d-flex flex-column justify-space-between py-md-10">
+            <div class="text-center text-md-right">
+              <div class="d-flex justify-center justify-md-end">
+                <a class="icon-wrapper" href="http://bloodcommunity.com/">
+                  <i class="ion-ios-body"></i>
+                </a>
+              </div>
+
               <a href="http://bloodcommunity.com/">
                 <h3>The Blood Community</h3>
               </a>
               <p class="mt-5">Addresses the problem of Blood unavailability during emergency in Pakistan, having more than 20,000 registered donors delivering promising results by helping save thousands of lives. </p>
             </div>
 
-            <div class="text-right">
-              <v-btn icon class="icon" href="https://www.urraan.pk/">
-                <i class="ion-ios-happy" />
-              </v-btn>
+            <div class="text-center text-md-right">
+              <div class="d-flex justify-center justify-md-end">
+                <a class="icon-wrapper" href="https://www.urraan.pk/">
+                  <i class="ion-ios-happy"></i>
+                </a>
+              </div>
+
               <a href="https://www.urraan.pk/">
                 <h3>Urraan</h3>
               </a>
@@ -31,27 +37,33 @@
             </div>
           </v-col>
 
-          <v-col cols="12" md="4">
+          <v-col cols="12" md="4" class="d-none d-md-flex flex-column justify-center">
             <div>
               <img src="../../../static/images/csr.png">
             </div>
           </v-col>
 
-          <v-col cols="12" md="4" class="d-flex flex-column justify-space-between">
-            <div class="text-left">
-              <v-btn icon class="icon" href="https://play.google.com/store/apps/details?id=codematics.islamic.muslims.prayer.autosilent">
-                <i class="ion-ios-volume-down" />
-              </v-btn>
+          <v-col cols="12" md="4" class="d-flex flex-column justify-space-between py-md-10">
+            <div class="text-center text-md-left">
+              <div class="d-flex justify-center justify-md-start">
+                <a class="icon-wrapper" href="https://play.google.com/store/apps/details?id=codematics.islamic.muslims.prayer.autosilent">
+                  <i class="ion-ios-volume-down"></i>
+                </a>
+              </div>
+             
               <a href="https://play.google.com/store/apps/details?id=codematics.islamic.muslims.prayer.autosilent">
                 <h3>Auto Silence Prayer</h3>
               </a>
               <p class="mt-5">Prayer Time Silencer and Un-silencer is a user-friendly app used to change the ringer mode of android phones automatically. It was a must needed application for every Muslim.</p>
             </div>
 
-            <div class="text-left">
-              <v-btn icon class="icon" href="http://bloodcommunity.com/">
-                <i class="ion-ios-heart" />
-              </v-btn>
+            <div class="text-center text-md-left">
+              <div class="d-flex justify-center justify-md-start">
+                <a class="icon-wrapper" href="#">
+                  <i class="ion-ios-heart"></i>
+                </a>
+              </div>
+
               <a href="#">
                 <h3>Sponsorship</h3>
               </a>
@@ -87,13 +99,6 @@
     margin-top: 27px !important;
   }
 
-  .icon {
-    background-color: transparent !important;
-    font-size: 30px;
-    // border: var(--v-primary-base) !important;
-    padding: 30px 30px !important;
-  }
-
   img {
     width: 390px !important;
     height: 590px !important;
@@ -108,18 +113,37 @@
     color: var(--v-anchor-base) !important;
   }
 
-  i {
-    color: var(--v-primary-base) !important;
-    border-color: #c92228 !important;
-      background-color: transparent;
-    // border-radius: 50%;
-    // border: 1px solid var(--v-primary-base);
-    // padding: 7px 9px;
+  .icon-flex, .icon-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  .icon-wrapper {
+    border-radius: 50%;
+    overflow: hidden;
+    border: 1px solid var(--v-primary-base);
+    font-size: 2.5rem;
+    width: 60px;
+    height: 60px;
   }
 
-  i:hover {
+  .icon-wrapper:hover {
     background-color: var(--v-primary-base) !important;
     color: #ffffff !important;
+  }
+  .icon-wrapper i {
+    color: var(--v-primary-base) !important;
+  }
+
+  .icon-wrapper:hover i {
+    color: #ffffff !important;
+  }
+
+  @media (min-width: 960px) and (max-width: 1280px) {
+    img {
+      width: 284px !important;
+      height: 407px !important;
+    }
   }
 </style>
 

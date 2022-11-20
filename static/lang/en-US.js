@@ -152,6 +152,7 @@ export default () => {
         "header_testimonials": "testimonials",
         "header_blog": "blog",
         "header_contact": "contact",
+
         "banner_title": 'Create Business Solution',
         "banner_subtitle":
           'We work with international startups, help entrepreneurs launch for the long term.',

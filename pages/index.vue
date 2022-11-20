@@ -7,9 +7,7 @@
           <banner-slider />
         </div>
 
-        <section
-          id="about"
-        >
+        <section id="about">
           <about />
         </section>
 
@@ -55,22 +53,25 @@
           <testimonials />
         </section>
 
-        <section id="company" class="space-top-short space-bottom-short">
+        <section
+          id="blog"
+          :class="[isMobile ? 'space-top-short' : 'space-top']"
+        >
+          <blog />
+        </section>
+
+        <section 
+          id="company" 
+          class="space-top-short space-bottom-short">
           <company-logo />
         </section>
 
         <section
-          id="contactNew"
-          :class="[isMobile ? 'space-top-short' : 'space-top']"
+          id="contact"
+          :class="[isMobile ? 'space-top-short' : '']"
         >
           <contact-new />
         </section>
-        <!-- <div
-          id="call-to-action"
-          class="space-bottom-short"
-        >
-          <call-action />
-        </div> -->
       </div>
       <main-footer />
       <hidden point="smDown">
@@ -100,6 +101,7 @@ import Corner from '~/components/Home/Corner'
 import brand from '~/static/text/brand'
 import Counter from '~/components/Home/Counter'
 import Csr from '~/components/Home/Csr'
+import Blog from '~/components/Home/Blog'
 
 export default {
   components: {
@@ -116,6 +118,7 @@ export default {
     Corner,
     Counter,
     Csr,
+    Blog,
     'main-footer': Footer
   },
   head() {

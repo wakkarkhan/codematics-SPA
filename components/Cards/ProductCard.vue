@@ -11,9 +11,9 @@
       </div>
       <div>
         
-      <v-btn :href="href" block class="button" color="primary">
+      <!-- <v-btn :href="href" block class="button" color="primary">
         {{ $t('common.btn_detail') }}
-      </v-btn>
+      </v-btn> -->
       </div>
     </div>
   </v-card>

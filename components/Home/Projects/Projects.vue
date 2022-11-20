@@ -61,8 +61,8 @@
 </template>
 
 <style lang="scss" scoped>
-@import './projects-style.scss';
-@import '../../Title/title-style.scss';
+  @import './projects-style.scss';
+  @import '../../Title/title-style.scss';
 
   .title-primary {
     margin-bottom: 9px;
@@ -79,10 +79,17 @@
     margin-top: 0 !important;
   }
 
+  .root {
+    padding: 40px 0px 0px 0px !important;
+  }
+  
   .v-application .v-card:not(.v-sheet--tile):not(.v-card--shaped) {
     border-radius: 0px;
   }
 
+  .media-card {
+    margin-bottom: 0px;
+  }
   .nav {
     position: absolute;
     border: none;
@@ -97,6 +104,8 @@
   .next {
     right: 32px;
   }
+
+  
 </style>
 
 <script>
@@ -122,7 +131,7 @@ export default {
       fade: false,
       slickOptions: {
         dots: false,
-        // autoplay: true,
+        autoplay: true,
         autoplaySpeed: 2000,
         infinite: false,
         centerMode: false,

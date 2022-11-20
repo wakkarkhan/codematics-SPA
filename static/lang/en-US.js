@@ -145,6 +145,7 @@ export default () => {
         "footer_news": "news"
       },
       agency: {
+        "header_home": 'home',
         "header_about": 'about',
         "header_services": 'services',
         "header_our-team": 'our team',

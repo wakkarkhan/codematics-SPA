@@ -20,45 +20,45 @@
 
         <section
           id="services"
-          :class="[isTablet ? 'space-top-short' : 'space-top']"
+          :class="[isTablet ? 'space-top-short' : '']"
         >
           <services />
         </section>
 
         <section
           id="counter"
-          :class="[isTablet ? 'space-top-short' : 'space-top']"
+          :class="[isTablet ? 'space-top-short' : '']"
         >
           <counter />
         </section>
 
         <section
           id="csr"
-          :class="[isTablet ? 'space-top-short' : 'space-top']"
+          :class="[isTablet ? 'space-top-short' : '']"
         >
           <csr />
         </section>
 
         <section
           id="our-team"
-          :class="[isMobile ? 'space-top-short' : 'space-top']"
+          :class="[isMobile ? 'space-top-short' : '']"
         >
           <our-team />
         </section>
 
         <section
           id="testimonials"
-          :class="[isMobile ? 'space-top-short' : 'space-top']"
+          :class="[isMobile ? 'space-top-short' : '']"
         >
           <testimonials />
         </section>
 
-        <section
+        <!-- <section
           id="blog"
           :class="[isMobile ? 'space-top-short' : 'space-top']"
         >
           <blog />
-        </section>
+        </section> -->
 
         <section 
           id="company" 

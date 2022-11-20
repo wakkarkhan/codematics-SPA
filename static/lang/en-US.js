@@ -244,6 +244,11 @@ export default () => {
       },
       csr: {
         "section_title": 'Corporate Social Responsibility (CSR) Projects',
+      },
+      contact: {
+        "section_title": 'Contact',
+        "section_subtitle": "Let's Get Connected",
+        "section_para": 'We deliver projects worldwide. Our core clients are from North America, Europe and Australia. Feel free to connect.',
       }
     })
   })

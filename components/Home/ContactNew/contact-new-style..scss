@@ -23,10 +23,11 @@
   margin: $spacing2
 }
 .socmed {
-  margin: spacing(6, 0);
+  margin: spacing(4, 0);
   button {
-    @include use-theme(background-color, $light-divider, $dark-divider);
+    // @include use-theme(background-color, $light-divider, $dark-divider);
     margin: $spacing1;
+    cursor: text;
     i {
       color: $palette-primary-main;
     }
@@ -35,7 +36,7 @@
     position: relative;
     @include left(-2px);
     top: 1px;
-    font-size: 24px
+    font-size: 45px
   }
 }
 .contact {
@@ -53,7 +54,7 @@
 .form-box {
   padding: $spacing2;
   @include breakpoints-up(sm) {
-    padding: $spacing7
+    padding: $spacing6 $spacing5;
   }
   @include breakpoints-down(xs) {
     padding: spacing(4, 2)
@@ -64,7 +65,7 @@
     bottom: -16px;
     width: 45%;
     height: 30%;
-    border: 16px solid $palette-primary-main;
+    // border: 16px solid $palette-primary-main;
     border-bottom-left-radius: $rounded-big;
     border-top: 0;
     @include border-right(0);
@@ -78,7 +79,7 @@
 }
 .input {
   width: 100%;
-  margin-bottom: $spacing5;
+  margin-bottom: $spacing1;
   @include breakpoints-down(xs) {
     margin-bottom: $spacing3
   }
@@ -91,9 +92,9 @@
 .btn-area {
   display: flex;
   justify-content: space-between;
-  margin: spacing(0, 0, 3);
+  // margin: spacing(0, 0, 3);
   @include breakpoints-up(sm) {
-    margin: spacing(3, 0, 0)
+    // margin: spacing(3, 0, 0)
   }
   @include breakpoints-down(xs) {
     .v-btn {

@@ -59,6 +59,12 @@
           <company-logo />
         </section>
 
+        <section
+          id="contactNew"
+          :class="[isMobile ? 'space-top-short' : 'space-top']"
+        >
+          <contact-new />
+        </section>
         <!-- <div
           id="call-to-action"
           class="space-bottom-short"
@@ -88,7 +94,7 @@ import Services from '~/components/Home/Services'
 import OurTeam from '~/components/Home/OurTeam'
 import Testimonials from '~/components/Home/Testimonials'
 import Projects from '~/components/Home/Projects'
-// import CallAction from '~/components/CallAction'
+import ContactNew from '~/components/Home/ContactNew'
 import Hidden from '~/components/Hidden'
 import Corner from '~/components/Home/Corner'
 import brand from '~/static/text/brand'
@@ -105,7 +111,7 @@ export default {
     Testimonials,
     CompanyLogo,
     Projects,
-    // CallAction,
+    ContactNew,
     Hidden,
     Corner,
     Counter,

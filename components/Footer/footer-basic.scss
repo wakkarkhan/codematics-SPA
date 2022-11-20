@@ -37,7 +37,7 @@
   padding: $spacing1;
   width: 40px;
   height: 40px;
-  @include use-theme(background-color, $light-divider, $dark-divider);
+  // @include use-theme(background-color, $light-divider, $dark-divider);
   &.v-btn {
     transition: all 0.3s ease-out;
     i {

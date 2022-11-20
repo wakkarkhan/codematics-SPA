@@ -1,46 +1,76 @@
 <template>
   <div class="footer">
-    <decoration />
-    <v-container class="max-lg">
-      <v-row :class="{ 'column-reverse': isMobile }" align="center">
-        <v-col cols="12" md="5" class="px-sm-12">
-          <logo type="portrait" />
-          <p>
-            {{ $t('agency.banner_title') }}.
-            {{ $t('agency.banner_subtitle') }}
-          </p>
-          <div class="socmed">
-            <v-btn icon class="margin">
-              <i class="ion-logo-facebook" />
-            </v-btn>
-            <v-btn icon class="margin">
-              <i class="ion-logo-linkedin" />
-            </v-btn>
-            <v-btn icon class="margin">
-               <i class="ion-logo-twitter" />
-            </v-btn>
-            <v-btn icon class="margin">
-              <i class="ion-logo-instagram" />
-            </v-btn>
-          </div>
-          <div class="contact">
-            <p class="use-text-paragraph">
-              {{ $t('common.blog_phone') }}
-              <br />
-              +12 345 678 90
-            </p>
-            <v-divider class="divider my-3" />
-            <p class="use-text-paragraph">
-              Skype
-              <br />
-              company.skype
-            </p>
-          </div>
-          <p class="body-2 mt-15 text-center">
-            &copy;&nbsp;
-            {{ brand.agency.footerText }}
-          </p>
+    <!-- <decoration /> -->
+    <v-container class="max-lg pt-8">
+      <v-row>
+        <v-col cols="12">
+          <h2 class="title-primary mb-0">{{$t('contact.section_title')}}</h2>
         </v-col>
+        
+        <v-col cols="12"> 
+          <h1>{{$t('contact.section_subtitle')}}</h1>
+        </v-col>
+
+        <v-col cols="12">
+          <p>{{$t('contact.section_para')}}</p>
+        </v-col>
+      </v-row>
+
+      <v-row>
+        <v-col cols="12" md="5" class="px-sm-12">
+          <v-row class="socmed">
+            <v-col cols="2">
+              <v-btn icon class="margin">
+                <i class="ion-ios-call-outline"></i>
+              </v-btn>
+            </v-col>
+
+            <v-col cols="10" class="text-start">
+              <h3 class="text-uppercase mb-0">Call Us</h3>
+              <p class="mb-0">+92-992-526915</p>
+            </v-col>
+          </v-row>
+
+          <v-row class="socmed">
+            <v-col cols="2">
+              <v-btn icon class="margin">
+                <i class="ion-ios-navigate-outline"></i>
+              </v-btn>
+            </v-col>
+
+            <v-col cols="10" class="text-start">
+              <h3 class="text-uppercase mb-0">Pakistan Office</h3>
+              <p class="mb-0">Office # 14, KPK IT Park, Mandian Abbottabad, Pakistan</p>
+            </v-col>
+          </v-row>
+
+          <v-row class="socmed">
+            <v-col cols="2">
+              <v-btn icon class="margin">
+                <i class="ion-ios-navigate-outline"></i>
+              </v-btn>
+            </v-col>
+
+            <v-col cols="10" class="text-start">
+              <h3 class="text-uppercase mb-0">Estonia Office</h3>
+              <p class="mb-0">Tartu, Estonia</p>
+            </v-col>
+          </v-row>
+
+          <v-row class="socmed">
+            <v-col cols="2">
+              <v-btn icon class="margin">
+                <i class="ion-ios-mail-outline"></i>
+              </v-btn>
+            </v-col>
+
+            <v-col cols="10" class="text-start">
+              <h3 class="text-uppercase mb-0">Say Hello</h3>
+              <p class="mb-0">contact@codematics.co</p>
+            </v-col>
+          </v-row>
+        </v-col>
+
         <v-col cols="12" md="7">
           <div class="form-wrap">
             <v-snackbar
@@ -51,14 +81,10 @@
             >
               Message Sent
             </v-snackbar>
+
             <v-card class="form-box">
               <v-row>
-                <v-col lg="5" cols="12">
-                  <h3 class="title-main use-text-title">
-                    {{ $t('common.contact_title2') }}
-                  </h3>
-                </v-col>
-                <v-col lg="7" cols="12">
+                <v-col lg="12" cols="12">
                   <div class="form">
                     <v-form ref="form" v-model="valid">
                       <v-row class="spacing6">
@@ -83,7 +109,7 @@
                         <v-col cols="12" class="px-6 py-0">
                           <v-textarea
                             v-model="message"
-                            rows="6"
+                            rows="3"
                             class="input"
                             :label="$t('common.form_message')"
                           />
@@ -112,13 +138,46 @@
 </template>
 
 <style scoped lang="scss">
-@import './contact-style.scss';
+@import './contact-new-style..scss';
+@import '../../Title/title-style.scss';
+
+  .footer {
+    background-color: #1B1D1F;
+    color: #ffffff;
+    // padding: 40px 0px 40px 0px;
+    border-top: 13px var(--v-primary-base) solid;
+  }
+
+  .title-primary {
+    letter-spacing: .5em !important;
+  }
+
+  h1 {
+    font-size: 35px;
+  }
+
+  .text-start > h3 {
+    font-size: 12px !important;
+  }
+
+  .text-start > p {
+    font-size: 15px !important;
+  }
+
+  p {
+    font-size: 20px !important;
+  }
+
+  .theme--light.v-card {
+    // background-color: var(--v-primary-lighten5);
+    color: #ffffff !important;
+  }
 </style>
 
 <script>
-import Logo from '../Logo'
+import Logo from '../../Logo'
 import brand from '~/static/text/brand'
-import Decoration from './Decoration'
+import Decoration from '../../Footer/Decoration'
 
 export default {
   components: {

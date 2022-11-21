@@ -110,7 +110,7 @@ export default {
       slickOptions: {
         dots: false,
         autoplay: true,
-        autoplaySpeed: 2000,
+        autoplaySpeed: 1500,
         infinite: false,
         centerMode: false,
         speed: 500,

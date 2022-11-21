@@ -144,7 +144,6 @@
   .footer {
     background-color: #1B1D1F;
     color: #ffffff;
-    // padding: 40px 0px 40px 0px;
     border-top: 13px var(--v-primary-base) solid;
   }
 
@@ -169,7 +168,6 @@
   }
 
   .theme--light.v-card {
-    // background-color: var(--v-primary-lighten5);
     color: #ffffff !important;
   }
 </style>

@@ -8,6 +8,7 @@ const link = {
     login: '/login',
     register: '/register',
     contactNew: '/contactNew',
+    privacyPolicy: '/privacy-policy',
     // team: '/about/team',
     // contactMap: '/contact/with-map',
     // card: '/collection',

@@ -52,9 +52,9 @@
               >
                 <div>
                   <img
-                    :src="imgAPI.agency[17]"
-                    :data-2d="imgAPI.agency[16]"
-                    :data-3d="imgAPI.agency[17]"
+                    :src="imgAPI.agency[1]"
+                    :data-2d="imgAPI.agency[0]"
+                    :data-3d="imgAPI.agency[1]"
                     class="img-2d3d"
                     alt="services 3d"
                   />
@@ -129,6 +129,7 @@ export default {
         arrows: false,
         slidesToScroll: 1,
         variableWidth: true,
+        autoPlay: true,
         responsive: [
           {
             breakpoint: 800,

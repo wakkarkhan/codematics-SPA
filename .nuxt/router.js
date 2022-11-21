@@ -11,6 +11,7 @@ const _61d3f45f = () => interopDefault(import('..\\pages\\blog\\index.vue' /* we
 const _6f7622a3 = () => interopDefault(import('..\\pages\\collection\\index.vue' /* webpackChunkName: "pages/collection/index" */))
 const _34980513 = () => interopDefault(import('..\\pages\\contact\\index.vue' /* webpackChunkName: "pages/contact/index" */))
 const _28b22dd0 = () => interopDefault(import('..\\pages\\login.vue' /* webpackChunkName: "pages/login" */))
+const _913a95ec = () => interopDefault(import('..\\pages\\privacy-policy\\index.vue' /* webpackChunkName: "pages/privacy-policy/index" */))
 const _5a3f0e78 = () => interopDefault(import('..\\pages\\register.vue' /* webpackChunkName: "pages/register" */))
 const _808ed8da = () => interopDefault(import('..\\pages\\services-detail\\index.vue' /* webpackChunkName: "pages/services-detail/index" */))
 const _a88890ce = () => interopDefault(import('..\\pages\\about\\team.vue' /* webpackChunkName: "pages/about/team" */))
@@ -83,6 +84,10 @@ export const routerOptions = {
     component: _28b22dd0,
     name: "login___ar"
   }, {
+    path: "/ar/privacy-policy",
+    component: _913a95ec,
+    name: "privacy-policy___ar"
+  }, {
     path: "/ar/register",
     component: _5a3f0e78,
     name: "register___ar"
@@ -114,6 +119,10 @@ export const routerOptions = {
     path: "/de/login",
     component: _28b22dd0,
     name: "login___de"
+  }, {
+    path: "/de/privacy-policy",
+    component: _913a95ec,
+    name: "privacy-policy___de"
   }, {
     path: "/de/register",
     component: _5a3f0e78,
@@ -147,6 +156,10 @@ export const routerOptions = {
     component: _28b22dd0,
     name: "login___en"
   }, {
+    path: "/en/privacy-policy",
+    component: _913a95ec,
+    name: "privacy-policy___en"
+  }, {
     path: "/en/register",
     component: _5a3f0e78,
     name: "register___en"
@@ -178,6 +191,10 @@ export const routerOptions = {
     path: "/id/login",
     component: _28b22dd0,
     name: "login___id"
+  }, {
+    path: "/id/privacy-policy",
+    component: _913a95ec,
+    name: "privacy-policy___id"
   }, {
     path: "/id/register",
     component: _5a3f0e78,
@@ -211,6 +228,10 @@ export const routerOptions = {
     component: _28b22dd0,
     name: "login___pt"
   }, {
+    path: "/pt/privacy-policy",
+    component: _913a95ec,
+    name: "privacy-policy___pt"
+  }, {
     path: "/pt/register",
     component: _5a3f0e78,
     name: "register___pt"
@@ -242,6 +263,10 @@ export const routerOptions = {
     path: "/zh/login",
     component: _28b22dd0,
     name: "login___zh"
+  }, {
+    path: "/zh/privacy-policy",
+    component: _913a95ec,
+    name: "privacy-policy___zh"
   }, {
     path: "/zh/register",
     component: _5a3f0e78,

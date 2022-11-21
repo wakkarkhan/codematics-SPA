@@ -27,14 +27,14 @@
 
         <section
           id="counter"
-          :class="[isTablet ? '' : '']"
+          :class="[isTablet ? 'space-top-short' : 'space-top']"
         >
           <counter />
         </section>
 
         <section
           id="csr"
-          :class="[isTablet ? '' : '']"
+          :class="[isTablet ? '' : 'space-top']"
         >
           <csr />
         </section>

@@ -84,6 +84,13 @@
     "_name": "_28b22dd0"
   },
   {
+    "name": "privacy-policy___ar",
+    "path": "/ar/privacy-policy",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\privacy-policy\\\\index.vue",
+    "chunkName": "pages/privacy-policy/index",
+    "_name": "_913a95ec"
+  },
+  {
     "name": "register___ar",
     "path": "/ar/register",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\register.vue",
@@ -138,6 +145,13 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
     "chunkName": "pages/login",
     "_name": "_28b22dd0"
+  },
+  {
+    "name": "privacy-policy___de",
+    "path": "/de/privacy-policy",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\privacy-policy\\\\index.vue",
+    "chunkName": "pages/privacy-policy/index",
+    "_name": "_913a95ec"
   },
   {
     "name": "register___de",
@@ -196,6 +210,13 @@
     "_name": "_28b22dd0"
   },
   {
+    "name": "privacy-policy___en",
+    "path": "/en/privacy-policy",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\privacy-policy\\\\index.vue",
+    "chunkName": "pages/privacy-policy/index",
+    "_name": "_913a95ec"
+  },
+  {
     "name": "register___en",
     "path": "/en/register",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\register.vue",
@@ -250,6 +271,13 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
     "chunkName": "pages/login",
     "_name": "_28b22dd0"
+  },
+  {
+    "name": "privacy-policy___id",
+    "path": "/id/privacy-policy",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\privacy-policy\\\\index.vue",
+    "chunkName": "pages/privacy-policy/index",
+    "_name": "_913a95ec"
   },
   {
     "name": "register___id",
@@ -308,6 +336,13 @@
     "_name": "_28b22dd0"
   },
   {
+    "name": "privacy-policy___pt",
+    "path": "/pt/privacy-policy",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\privacy-policy\\\\index.vue",
+    "chunkName": "pages/privacy-policy/index",
+    "_name": "_913a95ec"
+  },
+  {
     "name": "register___pt",
     "path": "/pt/register",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\register.vue",
@@ -362,6 +397,13 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
     "chunkName": "pages/login",
     "_name": "_28b22dd0"
+  },
+  {
+    "name": "privacy-policy___zh",
+    "path": "/zh/privacy-policy",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\privacy-policy\\\\index.vue",
+    "chunkName": "pages/privacy-policy/index",
+    "_name": "_913a95ec"
   },
   {
     "name": "register___zh",

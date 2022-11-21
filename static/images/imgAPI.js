@@ -244,21 +244,31 @@ const imgAPI = {
     '/images/agency/menu_social@2x.jpg',
     '/images/agency/menu_other@2x.jpg'
   ],
+  // agency: [
+  //   'https://via.placeholder.com/964x723/1071ef/FFFFFF',
+  //   'https://via.placeholder.com/1280x825/99d8ff/FFFFFF',
+  //   'https://via.placeholder.com/490x327/ffc999/FFFFFF',
+  //   'https://via.placeholder.com/490x327/ffc999/FFFFFF',
+  //   'https://via.placeholder.com/490x327/ffc999/FFFFFF',
+  //   'https://via.placeholder.com/521x309/fdcc0c/FFFFFF',
+  //   'https://via.placeholder.com/521x309/4a0cfd/FFFFFF',
+  //   'https://via.placeholder.com/521x309/ffe55b/FFFFFF',
+  //   'https://via.placeholder.com/713x460/79c0ff/FFFFFF',
+  //   'https://via.placeholder.com/711x693/52596b/FFFFFF',
+  //   ...img3d.main
+  // ],
+  // agencyInner: [
+  //   ...img3d.inner
+  // ]
   agency: [
-    'https://via.placeholder.com/964x723/1071ef/FFFFFF',
-    'https://via.placeholder.com/1280x825/99d8ff/FFFFFF',
-    'https://via.placeholder.com/490x327/ffc999/FFFFFF',
-    'https://via.placeholder.com/490x327/ffc999/FFFFFF',
-    'https://via.placeholder.com/490x327/ffc999/FFFFFF',
-    'https://via.placeholder.com/521x309/fdcc0c/FFFFFF',
-    'https://via.placeholder.com/521x309/4a0cfd/FFFFFF',
-    'https://via.placeholder.com/521x309/ffe55b/FFFFFF',
-    'https://via.placeholder.com/713x460/79c0ff/FFFFFF',
-    'https://via.placeholder.com/711x693/52596b/FFFFFF',
-    ...img3d.main
-  ],
-  agencyInner: [
-    ...img3d.inner
+    '/images/agency/services_2D@2x.png',
+    '/images/agency/services_3D@2x.png',
+
+    '/images/agency/testimonials_2D@2x.png',
+    '/images/agency/testimonials_3D@2x.png',
+
+    '/images/agency/register_2D@2x.png',
+    '/images/agency/register_3D@2x.png',
   ]
 }
 

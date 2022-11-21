@@ -331,7 +331,7 @@ export default {
         slidesToScroll: 1,
         infinite: true,
         autoplay: true,
-        autoplaySpeed: 2000,
+        autoplaySpeed: 1500,
         cssEase: 'ease-out',
         asNavFor: '.slider-deco',
         responsive: [

@@ -1,4 +1,5 @@
 .root {
+  padding: spacing(5, 0);
   @include breakpoints-up(md) {
     padding: spacing(5, 0);
   }

@@ -5,7 +5,6 @@
         <v-col sm="12" md="6" lg="6" cols="12">
           <div class="copyright">
             <p class="body-2 text-center text-md-start">
-              &copy;
             {{ brand.agency.footerText }}
             </p>
           </div>

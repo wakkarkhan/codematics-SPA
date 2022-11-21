@@ -92,8 +92,8 @@ export default {
         createData(navMenu[2], '#' + navMenu[2]),
         createData(navMenu[3], '#' + navMenu[3],),
         createData(navMenu[4], '#' + navMenu[4],),
-        createData(navMenu[5], '#' + navMenu[5],),
-        createData(navMenu[6], '#' + navMenu[6], -40)
+        createData(navMenu[5], '#' + navMenu[5], -40),
+        // createData(navMenu[6], '#' + navMenu[6], -40)
       ]
     }
   },

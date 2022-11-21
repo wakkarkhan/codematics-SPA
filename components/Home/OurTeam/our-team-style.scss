@@ -4,8 +4,11 @@ $violet-buble: '/images/agency/violet_buble.png';
 
 .root {
   position: relative;
+  padding: spacing(5, 0);
+  text-align: center;
   @include breakpoints-down(sm) {
     text-align: center;
+    // padding: spacing(10, 0);
   }
   h4 {
     @include breakpoints-down(sm) {

@@ -1,7 +1,7 @@
 const brand = {
   agency: {
     name: 'Codematics',
-    desc: 'Codematics Inc.',
+    desc: 'Codematics Services Pvt Ltd.',
     prefix: 'codematics',
     footerText: 'Copyrights © 2022 Codematics Inc. All Rights Reserved.',
     logoText: 'Codematics',

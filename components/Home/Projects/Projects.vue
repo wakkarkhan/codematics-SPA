@@ -4,12 +4,12 @@
       <v-row>
         <v-col cols="12" md="12" class="text-center">
             <h2 class="title-primary">{{ $t('caseStudies.section_title') }}</h2>
-            <p class="special-p">{{ $t('caseStudies.section_para') }}</p>
+            <p class="title-para2">{{ $t('caseStudies.section_para') }}</p>
         </v-col>
       </v-row>
     </v-container>
 
-    <div class="carousel-handle fixed-width">
+    <div class="carousel-handle fixed-width mt-4">
         <v-btn
           fab
           small
@@ -63,26 +63,6 @@
 <style lang="scss" scoped>
   @import './projects-style.scss';
   @import '../../Title/title-style.scss';
-
-  .title-primary {
-    margin-bottom: 9px;
-    line-height: 1.2;
-  }
-
-  p {
-    margin-bottom: 0;
-    margin-top: 20px;
-  }
-
-  .special-p {
-    color: #777777;
-    margin-top: 0 !important;
-  }
-
-  .root {
-    padding: 40px 0px 0px 0px !important;
-  }
-  
   .v-application .v-card:not(.v-sheet--tile):not(.v-card--shaped) {
     border-radius: 0px;
   }
@@ -104,8 +84,6 @@
   .next {
     right: 32px;
   }
-
-  
 </style>
 
 <script>

@@ -1,8 +1,9 @@
 .root {
   position: relative;
   padding: spacing(5, 0);
+  text-align: center;
   @include breakpoints-up(sm) {
-    padding: spacing(10, 0);
+    // padding: spacing(10, 0);
   }
   .theme--dark & {
     @include bg-color-fade($palette-primary-dark, 0.4)

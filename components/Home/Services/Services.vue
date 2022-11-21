@@ -5,12 +5,12 @@
         <v-row>
           <v-col cols="12" md="12" >
               <h2 class="title-primary">{{ $t('services.section_title') }}</h2>
-              <p class="special-p">{{ $t('services.section_para') }}</p>
+              <p class="title-para2">{{ $t('services.section_para') }}</p>
           </v-col>
         </v-row>
       </v-container>
       
-      <v-container class="carousel-handle fixed-width">
+      <v-container class="carousel-handle fixed-width mt-4">
         <div v-if="loaded" class="carousel-wrap">
           <slick
             ref="slick"
@@ -91,19 +91,8 @@
 <style lang="scss" scoped>
   @import './services-style.scss';
   @import '../../Title/title-style.scss';
-
-  .title-primary {
-    margin-bottom: 9px;
-    line-height: 1.2;
-    color: var(--v-primary-base) !important;
-  }
-
   .root {
     background: var(--v-primary-lighten5) !important;
-  }
-
-  .special-p {
-    color: #777777;
   }
 
   .theme--light .deco:before {

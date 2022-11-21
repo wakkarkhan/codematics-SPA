@@ -80,17 +80,11 @@
 </template>
 
 <style lang="scss" scoped>
+@import './csr-style.scss';
 @import '../../Title/title-style.scss';
-  .title-primary {
-    margin-bottom: 9px;
-    line-height: 1.2;
-    color: var(--v-primary-base) !important;
-  }
-
   .root {
     background-color: #141618;
     color: #ffffff;
-    padding: 40px 0px 40px 0px;
   }
 
   h3 {

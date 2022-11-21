@@ -4,7 +4,7 @@
       <v-row>
         <v-col cols="12" md="12" class="text-center">
             <h2 class="title-primary">{{ $t('about.section_title') }}</h2>
-            <p class="special-p">{{ $t('about.section_para') }}</p>
+            <p class="title-para">{{ $t('about.section_para') }}</p>
         </v-col>
       </v-row>
 
@@ -30,24 +30,11 @@
 
 <style lang="scss" scoped>
   @import './about-style';
-  @import '../../Title/title-style';
+  @import '../../Title/title-style.scss';
 
   .root {
     background-color: #141618;
     color: #ffffff;
-  }
-
-  .title-primary {
-    margin-bottom: 9px;
-    line-height: 1.2;
-  }
-
-  p {
-    margin-bottom: 0;
-  }
-
-  .special-p {
-    margin-top: 9px;
   }
 </style>
 

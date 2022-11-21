@@ -13,45 +13,45 @@
 
         <section 
           id="projects"
-          :class="[isTablet ? 'space-top-short' : '']"
+          :class="[isTablet ? '' : '']"
         >
           <projects />
         </section>
 
         <section
           id="services"
-          :class="[isTablet ? 'space-top-short' : '']"
+          :class="[isTablet ? '' : '']"
         >
           <services />
         </section>
 
         <section
           id="counter"
-          :class="[isTablet ? 'space-top-short' : '']"
+          :class="[isTablet ? '' : '']"
         >
           <counter />
         </section>
 
         <section
           id="csr"
-          :class="[isTablet ? 'space-top-short' : '']"
+          :class="[isTablet ? '' : '']"
         >
           <csr />
         </section>
 
         <section
           id="our-team"
-          :class="[isMobile ? 'space-top-short' : '']"
+          :class="[isMobile ? '' : '']"
         >
           <our-team />
         </section>
 
-        <section
+        <!-- <section
           id="testimonials"
           :class="[isMobile ? 'space-top-short' : '']"
         >
           <testimonials />
-        </section>
+        </section> -->
 
         <!-- <section
           id="blog"
@@ -93,7 +93,7 @@ import BannerSlider from '~/components/Home/BannerSlider'
 import About from '~/components/Home/About'
 import Services from '~/components/Home/Services'
 import OurTeam from '~/components/Home/OurTeam'
-import Testimonials from '~/components/Home/Testimonials'
+// import Testimonials from '~/components/Home/Testimonials'
 import Projects from '~/components/Home/Projects'
 import ContactNew from '~/components/Home/ContactNew'
 import Hidden from '~/components/Hidden'
@@ -110,7 +110,7 @@ export default {
     About,
     Services,
     OurTeam,
-    Testimonials,
+    // Testimonials,
     CompanyLogo,
     Projects,
     ContactNew,

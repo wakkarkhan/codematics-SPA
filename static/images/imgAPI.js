@@ -260,7 +260,7 @@ const imgAPI = {
   // agencyInner: [
   //   ...img3d.inner
   // ]
-  agency: [
+  illustrations: [
     '/images/agency/services_2D@2x.png',
     '/images/agency/services_3D@2x.png',
 
@@ -269,6 +269,9 @@ const imgAPI = {
 
     '/images/agency/register_2D@2x.png',
     '/images/agency/register_3D@2x.png',
+
+    '/images/agency/error_2D@2x.png',
+    '/images/agency/error_3D@2x.png',
   ]
 }
 

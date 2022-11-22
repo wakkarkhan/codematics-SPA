@@ -2,19 +2,10 @@
   <div class="bg-wrapper">
     <div class="carousel-wrap">
       <div class="carousel mt-15" v-if="loaded">
-        <slick
-          ref="slick"
-          :options="slickOptions"
-        >
+        <slick ref="slick" :options="slickOptions">
           <div v-for="(item, index) in teamList" :key="index" class="item px-3">
-            <product-card2
-              :title="item.title"
-              :desc="item.desc"
-              :img="item.img"
-              :href="item.href"
-              type="full"
-              orientation="potrait"
-            />
+            <product-card2 :title="item.title" :desc="item.desc" :img="item.img" :href="item.href" type="full"
+              orientation="potrait" />
           </div>
         </slick>
       </div>
@@ -51,7 +42,7 @@ export default {
         slidesToShow: 5,
         slidesToScroll: 1,
         variableWidth: false,
-        autoplay: true,
+        autoplay: false,
         autoplaySpeed: 3000,
         responsive: [
           {
@@ -127,7 +118,7 @@ export default {
           desc: '3D Technical Director',
           title: "Muhammad Mursaleen",
           img: imgAPI.team[27],
-          href:"https://www.linkedin.com/in/mursaleen-mohsin-b0097617a/"
+          href: "https://www.linkedin.com/in/mursaleen-mohsin-b0097617a/"
         },
         {
           desc: '3D Animator | Modeler',

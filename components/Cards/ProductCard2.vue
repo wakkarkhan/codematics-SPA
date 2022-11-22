@@ -17,53 +17,55 @@
 </template>
 
 <style lang="scss" scoped>
-  @import './product-card';
+@import './product-card';
 
-  .avatar {
-    margin: auto;
-  }
+.avatar {
+  margin: auto;
+}
 
-  .desc p {
-    overflow: hidden !important;
-  }
+.desc p {
+  overflow: hidden !important;
+}
 
-  .use-text-paragraph {
-    font-weight: var(--font-regular);
-    font-size: 16px;
-    line-height: 24px;
-  }
+.use-text-paragraph {
+  font-weight: var(--font-regular);
+  font-size: 16px;
+  line-height: 24px;
+}
 
-  figure:hover {
-    opacity: 0.6 !important;
-  }
+figure:hover {
+  opacity: 0.6 !important;
+}
 
-  .overlay:hover {
-    opacity: 2 !important;
-  }
+.overlay:hover {
+  opacity: 2 !important;
+}
 
-  .overlay {
-    position: absolute;
-    bottom: 0;
-    background: rgba(0, 0, 0, 0.5); /* Black see-through */
-    color: #f1f1f1;
-    width: 100%;
-    transition: .5s ease;
-    opacity: 0;
-    color: white;
-    font-size: 20px;
-    padding: 20px;
-    height: 100%;
-    text-align: center;
-  }
+.overlay {
+  position: absolute;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  /* Black see-through */
+  color: #f1f1f1;
+  width: 100%;
+  transition: .5s ease;
+  opacity: 0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  height: 100%;
+  text-align: center;
+  left: 0;
+}
 
-  i {
-    color: white;
-  }
+i {
+  color: white;
+}
 </style>
 
 <script>
 import link from '~/static/text/link'
-  
+
 export default {
   data() {
     return {

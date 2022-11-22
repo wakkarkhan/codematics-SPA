@@ -1,49 +1,24 @@
 <template>
   <fragment>
-    <vue-easy-lightbox
-      v-if="loaded"
-      :visible="visible"
-      :imgs="imgs"
-      :index="index"
-      @hide="handleHide"
-    />
+    <vue-easy-lightbox v-if="loaded" :visible="visible" :imgs="imgs" :index="index" @hide="handleHide" />
     <v-container>
       <div class="gallery-root">
-        <h4 class="use-text-title2 mb-3 use-text-primary">
+        <!-- <h4 class="use-text-title2 mb-3 use-text-primary">
           {{ $t('common.about_gallery') }}
-        </h4>
-        <p class="use-text-subtitle2">Vestibulum faucibus eget erat eget pretium. Donec commodo convallis eget suscipit orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+        </h4> -->
+        <!-- <p class="use-text-subtitle2">Vestibulum faucibus eget erat eget pretium. Donec commodo convallis eget suscipit orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p> -->
         <div class="carousel" v-if="loaded">
-          <v-btn
-            icon
-            class="nav prev"
-            @click="slickPrev()"
-          >
+          <v-btn icon class="nav prev" @click="slickPrev()">
             <v-icon large>mdi-arrow-left</v-icon>
           </v-btn>
-          <slick
-            ref="slider"
-            :options="slickOptions"
-          >
-            <div
-              v-for="(index) in 6"
-              :key="index"
-              class="item px-3"
-              @click="() => showImg(index - 1)"
-            >
-              <media-card
-                :thumb="imgAPI.photo[10 + index]"
-                title="Sed lacinia velit, ut malesuada eros interdum a"
-                orientation="portrait"
-                type="photo"
-              />
+
+          <slick ref="slider" :options="slickOptions">
+            <div v-for="(item, index) in portfolioList" :key="index" class="item px-3" @click="() => showImg(index)">
+              <media-card :thumb="item.img" :title="item.title" orientation="portrait" type="photo" />
             </div>
           </slick>
-          <v-btn
-            icon
-            class="nav next"
-            @click="slickNext()"
-          >
+
+          <v-btn icon class="nav next" @click="slickNext()">
             <v-icon large>mdi-arrow-right</v-icon>
           </v-btn>
         </div>
@@ -57,7 +32,7 @@
 </style>
 
 <script>
-import MediaCard from '../Cards/MediaCard'
+import MediaCard from '../Cards/MediaCard2'
 import imgAPI from '~/static/images/imgAPI'
 
 export default {
@@ -73,19 +48,70 @@ export default {
       item: 0,
       loaded: false,
       imgs: [
-        imgAPI.photo[11],
-        imgAPI.photo[12],
-        imgAPI.photo[13],
-        imgAPI.photo[14],
-        imgAPI.photo[15],
-        imgAPI.photo[16]
+        imgAPI.projects[0],
+        imgAPI.projects[1],
+        imgAPI.projects[2],
+        imgAPI.projects[3],
+        imgAPI.projects[4],
+        imgAPI.projects[5],
+        imgAPI.projects[6],
+        imgAPI.projects[7],
+        imgAPI.projects[8],
+        imgAPI.projects[9],
+        imgAPI.projects[10],
+      ],
+      portfolioList: [
+        {
+          title: 'Auto Silence at Prayer Time',
+          img: imgAPI.projects[0]
+        },
+        {
+          title: 'The Blood Community App',
+          img: imgAPI.projects[1]
+        },
+        {
+          title: 'Flash on Call and SMS',
+          img: imgAPI.projects[2]
+        },
+        {
+          title: 'Guess the Word MultiPlayer',
+          img: imgAPI.projects[3]
+        },
+        {
+          title: 'Kardaan: Handyman Services at Your Doorstep',
+          img: imgAPI.projects[4]
+        },
+        {
+          title: 'Snap War',
+          img: imgAPI.projects[5]
+        },
+        {
+          title: 'Universal TV Remote Control',
+          img: imgAPI.projects[6]
+        },
+        {
+          title: 'SCAM',
+          img: imgAPI.projects[7]
+        },
+        {
+          title: 'Codematics LG Remote Control',
+          img: imgAPI.projects[8]
+        },
+        {
+          title: 'Universal Remote Control for Roku Devices',
+          img: imgAPI.projects[9]
+        },
+        {
+          title: 'Sony Bravia Android TV Remote Control',
+          img: imgAPI.projects[10]
+        }
       ],
       slickOptions: {
         dots: false,
         arrows: false,
         slidesToShow: 3,
         infinite: false,
-        autoplay: false,
+        autoplay: true,
         responsive: [
           {
             breakpoint: 800,

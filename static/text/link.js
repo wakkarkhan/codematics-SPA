@@ -9,14 +9,15 @@ const link = {
     register: '/register',
     contactNew: '/contactNew',
     privacyPolicy: '/privacy-policy',
-    // team: '/about/team',
-    // contactMap: '/contact/with-map',
-    // card: '/collection',
-    // product: '/collection/products',
-    // productDetail: '/collection/detail-product',
-    // pricing: '/utils/pricing',
-    // faq: '/utils/faq',
-    // maintenance: '/utils/maintenance',
+    team: '/about/team',
+    contactMap: '/contact/with-map',
+    card: '/collection',
+    product: '/collection/products',
+    productDetail: '/collection/detail-product',
+
+    pricing: '/utils/pricing',
+    faq: '/utils/faq',
+    maintenance: '/utils/maintenance',
     comingSoon: '/utils/coming-soon'
   }
 }

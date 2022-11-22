@@ -5,7 +5,7 @@
         <v-col sm="12" md="6" lg="6" cols="12">
           <div class="copyright">
             <p class="body-2 text-center text-md-start">
-            {{ brand.agency.footerText }}
+              Copyrights © 2022 <a href="/">Codematics Inc.</a> All Rights Reserved.
             </p>
           </div>
         </v-col>
@@ -26,7 +26,7 @@
         </v-col>
       </v-row>
     </v-container>
-    
+
   </footer>
 </template>
 
@@ -36,6 +36,15 @@
 footer {
   background-color: #141618;
   color: #ffffff;
+}
+
+a {
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: var(--v-primary-base) !important;
 }
 </style>
 

@@ -32,8 +32,8 @@
             <slider-art :fade="fade">
               <u-animate :offset="-60" name="fadeInLeftShort" delay="0.3s" duration="0.5s">
                 <div>
-                  <img :src="imgAPI.agency[0]" :data-2d="imgAPI.agency[0]" :data-3d="imgAPI.agency[1]" class="img-2d3d"
-                    alt="services 3d" />
+                  <img :src="imgAPI.illustrations[0]" :data-2d="imgAPI.illustrations[0]"
+                    :data-3d="imgAPI.illustrations[1]" class="img-2d3d" alt="services 3d" />
                 </div>
               </u-animate>
             </slider-art>
@@ -61,8 +61,7 @@
 }
 
 .theme--light .deco:before {
-  // box-shadow: -30px 20px 0px 0px var(--v-secondarylight-base);
-  box-shadow: none;
+  box-shadow: -30px 20px 0px 0px var(--v-error-lighten3);
 }
 </style>
 
@@ -105,7 +104,7 @@ export default {
           {
             breakpoint: 480,
             settings: {
-              slidesToShow: 2
+              slidesToShow: 1
             }
           }
         ]

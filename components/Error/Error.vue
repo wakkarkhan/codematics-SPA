@@ -5,13 +5,8 @@
         <v-col cols="12" md="5">
           <div class="flex">
             <div class="illustration">
-              <img
-                :src="imgAPI.agencyInner[9]"
-                :data-2d="imgAPI.agencyInner[8]"
-                :data-3d="imgAPI.agencyInner[9]"
-                class="img-2d3d"
-                alt="error"
-              />
+              <img :src="imgAPI.illustrations[6]" :data-2d="imgAPI.illustrations[6]" :data-3d="imgAPI.illustrations[7]"
+                class="img-2d3d" alt="error" />
             </div>
           </div>
         </v-col>
@@ -24,12 +19,7 @@
             <p>
               {{ $t('common.404_subtitle') }}
             </p>
-            <v-btn
-              color="primary"
-              :href="link.agency.home"
-              large
-              class="button"
-            >
+            <v-btn color="primary" :href="link.agency.home" large class="button">
               {{ $t('common.back') }}
             </v-btn>
           </div>

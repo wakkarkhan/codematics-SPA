@@ -11,38 +11,23 @@
           <about />
         </section>
 
-        <section 
-          id="projects"
-          :class="[isTablet ? '' : '']"
-        >
+        <section id="projects" :class="[isTablet ? '' : '']">
           <projects />
         </section>
 
-        <section
-          id="services"
-          :class="[isTablet ? '' : '']"
-        >
+        <section id="services" :class="[isTablet ? '' : '']">
           <services />
         </section>
 
-        <section
-          id="counter"
-          :class="[isTablet ? 'space-top-short' : 'space-top']"
-        >
+        <section id="counter" :class="[isTablet ? 'space-top-short' : 'space-top']">
           <counter />
         </section>
 
-        <section
-          id="csr"
-          :class="[isTablet ? '' : 'space-top']"
-        >
+        <section id="csr" :class="[isTablet ? '' : 'space-top']">
           <csr />
         </section>
 
-        <section
-          id="our-team"
-          :class="[isMobile ? '' : '']"
-        >
+        <section id="our-team" :class="[isMobile ? '' : '']">
           <our-team />
         </section>
 
@@ -60,22 +45,20 @@
           <blog />
         </section> -->
 
-        <section 
-          id="company" 
-          class="space-top-short space-bottom-short">
+        <section id="company" class="space-top-short space-bottom-short">
           <company-logo />
         </section>
 
-        <section
-          id="contact"
-          :class="[isMobile ? 'space-top-short' : '']"
-        >
+        <section id="contact" :class="[isMobile ? 'space-top-short' : '']">
           <contact-new />
         </section>
       </div>
       <main-footer />
       <hidden point="smDown">
         <corner />
+      </hidden>
+      <hidden point="mdDown">
+        <notification />
       </hidden>
     </div>
   </div>
@@ -102,6 +85,7 @@ import brand from '~/static/text/brand'
 import Counter from '~/components/Home/Counter'
 import Csr from '~/components/Home/Csr'
 import Blog from '~/components/Home/Blog'
+import Notification from '~/components/Notification'
 
 export default {
   components: {
@@ -119,6 +103,7 @@ export default {
     Counter,
     Csr,
     Blog,
+    Notification,
     'main-footer': Footer
   },
   head() {

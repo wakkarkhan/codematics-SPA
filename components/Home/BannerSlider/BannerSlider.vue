@@ -344,7 +344,7 @@ export default {
         slidesToShow: 1,
         slidesToScroll: 1,
         infinite: true,
-        autoplay: false,
+        autoplay: true,
         autoplaySpeed: 1500,
         cssEase: 'ease-out',
         asNavFor: '.slider-deco',

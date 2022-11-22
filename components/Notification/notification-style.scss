@@ -10,7 +10,7 @@
     max-width: none;
     font-size: 16px;
     color: $palette-common-white;
-    background: $palette-primary-dark;
+    background: $palette-primary-main;
     @include breakpoints-up(sm) {
       padding: spacing(0.5, 2)
     }
@@ -35,7 +35,6 @@
     }
   }
 }
-
 
 .action {
   @include breakpoints-down(xs) {

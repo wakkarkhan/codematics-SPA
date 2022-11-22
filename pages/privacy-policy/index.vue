@@ -136,7 +136,7 @@ export default {
   },
   head() {
     return {
-      title: 'Mobile App Development | ' + brand.agency.desc
+      title: 'Privacy Policy | ' + brand.agency.desc
     }
   },
   props: {

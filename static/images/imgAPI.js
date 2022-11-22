@@ -135,7 +135,7 @@ const imgAPI = {
     '/images/team/pic37.png',
   ],
   illustrations: [
-    '/images/agency/services_2D@2x.png',
+    '/images/agency/services.png',
     '/images/agency/services_3D@2x.png',
 
     '/images/agency/testimonials_2D@2x.png',

@@ -3,32 +3,18 @@
     <u-animate-container>
       <v-container class="carousel-header">
         <v-row>
-          <v-col cols="12" md="12" >
-              <h2 class="title-primary">{{ $t('services.section_title') }}</h2>
-              <p class="title-para2">{{ $t('services.section_para') }}</p>
+          <v-col cols="12" md="12">
+            <h2 class="title-primary">{{ $t('services.section_title') }}</h2>
+            <p class="title-para2">{{ $t('services.section_para') }}</p>
           </v-col>
         </v-row>
       </v-container>
-      
+
       <v-container class="carousel-handle fixed-width mt-4">
         <div v-if="loaded" class="carousel-wrap">
-          <slick
-            ref="slick"
-            :options="slickOptions"
-            @afterChange="handleAfterChange"
-          >
-            <div
-              v-for="(item, index) in servicesList"
-              :key="index"
-              class="item"
-            >
-              <card
-                :title="item.title"
-                :desc="item.desc"
-                :img="item.img"
-                :number="item.number"
-                type="over"
-              />
+          <slick ref="slick" :options="slickOptions" @afterChange="handleAfterChange">
+            <div v-for="(item, index) in servicesList" :key="index" class="item">
+              <card :title="item.title" :desc="item.desc" :img="item.img" :number="item.number" type="over" />
             </div>
 
             <div class="item">
@@ -44,40 +30,18 @@
         <v-container class="fixed-width">
           <div class="artwork">
             <slider-art :fade="fade">
-              <u-animate
-                :offset="-60"
-                name="fadeInLeftShort"
-                delay="0.3s"
-                duration="0.5s"
-              >
+              <u-animate :offset="-60" name="fadeInLeftShort" delay="0.3s" duration="0.5s">
                 <div>
-                  <img
-                    :src="imgAPI.agency[1]"
-                    :data-2d="imgAPI.agency[0]"
-                    :data-3d="imgAPI.agency[1]"
-                    class="img-2d3d"
-                    alt="services 3d"
-                  />
+                  <img :src="imgAPI.agency[0]" :data-2d="imgAPI.agency[0]" :data-3d="imgAPI.agency[1]" class="img-2d3d"
+                    alt="services 3d" />
                 </div>
               </u-animate>
             </slider-art>
             <nav class="arrow">
-              <v-btn
-                fab
-                small
-                aria-label="next"
-                class="margin"
-                @click="next()"
-              >
+              <v-btn fab small aria-label="next" class="margin" @click="next()">
                 <v-icon>mdi-arrow-left</v-icon>
               </v-btn>
-              <v-btn
-                fab
-                small
-                aria-label="prev"
-                class="margin"
-                @click="prev()"
-              >
+              <v-btn fab small aria-label="prev" class="margin" @click="prev()">
                 <v-icon>mdi-arrow-right</v-icon>
               </v-btn>
             </nav>
@@ -89,16 +53,17 @@
 </template>
 
 <style lang="scss" scoped>
-  @import './services-style.scss';
-  @import '../../Title/title-style.scss';
-  .root {
-    background: var(--v-primary-lighten5) !important;
-  }
+@import './services-style.scss';
+@import '../../Title/title-style.scss';
 
-  .theme--light .deco:before {
-    // box-shadow: -30px 20px 0px 0px var(--v-secondarylight-base);
-    box-shadow: none;
-  }
+.root {
+  background: var(--v-primary-lighten5) !important;
+}
+
+.theme--light .deco:before {
+  // box-shadow: -30px 20px 0px 0px var(--v-secondarylight-base);
+  box-shadow: none;
+}
 </style>
 
 <script>
@@ -204,10 +169,10 @@ export default {
     }, 100)
   },
   methods: {
-    next: function() {
+    next: function () {
       this.$refs.slick.next()
     },
-    prev: function() {
+    prev: function () {
       this.$refs.slick.prev()
     },
     handleAfterChange(event, slick, currentSlide) {

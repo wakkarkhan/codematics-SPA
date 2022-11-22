@@ -53,11 +53,11 @@
       </slick>
 
       <slick class="slider" ref="slider" :options="slickOptions" @afterChange="handleAfterChange">
-        <div class="slide slideBanner" id="slide1" style="height='';">
+        <div class="slide slideBanner" id="slide1">
           <div class="inner">
             <v-container>
               <v-row class="text-center">
-                <v-col md="12" lg="12" cols="12" class="px-6 py-5 align-center">
+                <v-col md="12" lg="12" cols="12" class="px-6 py-5 d-flex align-center justify-center">
                   <div class="text">
                     <h4 class="use-text-title">{{ $t('banner.banner_title_main') }}</h4>
                     <h5 class="use-text-subtitle">{{ $t('banner.banner_subtitle_main') }}</h5>
@@ -271,6 +271,15 @@
   }
 }
 
+.inner>.container,
+.inner>.container>.row {
+  height: 100%;
+}
+
+.text {
+  height: auto;
+}
+
 .theme--light.v-btn.v-btn--has-bg {
   background-color: var(--v-primary-base) !important;
 }
@@ -335,7 +344,7 @@ export default {
         slidesToShow: 1,
         slidesToScroll: 1,
         infinite: true,
-        autoplay: true,
+        autoplay: false,
         autoplaySpeed: 1500,
         cssEase: 'ease-out',
         asNavFor: '.slider-deco',
@@ -362,39 +371,25 @@ export default {
   },
   mounted() {
     this.loaded = true;
-    // const heightClass = document.getElementsByClassName('slideBanner');
-    // const slide1 = document.getElementsById("slide1");
-    // const slide2 = document.getElementsById('slide2');
-    // const slide3 = document.getElementsById('slide3');
-    // const slide4 = document.getElementsById('slide4');
-    // const slide5 = document.getElementsById('slide5');
-    // const slide6 = document.getElementsById('slide6');
 
     window.onload = function () {
       this.screenHeight = window.innerHeight;
-      console.log(this.screenHeight);
-      console.log(slide1);
-      // slide1.style.height = window.innerHeight;
-      // slide2.style.height = this.screenHeight;
-      // slide3.style.height = this.screenHeight;
-      // slide4.style.height = this.screenHeight;
-      // slide5.style.height = this.screenHeight;
-      // slide6.style.height = this.screenHeight;
+      document.getElementById('slide1').style.height = this.screenHeight + 'px';
+      document.getElementById('slide2').style.height = this.screenHeight + 'px';
+      document.getElementById('slide3').style.height = this.screenHeight + 'px';
+      document.getElementById('slide4').style.height = this.screenHeight + 'px';
+      document.getElementById('slide5').style.height = this.screenHeight + 'px';
+      document.getElementById('slide6').style.height = this.screenHeight + 'px';
+
     }
     window.onresize = function () {
-      // this.screenHeight = window.innerHeight;
-      // slide1.style.height = this.screenHeight;
-      // slide2.style.height = this.screenHeight;
-      // slide3.style.height = this.screenHeight;
-      // slide4.style.height = this.screenHeight;
-      // slide5.style.height = this.screenHeight;
-      // slide6.style.height = this.screenHeight;
-
-      // for (let i = 0; i < heightClass.length; i++) {
-      //   heightClass[i].style.height = this.screenHeight;
-      //   console.log(heightClass[i].style.height);
-      //   console.log("hi");
-      // }
+      this.screenHeight = window.innerHeight;
+      document.getElementById('slide1').style.height = this.screenHeight + 'px';
+      document.getElementById('slide2').style.height = this.screenHeight + 'px';
+      document.getElementById('slide3').style.height = this.screenHeight + 'px';
+      document.getElementById('slide4').style.height = this.screenHeight + 'px';
+      document.getElementById('slide5').style.height = this.screenHeight + 'px';
+      document.getElementById('slide6').style.height = this.screenHeight + 'px';
     };
 
   },
@@ -405,20 +400,6 @@ export default {
     gotoSlide(index) {
       this.$refs.slider.goTo(index)
     },
-    getHeight() {
-      // // Insert values on load of page
-      // window.onload = function () {
-      //   this.screenHeight = window.innerHeight;
-      //   // width.innerHTML = window.innerWidth;
-      // };
-
-      // Change values when window is resized
-      window.onresize = function () {
-        // Setting the current height & width
-        // to the elements
-        this.screenHeight = window.innerHeight;
-      };
-    }
   },
   computed: {
     isMobile() {

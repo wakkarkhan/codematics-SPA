@@ -2,7 +2,7 @@
   <div class="footer">
     <!-- <decoration /> -->
     <v-container class="max-lg pt-8">
-      <v-row>
+      <v-row class="text-center">
         <v-col cols="12">
           <h2 class="title-primary mb-0">{{ $t('contact.section_title') }}</h2>
         </v-col>

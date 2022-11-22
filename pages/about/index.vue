@@ -2,13 +2,8 @@
   <div class="main-wrap">
     <main-header />
     <banner>
-      <img
-        :src="imgAPI.agencyInner[1]"
-        :data-2d="imgAPI.agencyInner[0]"
-        :data-3d="imgAPI.agencyInner[1]"
-        class="img-2d3d"
-        alt="services 3d"
-      />
+      <img :src="imgAPI.agencyInner[1]" :data-2d="imgAPI.agencyInner[0]" :data-3d="imgAPI.agencyInner[1]"
+        class="img-2d3d" alt="services 3d" />
     </banner>
     <company-logo />
     <div class="space-top-short">

@@ -1,11 +1,7 @@
 <template>
   <div class="banner-wrap">
     <div class="carousel" v-if="loaded">
-      <slick
-        class="slider-deco"
-        ref="sliderDeco"
-        :options="slickOptionsDeco"
-      >
+      <slick class="slider-deco" ref="sliderDeco" :options="slickOptionsDeco">
         <div class="slide" :class="{ cur: currentSlide === 0 }">
           <div class="inner">
             <div class="deco-wrap">
@@ -55,13 +51,9 @@
           </div>
         </div>
       </slick>
-      <slick
-        class="slider"
-        ref="slider"
-        :options="slickOptions"
-        @afterChange="handleAfterChange"
-      >
-         <div class="slide" id="slide1">
+
+      <slick class="slider" ref="slider" :options="slickOptions" @afterChange="handleAfterChange">
+        <div class="slide slideBanner" id="slide1" style="height='';">
           <div class="inner">
             <v-container>
               <v-row class="text-center">
@@ -76,8 +68,8 @@
             </v-container>
           </div>
         </div>
-        
-        <div class="slide" id="slide2">
+
+        <div class="slide slideBanner" id="slide2">
           <div class="inner">
             <v-container>
               <v-row>
@@ -86,39 +78,16 @@
                     <h4 class="use-text-title">{{ $t('banner.banner_title_kardaan') }}</h4>
                     <h5 class="use-text-subtitle">{{ $t('banner.banner_subtitle_kardaan') }}</h5>
                     <h6 class="use-text-mini"><strong>SIMPLIFYING</strong> lives by providing doorsteps services</h6>
-                    
-                    <div class="text-center" style="padding-top: 30px; display: inline-flex; width: 100%; margin: 0 auto">
-                      <a class="icons-play" style="width:25%; height: 25%;" href="https://play.google.com/store/apps/details?id=codematics.kardaan.ondemand.swiftservices">
+
+                    <div class="text-center"
+                      style="padding-top: 30px; display: inline-flex; width: 100%; margin: 0 auto">
+                      <a class="icons-play" style="width:25%; height: 25%;"
+                        href="https://play.google.com/store/apps/details?id=codematics.kardaan.ondemand.swiftservices">
                         <img class="mt-0" src="../../../static/images/banner/google-play-outline.png">
                       </a>
-                      
-                      <a class="icons-play" style="width:25%; height: 25%;margin-left:10px" href="https://apps.apple.com/pk/app/kardaan-doorstep-services/id1444422720">
-                        <img class="mt-0" src="../../../static/images/banner/apple-store-outline.png">
-                      </a>
-                    </div>
-                  </div>
-                </v-col>
-              </v-row>
-            </v-container>
-          </div>
-        </div>
-        
-         <div class="slide" id="slide3">
-          <div class="inner">
-            <v-container>
-              <v-row>
-                <v-col md="12" lg="6" cols="12" class="px-6 py-5 d-flex align-center">
-                  <div class="text py-5">
-                    <h4 class="use-text-title">{{ $t('banner.banner_title_bc') }}</h4>
-                    <h5 class="use-text-subtitle">{{ $t('banner.banner_subtitle_bc') }}</h5>
-                    <h6 class="use-text-mini"><strong>SAVING</strong> thousands of lives by fullfilling the blood requirment</h6>
-                    
-                    <div class="text-center" style="padding-top: 30px; display: inline-flex; width: 100%; margin: 0 auto">
-                      <a class="icons-play" style="width:25%; height: 25%;" href="https://play.google.com/store/apps/details?id=codematcis.blood.donor.bloodrequest.community">
-                        <img class="mt-0" src="../../../static/images/banner/google-play-outline.png">
-                      </a>
-                      
-                      <a class="icons-play" style="width:25%; height: 25%;margin-left:10px" href="https://apps.apple.com/us/app/blood-community/id1235599120">
+
+                      <a class="icons-play" style="width:25%; height: 25%;margin-left:10px"
+                        href="https://apps.apple.com/pk/app/kardaan-doorstep-services/id1444422720">
                         <img class="mt-0" src="../../../static/images/banner/apple-store-outline.png">
                       </a>
                     </div>
@@ -129,7 +98,37 @@
           </div>
         </div>
 
-        <div class="slide" id="slide4">
+        <div class="slide slideBanner" id="slide3">
+          <div class="inner">
+            <v-container>
+              <v-row>
+                <v-col md="12" lg="6" cols="12" class="px-6 py-5 d-flex align-center">
+                  <div class="text py-5">
+                    <h4 class="use-text-title">{{ $t('banner.banner_title_bc') }}</h4>
+                    <h5 class="use-text-subtitle">{{ $t('banner.banner_subtitle_bc') }}</h5>
+                    <h6 class="use-text-mini"><strong>SAVING</strong> thousands of lives by fullfilling the blood
+                      requirment</h6>
+
+                    <div class="text-center"
+                      style="padding-top: 30px; display: inline-flex; width: 100%; margin: 0 auto">
+                      <a class="icons-play" style="width:25%; height: 25%;"
+                        href="https://play.google.com/store/apps/details?id=codematcis.blood.donor.bloodrequest.community">
+                        <img class="mt-0" src="../../../static/images/banner/google-play-outline.png">
+                      </a>
+
+                      <a class="icons-play" style="width:25%; height: 25%;margin-left:10px"
+                        href="https://apps.apple.com/us/app/blood-community/id1235599120">
+                        <img class="mt-0" src="../../../static/images/banner/apple-store-outline.png">
+                      </a>
+                    </div>
+                  </div>
+                </v-col>
+              </v-row>
+            </v-container>
+          </div>
+        </div>
+
+        <div class="slide slideBanner" id="slide4">
           <div class="inner">
             <v-container>
               <v-row>
@@ -145,7 +144,7 @@
           </div>
         </div>
 
-        <div class="slide" id="slide5">
+        <div class="slide slideBanner" id="slide5">
           <div class="inner">
             <v-container>
               <v-row>
@@ -155,12 +154,15 @@
                     <h5 class="use-text-subtitle">{{ $t('banner.banner_subtitle_tv') }}</h5>
                     <h6 class="use-text-mini"><strong>No.1</strong> TV Remote App in more than 100 countries</h6>
 
-                    <div class="text-center" style="padding-top: 30px; display: inline-flex; width: 100%; margin: 0 auto">
-                      <a class="icons-play" style="width:25%; height: 25%;" href="https://play.google.com/store/apps/details?id=codematics.universal.tv.remote.control">
+                    <div class="text-center"
+                      style="padding-top: 30px; display: inline-flex; width: 100%; margin: 0 auto">
+                      <a class="icons-play" style="width:25%; height: 25%;"
+                        href="https://play.google.com/store/apps/details?id=codematics.universal.tv.remote.control">
                         <img class="mt-0" src="../../../static/images/banner/google-play-outline.png">
                       </a>
-                      
-                      <a class="icons-play" style="width:25%; height: 25%;margin-left:10px" href="https://apps.apple.com/us/app/universal-tv-remote-maticsmote/id1492122256">
+
+                      <a class="icons-play" style="width:25%; height: 25%;margin-left:10px"
+                        href="https://apps.apple.com/us/app/universal-tv-remote-maticsmote/id1492122256">
                         <img class="mt-0" src="../../../static/images/banner/apple-store-outline.png">
                       </a>
                     </div>
@@ -171,7 +173,7 @@
           </div>
         </div>
 
-        <div class="slide" id="slide6">
+        <div class="slide slideBanner" id="slide6">
           <div class="inner">
             <v-container>
               <v-row>
@@ -179,10 +181,13 @@
                   <div class="text py-5">
                     <h4 class="use-text-title">{{ $t('banner.banner_title_urraan') }}</h4>
                     <h5 class="use-text-subtitle">{{ $t('banner.banner_subtitle_urraan') }}</h5>
-                    <h6 class="use-text-mini">The <strong>beginning</strong> of your Career in <strong>Digital World</strong></h6>
-                    
+                    <h6 class="use-text-mini">The <strong>beginning</strong> of your Career in <strong>Digital
+                        World</strong></h6>
+
                     <v-btn class="btn-container" style="margin-top: 30px;">
-                      <a href="https://www.urraan.pk/" class="custom-link btn btn-sm border-width-0 btn-default btn-icon-left" target="_blank">Know More</a>
+                      <a href="https://www.urraan.pk/"
+                        class="custom-link btn btn-sm border-width-0 btn-default btn-icon-left" target="_blank">Know
+                        More</a>
                     </v-btn>
                   </div>
                 </v-col>
@@ -196,117 +201,116 @@
 </template>
 
 <style scoped lang="scss">
-  @import './banner-styles';
-  @media (min-width: 992px) { 
-    .services {
-      width: 394px !important;
-      height: 51px !important;
-      margin-top: 0px !important;
-    }
+@import './banner-styles';
 
-    #slide6 {
-      background-image: url(../../../static/images/banner/urraan.jpg);
-      background-repeat: no-repeat;
-      background-position: center center;
-      background-attachment: scroll;
-      background-size: cover;
-    }
-
-    #slide5 {
-      background-image: url(../../../static/images/banner/tv.png);
-      background-repeat: no-repeat;
-      background-position: center center;
-      background-attachment: scroll;
-      background-size: cover;
-    }
-
-    #slide4 {
-      background-image: url(../../../static/images/banner/plantation.jpg);
-      background-repeat: no-repeat;
-      background-position: center center;
-      background-attachment: scroll;
-      background-size: cover;
-    }
-
-    #slide3 {
-      background-image: url(../../../static/images/banner/blood-community.jpg);
-      background-repeat: no-repeat;
-      background-position: center center;
-      background-attachment: scroll;
-      background-size: cover;
-    }
-
-    #slide2 {
-      background-image: url(../../../static/images/banner/kardaan.jpg);
-      background-repeat: no-repeat;
-      background-position: center center;
-      background-attachment: scroll;
-      background-size: cover;
-    }
-
-    #slide1 {
-      background-image: url(../../../static/images/banner/main.jpg);
-      background-repeat: no-repeat;
-      background-position: center center;
-      background-attachment: scroll;
-      background-size: cover;
-    }
-
-    .use-text-title {
-    font-size: 100px !important;
+@media (min-width: 992px) {
+  .services {
+    width: 394px !important;
+    height: 51px !important;
+    margin-top: 0px !important;
   }
 
-    .use-text-subtitle {
-      font-size: 35px !important;
-    }
-
-    .use-text-mini {
-      font-size: 20px !important;
-    }
+  #slide6 {
+    background-image: url(../../../static/images/banner/urraan.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: cover;
   }
 
-  .theme--light.v-btn.v-btn--has-bg {
-    background-color: var(--v-primary-base) !important;
+  #slide5 {
+    background-image: url(../../../static/images/banner/tv.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: cover;
   }
 
-  .v-btn__content > a {
-    text-decoration: none;
-    color: #ffffff;
+  #slide4 {
+    background-image: url(../../../static/images/banner/plantation.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+
+  #slide3 {
+    background-image: url(../../../static/images/banner/blood-community.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+
+  #slide2 {
+    background-image: url(../../../static/images/banner/kardaan.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+
+  #slide1 {
+    background-image: url(../../../static/images/banner/main.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: cover;
   }
 
   .use-text-title {
-    text-transform: uppercase !important;
-    line-height: 1 !important;
+    font-size: 100px !important;
   }
 
   .use-text-subtitle {
-    line-height: .85 !important;
-    color: var(--v-primary-base) !important;
+    font-size: 35px !important;
   }
 
   .use-text-mini {
-    line-height: 1 !important;
-    color: #303133 !important;
-    font-weight: 500 !important;
+    font-size: 20px !important;
   }
+}
 
-  strong {
-    font-weight: 600 !important;
-  }
+.theme--light.v-btn.v-btn--has-bg {
+  background-color: var(--v-primary-base) !important;
+}
 
-  .slick-dots {
-    bottom: 0 !important;
-  }
+.v-btn__content>a {
+  text-decoration: none;
+  color: #ffffff;
+}
 
-  .slick-dotted.slick-slider {
-    margin-bottom: 0 !important;
-  }
+.use-text-title {
+  text-transform: uppercase !important;
+  line-height: 1 !important;
+}
 
-  .text h5 {
-    margin-bottom: 25px !important;
-  }
+.use-text-subtitle {
+  line-height: .85 !important;
+  color: var(--v-primary-base) !important;
+}
 
-  
+.use-text-mini {
+  line-height: 1 !important;
+  color: #303133 !important;
+  font-weight: 500 !important;
+}
+
+strong {
+  font-weight: 600 !important;
+}
+
+.slick-dots {
+  bottom: 0 !important;
+}
+
+.slick-dotted.slick-slider {
+  margin-bottom: 0 !important;
+}
+
+.text h5 {
+  margin-bottom: 25px !important;
+}
 </style>
 
 <script>
@@ -319,6 +323,7 @@ export default {
   },
   data() {
     return {
+      screenHeight: '',
       loaded: false,
       currentSlide: 0,
       link: link,
@@ -356,7 +361,42 @@ export default {
     }
   },
   mounted() {
-    this.loaded = true
+    this.loaded = true;
+    // const heightClass = document.getElementsByClassName('slideBanner');
+    // const slide1 = document.getElementsById("slide1");
+    // const slide2 = document.getElementsById('slide2');
+    // const slide3 = document.getElementsById('slide3');
+    // const slide4 = document.getElementsById('slide4');
+    // const slide5 = document.getElementsById('slide5');
+    // const slide6 = document.getElementsById('slide6');
+
+    window.onload = function () {
+      this.screenHeight = window.innerHeight;
+      console.log(this.screenHeight);
+      console.log(slide1);
+      // slide1.style.height = window.innerHeight;
+      // slide2.style.height = this.screenHeight;
+      // slide3.style.height = this.screenHeight;
+      // slide4.style.height = this.screenHeight;
+      // slide5.style.height = this.screenHeight;
+      // slide6.style.height = this.screenHeight;
+    }
+    window.onresize = function () {
+      // this.screenHeight = window.innerHeight;
+      // slide1.style.height = this.screenHeight;
+      // slide2.style.height = this.screenHeight;
+      // slide3.style.height = this.screenHeight;
+      // slide4.style.height = this.screenHeight;
+      // slide5.style.height = this.screenHeight;
+      // slide6.style.height = this.screenHeight;
+
+      // for (let i = 0; i < heightClass.length; i++) {
+      //   heightClass[i].style.height = this.screenHeight;
+      //   console.log(heightClass[i].style.height);
+      //   console.log("hi");
+      // }
+    };
+
   },
   methods: {
     handleAfterChange(event, slick, currentSlide) {
@@ -364,6 +404,20 @@ export default {
     },
     gotoSlide(index) {
       this.$refs.slider.goTo(index)
+    },
+    getHeight() {
+      // // Insert values on load of page
+      // window.onload = function () {
+      //   this.screenHeight = window.innerHeight;
+      //   // width.innerHTML = window.innerWidth;
+      // };
+
+      // Change values when window is resized
+      window.onresize = function () {
+        // Setting the current height & width
+        // to the elements
+        this.screenHeight = window.innerHeight;
+      };
     }
   },
   computed: {

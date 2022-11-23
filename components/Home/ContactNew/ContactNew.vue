@@ -17,51 +17,6 @@
       </v-row>
 
       <v-row>
-        <v-col cols="12" md="5" class="px-sm-12">
-          <v-row class="socmed">
-            <v-col cols="2" class="d-flex align-center justify-center">
-              <v-btn icon class="margin">
-                <i class="ion-ios-call-outline"></i>
-              </v-btn>
-            </v-col>
-
-            <v-col cols="10" class="text-start">
-              <h3 class="text-uppercase mb-0">Call Us</h3>
-              <p class="mb-0">+92-992-526915</p>
-            </v-col>
-          </v-row>
-
-          <v-row class="socmed">
-            <v-col cols="2" class="d-flex align-center justify-center">
-              <v-btn icon class="margin">
-                <i class="ion-ios-navigate-outline"></i>
-              </v-btn>
-            </v-col>
-
-            <v-col cols="10" class="text-start">
-              <h3 class="text-uppercase mb-0">Pakistan Office</h3>
-              <p class="mb-0">Office # 14, KPK IT Park, Mandian Abbottabad, Pakistan</p>
-              <br />
-              <h3 class="text-uppercase mb-0">Estonia Office</h3>
-              <p class="mb-0">Tartu, Estonia</p>
-            </v-col>
-          </v-row>
-
-          <v-row class="socmed">
-            <v-col cols="2" class="d-flex align-center justify-center">
-              <v-btn icon class="margin">
-                <i class="ion-ios-mail-outline"></i>
-              </v-btn>
-            </v-col>
-
-            <v-col cols="10" class="text-start">
-              <h3 class="text-uppercase mb-0">Say Hello</h3>
-              <p class="mb-0">contact@codematics.co</p>
-              <p class="mb-0">info@codematics.co</p>
-            </v-col>
-          </v-row>
-        </v-col>
-
         <v-col cols="12" md="7">
           <div class="form-wrap">
             <v-snackbar v-model="openNotif" :timeout="4000" top right>
@@ -97,6 +52,51 @@
               </v-row>
             </v-card>
           </div>
+        </v-col>
+
+        <v-col cols="12" md="5" class="px-sm-12">
+          <v-row class="socmed">
+            <v-col cols="2" class="d-flex align-center justify-center">
+              <v-btn icon class="margin">
+                <i class="ion-ios-call-outline"></i>
+              </v-btn>
+            </v-col>
+
+            <v-col cols="10" class="text-start">
+              <h3 class="text-uppercase mb-0">Call Us</h3>
+              <p class="mb-0">+92-992-526915</p>
+            </v-col>
+          </v-row>
+
+          <v-row class="socmed">
+            <v-col cols="2" class="d-flex align-center justify-center">
+              <v-btn icon class="margin">
+                <i class="ion-ios-navigate-outline"></i>
+              </v-btn>
+            </v-col>
+
+            <v-col cols="10" class="text-start">
+              <h3 class="text-uppercase mb-0">Pakistan Office</h3>
+              <p class="mb-0">Office # 14, KPK IT Park, Mandian Abbottabad, Pakistan</p>
+              <br />
+              <h3 class="text-uppercase mb-0">Estonia (EU) Office</h3>
+              <p class="mb-0">Tartu, Estonia</p>
+            </v-col>
+          </v-row>
+
+          <v-row class="socmed">
+            <v-col cols="2" class="d-flex align-center justify-center">
+              <v-btn icon class="margin">
+                <i class="ion-ios-mail-outline"></i>
+              </v-btn>
+            </v-col>
+
+            <v-col cols="10" class="text-start">
+              <h3 class="text-uppercase mb-0">Say Hello</h3>
+              <p class="mb-0">contact@codematics.co</p>
+              <p class="mb-0">info@codematics.co</p>
+            </v-col>
+          </v-row>
         </v-col>
       </v-row>
     </v-container>

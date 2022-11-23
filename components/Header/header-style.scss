@@ -1,6 +1,6 @@
 $flag: '/images/flag-logo.png';
 
-@mixin flag-icon{
+@mixin flag-icon {
   width: 16px;
   height: 16px;
   border-radius: 50%;
@@ -14,19 +14,19 @@ $flag: '/images/flag-logo.png';
     background-position: 0 3px;
   }
   &.zh {
-    background-position: 0 -12px
+    background-position: 0 -12px;
   }
   &.en {
-    background-position: 0 -28px
+    background-position: 0 -28px;
   }
   &.de {
-    background-position: 0 -44px
+    background-position: 0 -44px;
   }
   &.id {
-    background-position: 0 -62px
+    background-position: 0 -62px;
   }
   &.pt {
-    background-position: 0 -79px
+    background-position: 0 -79px;
   }
 }
 
@@ -34,7 +34,7 @@ $flag: '/images/flag-logo.png';
   @include palette-background-paper;
   width: 200px;
   .v-list {
-    border-radius: 0
+    border-radius: 0;
   }
 }
 
@@ -56,7 +56,7 @@ $flag: '/images/flag-logo.png';
       #main-wrap & {
         padding: 0;
         @include breakpoints-up(md) {
-          padding: 0 $spacing3
+          padding: 0 $spacing3;
         }
       }
     }
@@ -69,7 +69,11 @@ $flag: '/images/flag-logo.png';
     position: fixed;
     top: 0;
     &.v-app-bar.v-toolbar.v-sheet {
-      @include use-theme(box-shadow, 0px 1px 36px -16px $palette-primary-main, 0px 1px 36px -16px $palette-common-black);
+      @include use-theme(
+        box-shadow,
+        0px 1px 36px -16px $palette-primary-main,
+        0px 1px 36px -16px $palette-common-black
+      );
       @include palette-background-paper;
     }
     .vertical-divider {
@@ -78,7 +82,7 @@ $flag: '/images/flag-logo.png';
     ::v-deep .logo {
       img {
         transform: scale(0.7);
-        margin-right: 0
+        margin-right: 0;
       }
     }
     nav {
@@ -86,12 +90,13 @@ $flag: '/images/flag-logo.png';
     }
   }
   &.no-shadow {
-    box-shadow: none !important
+    box-shadow: none !important;
   }
 }
 
-.v-toolbar__content, .v-toolbar__extension {
-  padding: 0
+.v-toolbar__content,
+.v-toolbar__extension {
+  padding: 0;
 }
 
 .header-content {
@@ -103,12 +108,12 @@ $flag: '/images/flag-logo.png';
     align-items: center;
     margin: 3px 0;
     display: flex;
-    @include breakpoints-up(sm) {
+    @include breakpoints-up(xs) {
       padding: $spacing1;
     }
     & > * {
       @include breakpoints-up(sm) {
-        margin: 0 $spacing1
+        margin: 0 $spacing1;
       }
     }
     .menu-setting {
@@ -119,7 +124,7 @@ $flag: '/images/flag-logo.png';
 
 .logo {
   @include breakpoints-between(sm, lg) {
-    flex: 1
+    flex: 1;
   }
   & a {
     text-decoration: none;
@@ -128,7 +133,7 @@ $flag: '/images/flag-logo.png';
   &.start-mobile {
     flex: 0;
     @include breakpoints-down(xs) {
-      margin: spacing(1, 2)
+      margin: spacing(1, 2);
     }
   }
 }
@@ -136,12 +141,12 @@ $flag: '/images/flag-logo.png';
 .nav-menu {
   width: 100%;
   @include breakpoints-down(xs) {
-    justify-content: space-between
+    justify-content: space-between;
   }
   .scrollactive-nav {
     list-style: none;
     @include padding-left($spacing3);
-    .v-btn  {
+    .v-btn {
       margin: 0 $spacing1;
       list-style: none;
       position: relative;
@@ -166,12 +171,12 @@ $flag: '/images/flag-logo.png';
         transition: all 0.3s ease-out;
         background: none;
         &:before {
-          opacity: 0
+          opacity: 0;
         }
         &:after {
           width: 60%;
           @include left(10px);
-          border-bottom-color: $palette-primary-main
+          border-bottom-color: $palette-primary-main;
         }
       }
       &.active {
@@ -188,18 +193,19 @@ $flag: '/images/flag-logo.png';
     & img {
       @include breakpoints-down(xs) {
         height: 32px;
-        width: 32px
+        width: 32px;
       }
     }
   }
 }
 
-.main-menu, .multi-menu  {
+.main-menu,
+.multi-menu {
   flex: 1;
   .v-btn:not(.v-btn--round).v-size--default {
     text-transform: capitalize;
     padding: spacing(1, 1.5);
-    margin: spacing(0, 0.5)
+    margin: spacing(0, 0.5);
   }
 }
 
@@ -223,7 +229,7 @@ $flag: '/images/flag-logo.png';
   border-left: 1px solid;
   @include palette-divider;
   height: 100%;
-  min-height: $spacing6
+  min-height: $spacing6;
 }
 
 .setting {
@@ -232,17 +238,18 @@ $flag: '/images/flag-logo.png';
     @include palette-text-secondary;
   }
   .active {
-    transform: rotate(30deg)
+    transform: rotate(30deg);
   }
 }
 
-.mode-menu, .lang-menu {
-  text-transform: capitalize
+.mode-menu,
+.lang-menu {
+  text-transform: capitalize;
 }
 
 .mode-menu {
   ::v-deep .v-list-item__content {
-    overflow: visible
+    overflow: visible;
   }
 }
 
@@ -251,19 +258,20 @@ $flag: '/images/flag-logo.png';
   justify-content: flex-start;
   label {
     text-transform: capitalize;
-    padding: $spacing1 $spacing2
+    padding: $spacing1 $spacing2;
   }
 }
 
 .v-list-item__content {
-  padding: 0
+  padding: 0;
 }
 
 .mobile-menu {
   @include margin-right($spacing1);
   .bar {
     @include palette-background-text-secondary;
-    &:after, &:before {
+    &:after,
+    &:before {
       @include palette-background-text-secondary;
     }
   }
@@ -275,7 +283,7 @@ $flag: '/images/flag-logo.png';
   padding: spacing(15, 2, 0);
   z-index: 90;
   @include breakpoints-down(xs) {
-    width: 100% !important
+    width: 100% !important;
   }
 }
 
@@ -331,7 +339,7 @@ $flag: '/images/flag-logo.png';
     background: none;
   }
   .container.max-md {
-    max-width: 960px
+    max-width: 960px;
   }
 }
 
@@ -339,12 +347,12 @@ $flag: '/images/flag-logo.png';
   width: 200px;
   height: 78px;
   border-radius: $rounded-small;
-  margin: spacing(0, 1, 2)
+  margin: spacing(0, 1, 2);
 }
 
 .button-item {
   &:after {
-    content: "";
+    content: '';
     width: 100%;
     position: absolute;
     z-index: -1;
@@ -354,7 +362,7 @@ $flag: '/images/flag-logo.png';
     opacity: 0;
     @include palette-background-paper;
   }
-  &[aria-expanded="true"] {
+  &[aria-expanded='true'] {
     &:after {
       opacity: 1;
       height: 560px;
@@ -365,7 +373,9 @@ $flag: '/images/flag-logo.png';
 .v-application.theme--dark {
   .button-item {
     &:after {
-      box-shadow: 0px 1px 3px 0px rgba(64, 64, 64, 1), 0px 1px 1px 0px rgba(42, 42, 42, 1), 0px 2px 1px -1px rgba(20, 20, 20, 1)
+      box-shadow: 0px 1px 3px 0px rgba(64, 64, 64, 1),
+        0px 1px 1px 0px rgba(42, 42, 42, 1),
+        0px 2px 1px -1px rgba(20, 20, 20, 1);
     }
   }
 }
@@ -433,11 +443,11 @@ $flag: '/images/flag-logo.png';
   width: 100%;
   position: fixed;
   z-index: 50;
-  height: 100%
+  height: 100%;
 }
 .hamburger {
   padding: 0;
-  margin: spacing(0, 1)
+  margin: spacing(0, 1);
 }
 
 .hamburger-logo {
@@ -450,7 +460,7 @@ $flag: '/images/flag-logo.png';
   z-index: 90;
   min-width: 300px;
   @include breakpoints-down(xs) {
-    width: 100% !important
+    width: 100% !important;
   }
   .menu {
     padding: spacing(12, 5, 2, 5);
@@ -468,11 +478,15 @@ $flag: '/images/flag-logo.png';
         padding: spacing(2.5, 4);
         height: auto;
         &:before {
-          content: "";
+          content: '';
           position: absolute;
           top: 8px;
           opacity: 0.2;
-          background: linear-gradient(120deg, $palette-secondary-main, $palette-primary-main);
+          background: linear-gradient(
+            120deg,
+            $palette-secondary-main,
+            $palette-primary-main
+          );
           height: 75%;
           width: 0;
           border-radius: $rounded-small;
@@ -482,7 +496,7 @@ $flag: '/images/flag-logo.png';
           color: $palette-primary-main;
           background: none;
           &:before {
-            width: 100%
+            width: 100%;
           }
         }
       }
@@ -496,23 +510,24 @@ $flag: '/images/flag-logo.png';
   }
   .divider-sidebar {
     background: rgba(255, 255, 255, 0.2);
-    margin: spacing(3, 0)
+    margin: spacing(3, 0);
   }
 }
 
-.fade-enter-active, .fade-leave-active {
-  transition: opacity .5s
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.5s;
 }
 .fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
-  opacity: 0
+  opacity: 0;
 }
 
 .nuxt-link-active {
-  color: blue !Important
+  color: blue !important;
 }
 
 .nuxt-link-exact-active {
-  color: orange !important
+  color: orange !important;
 }
 
 .current {
@@ -521,5 +536,5 @@ $flag: '/images/flag-logo.png';
 }
 
 .arrow-icon {
-  @include rtl-flip
+  @include rtl-flip;
 }

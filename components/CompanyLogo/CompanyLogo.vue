@@ -3,11 +3,7 @@
     <v-row>
       <v-col md="12" lg="12" cols="12">
         <slick ref="slick" :options="slickOptions">
-          <img v-for="(logo, index) in logos"
-            :key="index"
-            :src="logo"
-            :alt="'logo' + index"
-            >
+          <img v-for="(logo, index) in logos" :key="index" :src="logo" :alt="'logo' + index">
         </slick>
       </v-col>
     </v-row>
@@ -34,7 +30,7 @@ export default {
   data() {
     return {
       imgAPI: imgAPI,
-       slickOptions: {
+      slickOptions: {
         dots: false,
         infite: true,
         arrows: false,
@@ -42,7 +38,7 @@ export default {
         slidesToScroll: 3,
         variableWidth: false,
         autoplay: true,
-         responsive: [
+        responsive: [
           {
             breakpoint: 1280,
             settings: {
@@ -64,7 +60,7 @@ export default {
           {
             breakpoint: 480,
             settings: {
-              slidesToShow: 1,
+              slidesToShow: 2,
             }
           }
         ]

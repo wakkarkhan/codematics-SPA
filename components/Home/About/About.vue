@@ -3,8 +3,8 @@
     <v-container class="fixed-width">
       <v-row>
         <v-col cols="12" md="12" class="text-center">
-            <h2 class="title-primary">{{ $t('about.section_title') }}</h2>
-            <p class="title-para">{{ $t('about.section_para') }}</p>
+          <h2 class="title-primary">{{ $t('about.section_title') }}</h2>
+          <p class="title-para">{{ $t('about.section_para') }}</p>
         </v-col>
       </v-row>
 
@@ -29,13 +29,13 @@
 </template>
 
 <style lang="scss" scoped>
-  @import './about-style';
-  @import '../../Title/title-style.scss';
+@import './about-style';
+@import '../../Title/title-style.scss';
 
-  .root {
-    background-color: #141618;
-    color: #ffffff;
-  }
+.root {
+  background-color: #1B1D1F;
+  color: #ffffff;
+}
 </style>
 
 <script>

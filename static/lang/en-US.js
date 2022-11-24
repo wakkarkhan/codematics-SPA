@@ -41,6 +41,7 @@ export default () => {
         "register_title": "Nice to meet you :)",
         "register_subtitle": "Just register to join with us",
         "accept": "Accept",
+        "customize": "Customize",
         "header_language": "language",
         "header_theme": "theme mode",
         "header_dark": "dark",

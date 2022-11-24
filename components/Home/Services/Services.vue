@@ -61,7 +61,7 @@
 }
 
 .theme--light .deco:before {
-  box-shadow: -30px 20px 0px 0px var(--v-error-lighten3);
+  box-shadow: -30px 20px 0px 0px #ffa99e !important;
 }
 </style>
 

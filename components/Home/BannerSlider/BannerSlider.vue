@@ -57,7 +57,7 @@
           <div class="inner">
             <v-container>
               <v-row class="text-center">
-                <v-col md="12" lg="12" cols="12" class="px-6 py-5 d-flex align-center justify-center">
+                <v-col sm="12" md="12" lg="12" cols="12" class="px-6 py-5 d-flex align-center justify-center">
                   <div class="text">
                     <h4 class="use-text-title">{{ $t('banner.banner_title_main') }}</h4>
                     <h5 class="use-text-subtitle">{{ $t('banner.banner_subtitle_main') }}</h5>
@@ -73,13 +73,13 @@
           <div class="inner">
             <v-container>
               <v-row>
-                <v-col md="8" lg="6" cols="12" class="px-6 py-5 d-flex flex-column justify-center">
+                <v-col sm="12" md="8" lg="6" cols="12" class="px-6 py-5 d-flex flex-column justify-center">
                   <div class="text py-5">
                     <h4 class="use-text-title">{{ $t('banner.banner_title_kardaan') }}</h4>
                     <h5 class="use-text-subtitle">{{ $t('banner.banner_subtitle_kardaan') }}</h5>
                     <h6 class="use-text-mini"><strong>SIMPLIFYING</strong> lives by providing doorsteps services</h6>
 
-                    <div class="text-center" style="display: inline-flex; width: 100%; margin: 0 auto">
+                    <div class="text-center icons">
                       <a class="icons-play"
                         href="https://play.google.com/store/apps/details?id=codematics.kardaan.ondemand.swiftservices">
                         <img class="mt-0" src="../../../static/images/banner/google-play-outline.png">
@@ -100,14 +100,14 @@
           <div class="inner">
             <v-container>
               <v-row>
-                <v-col md="8" lg="6" cols="12" class="px-6 py-5 d-flex flex-column justify-center">
+                <v-col sm="12" md="8" lg="6" cols="12" class="px-6 py-5 d-flex flex-column justify-center">
                   <div class="text py-5">
                     <h4 class="use-text-title">{{ $t('banner.banner_title_bc') }}</h4>
                     <h5 class="use-text-subtitle">{{ $t('banner.banner_subtitle_bc') }}</h5>
                     <h6 class="use-text-mini"><strong>SAVING</strong> thousands of lives by fullfilling the blood
                       requirment</h6>
 
-                    <div class="text-center" style="display: inline-flex; width: 100%; margin: 0 auto">
+                    <div class="text-center icons">
                       <a class="icons-play"
                         href="https://play.google.com/store/apps/details?id=codematcis.blood.donor.bloodrequest.community">
                         <img class="mt-0" src="../../../static/images/banner/google-play-outline.png">
@@ -128,7 +128,7 @@
           <div class="inner">
             <v-container>
               <v-row>
-                <v-col md="8" lg="6" cols="12" class="px-6 py-5 d-flex flex-column justify-center">
+                <v-col sm="12" md="8" lg="6" cols="12" class="px-6 py-5 d-flex flex-column justify-center">
                   <div class="text py-5">
                     <h4 class="use-text-title">{{ $t('banner.banner_title_plant') }}</h4>
                     <h5 class="use-text-subtitle">{{ $t('banner.banner_subtitle_plant') }}</h5>
@@ -144,13 +144,13 @@
           <div class="inner">
             <v-container>
               <v-row>
-                <v-col md="8" lg="6" cols="12" class="px-6 py-5 d-flex flex-column justify-center">
+                <v-col sm="12" md="8" lg="6" cols="12" class="px-6 py-5 d-flex flex-column justify-center">
                   <div class="text py-5">
                     <h4 class="use-text-title">{{ $t('banner.banner_title_tv') }}</h4>
                     <h5 class="use-text-subtitle">{{ $t('banner.banner_subtitle_tv') }}</h5>
                     <h6 class="use-text-mini"><strong>No.1</strong> TV Remote App in more than 100 countries</h6>
 
-                    <div class="text-center" style="display: inline-flex; width: 100%; margin: 0 auto">
+                    <div class="text-center icons">
                       <a class="icons-play"
                         href="https://play.google.com/store/apps/details?id=codematics.universal.tv.remote.control">
                         <img class="mt-0" src="../../../static/images/banner/google-play-outline.png">
@@ -172,7 +172,7 @@
           <div class="inner">
             <v-container>
               <v-row>
-                <v-col md="8" lg="6" cols="12" class="px-6 py-5 d-flex flex-column justify-center">
+                <v-col sm="12" md="8" lg="6" cols="12" class="px-6 py-5 d-flex flex-column justify-center">
                   <div class="text py-5">
                     <h4 class="use-text-title">{{ $t('banner.banner_title_urraan') }}</h4>
                     <h5 class="use-text-subtitle">{{ $t('banner.banner_subtitle_urraan') }}</h5>
@@ -261,61 +261,109 @@ strong {
   margin-left: 10px !important;
 }
 
-@media (max-width: 600px) {
+#slide1,
+#slide2,
+#slide3,
+#slide4,
+#slide5,
+#slide6 {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+#slide6 {
+  background-image: url(../../../static/images/banner/urraan-small.jpg);
+}
+
+#slide5 {
+  background-image: url(../../../static/images/banner/tv-small.jpg);
+}
+
+#slide4 {
+  background-image: url(../../../static/images/banner/plantation-small.jpg);
+}
+
+#slide3 {
+  background-image: url(../../../static/images/banner/blood-community-small.jpg);
+}
+
+#slide2 {
+  background-image: url(../../../static/images/banner/kardaan-small.jpg);
+}
+
+#slide1 {
+  background-image: url(../../../static/images/banner/main.jpg);
+}
+
+@include breakpoints-up(xs) {
+  .icons {
+    display: inline-flex;
+    margin: 0 auto;
+    justify-content: center;
+  }
+
   .icons-play {
-    width: 50% !important;
-    height: 50% !important;
+    width: 40% !important;
+    height: 40% !important;
   }
 
   .services {
-    width: 336px !important;
-    height: 43px !important;
+    width: 100% !important;
+    margin-top: 0 !important;
   }
 
   img {
     margin-top: 0px;
   }
-
-  // #slide1,
-  // #slide2,
-  // #slide3,
-  // #slide4,
-  // #slide5,
-  // #slide6 {
-  //   background-image: url(../../../static/images/banner/main.jpg);
-  //   background-repeat: no-repeat;
-  //   background-position: center center;
-  //   background-attachment: scroll;
-  //   background-size: cover;
-  // }
 }
 
-@media (min-width: 992px) {
+@include breakpoints-up(sm) {
+  .use-text-title {
+    font-size: 80px !important;
+  }
+
+  .icons-play {
+    width: 80% !important;
+    height: 80% !important;
+  }
+
+  .slide img {
+    margin: 0 !important;
+  }
+
+  .icons a:first-child>img {
+    margin-left: auto !important;
+  }
+
+  .icons a:last-child {
+    justify-content: start !important;
+  }
+
+  .text-center {
+    padding-top: 20px !important;
+  }
+}
+
+// The following changes show at the `md` breakpoint
+@include breakpoints-up(md) {
+  .icons {
+    justify-content: start;
+  }
+
   .text-center {
     padding-top: 30px !important;
+  }
+
+
+  .use-text-title {
+    font-size: 90px !important;
   }
 
   .icons-play {
     width: 25% !important;
     height: 25% !important;
-  }
-
-  .services {
-    width: 394px !important;
-    height: 51px !important;
-    margin-top: 0px !important;
-  }
-
-  #slide1,
-  #slide2,
-  #slide3,
-  #slide4,
-  #slide5,
-  #slide6 {
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: scroll;
-    background-size: cover;
   }
 
   #slide6 {
@@ -341,7 +389,10 @@ strong {
   #slide1 {
     background-image: url(../../../static/images/banner/main.jpg);
   }
+}
 
+// The following changes show at the `lg` breakpoint
+@include breakpoints-up(lg) {
   .use-text-title {
     font-size: 100px !important;
   }

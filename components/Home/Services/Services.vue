@@ -93,8 +93,8 @@ export default {
         arrows: false,
         slidesToScroll: 1,
         variableWidth: true,
-        autoPlay: true,
-        autoPlaySpeed: 1500,
+        autoplay: true,
+        autoplaySpeed: 2000,
         responsive: [
           {
             breakpoint: 800,

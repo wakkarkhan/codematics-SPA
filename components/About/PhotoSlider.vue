@@ -110,8 +110,10 @@ export default {
         dots: false,
         arrows: false,
         slidesToShow: 3,
-        infinite: false,
+        slidesToScroll: 1,
+        infinite: true,
         autoplay: true,
+        autoplaySpeed: 1500,
         responsive: [
           {
             breakpoint: 800,

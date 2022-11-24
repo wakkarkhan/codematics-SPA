@@ -1,6 +1,7 @@
 <template>
   <div class="banner-wrap">
     <div class="carousel" v-if="loaded">
+
       <slick class="slider-deco" ref="sliderDeco" :options="slickOptionsDeco">
         <div class="slide" :class="{ cur: currentSlide === 0 }">
           <!-- <div class="inner">
@@ -51,6 +52,10 @@
           </div> -->
         </div>
       </slick>
+
+      <v-btn icon class="nav prev" @click="slickPrev()">
+        <v-icon large>mdi-arrow-left</v-icon>
+      </v-btn>
 
       <slick class="slider" ref="slider" :options="slickOptions" @afterChange="handleAfterChange">
         <div class="slide slideBanner" id="slide1">
@@ -191,12 +196,32 @@
           </div>
         </div>
       </slick>
+
+      <v-btn icon class="nav next" @click="slickNext()">
+        <v-icon large>mdi-arrow-right</v-icon>
+      </v-btn>
     </div>
   </div>
 </template>
 
 <style scoped lang="scss">
 @import './banner-styles';
+
+.nav {
+  position: absolute;
+  top: 50%;
+  font-size: 38px;
+}
+
+.prev {
+  left: 5px;
+  z-index: 1;
+}
+
+.next {
+  right: 5px;
+  z-index: 1;
+}
 
 .use-text-title {
   text-transform: uppercase !important;
@@ -297,6 +322,7 @@ strong {
   background-image: url(../../../static/images/banner/main.jpg);
 }
 
+// The following changes show at the `xs` breakpoint and up
 @include breakpoints-up(xs) {
   .icons {
     display: inline-flex;
@@ -319,6 +345,7 @@ strong {
   }
 }
 
+// The following changes show at the `sm` breakpoint and up
 @include breakpoints-up(sm) {
   .use-text-title {
     font-size: 80px !important;
@@ -346,7 +373,7 @@ strong {
   }
 }
 
-// The following changes show at the `md` breakpoint
+// The following changes show at the `md` breakpoint and up
 @include breakpoints-up(md) {
   .icons {
     justify-content: start;
@@ -391,10 +418,17 @@ strong {
   }
 }
 
-// The following changes show at the `lg` breakpoint
+// The following changes show at the `lg` breakpoint and up
 @include breakpoints-up(lg) {
   .use-text-title {
     font-size: 100px !important;
+  }
+}
+
+// The following changes show at the `sm` breakpoint and down
+@include breakpoints-down(sm) {
+  .nav {
+    display: none;
   }
 }
 </style>
@@ -415,13 +449,13 @@ export default {
       link: link,
       imgAPI: imgAPI,
       slickOptions: {
-        dots: true,
+        dots: false,
         arrows: false,
         speed: 800,
         slidesToShow: 1,
         slidesToScroll: 1,
         infinite: true,
-        autoplay: false,
+        autoplay: true,
         autoplaySpeed: 1500,
         cssEase: 'ease-out',
         asNavFor: '.slider-deco',
@@ -476,6 +510,12 @@ export default {
     },
     gotoSlide(index) {
       this.$refs.slider.goTo(index)
+    },
+    slickNext() {
+      this.$refs.slider.next()
+    },
+    slickPrev() {
+      this.$refs.slider.prev()
     },
   },
   computed: {

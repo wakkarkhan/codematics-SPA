@@ -1,20 +1,22 @@
 .deco {
   @include breakpoints-up(lg) {
-    width: 450px
+    width: 450px;
   }
   ::v-deep img {
     position: relative;
     width: 100%;
+    left: 15px;
+    bottom: 37px;
   }
   &:before {
-    content: "";
-    width: 480px;
-    height: 480px;
+    content: '';
+    width: 440px;
+    height: 440px;
     .theme--dark & {
-      background: $dark-background-default
+      background: $dark-background-default;
     }
     .theme--light & {
-      background: $light-background-paper
+      background: $light-background-paper;
     }
     border-radius: 24px;
     .v-application--is-rtl & {
@@ -24,20 +26,21 @@
       transform: rotate(45deg);
     }
     position: absolute;
-    top: $spacing15;
+    // top: $spacing15;
+    top: $spacing7;
     right: $spacing10;
     @include breakpoints-down(sm) {
-      display: none
+      display: none;
     }
   }
   .theme--dark & {
     &:before {
-      box-shadow: -30px 20px 0px 0px $palette-secondary-dark
+      box-shadow: -30px 20px 0px 0px $palette-secondary-dark;
     }
   }
   .theme--light & {
     &:before {
-      box-shadow: -30px 20px 0px 0px $palette-secondary-light
+      box-shadow: -30px 20px 0px 0px $palette-secondary-light;
     }
   }
 }
@@ -51,5 +54,5 @@
 
 .fade {
   opacity: 0.15;
-  filter: blur(10px)
+  filter: blur(10px);
 }

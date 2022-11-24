@@ -57,9 +57,10 @@
       <hidden point="smDown">
         <corner />
       </hidden>
-      <hidden point="xsDown">
-        <notification />
-      </hidden>
+      <notification />
+
+      <!-- <hidden point="xsDown">
+      </hidden> -->
     </div>
   </div>
 </template>

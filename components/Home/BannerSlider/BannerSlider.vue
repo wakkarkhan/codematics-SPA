@@ -451,12 +451,12 @@ export default {
       slickOptions: {
         dots: false,
         arrows: false,
-        speed: 800,
+        speed: 1000,
         slidesToShow: 1,
         slidesToScroll: 1,
         infinite: true,
         autoplay: true,
-        autoplaySpeed: 1500,
+        autoplaySpeed: 5000,
         cssEase: 'ease-out',
         asNavFor: '.slider-deco',
         responsive: [

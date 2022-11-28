@@ -38,6 +38,7 @@ export default {
         slidesToScroll: 3,
         variableWidth: false,
         autoplay: true,
+        autoplaySpeed: 5000,
         responsive: [
           {
             breakpoint: 1280,

@@ -138,7 +138,7 @@ const imgAPI = {
     '/images/agency/services.png',
     '/images/agency/services_3D@2x.png',
 
-    '/images/agency/testimonials_2D@2x.png',
+    '/images/agency/team.png',
     '/images/agency/testimonials_3D@2x.png',
 
     '/images/agency/register_2D@2x.png',

@@ -3,14 +3,14 @@
     <u-animate-container>
       <v-container class="carousel-header">
         <v-row>
-          <v-col cols="12" md="12" >
-              <h2 class="title-primary">{{ $t('team.section_title') }}</h2>
-              <p class="title-para2">{{ $t('team.section_para') }}</p>
+          <v-col cols="12" md="12">
+            <h2 class="title-primary">{{ $t('team.section_title') }}</h2>
+            <p class="title-para2">{{ $t('team.section_para') }}</p>
           </v-col>
         </v-row>
       </v-container>
 
-      <TeamSlider/>
+      <PhotoSliderTeam />
     </u-animate-container>
   </div>
 </template>
@@ -18,28 +18,28 @@
 <style lang="scss" scoped>
 @import './our-team-style.scss';
 @import '../../Title/title-style.scss';
-  .root {
-    background: #ffffff !important;
-  }
 
-  .root::before {
-    background: #ffffff !important;
-    opacity: 0.8 !important;
-  }
+.root {
+  background: var(--v-primary-lighten5) !important;
+}
+
+.theme--light .deco:before {
+  box-shadow: -30px 20px 0px 0px #ffa99e !important;
+}
 </style>
 
 <script>
 import TitleDeco from '../../Title/WithDecoration'
-import TeamSlider from '../../About/TeamSlider.vue'
+import PhotoSliderTeam from '../../About/PhotoSliderTeam.vue'
 
 export default {
   components: {
     TitleDeco,
-    TeamSlider
+    PhotoSliderTeam,
   },
   data() {
     return {
-      loaded: false
+      loaded: false,
     }
   },
   mounted() {

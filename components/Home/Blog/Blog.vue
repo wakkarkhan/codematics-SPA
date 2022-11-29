@@ -9,15 +9,23 @@
           </v-col>
         </v-row>
 
-        <div class="gallery-root">
+        <div class="gallery-root mt-4">
           <div class="carousel" v-if="loaded">
             <slick ref="slider" :options="slickOptions">
               <div v-for="(item, index) in blogList" :key="index" class="item px-3">
-                <news-card :img="item.img" :title="item.title" orientation="portrait" type="full" />
+                <news-card :img="item.img" :title="item.title" orientation="portrait" type="over" />
               </div>
             </slick>
           </div>
         </div>
+
+        <v-row class="justify-space-around">
+          <v-col cols="2">
+            <v-btn :href=link.agency.blog target="_blank" block class="button" color="primary">
+              {{ $t('common.btn_blog') }}
+            </v-btn>
+          </v-col>
+        </v-row>
       </v-container>
     </fragment>
   </div>
@@ -29,13 +37,14 @@
 @import '../../Blog/blog-style.scss';
 
 .root {
-  background: var(--v-primary-lighten5) !important;
+  // background: var(--v-primary-lighten5) !important;
 }
 </style>
 
 <script>
 import NewsCard from '../../Cards/NewsCard.vue'
 import imgAPI from '~/static/images/imgAPI'
+import link from '~/static/text/link'
 
 export default {
   components: {
@@ -45,25 +54,26 @@ export default {
   data() {
     return {
       imgAPI: imgAPI,
+      link: link,
       index: 0,
       item: 0,
       loaded: false,
       blogList: [
         {
           title: "Smart TV Remote Control for iOS",
-          img: imgAPI.team[1],
+          img: imgAPI.blog[0],
         },
         {
-          title: "Smart TV Remote Control for iOS",
-          img: imgAPI.team[1],
+          title: "CV Builder App",
+          img: imgAPI.blog[1],
         },
         {
-          title: "Smart TV Remote Control for iOS",
-          img: imgAPI.team[1],
+          title: "Blood Community Pakistan - Our Mission and Vision",
+          img: imgAPI.blog[2],
         },
         {
-          title: "Smart TV Remote Control for iOS",
-          img: imgAPI.team[1],
+          title: "Fund Raising Record Keeping",
+          img: imgAPI.blog[3],
         },
       ],
       slickOptions: {

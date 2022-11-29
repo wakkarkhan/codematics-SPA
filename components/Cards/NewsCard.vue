@@ -4,18 +4,18 @@
       <v-img :src="img" class="white--text" height="200px" />
     </div>
     <div :class="startPadding" class="properties">
-      <v-card-subtitle class="head-line">
+      <!-- <v-card-subtitle class="head-line">
         {{ headline }}
-      </v-card-subtitle>
+      </v-card-subtitle> -->
       <v-card-title class="news-title">
         {{ title }}
       </v-card-title>
-      <v-card-actions>
+      <!-- <v-card-actions>
         <v-spacer v-if="orientation === 'portrait'" />
         <v-btn :small="orientation === 'landscape'" :href="href" text class="action-btn" color="primary">
           {{ $t('common.btn_read_more') }}
         </v-btn>
-      </v-card-actions>
+      </v-card-actions> -->
     </div>
   </v-card>
 </template>

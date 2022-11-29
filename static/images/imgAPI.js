@@ -94,6 +94,12 @@ const imgAPI = {
     '/images/logos/12.png',
     '/images/logos/13.png',
   ],
+  blog: [
+    '/images/blog/smart-tv.jpg',
+    '/images/blog/cv-app.png',
+    '/images/blog/blood.jpg',
+    '/images/blog/fundometer.jpg',
+  ],
   team: [
     '/images/team/cover-1.jpg',
     '/images/team/pic1.png',

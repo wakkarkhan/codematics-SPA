@@ -1,37 +1,14 @@
 <template>
   <fragment>
-    <v-navigation-drawer
-      v-if="isTablet"
-      v-model="openNavMobile"
-      fixed
-      temporary
-      class="mobile-nav"
-    >
-      <mobile-menu
-        :data-menu="dataMenu"
-        :single-nav="home"
-      />
+    <v-navigation-drawer v-if="isTablet" v-model="openNavMobile" fixed temporary class="mobile-nav">
+      <mobile-menu :data-menu="dataMenu" :single-nav="home" />
     </v-navigation-drawer>
-    <v-app-bar
-      v-scroll="handleScroll"
-      :class="{ fixed: fixed }"
-      class="header"
-      fixed
-      dense
-      app
-      height="auto"
-    >
+    <v-app-bar v-scroll="handleScroll" :class="{ fixed: fixed }" class="header" fixed dense app height="auto">
       <v-container>
         <div class="header-content">
           <nav class="nav-menu">
-            <v-btn
-              v-if="isTablet"
-              :class="{ 'is-active': openNavMobile }"
-              class="hamburger hamburger--spin mobile-menu"
-              icon
-              small
-              @click.stop="handleToggleOpen"
-            >
+            <v-btn v-if="isTablet" :class="{ 'is-active': openNavMobile }" class="hamburger hamburger--spin mobile-menu"
+              icon small @click.stop="handleToggleOpen">
               <span class="hamburger-box">
                 <span class="bar hamburger-inner" />
               </span>
@@ -42,10 +19,7 @@
               </a>
             </div>
             <div class="main-menu text-right" v-if="loaded && isDesktop">
-              <header-menu
-                :data-menu="dataMenu"
-                :single-nav="home"
-              />
+              <header-menu :data-menu="dataMenu" :single-nav="home" />
             </div>
           </nav>
         </div>
@@ -92,8 +66,8 @@ export default {
         createData(navMenu[2], '#' + navMenu[2]),
         createData(navMenu[3], '#' + navMenu[3],),
         createData(navMenu[4], '#' + navMenu[4],),
-        createData(navMenu[5], '#' + navMenu[5], -40),
-        // createData(navMenu[6], '#' + navMenu[6], -40)
+        createData(navMenu[5], '#' + navMenu[5],),
+        createData(navMenu[6], '#' + navMenu[6], -40)
       ]
     }
   },
@@ -101,13 +75,13 @@ export default {
     this.loaded = true
   },
   methods: {
-    handleScroll: function() {
+    handleScroll: function () {
       if (window.scrollY > 100) {
         return (this.fixed = true)
       }
       return (this.fixed = false)
     },
-    handleToggleOpen: function() {
+    handleToggleOpen: function () {
       this.openNavMobile = !this.openNavMobile
     }
   },

@@ -266,7 +266,7 @@ export default {
         slidesToShow: 4,
         slidesToScroll: 1,
         infinite: true,
-        autoplay: false,
+        autoplay: true,
         autoplaySpeed: 5000,
         variableWidth: false,
         responsive: [

@@ -19,10 +19,12 @@
   padding: $spacing2;
   max-width: 100%;
   overflow: hidden;
+
   strong {
     display: block;
   }
-  & > div {
+
+  &>div {
     padding-left: 0;
     padding-right: 0;
   }
@@ -40,7 +42,9 @@
 }
 
 .news-title {
-  line-height: 1.5
+  line-height: 1.5;
+  letter-spacing: 0 !important;
+  word-break: initial !important;
 }
 
 .post-title {
@@ -64,6 +68,7 @@
 
 .portrait {
   flex-direction: column;
+
   .properties {
     padding-left: $spacing2;
     padding-right: $spacing2;
@@ -72,25 +77,31 @@
 
 .landscape {
   flex-direction: row;
+
   .figure {
-     @include breakpoints-up(sm) {
+    @include breakpoints-up(sm) {
       min-width: 150px;
       max-width: 150px;
     }
+
     @include breakpoints-down(xs) {
       max-width: 120px;
       max-height: 120px;
     }
+
     @include margin-right($spacing2);
-    & > div {
+
+    &>div {
       height: 100% !important;
     }
   }
+
   .desc {
     @include breakpoints-down(xs) {
       display: none;
     }
   }
+
   .properties {
     @include breakpoints-down(xs) {
       padding: $spacing1;
@@ -98,6 +109,7 @@
       display: flex;
       flex-direction: column;
       justify-content: center;
+
       ::v-deep {
         .v-card__subtitle {
           padding: 0
@@ -105,14 +117,17 @@
       }
     }
   }
+
   .v-btn--text {
     margin-left: $spacing1 * -1
   }
+
   .v-btn.action-btn:not(.v-btn--text) {
     @include breakpoints-down(md) {
       min-width: 0;
     }
   }
+
   .news-title {
     @include breakpoints-down(xs) {
       text-overflow: ellipsis;
@@ -126,7 +141,7 @@
 
 /* Type */
 
-.full { 
+.full {
   overflow: hidden;
   position: relative;
 }
@@ -137,6 +152,7 @@
     overflow: hidden;
     border-radius: $rounded-medium
   }
+
   &.landscape {
     .figure {
       @include breakpoints-down(xs) {
@@ -148,6 +164,7 @@
 
 .oval {
   overflow: hidden;
+
   &.portrait {
     .figure {
       height: 250px;
@@ -155,16 +172,19 @@
       margin-left: -10%;
       overflow: hidden;
       border-radius: 0 0 50% 50%;
-      & > div {
+
+      &>div {
         overflow: visible;
         height: auto !important;
       }
     }
   }
+
   &.landscape {
     .figure {
       overflow: hidden;
-      & > div {
+
+      &>div {
         border-radius: 0 50% 50% 0 !important;
         height: 120% !important;
         margin-top: -10%;
@@ -176,6 +196,7 @@
 .over {
   &.portrait {
     margin-top: $spacing2;
+
     .figure {
       overflow: hidden;
       @include shade;
@@ -183,8 +204,10 @@
       border-radius: $rounded-medium;
     }
   }
+
   &.landscape {
     @include margin-left($spacing2);
+
     .figure {
       height: 210px;
       overflow: hidden;

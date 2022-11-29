@@ -10,44 +10,23 @@
         </v-row>
         <v-row class="mt-8">
           <v-col md="6" cols="12" class="px-3">
-            <post-card
-              :href="link.agency.blogDetail"
-              :img="imgAPI.photo[37]"
-              title="Maecenas rutrum dolor sed nisi"
-              desc="Proin pretium arcu eget metus porta consectetur Pellentesque habitant"
-              date="12 Nov 2020"
-              orientation="landscape"
-              type="round"
-            />
+            <post-card :href="link.agency.blogDetail" :img="imgAPI.photo[37]" title="Maecenas rutrum dolor sed nisi"
+              desc="Proin pretium arcu eget metus porta consectetur Pellentesque habitant" date="12 Nov 2020"
+              orientation="landscape" type="round" />
           </v-col>
           <v-col md="6" cols="12" class="px-4">
-            <post-card
-              :href="link.agency.blogDetail"
-              :img="imgAPI.photo[36]"
-              title="Maecenas rutrum dolor sed nisi"
-              desc="Proin pretium arcu eget metus porta consectetur Pellentesque habitant"
-              date="12 Nov 2020"
-              orientation="landscape"
-              type="round"
-            />
+            <post-card :href="link.agency.blogDetail" :img="imgAPI.photo[36]" title="Maecenas rutrum dolor sed nisi"
+              desc="Proin pretium arcu eget metus porta consectetur Pellentesque habitant" date="12 Nov 2020"
+              orientation="landscape" type="round" />
           </v-col>
         </v-row>
         <v-row class="mt-6">
           <v-col md="8">
-            <div
-              v-for="index in 6"
-              :key="index"
-              :class="{ 'mt-15': index > 1 }"
-            >
-              <post-card
-                :href="link.agency.blogDetail"
-                :img="imgAPI.photo[30+index]"
+            <div v-for="index in 6" :key="index" :class="{ 'mt-15': index > 1 }">
+              <post-card :href="link.agency.blogDetail" :img="imgAPI.photo[30 + index]"
                 title="Maecenas rutrum dolor sed nisi"
                 desc="Maecenas rutrum dolor sed nisi maximus rhoncus. Nunc vel dignissim enim. Proin pretium arcu eget"
-                date="12 Nov 2020"
-                orientation="portrait"
-                type="over"
-              />
+                date="12 Nov 2020" orientation="portrait" type="over" />
             </div>
             <div class="arrow">
               <v-row justify="space-between" class="mt-5">

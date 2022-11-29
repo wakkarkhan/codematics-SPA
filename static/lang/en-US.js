@@ -252,6 +252,10 @@ export default () => {
         "section_title": 'Contact',
         "section_subtitle": "Let's Get Connected",
         "section_para": 'We deliver projects worldwide. Our core clients are from North America, Europe and Australia. Feel free to connect.',
+      },
+      blog: {
+        "section_title": 'Latest News',
+        "section_para": 'We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services.'
       }
     })
   })

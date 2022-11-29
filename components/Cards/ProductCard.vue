@@ -1,19 +1,22 @@
 <template>
   <v-card :class="[orientation, type]" class="product-card">
+
     <a :href="href" v-ripple class="hidden-link">&nbsp;</a>
+
     <figure>
       <img :src="img" :alt="title" />
     </figure>
+
     <div class="desc">
       <div class="text">
         <h6 class="title pb-2 text-truncate">{{ title }}</h6>
         <p class="use-text-paragraph">{{ desc }}</p>
       </div>
+
       <div>
-        
-      <!-- <v-btn :href="href" block class="button" color="primary">
-        {{ $t('common.btn_detail') }}
-      </v-btn> -->
+        <v-btn :href=href target="_blank" block class="button" color="primary">
+          {{ $t('common.btn_detail') }}
+        </v-btn>
       </div>
     </div>
   </v-card>

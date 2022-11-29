@@ -1,15 +1,7 @@
 <template>
-  <v-card
-    :class="[orientation, type]"
-    class="post-card mx-auto"
-    max-width="1000"
-  >
+  <v-card :class="[orientation, type]" class="post-card mx-auto" max-width="1000">
     <div class="figure">
-      <v-img
-        :src="img"
-        class="white--text"
-        height="200px"
-      />
+      <v-img :src="img" class="white--text" height="200px" />
     </div>
     <div :class="startPadding" class="properties">
       <v-card-subtitle class="head-line">
@@ -20,13 +12,7 @@
       </v-card-title>
       <v-card-actions>
         <v-spacer v-if="orientation === 'portrait'" />
-        <v-btn
-          :small="orientation === 'landscape'"
-          :href="href"
-          text
-          class="action-btn"
-          color="primary"
-        >
+        <v-btn :small="orientation === 'landscape'" :href="href" text class="action-btn" color="primary">
           {{ $t('common.btn_read_more') }}
         </v-btn>
       </v-card-actions>

@@ -5,15 +5,20 @@ import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
 const _21ff4601 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _7c8c9bfd = () => interopDefault(import('..\\pages\\3D-modeling-and-animation\\index.vue' /* webpackChunkName: "pages/3D-modeling-and-animation/index" */))
 const _ae99e474 = () => interopDefault(import('..\\pages\\about\\index.vue' /* webpackChunkName: "pages/about/index" */))
 const _50fce8c9 = () => interopDefault(import('..\\pages\\blank-page.vue' /* webpackChunkName: "pages/blank-page" */))
 const _61d3f45f = () => interopDefault(import('..\\pages\\blog\\index.vue' /* webpackChunkName: "pages/blog/index" */))
 const _6f7622a3 = () => interopDefault(import('..\\pages\\collection\\index.vue' /* webpackChunkName: "pages/collection/index" */))
 const _34980513 = () => interopDefault(import('..\\pages\\contact\\index.vue' /* webpackChunkName: "pages/contact/index" */))
+const _96651ebc = () => interopDefault(import('..\\pages\\digital-marketing\\index.vue' /* webpackChunkName: "pages/digital-marketing/index" */))
+const _7ff0c6e1 = () => interopDefault(import('..\\pages\\game-development\\index.vue' /* webpackChunkName: "pages/game-development/index" */))
+const _7d5da058 = () => interopDefault(import('..\\pages\\graphic-designing\\index.vue' /* webpackChunkName: "pages/graphic-designing/index" */))
 const _28b22dd0 = () => interopDefault(import('..\\pages\\login.vue' /* webpackChunkName: "pages/login" */))
+const _ae82bac6 = () => interopDefault(import('..\\pages\\mobile-app-development\\index.vue' /* webpackChunkName: "pages/mobile-app-development/index" */))
 const _913a95ec = () => interopDefault(import('..\\pages\\privacy-policy\\index.vue' /* webpackChunkName: "pages/privacy-policy/index" */))
 const _5a3f0e78 = () => interopDefault(import('..\\pages\\register.vue' /* webpackChunkName: "pages/register" */))
-const _808ed8da = () => interopDefault(import('..\\pages\\services-detail\\index.vue' /* webpackChunkName: "pages/services-detail/index" */))
+const _0a22aa9e = () => interopDefault(import('..\\pages\\web-development\\index.vue' /* webpackChunkName: "pages/web-development/index" */))
 const _a88890ce = () => interopDefault(import('..\\pages\\about\\team.vue' /* webpackChunkName: "pages/about/team" */))
 const _49723d6b = () => interopDefault(import('..\\pages\\blog\\detail-blog.vue' /* webpackChunkName: "pages/blog/detail-blog" */))
 const _758cd872 = () => interopDefault(import('..\\pages\\collection\\detail-product.vue' /* webpackChunkName: "pages/collection/detail-product" */))
@@ -60,6 +65,10 @@ export const routerOptions = {
     component: _21ff4601,
     name: "index___zh"
   }, {
+    path: "/ar/3D-modeling-and-animation",
+    component: _7c8c9bfd,
+    name: "3D-modeling-and-animation___ar"
+  }, {
     path: "/ar/about",
     component: _ae99e474,
     name: "about___ar"
@@ -80,9 +89,25 @@ export const routerOptions = {
     component: _34980513,
     name: "contact___ar"
   }, {
+    path: "/ar/digital-marketing",
+    component: _96651ebc,
+    name: "digital-marketing___ar"
+  }, {
+    path: "/ar/game-development",
+    component: _7ff0c6e1,
+    name: "game-development___ar"
+  }, {
+    path: "/ar/graphic-designing",
+    component: _7d5da058,
+    name: "graphic-designing___ar"
+  }, {
     path: "/ar/login",
     component: _28b22dd0,
     name: "login___ar"
+  }, {
+    path: "/ar/mobile-app-development",
+    component: _ae82bac6,
+    name: "mobile-app-development___ar"
   }, {
     path: "/ar/privacy-policy",
     component: _913a95ec,
@@ -92,9 +117,13 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___ar"
   }, {
-    path: "/ar/services-detail",
-    component: _808ed8da,
-    name: "services-detail___ar"
+    path: "/ar/web-development",
+    component: _0a22aa9e,
+    name: "web-development___ar"
+  }, {
+    path: "/de/3D-modeling-and-animation",
+    component: _7c8c9bfd,
+    name: "3D-modeling-and-animation___de"
   }, {
     path: "/de/about",
     component: _ae99e474,
@@ -116,9 +145,25 @@ export const routerOptions = {
     component: _34980513,
     name: "contact___de"
   }, {
+    path: "/de/digital-marketing",
+    component: _96651ebc,
+    name: "digital-marketing___de"
+  }, {
+    path: "/de/game-development",
+    component: _7ff0c6e1,
+    name: "game-development___de"
+  }, {
+    path: "/de/graphic-designing",
+    component: _7d5da058,
+    name: "graphic-designing___de"
+  }, {
     path: "/de/login",
     component: _28b22dd0,
     name: "login___de"
+  }, {
+    path: "/de/mobile-app-development",
+    component: _ae82bac6,
+    name: "mobile-app-development___de"
   }, {
     path: "/de/privacy-policy",
     component: _913a95ec,
@@ -128,9 +173,13 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___de"
   }, {
-    path: "/de/services-detail",
-    component: _808ed8da,
-    name: "services-detail___de"
+    path: "/de/web-development",
+    component: _0a22aa9e,
+    name: "web-development___de"
+  }, {
+    path: "/en/3D-modeling-and-animation",
+    component: _7c8c9bfd,
+    name: "3D-modeling-and-animation___en"
   }, {
     path: "/en/about",
     component: _ae99e474,
@@ -152,9 +201,25 @@ export const routerOptions = {
     component: _34980513,
     name: "contact___en"
   }, {
+    path: "/en/digital-marketing",
+    component: _96651ebc,
+    name: "digital-marketing___en"
+  }, {
+    path: "/en/game-development",
+    component: _7ff0c6e1,
+    name: "game-development___en"
+  }, {
+    path: "/en/graphic-designing",
+    component: _7d5da058,
+    name: "graphic-designing___en"
+  }, {
     path: "/en/login",
     component: _28b22dd0,
     name: "login___en"
+  }, {
+    path: "/en/mobile-app-development",
+    component: _ae82bac6,
+    name: "mobile-app-development___en"
   }, {
     path: "/en/privacy-policy",
     component: _913a95ec,
@@ -164,9 +229,13 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___en"
   }, {
-    path: "/en/services-detail",
-    component: _808ed8da,
-    name: "services-detail___en"
+    path: "/en/web-development",
+    component: _0a22aa9e,
+    name: "web-development___en"
+  }, {
+    path: "/id/3D-modeling-and-animation",
+    component: _7c8c9bfd,
+    name: "3D-modeling-and-animation___id"
   }, {
     path: "/id/about",
     component: _ae99e474,
@@ -188,9 +257,25 @@ export const routerOptions = {
     component: _34980513,
     name: "contact___id"
   }, {
+    path: "/id/digital-marketing",
+    component: _96651ebc,
+    name: "digital-marketing___id"
+  }, {
+    path: "/id/game-development",
+    component: _7ff0c6e1,
+    name: "game-development___id"
+  }, {
+    path: "/id/graphic-designing",
+    component: _7d5da058,
+    name: "graphic-designing___id"
+  }, {
     path: "/id/login",
     component: _28b22dd0,
     name: "login___id"
+  }, {
+    path: "/id/mobile-app-development",
+    component: _ae82bac6,
+    name: "mobile-app-development___id"
   }, {
     path: "/id/privacy-policy",
     component: _913a95ec,
@@ -200,9 +285,13 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___id"
   }, {
-    path: "/id/services-detail",
-    component: _808ed8da,
-    name: "services-detail___id"
+    path: "/id/web-development",
+    component: _0a22aa9e,
+    name: "web-development___id"
+  }, {
+    path: "/pt/3D-modeling-and-animation",
+    component: _7c8c9bfd,
+    name: "3D-modeling-and-animation___pt"
   }, {
     path: "/pt/about",
     component: _ae99e474,
@@ -224,9 +313,25 @@ export const routerOptions = {
     component: _34980513,
     name: "contact___pt"
   }, {
+    path: "/pt/digital-marketing",
+    component: _96651ebc,
+    name: "digital-marketing___pt"
+  }, {
+    path: "/pt/game-development",
+    component: _7ff0c6e1,
+    name: "game-development___pt"
+  }, {
+    path: "/pt/graphic-designing",
+    component: _7d5da058,
+    name: "graphic-designing___pt"
+  }, {
     path: "/pt/login",
     component: _28b22dd0,
     name: "login___pt"
+  }, {
+    path: "/pt/mobile-app-development",
+    component: _ae82bac6,
+    name: "mobile-app-development___pt"
   }, {
     path: "/pt/privacy-policy",
     component: _913a95ec,
@@ -236,9 +341,13 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___pt"
   }, {
-    path: "/pt/services-detail",
-    component: _808ed8da,
-    name: "services-detail___pt"
+    path: "/pt/web-development",
+    component: _0a22aa9e,
+    name: "web-development___pt"
+  }, {
+    path: "/zh/3D-modeling-and-animation",
+    component: _7c8c9bfd,
+    name: "3D-modeling-and-animation___zh"
   }, {
     path: "/zh/about",
     component: _ae99e474,
@@ -260,9 +369,25 @@ export const routerOptions = {
     component: _34980513,
     name: "contact___zh"
   }, {
+    path: "/zh/digital-marketing",
+    component: _96651ebc,
+    name: "digital-marketing___zh"
+  }, {
+    path: "/zh/game-development",
+    component: _7ff0c6e1,
+    name: "game-development___zh"
+  }, {
+    path: "/zh/graphic-designing",
+    component: _7d5da058,
+    name: "graphic-designing___zh"
+  }, {
     path: "/zh/login",
     component: _28b22dd0,
     name: "login___zh"
+  }, {
+    path: "/zh/mobile-app-development",
+    component: _ae82bac6,
+    name: "mobile-app-development___zh"
   }, {
     path: "/zh/privacy-policy",
     component: _913a95ec,
@@ -272,9 +397,9 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___zh"
   }, {
-    path: "/zh/services-detail",
-    component: _808ed8da,
-    name: "services-detail___zh"
+    path: "/zh/web-development",
+    component: _0a22aa9e,
+    name: "web-development___zh"
   }, {
     path: "/ar/about/team",
     component: _a88890ce,

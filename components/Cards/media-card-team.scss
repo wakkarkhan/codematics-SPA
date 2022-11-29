@@ -5,6 +5,8 @@
   position: relative;
   margin: spacing(2, 0);
   // height: 340px;
+  // background: transparent;
+  // box-shadow: none !important;
   @include breakpoints-down(md) {
     height: 250px;
   }
@@ -92,7 +94,6 @@
 figure:hover .overlay {
   opacity: 1;
 }
-
 .overlay {
   position: absolute;
   bottom: 0;

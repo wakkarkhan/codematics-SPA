@@ -2,10 +2,6 @@
   <fragment>
     <v-container>
       <div class="gallery-root">
-        <!-- <h4 class="use-text-title2 mb-3 use-text-primary">
-          {{ $t('common.about_gallery') }}
-        </h4> -->
-        <!-- <p class="use-text-subtitle2">Vestibulum faucibus eget erat eget pretium. Donec commodo convallis eget suscipit orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p> -->
         <div class="carousel" v-if="loaded">
           <v-btn icon class="nav prev" @click="slickPrev()">
             <v-icon large>mdi-arrow-left</v-icon>
@@ -270,7 +266,7 @@ export default {
         slidesToShow: 4,
         slidesToScroll: 1,
         infinite: true,
-        autoplay: true,
+        autoplay: false,
         autoplaySpeed: 5000,
         variableWidth: false,
         responsive: [

@@ -42,6 +42,13 @@
     "_name": "_21ff4601"
   },
   {
+    "name": "3D-modeling-and-animation___ar",
+    "path": "/ar/3D-modeling-and-animation",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\3D-modeling-and-animation\\\\index.vue",
+    "chunkName": "pages/3D-modeling-and-animation/index",
+    "_name": "_7c8c9bfd"
+  },
+  {
     "name": "about___ar",
     "path": "/ar/about",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\index.vue",
@@ -77,11 +84,39 @@
     "_name": "_34980513"
   },
   {
+    "name": "digital-marketing___ar",
+    "path": "/ar/digital-marketing",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\digital-marketing\\\\index.vue",
+    "chunkName": "pages/digital-marketing/index",
+    "_name": "_96651ebc"
+  },
+  {
+    "name": "game-development___ar",
+    "path": "/ar/game-development",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
+    "chunkName": "pages/game-development/index",
+    "_name": "_7ff0c6e1"
+  },
+  {
+    "name": "graphic-designing___ar",
+    "path": "/ar/graphic-designing",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
+    "chunkName": "pages/graphic-designing/index",
+    "_name": "_7d5da058"
+  },
+  {
     "name": "login___ar",
     "path": "/ar/login",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
     "chunkName": "pages/login",
     "_name": "_28b22dd0"
+  },
+  {
+    "name": "mobile-app-development___ar",
+    "path": "/ar/mobile-app-development",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-app-development\\\\index.vue",
+    "chunkName": "pages/mobile-app-development/index",
+    "_name": "_ae82bac6"
   },
   {
     "name": "privacy-policy___ar",
@@ -98,11 +133,18 @@
     "_name": "_5a3f0e78"
   },
   {
-    "name": "services-detail___ar",
-    "path": "/ar/services-detail",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\services-detail\\\\index.vue",
-    "chunkName": "pages/services-detail/index",
-    "_name": "_808ed8da"
+    "name": "web-development___ar",
+    "path": "/ar/web-development",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
+    "chunkName": "pages/web-development/index",
+    "_name": "_0a22aa9e"
+  },
+  {
+    "name": "3D-modeling-and-animation___de",
+    "path": "/de/3D-modeling-and-animation",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\3D-modeling-and-animation\\\\index.vue",
+    "chunkName": "pages/3D-modeling-and-animation/index",
+    "_name": "_7c8c9bfd"
   },
   {
     "name": "about___de",
@@ -140,11 +182,39 @@
     "_name": "_34980513"
   },
   {
+    "name": "digital-marketing___de",
+    "path": "/de/digital-marketing",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\digital-marketing\\\\index.vue",
+    "chunkName": "pages/digital-marketing/index",
+    "_name": "_96651ebc"
+  },
+  {
+    "name": "game-development___de",
+    "path": "/de/game-development",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
+    "chunkName": "pages/game-development/index",
+    "_name": "_7ff0c6e1"
+  },
+  {
+    "name": "graphic-designing___de",
+    "path": "/de/graphic-designing",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
+    "chunkName": "pages/graphic-designing/index",
+    "_name": "_7d5da058"
+  },
+  {
     "name": "login___de",
     "path": "/de/login",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
     "chunkName": "pages/login",
     "_name": "_28b22dd0"
+  },
+  {
+    "name": "mobile-app-development___de",
+    "path": "/de/mobile-app-development",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-app-development\\\\index.vue",
+    "chunkName": "pages/mobile-app-development/index",
+    "_name": "_ae82bac6"
   },
   {
     "name": "privacy-policy___de",
@@ -161,11 +231,18 @@
     "_name": "_5a3f0e78"
   },
   {
-    "name": "services-detail___de",
-    "path": "/de/services-detail",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\services-detail\\\\index.vue",
-    "chunkName": "pages/services-detail/index",
-    "_name": "_808ed8da"
+    "name": "web-development___de",
+    "path": "/de/web-development",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
+    "chunkName": "pages/web-development/index",
+    "_name": "_0a22aa9e"
+  },
+  {
+    "name": "3D-modeling-and-animation___en",
+    "path": "/en/3D-modeling-and-animation",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\3D-modeling-and-animation\\\\index.vue",
+    "chunkName": "pages/3D-modeling-and-animation/index",
+    "_name": "_7c8c9bfd"
   },
   {
     "name": "about___en",
@@ -203,11 +280,39 @@
     "_name": "_34980513"
   },
   {
+    "name": "digital-marketing___en",
+    "path": "/en/digital-marketing",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\digital-marketing\\\\index.vue",
+    "chunkName": "pages/digital-marketing/index",
+    "_name": "_96651ebc"
+  },
+  {
+    "name": "game-development___en",
+    "path": "/en/game-development",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
+    "chunkName": "pages/game-development/index",
+    "_name": "_7ff0c6e1"
+  },
+  {
+    "name": "graphic-designing___en",
+    "path": "/en/graphic-designing",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
+    "chunkName": "pages/graphic-designing/index",
+    "_name": "_7d5da058"
+  },
+  {
     "name": "login___en",
     "path": "/en/login",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
     "chunkName": "pages/login",
     "_name": "_28b22dd0"
+  },
+  {
+    "name": "mobile-app-development___en",
+    "path": "/en/mobile-app-development",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-app-development\\\\index.vue",
+    "chunkName": "pages/mobile-app-development/index",
+    "_name": "_ae82bac6"
   },
   {
     "name": "privacy-policy___en",
@@ -224,11 +329,18 @@
     "_name": "_5a3f0e78"
   },
   {
-    "name": "services-detail___en",
-    "path": "/en/services-detail",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\services-detail\\\\index.vue",
-    "chunkName": "pages/services-detail/index",
-    "_name": "_808ed8da"
+    "name": "web-development___en",
+    "path": "/en/web-development",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
+    "chunkName": "pages/web-development/index",
+    "_name": "_0a22aa9e"
+  },
+  {
+    "name": "3D-modeling-and-animation___id",
+    "path": "/id/3D-modeling-and-animation",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\3D-modeling-and-animation\\\\index.vue",
+    "chunkName": "pages/3D-modeling-and-animation/index",
+    "_name": "_7c8c9bfd"
   },
   {
     "name": "about___id",
@@ -266,11 +378,39 @@
     "_name": "_34980513"
   },
   {
+    "name": "digital-marketing___id",
+    "path": "/id/digital-marketing",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\digital-marketing\\\\index.vue",
+    "chunkName": "pages/digital-marketing/index",
+    "_name": "_96651ebc"
+  },
+  {
+    "name": "game-development___id",
+    "path": "/id/game-development",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
+    "chunkName": "pages/game-development/index",
+    "_name": "_7ff0c6e1"
+  },
+  {
+    "name": "graphic-designing___id",
+    "path": "/id/graphic-designing",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
+    "chunkName": "pages/graphic-designing/index",
+    "_name": "_7d5da058"
+  },
+  {
     "name": "login___id",
     "path": "/id/login",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
     "chunkName": "pages/login",
     "_name": "_28b22dd0"
+  },
+  {
+    "name": "mobile-app-development___id",
+    "path": "/id/mobile-app-development",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-app-development\\\\index.vue",
+    "chunkName": "pages/mobile-app-development/index",
+    "_name": "_ae82bac6"
   },
   {
     "name": "privacy-policy___id",
@@ -287,11 +427,18 @@
     "_name": "_5a3f0e78"
   },
   {
-    "name": "services-detail___id",
-    "path": "/id/services-detail",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\services-detail\\\\index.vue",
-    "chunkName": "pages/services-detail/index",
-    "_name": "_808ed8da"
+    "name": "web-development___id",
+    "path": "/id/web-development",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
+    "chunkName": "pages/web-development/index",
+    "_name": "_0a22aa9e"
+  },
+  {
+    "name": "3D-modeling-and-animation___pt",
+    "path": "/pt/3D-modeling-and-animation",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\3D-modeling-and-animation\\\\index.vue",
+    "chunkName": "pages/3D-modeling-and-animation/index",
+    "_name": "_7c8c9bfd"
   },
   {
     "name": "about___pt",
@@ -329,11 +476,39 @@
     "_name": "_34980513"
   },
   {
+    "name": "digital-marketing___pt",
+    "path": "/pt/digital-marketing",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\digital-marketing\\\\index.vue",
+    "chunkName": "pages/digital-marketing/index",
+    "_name": "_96651ebc"
+  },
+  {
+    "name": "game-development___pt",
+    "path": "/pt/game-development",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
+    "chunkName": "pages/game-development/index",
+    "_name": "_7ff0c6e1"
+  },
+  {
+    "name": "graphic-designing___pt",
+    "path": "/pt/graphic-designing",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
+    "chunkName": "pages/graphic-designing/index",
+    "_name": "_7d5da058"
+  },
+  {
     "name": "login___pt",
     "path": "/pt/login",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
     "chunkName": "pages/login",
     "_name": "_28b22dd0"
+  },
+  {
+    "name": "mobile-app-development___pt",
+    "path": "/pt/mobile-app-development",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-app-development\\\\index.vue",
+    "chunkName": "pages/mobile-app-development/index",
+    "_name": "_ae82bac6"
   },
   {
     "name": "privacy-policy___pt",
@@ -350,11 +525,18 @@
     "_name": "_5a3f0e78"
   },
   {
-    "name": "services-detail___pt",
-    "path": "/pt/services-detail",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\services-detail\\\\index.vue",
-    "chunkName": "pages/services-detail/index",
-    "_name": "_808ed8da"
+    "name": "web-development___pt",
+    "path": "/pt/web-development",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
+    "chunkName": "pages/web-development/index",
+    "_name": "_0a22aa9e"
+  },
+  {
+    "name": "3D-modeling-and-animation___zh",
+    "path": "/zh/3D-modeling-and-animation",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\3D-modeling-and-animation\\\\index.vue",
+    "chunkName": "pages/3D-modeling-and-animation/index",
+    "_name": "_7c8c9bfd"
   },
   {
     "name": "about___zh",
@@ -392,11 +574,39 @@
     "_name": "_34980513"
   },
   {
+    "name": "digital-marketing___zh",
+    "path": "/zh/digital-marketing",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\digital-marketing\\\\index.vue",
+    "chunkName": "pages/digital-marketing/index",
+    "_name": "_96651ebc"
+  },
+  {
+    "name": "game-development___zh",
+    "path": "/zh/game-development",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
+    "chunkName": "pages/game-development/index",
+    "_name": "_7ff0c6e1"
+  },
+  {
+    "name": "graphic-designing___zh",
+    "path": "/zh/graphic-designing",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
+    "chunkName": "pages/graphic-designing/index",
+    "_name": "_7d5da058"
+  },
+  {
     "name": "login___zh",
     "path": "/zh/login",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
     "chunkName": "pages/login",
     "_name": "_28b22dd0"
+  },
+  {
+    "name": "mobile-app-development___zh",
+    "path": "/zh/mobile-app-development",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-app-development\\\\index.vue",
+    "chunkName": "pages/mobile-app-development/index",
+    "_name": "_ae82bac6"
   },
   {
     "name": "privacy-policy___zh",
@@ -413,11 +623,11 @@
     "_name": "_5a3f0e78"
   },
   {
-    "name": "services-detail___zh",
-    "path": "/zh/services-detail",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\services-detail\\\\index.vue",
-    "chunkName": "pages/services-detail/index",
-    "_name": "_808ed8da"
+    "name": "web-development___zh",
+    "path": "/zh/web-development",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
+    "chunkName": "pages/web-development/index",
+    "_name": "_0a22aa9e"
   },
   {
     "name": "about-team___ar",

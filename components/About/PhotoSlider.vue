@@ -1,6 +1,6 @@
 <template>
   <fragment>
-    <vue-easy-lightbox v-if="loaded" :visible="visible" :imgs="imgs" :index="index" @hide="handleHide" />
+    <vue-easy-lightbox v-if="loaded" :visible="visible" :index="index" @hide="handleHide" />
     <v-container>
       <div class="gallery-root">
         <!-- <h4 class="use-text-title2 mb-3 use-text-primary">

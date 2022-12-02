@@ -99,6 +99,8 @@ const imgAPI = {
     '/images/blog/cv-app.png',
     '/images/blog/blood.jpg',
     '/images/blog/fundometer.jpg',
+    '/images/blog/bomber-warrior.jpg',
+    '/images/blog/flicky.jpg',
   ],
   team: [
     '/images/team/cover-1.jpg',

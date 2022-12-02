@@ -128,12 +128,6 @@ export default {
           href: "https://www.linkedin.com/in/mishal-nawaz/"
         },
         {
-          desc: 'Unity 3D Game Developer | Team Lead',
-          title: "Adil Hussain Shah",
-          img: imgAPI.team[10],
-          href: "https://www.linkedin.com/in/syed-adil-hussain-shah-3119a1125/"
-        },
-        {
           desc: 'Unity 3D Game Developer',
           title: "Aqsa Nadeem",
           img: imgAPI.team[21],
@@ -150,12 +144,6 @@ export default {
           title: "Zaid Ul Wahab",
           img: imgAPI.team[12],
           href: "https://www.linkedin.com/in/zaid-wahab-55638b20a/"
-        },
-        {
-          desc: 'Sr. iOS Developer',
-          title: "Ihsan Ullah",
-          img: imgAPI.team[22],
-          href: "https://www.linkedin.com/in/ihsaan-ullah/"
         },
         {
           desc: 'iOS Engineer',
@@ -215,18 +203,6 @@ export default {
           desc: 'Social Media Designer',
           title: "Mehreen Gul",
           img: imgAPI.team[34],
-          href: ""
-        },
-        {
-          desc: 'Business Development Manager KARDAAN',
-          title: "Sufyan Javed",
-          img: imgAPI.team[29],
-          href: "https://www.linkedin.com/in/sufyan-javed-5a4851a7/"
-        },
-        {
-          desc: 'Community Manager KARDAAN',
-          title: "Rameez Umer Khan",
-          img: imgAPI.team[30],
           href: ""
         },
         {

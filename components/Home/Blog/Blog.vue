@@ -19,7 +19,7 @@
           </div>
         </div>
 
-        <v-row class="justify-space-around">
+        <v-row class="justify-space-around pt-10">
           <v-col cols="2">
             <v-btn :href=link.agency.blog target="_blank" block class="button" color="primary">
               {{ $t('common.btn_blog') }}
@@ -37,7 +37,11 @@
 @import '../../Blog/blog-style.scss';
 
 .root {
-  // background: var(--v-primary-lighten5) !important;
+  background: var(--v-primary-lighten5) !important;
+}
+
+.slick-dots {
+  padding: 0px 40px !important;
 }
 </style>
 
@@ -45,6 +49,7 @@
 import NewsCard from '../../Cards/NewsCard.vue'
 import imgAPI from '~/static/images/imgAPI'
 import link from '~/static/text/link'
+import blogs from '~/static/api/blogs'
 
 export default {
   components: {
@@ -58,30 +63,39 @@ export default {
       index: 0,
       item: 0,
       loaded: false,
-      blogList: [
-        {
-          title: "Smart TV Remote Control for iOS",
-          img: imgAPI.blog[0],
-        },
-        {
-          title: "CV Builder App",
-          img: imgAPI.blog[1],
-        },
-        {
-          title: "Blood Community Pakistan - Our Mission and Vision",
-          img: imgAPI.blog[2],
-        },
-        {
-          title: "Fund Raising Record Keeping",
-          img: imgAPI.blog[3],
-        },
-      ],
+      blogList: blogs,
+      // blogList: [
+      //   {
+      //     title: "Smart TV Remote Control for iOS",
+      //     img: imgAPI.blog[0],
+      //   },
+      //   {
+      //     title: "CV Builder App",
+      //     img: imgAPI.blog[1],
+      //   },
+      //   {
+      //     title: "Blood Community Pakistan - Our Mission and Vision",
+      //     img: imgAPI.blog[2],
+      //   },
+      //   {
+      //     title: "Fund Raising Record Keeping",
+      //     img: imgAPI.blog[3],
+      //   },
+      //   {
+      //     title: "Bomber Warrior",
+      //     img: imgAPI.blog[4],
+      //   },
+      //   {
+      //     title: "Flicky Chicky",
+      //     img: imgAPI.blog[5],
+      //   },
+      // ],
       slickOptions: {
-        dots: false,
+        dots: true,
         arrows: false,
         slidesToShow: 4,
         slidesToScroll: 1,
-        infinite: true,
+        infinite: false,
         autoplay: false,
         autoplaySpeed: 5000,
         variableWidth: false,

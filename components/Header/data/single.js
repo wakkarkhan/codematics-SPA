@@ -1,4 +1,5 @@
-const single = ['home', 'about', 'projects', 'services', 'blog', 'our-team', 'contact']
-// const single = ['about', 'projects', 'services', 'our-team', 'testimonials', , 'contact']
+const single = ['home', 'about', 'projects', 'services', 'our-team', 'contact']
+
+// const single = ['home', 'about', 'projects', 'services', 'blog', 'our-team', 'contact']
 
 export default single

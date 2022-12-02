@@ -56,6 +56,13 @@
     "_name": "_ae99e474"
   },
   {
+    "name": "auto-silence-at-prayers-time___ar",
+    "path": "/ar/auto-silence-at-prayers-time",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\auto-silence-at-prayers-time\\\\index.vue",
+    "chunkName": "pages/auto-silence-at-prayers-time/index",
+    "_name": "_62ce42e3"
+  },
+  {
     "name": "blank-page___ar",
     "path": "/ar/blank-page",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blank-page.vue",
@@ -91,6 +98,13 @@
     "_name": "_96651ebc"
   },
   {
+    "name": "flash-on-call-and-sms___ar",
+    "path": "/ar/flash-on-call-and-sms",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\flash-on-call-and-sms\\\\index.vue",
+    "chunkName": "pages/flash-on-call-and-sms/index",
+    "_name": "_6133cb0e"
+  },
+  {
     "name": "game-development___ar",
     "path": "/ar/game-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
@@ -103,6 +117,20 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
     "chunkName": "pages/graphic-designing/index",
     "_name": "_7d5da058"
+  },
+  {
+    "name": "guess-the-word-multiplayer___ar",
+    "path": "/ar/guess-the-word-multiplayer",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\guess-the-word-multiplayer\\\\index.vue",
+    "chunkName": "pages/guess-the-word-multiplayer/index",
+    "_name": "_6af62738"
+  },
+  {
+    "name": "kardaan-handyman-services-at-your-door-stepearly-access___ar",
+    "path": "/ar/kardaan-handyman-services-at-your-door-stepearly-access",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
+    "chunkName": "pages/kardaan-handyman-services-at-your-door-stepearly-access/index",
+    "_name": "_0497fc5a"
   },
   {
     "name": "login___ar",
@@ -133,6 +161,20 @@
     "_name": "_5a3f0e78"
   },
   {
+    "name": "snap-war___ar",
+    "path": "/ar/snap-war",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\snap-war\\\\index.vue",
+    "chunkName": "pages/snap-war/index",
+    "_name": "_bf86c388"
+  },
+  {
+    "name": "the-blood-community-app___ar",
+    "path": "/ar/the-blood-community-app",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\the-blood-community-app\\\\index.vue",
+    "chunkName": "pages/the-blood-community-app/index",
+    "_name": "_ca98b3b6"
+  },
+  {
     "name": "web-development___ar",
     "path": "/ar/web-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
@@ -152,6 +194,13 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\index.vue",
     "chunkName": "pages/about/index",
     "_name": "_ae99e474"
+  },
+  {
+    "name": "auto-silence-at-prayers-time___de",
+    "path": "/de/auto-silence-at-prayers-time",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\auto-silence-at-prayers-time\\\\index.vue",
+    "chunkName": "pages/auto-silence-at-prayers-time/index",
+    "_name": "_62ce42e3"
   },
   {
     "name": "blank-page___de",
@@ -189,6 +238,13 @@
     "_name": "_96651ebc"
   },
   {
+    "name": "flash-on-call-and-sms___de",
+    "path": "/de/flash-on-call-and-sms",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\flash-on-call-and-sms\\\\index.vue",
+    "chunkName": "pages/flash-on-call-and-sms/index",
+    "_name": "_6133cb0e"
+  },
+  {
     "name": "game-development___de",
     "path": "/de/game-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
@@ -201,6 +257,20 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
     "chunkName": "pages/graphic-designing/index",
     "_name": "_7d5da058"
+  },
+  {
+    "name": "guess-the-word-multiplayer___de",
+    "path": "/de/guess-the-word-multiplayer",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\guess-the-word-multiplayer\\\\index.vue",
+    "chunkName": "pages/guess-the-word-multiplayer/index",
+    "_name": "_6af62738"
+  },
+  {
+    "name": "kardaan-handyman-services-at-your-door-stepearly-access___de",
+    "path": "/de/kardaan-handyman-services-at-your-door-stepearly-access",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
+    "chunkName": "pages/kardaan-handyman-services-at-your-door-stepearly-access/index",
+    "_name": "_0497fc5a"
   },
   {
     "name": "login___de",
@@ -231,6 +301,20 @@
     "_name": "_5a3f0e78"
   },
   {
+    "name": "snap-war___de",
+    "path": "/de/snap-war",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\snap-war\\\\index.vue",
+    "chunkName": "pages/snap-war/index",
+    "_name": "_bf86c388"
+  },
+  {
+    "name": "the-blood-community-app___de",
+    "path": "/de/the-blood-community-app",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\the-blood-community-app\\\\index.vue",
+    "chunkName": "pages/the-blood-community-app/index",
+    "_name": "_ca98b3b6"
+  },
+  {
     "name": "web-development___de",
     "path": "/de/web-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
@@ -250,6 +334,13 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\index.vue",
     "chunkName": "pages/about/index",
     "_name": "_ae99e474"
+  },
+  {
+    "name": "auto-silence-at-prayers-time___en",
+    "path": "/en/auto-silence-at-prayers-time",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\auto-silence-at-prayers-time\\\\index.vue",
+    "chunkName": "pages/auto-silence-at-prayers-time/index",
+    "_name": "_62ce42e3"
   },
   {
     "name": "blank-page___en",
@@ -287,6 +378,13 @@
     "_name": "_96651ebc"
   },
   {
+    "name": "flash-on-call-and-sms___en",
+    "path": "/en/flash-on-call-and-sms",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\flash-on-call-and-sms\\\\index.vue",
+    "chunkName": "pages/flash-on-call-and-sms/index",
+    "_name": "_6133cb0e"
+  },
+  {
     "name": "game-development___en",
     "path": "/en/game-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
@@ -299,6 +397,20 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
     "chunkName": "pages/graphic-designing/index",
     "_name": "_7d5da058"
+  },
+  {
+    "name": "guess-the-word-multiplayer___en",
+    "path": "/en/guess-the-word-multiplayer",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\guess-the-word-multiplayer\\\\index.vue",
+    "chunkName": "pages/guess-the-word-multiplayer/index",
+    "_name": "_6af62738"
+  },
+  {
+    "name": "kardaan-handyman-services-at-your-door-stepearly-access___en",
+    "path": "/en/kardaan-handyman-services-at-your-door-stepearly-access",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
+    "chunkName": "pages/kardaan-handyman-services-at-your-door-stepearly-access/index",
+    "_name": "_0497fc5a"
   },
   {
     "name": "login___en",
@@ -329,6 +441,20 @@
     "_name": "_5a3f0e78"
   },
   {
+    "name": "snap-war___en",
+    "path": "/en/snap-war",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\snap-war\\\\index.vue",
+    "chunkName": "pages/snap-war/index",
+    "_name": "_bf86c388"
+  },
+  {
+    "name": "the-blood-community-app___en",
+    "path": "/en/the-blood-community-app",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\the-blood-community-app\\\\index.vue",
+    "chunkName": "pages/the-blood-community-app/index",
+    "_name": "_ca98b3b6"
+  },
+  {
     "name": "web-development___en",
     "path": "/en/web-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
@@ -348,6 +474,13 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\index.vue",
     "chunkName": "pages/about/index",
     "_name": "_ae99e474"
+  },
+  {
+    "name": "auto-silence-at-prayers-time___id",
+    "path": "/id/auto-silence-at-prayers-time",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\auto-silence-at-prayers-time\\\\index.vue",
+    "chunkName": "pages/auto-silence-at-prayers-time/index",
+    "_name": "_62ce42e3"
   },
   {
     "name": "blank-page___id",
@@ -385,6 +518,13 @@
     "_name": "_96651ebc"
   },
   {
+    "name": "flash-on-call-and-sms___id",
+    "path": "/id/flash-on-call-and-sms",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\flash-on-call-and-sms\\\\index.vue",
+    "chunkName": "pages/flash-on-call-and-sms/index",
+    "_name": "_6133cb0e"
+  },
+  {
     "name": "game-development___id",
     "path": "/id/game-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
@@ -397,6 +537,20 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
     "chunkName": "pages/graphic-designing/index",
     "_name": "_7d5da058"
+  },
+  {
+    "name": "guess-the-word-multiplayer___id",
+    "path": "/id/guess-the-word-multiplayer",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\guess-the-word-multiplayer\\\\index.vue",
+    "chunkName": "pages/guess-the-word-multiplayer/index",
+    "_name": "_6af62738"
+  },
+  {
+    "name": "kardaan-handyman-services-at-your-door-stepearly-access___id",
+    "path": "/id/kardaan-handyman-services-at-your-door-stepearly-access",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
+    "chunkName": "pages/kardaan-handyman-services-at-your-door-stepearly-access/index",
+    "_name": "_0497fc5a"
   },
   {
     "name": "login___id",
@@ -427,6 +581,20 @@
     "_name": "_5a3f0e78"
   },
   {
+    "name": "snap-war___id",
+    "path": "/id/snap-war",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\snap-war\\\\index.vue",
+    "chunkName": "pages/snap-war/index",
+    "_name": "_bf86c388"
+  },
+  {
+    "name": "the-blood-community-app___id",
+    "path": "/id/the-blood-community-app",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\the-blood-community-app\\\\index.vue",
+    "chunkName": "pages/the-blood-community-app/index",
+    "_name": "_ca98b3b6"
+  },
+  {
     "name": "web-development___id",
     "path": "/id/web-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
@@ -446,6 +614,13 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\index.vue",
     "chunkName": "pages/about/index",
     "_name": "_ae99e474"
+  },
+  {
+    "name": "auto-silence-at-prayers-time___pt",
+    "path": "/pt/auto-silence-at-prayers-time",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\auto-silence-at-prayers-time\\\\index.vue",
+    "chunkName": "pages/auto-silence-at-prayers-time/index",
+    "_name": "_62ce42e3"
   },
   {
     "name": "blank-page___pt",
@@ -483,6 +658,13 @@
     "_name": "_96651ebc"
   },
   {
+    "name": "flash-on-call-and-sms___pt",
+    "path": "/pt/flash-on-call-and-sms",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\flash-on-call-and-sms\\\\index.vue",
+    "chunkName": "pages/flash-on-call-and-sms/index",
+    "_name": "_6133cb0e"
+  },
+  {
     "name": "game-development___pt",
     "path": "/pt/game-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
@@ -495,6 +677,20 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
     "chunkName": "pages/graphic-designing/index",
     "_name": "_7d5da058"
+  },
+  {
+    "name": "guess-the-word-multiplayer___pt",
+    "path": "/pt/guess-the-word-multiplayer",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\guess-the-word-multiplayer\\\\index.vue",
+    "chunkName": "pages/guess-the-word-multiplayer/index",
+    "_name": "_6af62738"
+  },
+  {
+    "name": "kardaan-handyman-services-at-your-door-stepearly-access___pt",
+    "path": "/pt/kardaan-handyman-services-at-your-door-stepearly-access",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
+    "chunkName": "pages/kardaan-handyman-services-at-your-door-stepearly-access/index",
+    "_name": "_0497fc5a"
   },
   {
     "name": "login___pt",
@@ -525,6 +721,20 @@
     "_name": "_5a3f0e78"
   },
   {
+    "name": "snap-war___pt",
+    "path": "/pt/snap-war",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\snap-war\\\\index.vue",
+    "chunkName": "pages/snap-war/index",
+    "_name": "_bf86c388"
+  },
+  {
+    "name": "the-blood-community-app___pt",
+    "path": "/pt/the-blood-community-app",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\the-blood-community-app\\\\index.vue",
+    "chunkName": "pages/the-blood-community-app/index",
+    "_name": "_ca98b3b6"
+  },
+  {
     "name": "web-development___pt",
     "path": "/pt/web-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
@@ -544,6 +754,13 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\index.vue",
     "chunkName": "pages/about/index",
     "_name": "_ae99e474"
+  },
+  {
+    "name": "auto-silence-at-prayers-time___zh",
+    "path": "/zh/auto-silence-at-prayers-time",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\auto-silence-at-prayers-time\\\\index.vue",
+    "chunkName": "pages/auto-silence-at-prayers-time/index",
+    "_name": "_62ce42e3"
   },
   {
     "name": "blank-page___zh",
@@ -581,6 +798,13 @@
     "_name": "_96651ebc"
   },
   {
+    "name": "flash-on-call-and-sms___zh",
+    "path": "/zh/flash-on-call-and-sms",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\flash-on-call-and-sms\\\\index.vue",
+    "chunkName": "pages/flash-on-call-and-sms/index",
+    "_name": "_6133cb0e"
+  },
+  {
     "name": "game-development___zh",
     "path": "/zh/game-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
@@ -593,6 +817,20 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
     "chunkName": "pages/graphic-designing/index",
     "_name": "_7d5da058"
+  },
+  {
+    "name": "guess-the-word-multiplayer___zh",
+    "path": "/zh/guess-the-word-multiplayer",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\guess-the-word-multiplayer\\\\index.vue",
+    "chunkName": "pages/guess-the-word-multiplayer/index",
+    "_name": "_6af62738"
+  },
+  {
+    "name": "kardaan-handyman-services-at-your-door-stepearly-access___zh",
+    "path": "/zh/kardaan-handyman-services-at-your-door-stepearly-access",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
+    "chunkName": "pages/kardaan-handyman-services-at-your-door-stepearly-access/index",
+    "_name": "_0497fc5a"
   },
   {
     "name": "login___zh",
@@ -621,6 +859,20 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\register.vue",
     "chunkName": "pages/register",
     "_name": "_5a3f0e78"
+  },
+  {
+    "name": "snap-war___zh",
+    "path": "/zh/snap-war",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\snap-war\\\\index.vue",
+    "chunkName": "pages/snap-war/index",
+    "_name": "_bf86c388"
+  },
+  {
+    "name": "the-blood-community-app___zh",
+    "path": "/zh/the-blood-community-app",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\the-blood-community-app\\\\index.vue",
+    "chunkName": "pages/the-blood-community-app/index",
+    "_name": "_ca98b3b6"
   },
   {
     "name": "web-development___zh",

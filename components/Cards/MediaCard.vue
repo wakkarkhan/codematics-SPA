@@ -1,35 +1,14 @@
 <template>
-  <v-card
-    :class="[orientation, type]"
-    class="media-card"
-  >
-    <v-badge
-      v-if="type === 'video'"
-      :content="duration"
-      color="grey darken-4"
-      offset-x="60"
-      offset-y="40"
-    />
-    <a
-      v-if="type === 'photo'"
-      :href="href !== '' ? href : 'javascript:void(0)'"
-      v-ripple
-      class="cover-link"
-    >
+  <v-card :class="[orientation, type]" class="media-card">
+    <a v-if="type === 'photo'" v-ripple class="cover-link" target="_blank">
       &nbsp;
     </a>
+
     <figure>
       <img :src="thumb" alt="cover" />
     </figure>
+
     <div class="property">
-      <v-btn
-        v-if="type === 'video'"
-        :href="href"
-        class="play-btn"
-        elevation="1"
-      >
-        <span class="ion-ios-play" />
-      </v-btn>
       <v-card-title class="media-title">
         {{ title }}
       </v-card-title>

@@ -70,6 +70,7 @@ const imgAPI = {
     '/images/projects/lg-tv.jpg',
     '/images/projects/romatic-remote.jpg',
     '/images/projects/remote-sony.jpg',
+    '/images/projects/smart-tv-remote.jpg',
   ],
   services: [
     '/images/services/3D.jpg',

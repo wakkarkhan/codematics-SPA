@@ -7,17 +7,23 @@ import scrollBehavior from './router.scrollBehavior.js'
 const _21ff4601 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 const _7c8c9bfd = () => interopDefault(import('..\\pages\\3D-modeling-and-animation\\index.vue' /* webpackChunkName: "pages/3D-modeling-and-animation/index" */))
 const _ae99e474 = () => interopDefault(import('..\\pages\\about\\index.vue' /* webpackChunkName: "pages/about/index" */))
+const _62ce42e3 = () => interopDefault(import('..\\pages\\auto-silence-at-prayers-time\\index.vue' /* webpackChunkName: "pages/auto-silence-at-prayers-time/index" */))
 const _50fce8c9 = () => interopDefault(import('..\\pages\\blank-page.vue' /* webpackChunkName: "pages/blank-page" */))
 const _61d3f45f = () => interopDefault(import('..\\pages\\blog\\index.vue' /* webpackChunkName: "pages/blog/index" */))
 const _6f7622a3 = () => interopDefault(import('..\\pages\\collection\\index.vue' /* webpackChunkName: "pages/collection/index" */))
 const _34980513 = () => interopDefault(import('..\\pages\\contact\\index.vue' /* webpackChunkName: "pages/contact/index" */))
 const _96651ebc = () => interopDefault(import('..\\pages\\digital-marketing\\index.vue' /* webpackChunkName: "pages/digital-marketing/index" */))
+const _6133cb0e = () => interopDefault(import('..\\pages\\flash-on-call-and-sms\\index.vue' /* webpackChunkName: "pages/flash-on-call-and-sms/index" */))
 const _7ff0c6e1 = () => interopDefault(import('..\\pages\\game-development\\index.vue' /* webpackChunkName: "pages/game-development/index" */))
 const _7d5da058 = () => interopDefault(import('..\\pages\\graphic-designing\\index.vue' /* webpackChunkName: "pages/graphic-designing/index" */))
+const _6af62738 = () => interopDefault(import('..\\pages\\guess-the-word-multiplayer\\index.vue' /* webpackChunkName: "pages/guess-the-word-multiplayer/index" */))
+const _0497fc5a = () => interopDefault(import('..\\pages\\kardaan-handyman-services-at-your-door-stepearly-access\\index.vue' /* webpackChunkName: "pages/kardaan-handyman-services-at-your-door-stepearly-access/index" */))
 const _28b22dd0 = () => interopDefault(import('..\\pages\\login.vue' /* webpackChunkName: "pages/login" */))
 const _ae82bac6 = () => interopDefault(import('..\\pages\\mobile-app-development\\index.vue' /* webpackChunkName: "pages/mobile-app-development/index" */))
 const _913a95ec = () => interopDefault(import('..\\pages\\privacy-policy\\index.vue' /* webpackChunkName: "pages/privacy-policy/index" */))
 const _5a3f0e78 = () => interopDefault(import('..\\pages\\register.vue' /* webpackChunkName: "pages/register" */))
+const _bf86c388 = () => interopDefault(import('..\\pages\\snap-war\\index.vue' /* webpackChunkName: "pages/snap-war/index" */))
+const _ca98b3b6 = () => interopDefault(import('..\\pages\\the-blood-community-app\\index.vue' /* webpackChunkName: "pages/the-blood-community-app/index" */))
 const _0a22aa9e = () => interopDefault(import('..\\pages\\web-development\\index.vue' /* webpackChunkName: "pages/web-development/index" */))
 const _a88890ce = () => interopDefault(import('..\\pages\\about\\team.vue' /* webpackChunkName: "pages/about/team" */))
 const _49723d6b = () => interopDefault(import('..\\pages\\blog\\detail-blog.vue' /* webpackChunkName: "pages/blog/detail-blog" */))
@@ -73,6 +79,10 @@ export const routerOptions = {
     component: _ae99e474,
     name: "about___ar"
   }, {
+    path: "/ar/auto-silence-at-prayers-time",
+    component: _62ce42e3,
+    name: "auto-silence-at-prayers-time___ar"
+  }, {
     path: "/ar/blank-page",
     component: _50fce8c9,
     name: "blank-page___ar"
@@ -93,6 +103,10 @@ export const routerOptions = {
     component: _96651ebc,
     name: "digital-marketing___ar"
   }, {
+    path: "/ar/flash-on-call-and-sms",
+    component: _6133cb0e,
+    name: "flash-on-call-and-sms___ar"
+  }, {
     path: "/ar/game-development",
     component: _7ff0c6e1,
     name: "game-development___ar"
@@ -100,6 +114,14 @@ export const routerOptions = {
     path: "/ar/graphic-designing",
     component: _7d5da058,
     name: "graphic-designing___ar"
+  }, {
+    path: "/ar/guess-the-word-multiplayer",
+    component: _6af62738,
+    name: "guess-the-word-multiplayer___ar"
+  }, {
+    path: "/ar/kardaan-handyman-services-at-your-door-stepearly-access",
+    component: _0497fc5a,
+    name: "kardaan-handyman-services-at-your-door-stepearly-access___ar"
   }, {
     path: "/ar/login",
     component: _28b22dd0,
@@ -117,6 +139,14 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___ar"
   }, {
+    path: "/ar/snap-war",
+    component: _bf86c388,
+    name: "snap-war___ar"
+  }, {
+    path: "/ar/the-blood-community-app",
+    component: _ca98b3b6,
+    name: "the-blood-community-app___ar"
+  }, {
     path: "/ar/web-development",
     component: _0a22aa9e,
     name: "web-development___ar"
@@ -128,6 +158,10 @@ export const routerOptions = {
     path: "/de/about",
     component: _ae99e474,
     name: "about___de"
+  }, {
+    path: "/de/auto-silence-at-prayers-time",
+    component: _62ce42e3,
+    name: "auto-silence-at-prayers-time___de"
   }, {
     path: "/de/blank-page",
     component: _50fce8c9,
@@ -149,6 +183,10 @@ export const routerOptions = {
     component: _96651ebc,
     name: "digital-marketing___de"
   }, {
+    path: "/de/flash-on-call-and-sms",
+    component: _6133cb0e,
+    name: "flash-on-call-and-sms___de"
+  }, {
     path: "/de/game-development",
     component: _7ff0c6e1,
     name: "game-development___de"
@@ -156,6 +194,14 @@ export const routerOptions = {
     path: "/de/graphic-designing",
     component: _7d5da058,
     name: "graphic-designing___de"
+  }, {
+    path: "/de/guess-the-word-multiplayer",
+    component: _6af62738,
+    name: "guess-the-word-multiplayer___de"
+  }, {
+    path: "/de/kardaan-handyman-services-at-your-door-stepearly-access",
+    component: _0497fc5a,
+    name: "kardaan-handyman-services-at-your-door-stepearly-access___de"
   }, {
     path: "/de/login",
     component: _28b22dd0,
@@ -173,6 +219,14 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___de"
   }, {
+    path: "/de/snap-war",
+    component: _bf86c388,
+    name: "snap-war___de"
+  }, {
+    path: "/de/the-blood-community-app",
+    component: _ca98b3b6,
+    name: "the-blood-community-app___de"
+  }, {
     path: "/de/web-development",
     component: _0a22aa9e,
     name: "web-development___de"
@@ -184,6 +238,10 @@ export const routerOptions = {
     path: "/en/about",
     component: _ae99e474,
     name: "about___en"
+  }, {
+    path: "/en/auto-silence-at-prayers-time",
+    component: _62ce42e3,
+    name: "auto-silence-at-prayers-time___en"
   }, {
     path: "/en/blank-page",
     component: _50fce8c9,
@@ -205,6 +263,10 @@ export const routerOptions = {
     component: _96651ebc,
     name: "digital-marketing___en"
   }, {
+    path: "/en/flash-on-call-and-sms",
+    component: _6133cb0e,
+    name: "flash-on-call-and-sms___en"
+  }, {
     path: "/en/game-development",
     component: _7ff0c6e1,
     name: "game-development___en"
@@ -212,6 +274,14 @@ export const routerOptions = {
     path: "/en/graphic-designing",
     component: _7d5da058,
     name: "graphic-designing___en"
+  }, {
+    path: "/en/guess-the-word-multiplayer",
+    component: _6af62738,
+    name: "guess-the-word-multiplayer___en"
+  }, {
+    path: "/en/kardaan-handyman-services-at-your-door-stepearly-access",
+    component: _0497fc5a,
+    name: "kardaan-handyman-services-at-your-door-stepearly-access___en"
   }, {
     path: "/en/login",
     component: _28b22dd0,
@@ -229,6 +299,14 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___en"
   }, {
+    path: "/en/snap-war",
+    component: _bf86c388,
+    name: "snap-war___en"
+  }, {
+    path: "/en/the-blood-community-app",
+    component: _ca98b3b6,
+    name: "the-blood-community-app___en"
+  }, {
     path: "/en/web-development",
     component: _0a22aa9e,
     name: "web-development___en"
@@ -240,6 +318,10 @@ export const routerOptions = {
     path: "/id/about",
     component: _ae99e474,
     name: "about___id"
+  }, {
+    path: "/id/auto-silence-at-prayers-time",
+    component: _62ce42e3,
+    name: "auto-silence-at-prayers-time___id"
   }, {
     path: "/id/blank-page",
     component: _50fce8c9,
@@ -261,6 +343,10 @@ export const routerOptions = {
     component: _96651ebc,
     name: "digital-marketing___id"
   }, {
+    path: "/id/flash-on-call-and-sms",
+    component: _6133cb0e,
+    name: "flash-on-call-and-sms___id"
+  }, {
     path: "/id/game-development",
     component: _7ff0c6e1,
     name: "game-development___id"
@@ -268,6 +354,14 @@ export const routerOptions = {
     path: "/id/graphic-designing",
     component: _7d5da058,
     name: "graphic-designing___id"
+  }, {
+    path: "/id/guess-the-word-multiplayer",
+    component: _6af62738,
+    name: "guess-the-word-multiplayer___id"
+  }, {
+    path: "/id/kardaan-handyman-services-at-your-door-stepearly-access",
+    component: _0497fc5a,
+    name: "kardaan-handyman-services-at-your-door-stepearly-access___id"
   }, {
     path: "/id/login",
     component: _28b22dd0,
@@ -285,6 +379,14 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___id"
   }, {
+    path: "/id/snap-war",
+    component: _bf86c388,
+    name: "snap-war___id"
+  }, {
+    path: "/id/the-blood-community-app",
+    component: _ca98b3b6,
+    name: "the-blood-community-app___id"
+  }, {
     path: "/id/web-development",
     component: _0a22aa9e,
     name: "web-development___id"
@@ -296,6 +398,10 @@ export const routerOptions = {
     path: "/pt/about",
     component: _ae99e474,
     name: "about___pt"
+  }, {
+    path: "/pt/auto-silence-at-prayers-time",
+    component: _62ce42e3,
+    name: "auto-silence-at-prayers-time___pt"
   }, {
     path: "/pt/blank-page",
     component: _50fce8c9,
@@ -317,6 +423,10 @@ export const routerOptions = {
     component: _96651ebc,
     name: "digital-marketing___pt"
   }, {
+    path: "/pt/flash-on-call-and-sms",
+    component: _6133cb0e,
+    name: "flash-on-call-and-sms___pt"
+  }, {
     path: "/pt/game-development",
     component: _7ff0c6e1,
     name: "game-development___pt"
@@ -324,6 +434,14 @@ export const routerOptions = {
     path: "/pt/graphic-designing",
     component: _7d5da058,
     name: "graphic-designing___pt"
+  }, {
+    path: "/pt/guess-the-word-multiplayer",
+    component: _6af62738,
+    name: "guess-the-word-multiplayer___pt"
+  }, {
+    path: "/pt/kardaan-handyman-services-at-your-door-stepearly-access",
+    component: _0497fc5a,
+    name: "kardaan-handyman-services-at-your-door-stepearly-access___pt"
   }, {
     path: "/pt/login",
     component: _28b22dd0,
@@ -341,6 +459,14 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___pt"
   }, {
+    path: "/pt/snap-war",
+    component: _bf86c388,
+    name: "snap-war___pt"
+  }, {
+    path: "/pt/the-blood-community-app",
+    component: _ca98b3b6,
+    name: "the-blood-community-app___pt"
+  }, {
     path: "/pt/web-development",
     component: _0a22aa9e,
     name: "web-development___pt"
@@ -352,6 +478,10 @@ export const routerOptions = {
     path: "/zh/about",
     component: _ae99e474,
     name: "about___zh"
+  }, {
+    path: "/zh/auto-silence-at-prayers-time",
+    component: _62ce42e3,
+    name: "auto-silence-at-prayers-time___zh"
   }, {
     path: "/zh/blank-page",
     component: _50fce8c9,
@@ -373,6 +503,10 @@ export const routerOptions = {
     component: _96651ebc,
     name: "digital-marketing___zh"
   }, {
+    path: "/zh/flash-on-call-and-sms",
+    component: _6133cb0e,
+    name: "flash-on-call-and-sms___zh"
+  }, {
     path: "/zh/game-development",
     component: _7ff0c6e1,
     name: "game-development___zh"
@@ -380,6 +514,14 @@ export const routerOptions = {
     path: "/zh/graphic-designing",
     component: _7d5da058,
     name: "graphic-designing___zh"
+  }, {
+    path: "/zh/guess-the-word-multiplayer",
+    component: _6af62738,
+    name: "guess-the-word-multiplayer___zh"
+  }, {
+    path: "/zh/kardaan-handyman-services-at-your-door-stepearly-access",
+    component: _0497fc5a,
+    name: "kardaan-handyman-services-at-your-door-stepearly-access___zh"
   }, {
     path: "/zh/login",
     component: _28b22dd0,
@@ -396,6 +538,14 @@ export const routerOptions = {
     path: "/zh/register",
     component: _5a3f0e78,
     name: "register___zh"
+  }, {
+    path: "/zh/snap-war",
+    component: _bf86c388,
+    name: "snap-war___zh"
+  }, {
+    path: "/zh/the-blood-community-app",
+    component: _ca98b3b6,
+    name: "the-blood-community-app___zh"
   }, {
     path: "/zh/web-development",
     component: _0a22aa9e,

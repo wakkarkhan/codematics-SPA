@@ -27,9 +27,9 @@
           <csr />
         </section>
 
-        <section id="blog" :class="[isTablet ? '' : '']">
+        <!-- <section id="blog" :class="[isTablet ? '' : '']">
           <blog />
-        </section>
+        </section> -->
 
         <section id="our-team" :class="[isTablet ? '' : '']">
           <our-team />

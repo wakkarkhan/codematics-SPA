@@ -13,8 +13,8 @@
           </v-btn>
 
           <slick ref="slider" :options="slickOptions">
-            <div v-for="(item, index) in portfolioList" :key="index" class="item px-3" @click="() => showImg(index)">
-              <media-card :thumb="item.img" :title="item.title" orientation="portrait" type="photo" />
+            <div v-for="(item, index) in portfolioList" :key="index" class="item px-3">
+              <media-card :thumb="item.img" :title="item.title" :href="item.href" orientation="portrait" type="photo" />
             </div>
           </slick>
 
@@ -47,64 +47,68 @@ export default {
       index: 0,
       item: 0,
       loaded: false,
-      imgs: [
-        imgAPI.projects[0],
-        imgAPI.projects[1],
-        imgAPI.projects[2],
-        imgAPI.projects[3],
-        imgAPI.projects[4],
-        imgAPI.projects[5],
-        imgAPI.projects[6],
-        imgAPI.projects[7],
-        imgAPI.projects[8],
-        imgAPI.projects[9],
-        imgAPI.projects[10],
-      ],
       portfolioList: [
         {
           title: 'Auto Silence at Prayer Time',
-          img: imgAPI.projects[0]
+          img: imgAPI.projects[0],
+          href: '/auto-silence-at-prayers-time'
         },
         {
           title: 'The Blood Community App',
-          img: imgAPI.projects[1]
+          img: imgAPI.projects[1],
+          href: '/the-blood-community-app'
         },
         {
           title: 'Flash on Call and SMS',
-          img: imgAPI.projects[2]
+          img: imgAPI.projects[2],
+          href: '/flash-on-call-and-sms'
         },
         {
           title: 'Guess the Word MultiPlayer',
-          img: imgAPI.projects[3]
+          img: imgAPI.projects[3],
+          href: '/guess-the-word-multiplayer'
         },
         {
           title: 'Kardaan: Handyman Services at Your Doorstep',
-          img: imgAPI.projects[4]
+          img: imgAPI.projects[4],
+          href: '/kardaan-handyman-services-at-your-door-stepearly-access'
         },
         {
           title: 'Snap War',
-          img: imgAPI.projects[5]
+          img: imgAPI.projects[5],
+          href: '/snap-war'
         },
         {
           title: 'Universal TV Remote Control',
-          img: imgAPI.projects[6]
+          img: imgAPI.projects[6],
+          href: '/universal-tv-remote-control'
         },
         {
           title: 'SCAM',
-          img: imgAPI.projects[7]
+          img: imgAPI.projects[7],
+          href: '/scam'
         },
         {
           title: 'Codematics LG Remote Control',
-          img: imgAPI.projects[8]
+          img: imgAPI.projects[8],
+          href: '/codematics-lg-remote-control'
         },
         {
           title: 'Universal Remote Control for Roku Devices',
-          img: imgAPI.projects[9]
+          img: imgAPI.projects[9],
+          href: '/universal-remote-control-for-roku-devices'
         },
         {
           title: 'Sony Bravia Android TV Remote Control',
-          img: imgAPI.projects[10]
+          img: imgAPI.projects[10],
+          href: '/sonybravia-android-tv-remote-control'
+        },
+        {
+          title: "Smart TV's Remote Control for iOS and Android",
+          img: imgAPI.projects[11],
+          href: '/smart-tvs-remote-control-for-ios-and-android'
         }
+
       ],
       slickOptions: {
         dots: false,

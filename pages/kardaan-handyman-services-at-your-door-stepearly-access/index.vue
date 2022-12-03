@@ -20,14 +20,14 @@
               Professional
               Skilled Workers.</p>
             <h4 class="pt-5">Why Kardaan?</h4>
-            <ul class="pt-3">
+            <ul>
               <li>Taking Kardaan (skilled workers) to respectable &amp; smart earning</li>
               <li>Tech based platform to connect nearby Kardaan (skilled workers) &amp; customers</li>
               <li>A wide range of services offered</li>
             </ul>
 
             <h4 class="pt-5">What Service Does Kardaan Offer?</h4>
-            <ul class="pt-3">
+            <ul>
               <li>Electricians</li>
               <li>HVAC Services</li>
               <li>Plumbers</li>

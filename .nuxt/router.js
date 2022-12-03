@@ -10,6 +10,7 @@ const _ae99e474 = () => interopDefault(import('..\\pages\\about\\index.vue' /* w
 const _62ce42e3 = () => interopDefault(import('..\\pages\\auto-silence-at-prayers-time\\index.vue' /* webpackChunkName: "pages/auto-silence-at-prayers-time/index" */))
 const _50fce8c9 = () => interopDefault(import('..\\pages\\blank-page.vue' /* webpackChunkName: "pages/blank-page" */))
 const _61d3f45f = () => interopDefault(import('..\\pages\\blog\\index.vue' /* webpackChunkName: "pages/blog/index" */))
+const _77fb50e0 = () => interopDefault(import('..\\pages\\codematics-lg-remote-control\\index.vue' /* webpackChunkName: "pages/codematics-lg-remote-control/index" */))
 const _6f7622a3 = () => interopDefault(import('..\\pages\\collection\\index.vue' /* webpackChunkName: "pages/collection/index" */))
 const _34980513 = () => interopDefault(import('..\\pages\\contact\\index.vue' /* webpackChunkName: "pages/contact/index" */))
 const _96651ebc = () => interopDefault(import('..\\pages\\digital-marketing\\index.vue' /* webpackChunkName: "pages/digital-marketing/index" */))
@@ -22,8 +23,13 @@ const _28b22dd0 = () => interopDefault(import('..\\pages\\login.vue' /* webpackC
 const _ae82bac6 = () => interopDefault(import('..\\pages\\mobile-app-development\\index.vue' /* webpackChunkName: "pages/mobile-app-development/index" */))
 const _913a95ec = () => interopDefault(import('..\\pages\\privacy-policy\\index.vue' /* webpackChunkName: "pages/privacy-policy/index" */))
 const _5a3f0e78 = () => interopDefault(import('..\\pages\\register.vue' /* webpackChunkName: "pages/register" */))
+const _e8cd1d76 = () => interopDefault(import('..\\pages\\scam\\index.vue' /* webpackChunkName: "pages/scam/index" */))
+const _6571bda3 = () => interopDefault(import('..\\pages\\smart-tvs-remote-control-for-ios-and-android\\index.vue' /* webpackChunkName: "pages/smart-tvs-remote-control-for-ios-and-android/index" */))
 const _bf86c388 = () => interopDefault(import('..\\pages\\snap-war\\index.vue' /* webpackChunkName: "pages/snap-war/index" */))
+const _738d37a7 = () => interopDefault(import('..\\pages\\sonybravia-android-tv-remote-control\\index.vue' /* webpackChunkName: "pages/sonybravia-android-tv-remote-control/index" */))
 const _ca98b3b6 = () => interopDefault(import('..\\pages\\the-blood-community-app\\index.vue' /* webpackChunkName: "pages/the-blood-community-app/index" */))
+const _5fd05263 = () => interopDefault(import('..\\pages\\universal-remote-control-for-roku-devices\\index.vue' /* webpackChunkName: "pages/universal-remote-control-for-roku-devices/index" */))
+const _d9bb7a58 = () => interopDefault(import('..\\pages\\universal-tv-remote-control\\index.vue' /* webpackChunkName: "pages/universal-tv-remote-control/index" */))
 const _0a22aa9e = () => interopDefault(import('..\\pages\\web-development\\index.vue' /* webpackChunkName: "pages/web-development/index" */))
 const _a88890ce = () => interopDefault(import('..\\pages\\about\\team.vue' /* webpackChunkName: "pages/about/team" */))
 const _49723d6b = () => interopDefault(import('..\\pages\\blog\\detail-blog.vue' /* webpackChunkName: "pages/blog/detail-blog" */))
@@ -91,6 +97,10 @@ export const routerOptions = {
     component: _61d3f45f,
     name: "blog___ar"
   }, {
+    path: "/ar/codematics-lg-remote-control",
+    component: _77fb50e0,
+    name: "codematics-lg-remote-control___ar"
+  }, {
     path: "/ar/collection",
     component: _6f7622a3,
     name: "collection___ar"
@@ -139,13 +149,33 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___ar"
   }, {
+    path: "/ar/scam",
+    component: _e8cd1d76,
+    name: "scam___ar"
+  }, {
+    path: "/ar/smart-tvs-remote-control-for-ios-and-android",
+    component: _6571bda3,
+    name: "smart-tvs-remote-control-for-ios-and-android___ar"
+  }, {
     path: "/ar/snap-war",
     component: _bf86c388,
     name: "snap-war___ar"
   }, {
+    path: "/ar/sonybravia-android-tv-remote-control",
+    component: _738d37a7,
+    name: "sonybravia-android-tv-remote-control___ar"
+  }, {
     path: "/ar/the-blood-community-app",
     component: _ca98b3b6,
     name: "the-blood-community-app___ar"
+  }, {
+    path: "/ar/universal-remote-control-for-roku-devices",
+    component: _5fd05263,
+    name: "universal-remote-control-for-roku-devices___ar"
+  }, {
+    path: "/ar/universal-tv-remote-control",
+    component: _d9bb7a58,
+    name: "universal-tv-remote-control___ar"
   }, {
     path: "/ar/web-development",
     component: _0a22aa9e,
@@ -170,6 +200,10 @@ export const routerOptions = {
     path: "/de/blog",
     component: _61d3f45f,
     name: "blog___de"
+  }, {
+    path: "/de/codematics-lg-remote-control",
+    component: _77fb50e0,
+    name: "codematics-lg-remote-control___de"
   }, {
     path: "/de/collection",
     component: _6f7622a3,
@@ -219,13 +253,33 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___de"
   }, {
+    path: "/de/scam",
+    component: _e8cd1d76,
+    name: "scam___de"
+  }, {
+    path: "/de/smart-tvs-remote-control-for-ios-and-android",
+    component: _6571bda3,
+    name: "smart-tvs-remote-control-for-ios-and-android___de"
+  }, {
     path: "/de/snap-war",
     component: _bf86c388,
     name: "snap-war___de"
   }, {
+    path: "/de/sonybravia-android-tv-remote-control",
+    component: _738d37a7,
+    name: "sonybravia-android-tv-remote-control___de"
+  }, {
     path: "/de/the-blood-community-app",
     component: _ca98b3b6,
     name: "the-blood-community-app___de"
+  }, {
+    path: "/de/universal-remote-control-for-roku-devices",
+    component: _5fd05263,
+    name: "universal-remote-control-for-roku-devices___de"
+  }, {
+    path: "/de/universal-tv-remote-control",
+    component: _d9bb7a58,
+    name: "universal-tv-remote-control___de"
   }, {
     path: "/de/web-development",
     component: _0a22aa9e,
@@ -250,6 +304,10 @@ export const routerOptions = {
     path: "/en/blog",
     component: _61d3f45f,
     name: "blog___en"
+  }, {
+    path: "/en/codematics-lg-remote-control",
+    component: _77fb50e0,
+    name: "codematics-lg-remote-control___en"
   }, {
     path: "/en/collection",
     component: _6f7622a3,
@@ -299,13 +357,33 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___en"
   }, {
+    path: "/en/scam",
+    component: _e8cd1d76,
+    name: "scam___en"
+  }, {
+    path: "/en/smart-tvs-remote-control-for-ios-and-android",
+    component: _6571bda3,
+    name: "smart-tvs-remote-control-for-ios-and-android___en"
+  }, {
     path: "/en/snap-war",
     component: _bf86c388,
     name: "snap-war___en"
   }, {
+    path: "/en/sonybravia-android-tv-remote-control",
+    component: _738d37a7,
+    name: "sonybravia-android-tv-remote-control___en"
+  }, {
     path: "/en/the-blood-community-app",
     component: _ca98b3b6,
     name: "the-blood-community-app___en"
+  }, {
+    path: "/en/universal-remote-control-for-roku-devices",
+    component: _5fd05263,
+    name: "universal-remote-control-for-roku-devices___en"
+  }, {
+    path: "/en/universal-tv-remote-control",
+    component: _d9bb7a58,
+    name: "universal-tv-remote-control___en"
   }, {
     path: "/en/web-development",
     component: _0a22aa9e,
@@ -330,6 +408,10 @@ export const routerOptions = {
     path: "/id/blog",
     component: _61d3f45f,
     name: "blog___id"
+  }, {
+    path: "/id/codematics-lg-remote-control",
+    component: _77fb50e0,
+    name: "codematics-lg-remote-control___id"
   }, {
     path: "/id/collection",
     component: _6f7622a3,
@@ -379,13 +461,33 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___id"
   }, {
+    path: "/id/scam",
+    component: _e8cd1d76,
+    name: "scam___id"
+  }, {
+    path: "/id/smart-tvs-remote-control-for-ios-and-android",
+    component: _6571bda3,
+    name: "smart-tvs-remote-control-for-ios-and-android___id"
+  }, {
     path: "/id/snap-war",
     component: _bf86c388,
     name: "snap-war___id"
   }, {
+    path: "/id/sonybravia-android-tv-remote-control",
+    component: _738d37a7,
+    name: "sonybravia-android-tv-remote-control___id"
+  }, {
     path: "/id/the-blood-community-app",
     component: _ca98b3b6,
     name: "the-blood-community-app___id"
+  }, {
+    path: "/id/universal-remote-control-for-roku-devices",
+    component: _5fd05263,
+    name: "universal-remote-control-for-roku-devices___id"
+  }, {
+    path: "/id/universal-tv-remote-control",
+    component: _d9bb7a58,
+    name: "universal-tv-remote-control___id"
   }, {
     path: "/id/web-development",
     component: _0a22aa9e,
@@ -410,6 +512,10 @@ export const routerOptions = {
     path: "/pt/blog",
     component: _61d3f45f,
     name: "blog___pt"
+  }, {
+    path: "/pt/codematics-lg-remote-control",
+    component: _77fb50e0,
+    name: "codematics-lg-remote-control___pt"
   }, {
     path: "/pt/collection",
     component: _6f7622a3,
@@ -459,13 +565,33 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___pt"
   }, {
+    path: "/pt/scam",
+    component: _e8cd1d76,
+    name: "scam___pt"
+  }, {
+    path: "/pt/smart-tvs-remote-control-for-ios-and-android",
+    component: _6571bda3,
+    name: "smart-tvs-remote-control-for-ios-and-android___pt"
+  }, {
     path: "/pt/snap-war",
     component: _bf86c388,
     name: "snap-war___pt"
   }, {
+    path: "/pt/sonybravia-android-tv-remote-control",
+    component: _738d37a7,
+    name: "sonybravia-android-tv-remote-control___pt"
+  }, {
     path: "/pt/the-blood-community-app",
     component: _ca98b3b6,
     name: "the-blood-community-app___pt"
+  }, {
+    path: "/pt/universal-remote-control-for-roku-devices",
+    component: _5fd05263,
+    name: "universal-remote-control-for-roku-devices___pt"
+  }, {
+    path: "/pt/universal-tv-remote-control",
+    component: _d9bb7a58,
+    name: "universal-tv-remote-control___pt"
   }, {
     path: "/pt/web-development",
     component: _0a22aa9e,
@@ -490,6 +616,10 @@ export const routerOptions = {
     path: "/zh/blog",
     component: _61d3f45f,
     name: "blog___zh"
+  }, {
+    path: "/zh/codematics-lg-remote-control",
+    component: _77fb50e0,
+    name: "codematics-lg-remote-control___zh"
   }, {
     path: "/zh/collection",
     component: _6f7622a3,
@@ -539,13 +669,33 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___zh"
   }, {
+    path: "/zh/scam",
+    component: _e8cd1d76,
+    name: "scam___zh"
+  }, {
+    path: "/zh/smart-tvs-remote-control-for-ios-and-android",
+    component: _6571bda3,
+    name: "smart-tvs-remote-control-for-ios-and-android___zh"
+  }, {
     path: "/zh/snap-war",
     component: _bf86c388,
     name: "snap-war___zh"
   }, {
+    path: "/zh/sonybravia-android-tv-remote-control",
+    component: _738d37a7,
+    name: "sonybravia-android-tv-remote-control___zh"
+  }, {
     path: "/zh/the-blood-community-app",
     component: _ca98b3b6,
     name: "the-blood-community-app___zh"
+  }, {
+    path: "/zh/universal-remote-control-for-roku-devices",
+    component: _5fd05263,
+    name: "universal-remote-control-for-roku-devices___zh"
+  }, {
+    path: "/zh/universal-tv-remote-control",
+    component: _d9bb7a58,
+    name: "universal-tv-remote-control___zh"
   }, {
     path: "/zh/web-development",
     component: _0a22aa9e,

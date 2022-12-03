@@ -77,6 +77,13 @@
     "_name": "_61d3f45f"
   },
   {
+    "name": "codematics-lg-remote-control___ar",
+    "path": "/ar/codematics-lg-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\codematics-lg-remote-control\\\\index.vue",
+    "chunkName": "pages/codematics-lg-remote-control/index",
+    "_name": "_77fb50e0"
+  },
+  {
     "name": "collection___ar",
     "path": "/ar/collection",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\index.vue",
@@ -161,6 +168,20 @@
     "_name": "_5a3f0e78"
   },
   {
+    "name": "scam___ar",
+    "path": "/ar/scam",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\scam\\\\index.vue",
+    "chunkName": "pages/scam/index",
+    "_name": "_e8cd1d76"
+  },
+  {
+    "name": "smart-tvs-remote-control-for-ios-and-android___ar",
+    "path": "/ar/smart-tvs-remote-control-for-ios-and-android",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
+    "chunkName": "pages/smart-tvs-remote-control-for-ios-and-android/index",
+    "_name": "_6571bda3"
+  },
+  {
     "name": "snap-war___ar",
     "path": "/ar/snap-war",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\snap-war\\\\index.vue",
@@ -168,11 +189,32 @@
     "_name": "_bf86c388"
   },
   {
+    "name": "sonybravia-android-tv-remote-control___ar",
+    "path": "/ar/sonybravia-android-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\sonybravia-android-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/sonybravia-android-tv-remote-control/index",
+    "_name": "_738d37a7"
+  },
+  {
     "name": "the-blood-community-app___ar",
     "path": "/ar/the-blood-community-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\the-blood-community-app\\\\index.vue",
     "chunkName": "pages/the-blood-community-app/index",
     "_name": "_ca98b3b6"
+  },
+  {
+    "name": "universal-remote-control-for-roku-devices___ar",
+    "path": "/ar/universal-remote-control-for-roku-devices",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-remote-control-for-roku-devices\\\\index.vue",
+    "chunkName": "pages/universal-remote-control-for-roku-devices/index",
+    "_name": "_5fd05263"
+  },
+  {
+    "name": "universal-tv-remote-control___ar",
+    "path": "/ar/universal-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/universal-tv-remote-control/index",
+    "_name": "_d9bb7a58"
   },
   {
     "name": "web-development___ar",
@@ -215,6 +257,13 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
     "chunkName": "pages/blog/index",
     "_name": "_61d3f45f"
+  },
+  {
+    "name": "codematics-lg-remote-control___de",
+    "path": "/de/codematics-lg-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\codematics-lg-remote-control\\\\index.vue",
+    "chunkName": "pages/codematics-lg-remote-control/index",
+    "_name": "_77fb50e0"
   },
   {
     "name": "collection___de",
@@ -301,6 +350,20 @@
     "_name": "_5a3f0e78"
   },
   {
+    "name": "scam___de",
+    "path": "/de/scam",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\scam\\\\index.vue",
+    "chunkName": "pages/scam/index",
+    "_name": "_e8cd1d76"
+  },
+  {
+    "name": "smart-tvs-remote-control-for-ios-and-android___de",
+    "path": "/de/smart-tvs-remote-control-for-ios-and-android",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
+    "chunkName": "pages/smart-tvs-remote-control-for-ios-and-android/index",
+    "_name": "_6571bda3"
+  },
+  {
     "name": "snap-war___de",
     "path": "/de/snap-war",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\snap-war\\\\index.vue",
@@ -308,11 +371,32 @@
     "_name": "_bf86c388"
   },
   {
+    "name": "sonybravia-android-tv-remote-control___de",
+    "path": "/de/sonybravia-android-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\sonybravia-android-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/sonybravia-android-tv-remote-control/index",
+    "_name": "_738d37a7"
+  },
+  {
     "name": "the-blood-community-app___de",
     "path": "/de/the-blood-community-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\the-blood-community-app\\\\index.vue",
     "chunkName": "pages/the-blood-community-app/index",
     "_name": "_ca98b3b6"
+  },
+  {
+    "name": "universal-remote-control-for-roku-devices___de",
+    "path": "/de/universal-remote-control-for-roku-devices",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-remote-control-for-roku-devices\\\\index.vue",
+    "chunkName": "pages/universal-remote-control-for-roku-devices/index",
+    "_name": "_5fd05263"
+  },
+  {
+    "name": "universal-tv-remote-control___de",
+    "path": "/de/universal-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/universal-tv-remote-control/index",
+    "_name": "_d9bb7a58"
   },
   {
     "name": "web-development___de",
@@ -355,6 +439,13 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
     "chunkName": "pages/blog/index",
     "_name": "_61d3f45f"
+  },
+  {
+    "name": "codematics-lg-remote-control___en",
+    "path": "/en/codematics-lg-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\codematics-lg-remote-control\\\\index.vue",
+    "chunkName": "pages/codematics-lg-remote-control/index",
+    "_name": "_77fb50e0"
   },
   {
     "name": "collection___en",
@@ -441,6 +532,20 @@
     "_name": "_5a3f0e78"
   },
   {
+    "name": "scam___en",
+    "path": "/en/scam",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\scam\\\\index.vue",
+    "chunkName": "pages/scam/index",
+    "_name": "_e8cd1d76"
+  },
+  {
+    "name": "smart-tvs-remote-control-for-ios-and-android___en",
+    "path": "/en/smart-tvs-remote-control-for-ios-and-android",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
+    "chunkName": "pages/smart-tvs-remote-control-for-ios-and-android/index",
+    "_name": "_6571bda3"
+  },
+  {
     "name": "snap-war___en",
     "path": "/en/snap-war",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\snap-war\\\\index.vue",
@@ -448,11 +553,32 @@
     "_name": "_bf86c388"
   },
   {
+    "name": "sonybravia-android-tv-remote-control___en",
+    "path": "/en/sonybravia-android-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\sonybravia-android-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/sonybravia-android-tv-remote-control/index",
+    "_name": "_738d37a7"
+  },
+  {
     "name": "the-blood-community-app___en",
     "path": "/en/the-blood-community-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\the-blood-community-app\\\\index.vue",
     "chunkName": "pages/the-blood-community-app/index",
     "_name": "_ca98b3b6"
+  },
+  {
+    "name": "universal-remote-control-for-roku-devices___en",
+    "path": "/en/universal-remote-control-for-roku-devices",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-remote-control-for-roku-devices\\\\index.vue",
+    "chunkName": "pages/universal-remote-control-for-roku-devices/index",
+    "_name": "_5fd05263"
+  },
+  {
+    "name": "universal-tv-remote-control___en",
+    "path": "/en/universal-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/universal-tv-remote-control/index",
+    "_name": "_d9bb7a58"
   },
   {
     "name": "web-development___en",
@@ -495,6 +621,13 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
     "chunkName": "pages/blog/index",
     "_name": "_61d3f45f"
+  },
+  {
+    "name": "codematics-lg-remote-control___id",
+    "path": "/id/codematics-lg-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\codematics-lg-remote-control\\\\index.vue",
+    "chunkName": "pages/codematics-lg-remote-control/index",
+    "_name": "_77fb50e0"
   },
   {
     "name": "collection___id",
@@ -581,6 +714,20 @@
     "_name": "_5a3f0e78"
   },
   {
+    "name": "scam___id",
+    "path": "/id/scam",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\scam\\\\index.vue",
+    "chunkName": "pages/scam/index",
+    "_name": "_e8cd1d76"
+  },
+  {
+    "name": "smart-tvs-remote-control-for-ios-and-android___id",
+    "path": "/id/smart-tvs-remote-control-for-ios-and-android",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
+    "chunkName": "pages/smart-tvs-remote-control-for-ios-and-android/index",
+    "_name": "_6571bda3"
+  },
+  {
     "name": "snap-war___id",
     "path": "/id/snap-war",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\snap-war\\\\index.vue",
@@ -588,11 +735,32 @@
     "_name": "_bf86c388"
   },
   {
+    "name": "sonybravia-android-tv-remote-control___id",
+    "path": "/id/sonybravia-android-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\sonybravia-android-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/sonybravia-android-tv-remote-control/index",
+    "_name": "_738d37a7"
+  },
+  {
     "name": "the-blood-community-app___id",
     "path": "/id/the-blood-community-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\the-blood-community-app\\\\index.vue",
     "chunkName": "pages/the-blood-community-app/index",
     "_name": "_ca98b3b6"
+  },
+  {
+    "name": "universal-remote-control-for-roku-devices___id",
+    "path": "/id/universal-remote-control-for-roku-devices",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-remote-control-for-roku-devices\\\\index.vue",
+    "chunkName": "pages/universal-remote-control-for-roku-devices/index",
+    "_name": "_5fd05263"
+  },
+  {
+    "name": "universal-tv-remote-control___id",
+    "path": "/id/universal-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/universal-tv-remote-control/index",
+    "_name": "_d9bb7a58"
   },
   {
     "name": "web-development___id",
@@ -635,6 +803,13 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
     "chunkName": "pages/blog/index",
     "_name": "_61d3f45f"
+  },
+  {
+    "name": "codematics-lg-remote-control___pt",
+    "path": "/pt/codematics-lg-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\codematics-lg-remote-control\\\\index.vue",
+    "chunkName": "pages/codematics-lg-remote-control/index",
+    "_name": "_77fb50e0"
   },
   {
     "name": "collection___pt",
@@ -721,6 +896,20 @@
     "_name": "_5a3f0e78"
   },
   {
+    "name": "scam___pt",
+    "path": "/pt/scam",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\scam\\\\index.vue",
+    "chunkName": "pages/scam/index",
+    "_name": "_e8cd1d76"
+  },
+  {
+    "name": "smart-tvs-remote-control-for-ios-and-android___pt",
+    "path": "/pt/smart-tvs-remote-control-for-ios-and-android",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
+    "chunkName": "pages/smart-tvs-remote-control-for-ios-and-android/index",
+    "_name": "_6571bda3"
+  },
+  {
     "name": "snap-war___pt",
     "path": "/pt/snap-war",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\snap-war\\\\index.vue",
@@ -728,11 +917,32 @@
     "_name": "_bf86c388"
   },
   {
+    "name": "sonybravia-android-tv-remote-control___pt",
+    "path": "/pt/sonybravia-android-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\sonybravia-android-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/sonybravia-android-tv-remote-control/index",
+    "_name": "_738d37a7"
+  },
+  {
     "name": "the-blood-community-app___pt",
     "path": "/pt/the-blood-community-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\the-blood-community-app\\\\index.vue",
     "chunkName": "pages/the-blood-community-app/index",
     "_name": "_ca98b3b6"
+  },
+  {
+    "name": "universal-remote-control-for-roku-devices___pt",
+    "path": "/pt/universal-remote-control-for-roku-devices",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-remote-control-for-roku-devices\\\\index.vue",
+    "chunkName": "pages/universal-remote-control-for-roku-devices/index",
+    "_name": "_5fd05263"
+  },
+  {
+    "name": "universal-tv-remote-control___pt",
+    "path": "/pt/universal-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/universal-tv-remote-control/index",
+    "_name": "_d9bb7a58"
   },
   {
     "name": "web-development___pt",
@@ -775,6 +985,13 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
     "chunkName": "pages/blog/index",
     "_name": "_61d3f45f"
+  },
+  {
+    "name": "codematics-lg-remote-control___zh",
+    "path": "/zh/codematics-lg-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\codematics-lg-remote-control\\\\index.vue",
+    "chunkName": "pages/codematics-lg-remote-control/index",
+    "_name": "_77fb50e0"
   },
   {
     "name": "collection___zh",
@@ -861,6 +1078,20 @@
     "_name": "_5a3f0e78"
   },
   {
+    "name": "scam___zh",
+    "path": "/zh/scam",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\scam\\\\index.vue",
+    "chunkName": "pages/scam/index",
+    "_name": "_e8cd1d76"
+  },
+  {
+    "name": "smart-tvs-remote-control-for-ios-and-android___zh",
+    "path": "/zh/smart-tvs-remote-control-for-ios-and-android",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
+    "chunkName": "pages/smart-tvs-remote-control-for-ios-and-android/index",
+    "_name": "_6571bda3"
+  },
+  {
     "name": "snap-war___zh",
     "path": "/zh/snap-war",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\snap-war\\\\index.vue",
@@ -868,11 +1099,32 @@
     "_name": "_bf86c388"
   },
   {
+    "name": "sonybravia-android-tv-remote-control___zh",
+    "path": "/zh/sonybravia-android-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\sonybravia-android-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/sonybravia-android-tv-remote-control/index",
+    "_name": "_738d37a7"
+  },
+  {
     "name": "the-blood-community-app___zh",
     "path": "/zh/the-blood-community-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\the-blood-community-app\\\\index.vue",
     "chunkName": "pages/the-blood-community-app/index",
     "_name": "_ca98b3b6"
+  },
+  {
+    "name": "universal-remote-control-for-roku-devices___zh",
+    "path": "/zh/universal-remote-control-for-roku-devices",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-remote-control-for-roku-devices\\\\index.vue",
+    "chunkName": "pages/universal-remote-control-for-roku-devices/index",
+    "_name": "_5fd05263"
+  },
+  {
+    "name": "universal-tv-remote-control___zh",
+    "path": "/zh/universal-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/universal-tv-remote-control/index",
+    "_name": "_d9bb7a58"
   },
   {
     "name": "web-development___zh",

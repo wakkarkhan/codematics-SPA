@@ -9,7 +9,7 @@
             <h2 class="pb-5">Flash on Call and SMS</h2>
             <h3>CLICK TO DOWNLOAD FOR&nbsp;<a target="_blank"
                 href="https://play.google.com/store/apps/details?id=fexheli.flashoncall.flashonsms">ANDROID</a>.</h3>
-            <p>The No.1 Flash Alert App on Google Play</p>
+            <p>The No.1 Flash Alert App on Google Play.</p>
 
             <h4 class="pt-5">About Permissions on devices using Android 6 or later</h4>
             <p class="mt-0">As per Google Play policy, permission to access camera as well as Call and SMS state will be
@@ -18,7 +18,7 @@
               Android version 6 (Marshmallow) or greater (Nougat) starts the app for the first time.<br>
             </p>
             <h4 class="pt-5">The permissions are used for the following purposes</h4>
-            <ul class="pt-3">
+            <ul>
               <li><b>Camera:</b> to access the flash light.</li>
               <li><b>Call:</b> to let the app know when there is a Call on the user’s device so that the flash light can
                 be
@@ -44,14 +44,14 @@
               enable or disable
               the Flash on call Application in various Ringer Modes.</p>
             <h4 class="pt-5">How To Use</h4>
-            <ul class="pt-3">
+            <ul>
               <li>Flash On Call application is very flexible in a way that you can enable / disable it completely for
                 both call and
                 SMS, or you can just select to use the flash functionality for either call or SMS.</li>
               <li>Blinking frequency can be changed according to your own liking</li>
             </ul>
             <h4 class="pt-5">Available Functions</h4>
-            <ol class="pt-3">
+            <ol>
               <li>Flash On Incoming Calls</li>
               <li>Flash On Incoming SMS</li>
               <li>Blink Intervals adjustment</li>
@@ -60,7 +60,7 @@
               <li>Use app in different modes (Normal, Vibration, Silent)</li>
             </ol>
             <h4 class="pt-5">Application Usage</h4>
-            <ul class="pt-3">
+            <ul>
               <li>In Slient Mode</li>
               <li>In Normal Mode</li>
               <li>In Vibrate Mode</li>

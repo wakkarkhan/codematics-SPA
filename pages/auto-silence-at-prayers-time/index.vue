@@ -28,13 +28,13 @@
             </ol>
 
             <h4 class="pt-5">How to Use</h4>
-            <p>
+            <p class="mt-0">
               The app comes with an extremely friendly User Interface that is really easy to use. Set the “From”
               time field to silent and “To” time field to un-silent the device for each prayer and enable the
               functionality by ticking the checkbox which will be disabled by default. The device will automatically
               switch the mode from Ringer mode to Silent mode and Vice Versa at the specified times.</p>
             <p>The main features of this app are as follows:</p>
-            <ol class="pt-3">
+            <ol>
               <li>Auto Silences the Android device.</li>
               <li>Switches back to Ringer Mode Automatically.</li>
               <li>Ability to Enable and Disable the Silencer.</li>

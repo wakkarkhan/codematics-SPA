@@ -1,15 +1,7 @@
 <template>
-  <v-card
-    :class="[orientation, type]"
-    class="post-card mx-auto"
-    max-width="1000"
-  >
+  <v-card :class="[orientation, type]" class="post-card mx-auto" max-width="1000">
     <div class="figure">
-      <v-img
-        :src="img"
-        class="white--text"
-        height="200px"
-      />
+      <v-img :src="img" class="white--text" height="200px" />
     </div>
     <div class="properties">
       <strong class="use-text-subtitle text-truncate">
@@ -26,13 +18,7 @@
         </span>
       </v-card-text>
       <v-card-actions>
-        <v-btn
-          :small="orientation === 'landscape'"
-          :href="href"
-          outlined
-          class="action-btn"
-          color="primary"
-        >
+        <v-btn :small="orientation === 'landscape'" :href="href" outlined class="action-btn" color="primary">
           {{ $t('common.btn_read_more') }}
         </v-btn>
       </v-card-actions>
@@ -61,7 +47,7 @@ export default {
     },
     desc: {
       type: String,
-      required: true
+      required: false
     },
     orientation: {
       type: String,

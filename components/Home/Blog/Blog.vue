@@ -1,25 +1,31 @@
 <template>
   <div class="root">
-    <fragment>
-      <v-container>
+    <u-animate-container>
+      <v-container class="carousel-header">
         <v-row>
           <v-col cols="12" md="12">
             <h2 class="title-primary">{{ $t('blog.section_title') }}</h2>
             <p class="title-para2">{{ $t('blog.section_para') }}</p>
           </v-col>
         </v-row>
+      </v-container>
 
-        <div class="gallery-root mt-4">
-          <div class="carousel" v-if="loaded">
-            <slick ref="slider" :options="slickOptions">
-              <div v-for="(item, index) in blogList" :key="index" class="item px-3">
-                <news-card :img="item.img" :title="item.title" orientation="portrait" type="over" />
-              </div>
-            </slick>
-          </div>
+      <v-container>
+        <div class="massonry">
+          <v-row class="justify-center align-center">
+            <v-col v-for="(item, index) in blogList" :key="index" v-if="item.size === 'medium'" cols="12" md="4" sm="6"
+              class="pa-3">
+              <u-animate name="fadeInUpShort" delay="0.4s" duration="0.4s">
+                <div>
+                  <case-card :bg="item.bg || ''" :logo="item.logo" :href="item.href" :title="item.title"
+                    :size="item.size" :simple="item.simple || false" :show-img="() => showImg(index)" />
+                </div>
+              </u-animate>
+            </v-col>
+          </v-row>
         </div>
 
-        <v-row class="justify-space-around pt-10">
+        <v-row class="justify-space-around pt-7">
           <v-col cols="2">
             <v-btn :href=link.agency.blog target="_blank" block class="button" color="primary">
               {{ $t('common.btn_blog') }}
@@ -27,107 +33,108 @@
           </v-col>
         </v-row>
       </v-container>
-    </fragment>
+    </u-animate-container>
   </div>
 </template>
 
 <style scoped lang="scss">
-@import '../../Cards/post-news-card.scss';
 @import '../../Title/title-style.scss';
 @import '../../Blog/blog-style.scss';
 
 .root {
-  background: var(--v-primary-lighten5) !important;
+  // background: rgb(255, 255, 255);
+  background: -moz-linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(255, 183, 163, 1) 50%, rgba(255, 155, 136, 1) 100%);
+  background: -webkit-linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(255, 183, 163, 1) 50%, rgba(255, 155, 136, 1) 100%);
+  background: linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(255, 183, 163, 1) 50%, rgba(255, 155, 136, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff", endColorstr="#ff9b88", GradientType=1);
 }
 
-.slick-dots {
-  padding: 0px 40px !important;
+.root::before {
+  background-color: #fff !important;
+  opacity: 0.8 !important;
 }
 </style>
 
 <script>
-import NewsCard from '../../Cards/NewsCard.vue'
+import CaseCard from '../../Cards/CaseCard'
 import imgAPI from '~/static/images/imgAPI'
 import link from '~/static/text/link'
 import blogs from '~/static/api/blogs'
 
 export default {
   components: {
-    NewsCard,
-    Slick: () => import('vue-slick')
+    CaseCard
   },
   data() {
     return {
-      imgAPI: imgAPI,
-      link: link,
+      visible: false,
       index: 0,
-      item: 0,
+      link: link,
       loaded: false,
-      blogList: blogs,
-      // blogList: [
-      //   {
-      //     title: "Smart TV Remote Control for iOS",
-      //     img: imgAPI.blog[0],
-      //   },
-      //   {
-      //     title: "CV Builder App",
-      //     img: imgAPI.blog[1],
-      //   },
-      //   {
-      //     title: "Blood Community Pakistan - Our Mission and Vision",
-      //     img: imgAPI.blog[2],
-      //   },
-      //   {
-      //     title: "Fund Raising Record Keeping",
-      //     img: imgAPI.blog[3],
-      //   },
-      //   {
-      //     title: "Bomber Warrior",
-      //     img: imgAPI.blog[4],
-      //   },
-      //   {
-      //     title: "Flicky Chicky",
-      //     img: imgAPI.blog[5],
-      //   },
-      // ],
-      slickOptions: {
-        dots: true,
-        arrows: false,
-        slidesToShow: 4,
-        slidesToScroll: 1,
-        infinite: false,
-        autoplay: false,
-        autoplaySpeed: 5000,
-        variableWidth: false,
-        responsive: [
-          {
-            breakpoint: 800,
-            settings: {
-              slidesToShow: 3,
-              slidesToScroll: 1,
-            }
-          },
-          {
-            breakpoint: 600,
-            settings: {
-              slidesToShow: 2,
-              slidesToScroll: 1
-            }
-          }
-        ]
-      }
+      item: 0,
+      blogList: blogs.blogsMain,
+      caseData: [
+        {
+          bg: '/images/projects/lg-tv.jpg',
+          logo: '/images/codematics-logo.png',
+          title: 'Donec commodo convallis ligula',
+          desc: 'Vestibulum consequat hendrerit',
+          size: 'big'
+        },
+        {
+          bg: '/images/projects/lg-tv.jpg',
+          logo: '/images/codematics-logo.png',
+          title: 'Donec commodo convallis ligula',
+          desc: 'Vestibulum consequat hendrerit',
+          size: 'big'
+        },
+        {
+          bg: imgAPI.blog[2],
+          logo: '/images/codematics-logo.png',
+          title: 'Donec commodo convallis ligula',
+          desc: 'Vestibulum consequat hendrerit',
+          size: 'medium'
+        },
+        {
+          bg: imgAPI.blog[3],
+          logo: '/images/codematics-logo.png',
+          title: 'Donec commodo convallis ligula',
+          desc: 'Vestibulum consequat hendrerit',
+          size: 'medium'
+        },
+        {
+          bg: imgAPI.blog[4],
+          logo: '/images/codematics-logo.png',
+          title: 'Donec commodo convallis ligula',
+          desc: 'Vestibulum consequat hendrerit',
+          size: 'medium'
+        }
+      ]
     }
   },
   mounted() {
     this.loaded = true
   },
   methods: {
-    slickNext() {
-      this.$refs.slider.next()
+    showImg(index) {
+      this.index = index
+      this.visible = true
     },
-    slickPrev() {
-      this.$refs.slider.prev()
+    handleHide() {
+      this.visible = false
+    }
+  },
+  computed: {
+    mdUp() {
+      return this.$mq === 'mdDown' || this.$mq === 'lgDown' || this.$mq === 'xl'
     },
+    imgs() {
+      const arr = []
+      this.caseData.map(item => {
+        arr.push(item.bg || item.logo)
+      })
+      return arr
+    }
   }
 }
 </script>

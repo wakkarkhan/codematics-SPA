@@ -51,62 +51,62 @@ export default {
         {
           title: 'Auto Silence at Prayer Time',
           img: imgAPI.projects[0],
-          href: '/auto-silence-at-prayers-time'
+          href: '/portfolio/auto-silence-at-prayers-time'
         },
         {
           title: 'The Blood Community App',
           img: imgAPI.projects[1],
-          href: '/the-blood-community-app'
+          href: '/portfolio/the-blood-community-app'
         },
         {
           title: 'Flash on Call and SMS',
           img: imgAPI.projects[2],
-          href: '/flash-on-call-and-sms'
+          href: '/portfolio/flash-on-call-and-sms'
         },
         {
           title: 'Guess the Word MultiPlayer',
           img: imgAPI.projects[3],
-          href: '/guess-the-word-multiplayer'
+          href: '/portfolio/guess-the-word-multiplayer'
         },
         {
           title: 'Kardaan: Handyman Services at Your Doorstep',
           img: imgAPI.projects[4],
-          href: '/kardaan-handyman-services-at-your-door-stepearly-access'
+          href: '/portfolio/kardaan-handyman-services-at-your-door-stepearly-access'
         },
         {
           title: 'Snap War',
           img: imgAPI.projects[5],
-          href: '/snap-war'
+          href: '/portfolio/snap-war'
         },
         {
           title: 'Universal TV Remote Control',
           img: imgAPI.projects[6],
-          href: '/universal-tv-remote-control'
+          href: '/portfolio/universal-tv-remote-control'
         },
         {
           title: 'SCAM',
           img: imgAPI.projects[7],
-          href: '/scam'
+          href: '/portfolio/scam'
         },
         {
           title: 'Codematics LG Remote Control',
           img: imgAPI.projects[8],
-          href: '/codematics-lg-remote-control'
+          href: '/portfolio/codematics-lg-remote-control'
         },
         {
           title: 'Universal Remote Control for Roku Devices',
           img: imgAPI.projects[9],
-          href: '/universal-remote-control-for-roku-devices'
+          href: '/portfolio/universal-remote-control-for-roku-devices'
         },
         {
           title: 'Sony Bravia Android TV Remote Control',
           img: imgAPI.projects[10],
-          href: '/sonybravia-android-tv-remote-control'
+          href: '/portfolio/sonybravia-android-tv-remote-control'
         },
         {
           title: "Smart TV's Remote Control for iOS and Android",
           img: imgAPI.projects[11],
-          href: '/smart-tvs-remote-control-for-ios-and-android'
+          href: '/portfolio/smart-tvs-remote-control-for-ios-and-android'
         }
 
       ],

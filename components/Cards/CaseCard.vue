@@ -1,28 +1,13 @@
 <template>
-  <v-btn
-    :class="setSize"
-    class="case-card"
-    @click="showImg"
-  >
+  <v-btn :class="setSize" class="case-card" @click="showImg">
     <span class="figure">
-      <img
-        :src="[simple ? logo : bg]"
-        alt="img"
-      >
+      <img :src="[simple ? logo : bg]" alt="img">
     </span>
-    <span
-      :class="{ 'full-hide': simple }"
-      class="property"
-    >
+
+    <span :class="{ 'full-hide': simple }" class="property">
       <span class="title">
-        <span
-          v-if="!simple"
-          class="logo"
-        >
-          <img
-            :src="logo"
-            alt="logo"
-          >
+        <span v-if="!simple" class="logo">
+          <img :src="logo" alt="logo">
         </span>
         <span class="text">
           <span class="title">
@@ -54,7 +39,7 @@ export default {
     },
     desc: {
       type: String,
-      required: true
+      required: false
     },
     title: {
       type: String,
@@ -68,15 +53,19 @@ export default {
       type: Boolean,
       default: false
     },
+    href: {
+      type: String,
+      default: '#'
+    },
     showImg: {
       type: Function,
-      default: function() {
+      default: function () {
         return false
       }
     }
   },
   computed: {
-    setSize: function() {
+    setSize: function () {
       switch (this.size) {
         case 'small':
           return 'small'

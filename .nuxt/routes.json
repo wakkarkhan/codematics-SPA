@@ -56,13 +56,6 @@
     "_name": "_ae99e474"
   },
   {
-    "name": "auto-silence-at-prayers-time___ar",
-    "path": "/ar/auto-silence-at-prayers-time",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\auto-silence-at-prayers-time\\\\index.vue",
-    "chunkName": "pages/auto-silence-at-prayers-time/index",
-    "_name": "_62ce42e3"
-  },
-  {
     "name": "blank-page___ar",
     "path": "/ar/blank-page",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blank-page.vue",
@@ -75,13 +68,6 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
     "chunkName": "pages/blog/index",
     "_name": "_61d3f45f"
-  },
-  {
-    "name": "codematics-lg-remote-control___ar",
-    "path": "/ar/codematics-lg-remote-control",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\codematics-lg-remote-control\\\\index.vue",
-    "chunkName": "pages/codematics-lg-remote-control/index",
-    "_name": "_77fb50e0"
   },
   {
     "name": "collection___ar",
@@ -105,13 +91,6 @@
     "_name": "_96651ebc"
   },
   {
-    "name": "flash-on-call-and-sms___ar",
-    "path": "/ar/flash-on-call-and-sms",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\flash-on-call-and-sms\\\\index.vue",
-    "chunkName": "pages/flash-on-call-and-sms/index",
-    "_name": "_6133cb0e"
-  },
-  {
     "name": "game-development___ar",
     "path": "/ar/game-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
@@ -124,20 +103,6 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
     "chunkName": "pages/graphic-designing/index",
     "_name": "_7d5da058"
-  },
-  {
-    "name": "guess-the-word-multiplayer___ar",
-    "path": "/ar/guess-the-word-multiplayer",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\guess-the-word-multiplayer\\\\index.vue",
-    "chunkName": "pages/guess-the-word-multiplayer/index",
-    "_name": "_6af62738"
-  },
-  {
-    "name": "kardaan-handyman-services-at-your-door-stepearly-access___ar",
-    "path": "/ar/kardaan-handyman-services-at-your-door-stepearly-access",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
-    "chunkName": "pages/kardaan-handyman-services-at-your-door-stepearly-access/index",
-    "_name": "_0497fc5a"
   },
   {
     "name": "login___ar",
@@ -168,55 +133,6 @@
     "_name": "_5a3f0e78"
   },
   {
-    "name": "scam___ar",
-    "path": "/ar/scam",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\scam\\\\index.vue",
-    "chunkName": "pages/scam/index",
-    "_name": "_e8cd1d76"
-  },
-  {
-    "name": "smart-tvs-remote-control-for-ios-and-android___ar",
-    "path": "/ar/smart-tvs-remote-control-for-ios-and-android",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
-    "chunkName": "pages/smart-tvs-remote-control-for-ios-and-android/index",
-    "_name": "_6571bda3"
-  },
-  {
-    "name": "snap-war___ar",
-    "path": "/ar/snap-war",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\snap-war\\\\index.vue",
-    "chunkName": "pages/snap-war/index",
-    "_name": "_bf86c388"
-  },
-  {
-    "name": "sonybravia-android-tv-remote-control___ar",
-    "path": "/ar/sonybravia-android-tv-remote-control",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\sonybravia-android-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/sonybravia-android-tv-remote-control/index",
-    "_name": "_738d37a7"
-  },
-  {
-    "name": "the-blood-community-app___ar",
-    "path": "/ar/the-blood-community-app",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\the-blood-community-app\\\\index.vue",
-    "chunkName": "pages/the-blood-community-app/index",
-    "_name": "_ca98b3b6"
-  },
-  {
-    "name": "universal-remote-control-for-roku-devices___ar",
-    "path": "/ar/universal-remote-control-for-roku-devices",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-remote-control-for-roku-devices\\\\index.vue",
-    "chunkName": "pages/universal-remote-control-for-roku-devices/index",
-    "_name": "_5fd05263"
-  },
-  {
-    "name": "universal-tv-remote-control___ar",
-    "path": "/ar/universal-tv-remote-control",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/universal-tv-remote-control/index",
-    "_name": "_d9bb7a58"
-  },
-  {
     "name": "web-development___ar",
     "path": "/ar/web-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
@@ -238,13 +154,6 @@
     "_name": "_ae99e474"
   },
   {
-    "name": "auto-silence-at-prayers-time___de",
-    "path": "/de/auto-silence-at-prayers-time",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\auto-silence-at-prayers-time\\\\index.vue",
-    "chunkName": "pages/auto-silence-at-prayers-time/index",
-    "_name": "_62ce42e3"
-  },
-  {
     "name": "blank-page___de",
     "path": "/de/blank-page",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blank-page.vue",
@@ -257,13 +166,6 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
     "chunkName": "pages/blog/index",
     "_name": "_61d3f45f"
-  },
-  {
-    "name": "codematics-lg-remote-control___de",
-    "path": "/de/codematics-lg-remote-control",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\codematics-lg-remote-control\\\\index.vue",
-    "chunkName": "pages/codematics-lg-remote-control/index",
-    "_name": "_77fb50e0"
   },
   {
     "name": "collection___de",
@@ -287,13 +189,6 @@
     "_name": "_96651ebc"
   },
   {
-    "name": "flash-on-call-and-sms___de",
-    "path": "/de/flash-on-call-and-sms",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\flash-on-call-and-sms\\\\index.vue",
-    "chunkName": "pages/flash-on-call-and-sms/index",
-    "_name": "_6133cb0e"
-  },
-  {
     "name": "game-development___de",
     "path": "/de/game-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
@@ -306,20 +201,6 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
     "chunkName": "pages/graphic-designing/index",
     "_name": "_7d5da058"
-  },
-  {
-    "name": "guess-the-word-multiplayer___de",
-    "path": "/de/guess-the-word-multiplayer",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\guess-the-word-multiplayer\\\\index.vue",
-    "chunkName": "pages/guess-the-word-multiplayer/index",
-    "_name": "_6af62738"
-  },
-  {
-    "name": "kardaan-handyman-services-at-your-door-stepearly-access___de",
-    "path": "/de/kardaan-handyman-services-at-your-door-stepearly-access",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
-    "chunkName": "pages/kardaan-handyman-services-at-your-door-stepearly-access/index",
-    "_name": "_0497fc5a"
   },
   {
     "name": "login___de",
@@ -350,55 +231,6 @@
     "_name": "_5a3f0e78"
   },
   {
-    "name": "scam___de",
-    "path": "/de/scam",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\scam\\\\index.vue",
-    "chunkName": "pages/scam/index",
-    "_name": "_e8cd1d76"
-  },
-  {
-    "name": "smart-tvs-remote-control-for-ios-and-android___de",
-    "path": "/de/smart-tvs-remote-control-for-ios-and-android",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
-    "chunkName": "pages/smart-tvs-remote-control-for-ios-and-android/index",
-    "_name": "_6571bda3"
-  },
-  {
-    "name": "snap-war___de",
-    "path": "/de/snap-war",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\snap-war\\\\index.vue",
-    "chunkName": "pages/snap-war/index",
-    "_name": "_bf86c388"
-  },
-  {
-    "name": "sonybravia-android-tv-remote-control___de",
-    "path": "/de/sonybravia-android-tv-remote-control",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\sonybravia-android-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/sonybravia-android-tv-remote-control/index",
-    "_name": "_738d37a7"
-  },
-  {
-    "name": "the-blood-community-app___de",
-    "path": "/de/the-blood-community-app",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\the-blood-community-app\\\\index.vue",
-    "chunkName": "pages/the-blood-community-app/index",
-    "_name": "_ca98b3b6"
-  },
-  {
-    "name": "universal-remote-control-for-roku-devices___de",
-    "path": "/de/universal-remote-control-for-roku-devices",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-remote-control-for-roku-devices\\\\index.vue",
-    "chunkName": "pages/universal-remote-control-for-roku-devices/index",
-    "_name": "_5fd05263"
-  },
-  {
-    "name": "universal-tv-remote-control___de",
-    "path": "/de/universal-tv-remote-control",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/universal-tv-remote-control/index",
-    "_name": "_d9bb7a58"
-  },
-  {
     "name": "web-development___de",
     "path": "/de/web-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
@@ -420,13 +252,6 @@
     "_name": "_ae99e474"
   },
   {
-    "name": "auto-silence-at-prayers-time___en",
-    "path": "/en/auto-silence-at-prayers-time",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\auto-silence-at-prayers-time\\\\index.vue",
-    "chunkName": "pages/auto-silence-at-prayers-time/index",
-    "_name": "_62ce42e3"
-  },
-  {
     "name": "blank-page___en",
     "path": "/en/blank-page",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blank-page.vue",
@@ -439,13 +264,6 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
     "chunkName": "pages/blog/index",
     "_name": "_61d3f45f"
-  },
-  {
-    "name": "codematics-lg-remote-control___en",
-    "path": "/en/codematics-lg-remote-control",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\codematics-lg-remote-control\\\\index.vue",
-    "chunkName": "pages/codematics-lg-remote-control/index",
-    "_name": "_77fb50e0"
   },
   {
     "name": "collection___en",
@@ -469,13 +287,6 @@
     "_name": "_96651ebc"
   },
   {
-    "name": "flash-on-call-and-sms___en",
-    "path": "/en/flash-on-call-and-sms",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\flash-on-call-and-sms\\\\index.vue",
-    "chunkName": "pages/flash-on-call-and-sms/index",
-    "_name": "_6133cb0e"
-  },
-  {
     "name": "game-development___en",
     "path": "/en/game-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
@@ -488,20 +299,6 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
     "chunkName": "pages/graphic-designing/index",
     "_name": "_7d5da058"
-  },
-  {
-    "name": "guess-the-word-multiplayer___en",
-    "path": "/en/guess-the-word-multiplayer",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\guess-the-word-multiplayer\\\\index.vue",
-    "chunkName": "pages/guess-the-word-multiplayer/index",
-    "_name": "_6af62738"
-  },
-  {
-    "name": "kardaan-handyman-services-at-your-door-stepearly-access___en",
-    "path": "/en/kardaan-handyman-services-at-your-door-stepearly-access",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
-    "chunkName": "pages/kardaan-handyman-services-at-your-door-stepearly-access/index",
-    "_name": "_0497fc5a"
   },
   {
     "name": "login___en",
@@ -532,55 +329,6 @@
     "_name": "_5a3f0e78"
   },
   {
-    "name": "scam___en",
-    "path": "/en/scam",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\scam\\\\index.vue",
-    "chunkName": "pages/scam/index",
-    "_name": "_e8cd1d76"
-  },
-  {
-    "name": "smart-tvs-remote-control-for-ios-and-android___en",
-    "path": "/en/smart-tvs-remote-control-for-ios-and-android",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
-    "chunkName": "pages/smart-tvs-remote-control-for-ios-and-android/index",
-    "_name": "_6571bda3"
-  },
-  {
-    "name": "snap-war___en",
-    "path": "/en/snap-war",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\snap-war\\\\index.vue",
-    "chunkName": "pages/snap-war/index",
-    "_name": "_bf86c388"
-  },
-  {
-    "name": "sonybravia-android-tv-remote-control___en",
-    "path": "/en/sonybravia-android-tv-remote-control",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\sonybravia-android-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/sonybravia-android-tv-remote-control/index",
-    "_name": "_738d37a7"
-  },
-  {
-    "name": "the-blood-community-app___en",
-    "path": "/en/the-blood-community-app",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\the-blood-community-app\\\\index.vue",
-    "chunkName": "pages/the-blood-community-app/index",
-    "_name": "_ca98b3b6"
-  },
-  {
-    "name": "universal-remote-control-for-roku-devices___en",
-    "path": "/en/universal-remote-control-for-roku-devices",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-remote-control-for-roku-devices\\\\index.vue",
-    "chunkName": "pages/universal-remote-control-for-roku-devices/index",
-    "_name": "_5fd05263"
-  },
-  {
-    "name": "universal-tv-remote-control___en",
-    "path": "/en/universal-tv-remote-control",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/universal-tv-remote-control/index",
-    "_name": "_d9bb7a58"
-  },
-  {
     "name": "web-development___en",
     "path": "/en/web-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
@@ -602,13 +350,6 @@
     "_name": "_ae99e474"
   },
   {
-    "name": "auto-silence-at-prayers-time___id",
-    "path": "/id/auto-silence-at-prayers-time",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\auto-silence-at-prayers-time\\\\index.vue",
-    "chunkName": "pages/auto-silence-at-prayers-time/index",
-    "_name": "_62ce42e3"
-  },
-  {
     "name": "blank-page___id",
     "path": "/id/blank-page",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blank-page.vue",
@@ -621,13 +362,6 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
     "chunkName": "pages/blog/index",
     "_name": "_61d3f45f"
-  },
-  {
-    "name": "codematics-lg-remote-control___id",
-    "path": "/id/codematics-lg-remote-control",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\codematics-lg-remote-control\\\\index.vue",
-    "chunkName": "pages/codematics-lg-remote-control/index",
-    "_name": "_77fb50e0"
   },
   {
     "name": "collection___id",
@@ -651,13 +385,6 @@
     "_name": "_96651ebc"
   },
   {
-    "name": "flash-on-call-and-sms___id",
-    "path": "/id/flash-on-call-and-sms",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\flash-on-call-and-sms\\\\index.vue",
-    "chunkName": "pages/flash-on-call-and-sms/index",
-    "_name": "_6133cb0e"
-  },
-  {
     "name": "game-development___id",
     "path": "/id/game-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
@@ -670,20 +397,6 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
     "chunkName": "pages/graphic-designing/index",
     "_name": "_7d5da058"
-  },
-  {
-    "name": "guess-the-word-multiplayer___id",
-    "path": "/id/guess-the-word-multiplayer",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\guess-the-word-multiplayer\\\\index.vue",
-    "chunkName": "pages/guess-the-word-multiplayer/index",
-    "_name": "_6af62738"
-  },
-  {
-    "name": "kardaan-handyman-services-at-your-door-stepearly-access___id",
-    "path": "/id/kardaan-handyman-services-at-your-door-stepearly-access",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
-    "chunkName": "pages/kardaan-handyman-services-at-your-door-stepearly-access/index",
-    "_name": "_0497fc5a"
   },
   {
     "name": "login___id",
@@ -714,55 +427,6 @@
     "_name": "_5a3f0e78"
   },
   {
-    "name": "scam___id",
-    "path": "/id/scam",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\scam\\\\index.vue",
-    "chunkName": "pages/scam/index",
-    "_name": "_e8cd1d76"
-  },
-  {
-    "name": "smart-tvs-remote-control-for-ios-and-android___id",
-    "path": "/id/smart-tvs-remote-control-for-ios-and-android",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
-    "chunkName": "pages/smart-tvs-remote-control-for-ios-and-android/index",
-    "_name": "_6571bda3"
-  },
-  {
-    "name": "snap-war___id",
-    "path": "/id/snap-war",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\snap-war\\\\index.vue",
-    "chunkName": "pages/snap-war/index",
-    "_name": "_bf86c388"
-  },
-  {
-    "name": "sonybravia-android-tv-remote-control___id",
-    "path": "/id/sonybravia-android-tv-remote-control",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\sonybravia-android-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/sonybravia-android-tv-remote-control/index",
-    "_name": "_738d37a7"
-  },
-  {
-    "name": "the-blood-community-app___id",
-    "path": "/id/the-blood-community-app",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\the-blood-community-app\\\\index.vue",
-    "chunkName": "pages/the-blood-community-app/index",
-    "_name": "_ca98b3b6"
-  },
-  {
-    "name": "universal-remote-control-for-roku-devices___id",
-    "path": "/id/universal-remote-control-for-roku-devices",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-remote-control-for-roku-devices\\\\index.vue",
-    "chunkName": "pages/universal-remote-control-for-roku-devices/index",
-    "_name": "_5fd05263"
-  },
-  {
-    "name": "universal-tv-remote-control___id",
-    "path": "/id/universal-tv-remote-control",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/universal-tv-remote-control/index",
-    "_name": "_d9bb7a58"
-  },
-  {
     "name": "web-development___id",
     "path": "/id/web-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
@@ -784,13 +448,6 @@
     "_name": "_ae99e474"
   },
   {
-    "name": "auto-silence-at-prayers-time___pt",
-    "path": "/pt/auto-silence-at-prayers-time",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\auto-silence-at-prayers-time\\\\index.vue",
-    "chunkName": "pages/auto-silence-at-prayers-time/index",
-    "_name": "_62ce42e3"
-  },
-  {
     "name": "blank-page___pt",
     "path": "/pt/blank-page",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blank-page.vue",
@@ -803,13 +460,6 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
     "chunkName": "pages/blog/index",
     "_name": "_61d3f45f"
-  },
-  {
-    "name": "codematics-lg-remote-control___pt",
-    "path": "/pt/codematics-lg-remote-control",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\codematics-lg-remote-control\\\\index.vue",
-    "chunkName": "pages/codematics-lg-remote-control/index",
-    "_name": "_77fb50e0"
   },
   {
     "name": "collection___pt",
@@ -833,13 +483,6 @@
     "_name": "_96651ebc"
   },
   {
-    "name": "flash-on-call-and-sms___pt",
-    "path": "/pt/flash-on-call-and-sms",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\flash-on-call-and-sms\\\\index.vue",
-    "chunkName": "pages/flash-on-call-and-sms/index",
-    "_name": "_6133cb0e"
-  },
-  {
     "name": "game-development___pt",
     "path": "/pt/game-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
@@ -852,20 +495,6 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
     "chunkName": "pages/graphic-designing/index",
     "_name": "_7d5da058"
-  },
-  {
-    "name": "guess-the-word-multiplayer___pt",
-    "path": "/pt/guess-the-word-multiplayer",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\guess-the-word-multiplayer\\\\index.vue",
-    "chunkName": "pages/guess-the-word-multiplayer/index",
-    "_name": "_6af62738"
-  },
-  {
-    "name": "kardaan-handyman-services-at-your-door-stepearly-access___pt",
-    "path": "/pt/kardaan-handyman-services-at-your-door-stepearly-access",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
-    "chunkName": "pages/kardaan-handyman-services-at-your-door-stepearly-access/index",
-    "_name": "_0497fc5a"
   },
   {
     "name": "login___pt",
@@ -896,55 +525,6 @@
     "_name": "_5a3f0e78"
   },
   {
-    "name": "scam___pt",
-    "path": "/pt/scam",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\scam\\\\index.vue",
-    "chunkName": "pages/scam/index",
-    "_name": "_e8cd1d76"
-  },
-  {
-    "name": "smart-tvs-remote-control-for-ios-and-android___pt",
-    "path": "/pt/smart-tvs-remote-control-for-ios-and-android",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
-    "chunkName": "pages/smart-tvs-remote-control-for-ios-and-android/index",
-    "_name": "_6571bda3"
-  },
-  {
-    "name": "snap-war___pt",
-    "path": "/pt/snap-war",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\snap-war\\\\index.vue",
-    "chunkName": "pages/snap-war/index",
-    "_name": "_bf86c388"
-  },
-  {
-    "name": "sonybravia-android-tv-remote-control___pt",
-    "path": "/pt/sonybravia-android-tv-remote-control",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\sonybravia-android-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/sonybravia-android-tv-remote-control/index",
-    "_name": "_738d37a7"
-  },
-  {
-    "name": "the-blood-community-app___pt",
-    "path": "/pt/the-blood-community-app",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\the-blood-community-app\\\\index.vue",
-    "chunkName": "pages/the-blood-community-app/index",
-    "_name": "_ca98b3b6"
-  },
-  {
-    "name": "universal-remote-control-for-roku-devices___pt",
-    "path": "/pt/universal-remote-control-for-roku-devices",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-remote-control-for-roku-devices\\\\index.vue",
-    "chunkName": "pages/universal-remote-control-for-roku-devices/index",
-    "_name": "_5fd05263"
-  },
-  {
-    "name": "universal-tv-remote-control___pt",
-    "path": "/pt/universal-tv-remote-control",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/universal-tv-remote-control/index",
-    "_name": "_d9bb7a58"
-  },
-  {
     "name": "web-development___pt",
     "path": "/pt/web-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
@@ -966,13 +546,6 @@
     "_name": "_ae99e474"
   },
   {
-    "name": "auto-silence-at-prayers-time___zh",
-    "path": "/zh/auto-silence-at-prayers-time",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\auto-silence-at-prayers-time\\\\index.vue",
-    "chunkName": "pages/auto-silence-at-prayers-time/index",
-    "_name": "_62ce42e3"
-  },
-  {
     "name": "blank-page___zh",
     "path": "/zh/blank-page",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blank-page.vue",
@@ -985,13 +558,6 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
     "chunkName": "pages/blog/index",
     "_name": "_61d3f45f"
-  },
-  {
-    "name": "codematics-lg-remote-control___zh",
-    "path": "/zh/codematics-lg-remote-control",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\codematics-lg-remote-control\\\\index.vue",
-    "chunkName": "pages/codematics-lg-remote-control/index",
-    "_name": "_77fb50e0"
   },
   {
     "name": "collection___zh",
@@ -1015,13 +581,6 @@
     "_name": "_96651ebc"
   },
   {
-    "name": "flash-on-call-and-sms___zh",
-    "path": "/zh/flash-on-call-and-sms",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\flash-on-call-and-sms\\\\index.vue",
-    "chunkName": "pages/flash-on-call-and-sms/index",
-    "_name": "_6133cb0e"
-  },
-  {
     "name": "game-development___zh",
     "path": "/zh/game-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
@@ -1034,20 +593,6 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
     "chunkName": "pages/graphic-designing/index",
     "_name": "_7d5da058"
-  },
-  {
-    "name": "guess-the-word-multiplayer___zh",
-    "path": "/zh/guess-the-word-multiplayer",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\guess-the-word-multiplayer\\\\index.vue",
-    "chunkName": "pages/guess-the-word-multiplayer/index",
-    "_name": "_6af62738"
-  },
-  {
-    "name": "kardaan-handyman-services-at-your-door-stepearly-access___zh",
-    "path": "/zh/kardaan-handyman-services-at-your-door-stepearly-access",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
-    "chunkName": "pages/kardaan-handyman-services-at-your-door-stepearly-access/index",
-    "_name": "_0497fc5a"
   },
   {
     "name": "login___zh",
@@ -1076,55 +621,6 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\register.vue",
     "chunkName": "pages/register",
     "_name": "_5a3f0e78"
-  },
-  {
-    "name": "scam___zh",
-    "path": "/zh/scam",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\scam\\\\index.vue",
-    "chunkName": "pages/scam/index",
-    "_name": "_e8cd1d76"
-  },
-  {
-    "name": "smart-tvs-remote-control-for-ios-and-android___zh",
-    "path": "/zh/smart-tvs-remote-control-for-ios-and-android",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
-    "chunkName": "pages/smart-tvs-remote-control-for-ios-and-android/index",
-    "_name": "_6571bda3"
-  },
-  {
-    "name": "snap-war___zh",
-    "path": "/zh/snap-war",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\snap-war\\\\index.vue",
-    "chunkName": "pages/snap-war/index",
-    "_name": "_bf86c388"
-  },
-  {
-    "name": "sonybravia-android-tv-remote-control___zh",
-    "path": "/zh/sonybravia-android-tv-remote-control",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\sonybravia-android-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/sonybravia-android-tv-remote-control/index",
-    "_name": "_738d37a7"
-  },
-  {
-    "name": "the-blood-community-app___zh",
-    "path": "/zh/the-blood-community-app",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\the-blood-community-app\\\\index.vue",
-    "chunkName": "pages/the-blood-community-app/index",
-    "_name": "_ca98b3b6"
-  },
-  {
-    "name": "universal-remote-control-for-roku-devices___zh",
-    "path": "/zh/universal-remote-control-for-roku-devices",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-remote-control-for-roku-devices\\\\index.vue",
-    "chunkName": "pages/universal-remote-control-for-roku-devices/index",
-    "_name": "_5fd05263"
-  },
-  {
-    "name": "universal-tv-remote-control___zh",
-    "path": "/zh/universal-tv-remote-control",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\universal-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/universal-tv-remote-control/index",
-    "_name": "_d9bb7a58"
   },
   {
     "name": "web-development___zh",
@@ -1167,6 +663,90 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
     "chunkName": "pages/contact/with-map",
     "_name": "_5cd768a4"
+  },
+  {
+    "name": "portfolio-auto-silence-at-prayers-time___ar",
+    "path": "/ar/portfolio/auto-silence-at-prayers-time",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\auto-silence-at-prayers-time\\\\index.vue",
+    "chunkName": "pages/portfolio/auto-silence-at-prayers-time/index",
+    "_name": "_e5f337e6"
+  },
+  {
+    "name": "portfolio-codematics-lg-remote-control___ar",
+    "path": "/ar/portfolio/codematics-lg-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\codematics-lg-remote-control\\\\index.vue",
+    "chunkName": "pages/portfolio/codematics-lg-remote-control/index",
+    "_name": "_bb991bec"
+  },
+  {
+    "name": "portfolio-flash-on-call-and-sms___ar",
+    "path": "/ar/portfolio/flash-on-call-and-sms",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\flash-on-call-and-sms\\\\index.vue",
+    "chunkName": "pages/portfolio/flash-on-call-and-sms/index",
+    "_name": "_67384524"
+  },
+  {
+    "name": "portfolio-guess-the-word-multiplayer___ar",
+    "path": "/ar/portfolio/guess-the-word-multiplayer",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\guess-the-word-multiplayer\\\\index.vue",
+    "chunkName": "pages/portfolio/guess-the-word-multiplayer/index",
+    "_name": "_478eea3c"
+  },
+  {
+    "name": "portfolio-kardaan-handyman-services-at-your-door-stepearly-access___ar",
+    "path": "/ar/portfolio/kardaan-handyman-services-at-your-door-stepearly-access",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
+    "chunkName": "pages/portfolio/kardaan-handyman-services-at-your-door-stepearly-access/index",
+    "_name": "_b68b132e"
+  },
+  {
+    "name": "portfolio-scam___ar",
+    "path": "/ar/portfolio/scam",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\scam\\\\index.vue",
+    "chunkName": "pages/portfolio/scam/index",
+    "_name": "_509c1f22"
+  },
+  {
+    "name": "portfolio-smart-tvs-remote-control-for-ios-and-android___ar",
+    "path": "/ar/portfolio/smart-tvs-remote-control-for-ios-and-android",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
+    "chunkName": "pages/portfolio/smart-tvs-remote-control-for-ios-and-android/index",
+    "_name": "_41264acd"
+  },
+  {
+    "name": "portfolio-snap-war___ar",
+    "path": "/ar/portfolio/snap-war",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\snap-war\\\\index.vue",
+    "chunkName": "pages/portfolio/snap-war/index",
+    "_name": "_204d7866"
+  },
+  {
+    "name": "portfolio-sonybravia-android-tv-remote-control___ar",
+    "path": "/ar/portfolio/sonybravia-android-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\sonybravia-android-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/portfolio/sonybravia-android-tv-remote-control/index",
+    "_name": "_0b4e8ed1"
+  },
+  {
+    "name": "portfolio-the-blood-community-app___ar",
+    "path": "/ar/portfolio/the-blood-community-app",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\the-blood-community-app\\\\index.vue",
+    "chunkName": "pages/portfolio/the-blood-community-app/index",
+    "_name": "_3181f2bb"
+  },
+  {
+    "name": "portfolio-universal-remote-control-for-roku-devices___ar",
+    "path": "/ar/portfolio/universal-remote-control-for-roku-devices",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-remote-control-for-roku-devices\\\\index.vue",
+    "chunkName": "pages/portfolio/universal-remote-control-for-roku-devices/index",
+    "_name": "_35f8e579"
+  },
+  {
+    "name": "portfolio-universal-tv-remote-control___ar",
+    "path": "/ar/portfolio/universal-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/portfolio/universal-tv-remote-control/index",
+    "_name": "_4a2c546a"
   },
   {
     "name": "utils-coming-soon___ar",
@@ -1232,6 +812,90 @@
     "_name": "_5cd768a4"
   },
   {
+    "name": "portfolio-auto-silence-at-prayers-time___de",
+    "path": "/de/portfolio/auto-silence-at-prayers-time",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\auto-silence-at-prayers-time\\\\index.vue",
+    "chunkName": "pages/portfolio/auto-silence-at-prayers-time/index",
+    "_name": "_e5f337e6"
+  },
+  {
+    "name": "portfolio-codematics-lg-remote-control___de",
+    "path": "/de/portfolio/codematics-lg-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\codematics-lg-remote-control\\\\index.vue",
+    "chunkName": "pages/portfolio/codematics-lg-remote-control/index",
+    "_name": "_bb991bec"
+  },
+  {
+    "name": "portfolio-flash-on-call-and-sms___de",
+    "path": "/de/portfolio/flash-on-call-and-sms",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\flash-on-call-and-sms\\\\index.vue",
+    "chunkName": "pages/portfolio/flash-on-call-and-sms/index",
+    "_name": "_67384524"
+  },
+  {
+    "name": "portfolio-guess-the-word-multiplayer___de",
+    "path": "/de/portfolio/guess-the-word-multiplayer",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\guess-the-word-multiplayer\\\\index.vue",
+    "chunkName": "pages/portfolio/guess-the-word-multiplayer/index",
+    "_name": "_478eea3c"
+  },
+  {
+    "name": "portfolio-kardaan-handyman-services-at-your-door-stepearly-access___de",
+    "path": "/de/portfolio/kardaan-handyman-services-at-your-door-stepearly-access",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
+    "chunkName": "pages/portfolio/kardaan-handyman-services-at-your-door-stepearly-access/index",
+    "_name": "_b68b132e"
+  },
+  {
+    "name": "portfolio-scam___de",
+    "path": "/de/portfolio/scam",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\scam\\\\index.vue",
+    "chunkName": "pages/portfolio/scam/index",
+    "_name": "_509c1f22"
+  },
+  {
+    "name": "portfolio-smart-tvs-remote-control-for-ios-and-android___de",
+    "path": "/de/portfolio/smart-tvs-remote-control-for-ios-and-android",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
+    "chunkName": "pages/portfolio/smart-tvs-remote-control-for-ios-and-android/index",
+    "_name": "_41264acd"
+  },
+  {
+    "name": "portfolio-snap-war___de",
+    "path": "/de/portfolio/snap-war",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\snap-war\\\\index.vue",
+    "chunkName": "pages/portfolio/snap-war/index",
+    "_name": "_204d7866"
+  },
+  {
+    "name": "portfolio-sonybravia-android-tv-remote-control___de",
+    "path": "/de/portfolio/sonybravia-android-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\sonybravia-android-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/portfolio/sonybravia-android-tv-remote-control/index",
+    "_name": "_0b4e8ed1"
+  },
+  {
+    "name": "portfolio-the-blood-community-app___de",
+    "path": "/de/portfolio/the-blood-community-app",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\the-blood-community-app\\\\index.vue",
+    "chunkName": "pages/portfolio/the-blood-community-app/index",
+    "_name": "_3181f2bb"
+  },
+  {
+    "name": "portfolio-universal-remote-control-for-roku-devices___de",
+    "path": "/de/portfolio/universal-remote-control-for-roku-devices",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-remote-control-for-roku-devices\\\\index.vue",
+    "chunkName": "pages/portfolio/universal-remote-control-for-roku-devices/index",
+    "_name": "_35f8e579"
+  },
+  {
+    "name": "portfolio-universal-tv-remote-control___de",
+    "path": "/de/portfolio/universal-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/portfolio/universal-tv-remote-control/index",
+    "_name": "_4a2c546a"
+  },
+  {
     "name": "utils-coming-soon___de",
     "path": "/de/utils/coming-soon",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\coming-soon.vue",
@@ -1293,6 +957,90 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
     "chunkName": "pages/contact/with-map",
     "_name": "_5cd768a4"
+  },
+  {
+    "name": "portfolio-auto-silence-at-prayers-time___en",
+    "path": "/en/portfolio/auto-silence-at-prayers-time",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\auto-silence-at-prayers-time\\\\index.vue",
+    "chunkName": "pages/portfolio/auto-silence-at-prayers-time/index",
+    "_name": "_e5f337e6"
+  },
+  {
+    "name": "portfolio-codematics-lg-remote-control___en",
+    "path": "/en/portfolio/codematics-lg-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\codematics-lg-remote-control\\\\index.vue",
+    "chunkName": "pages/portfolio/codematics-lg-remote-control/index",
+    "_name": "_bb991bec"
+  },
+  {
+    "name": "portfolio-flash-on-call-and-sms___en",
+    "path": "/en/portfolio/flash-on-call-and-sms",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\flash-on-call-and-sms\\\\index.vue",
+    "chunkName": "pages/portfolio/flash-on-call-and-sms/index",
+    "_name": "_67384524"
+  },
+  {
+    "name": "portfolio-guess-the-word-multiplayer___en",
+    "path": "/en/portfolio/guess-the-word-multiplayer",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\guess-the-word-multiplayer\\\\index.vue",
+    "chunkName": "pages/portfolio/guess-the-word-multiplayer/index",
+    "_name": "_478eea3c"
+  },
+  {
+    "name": "portfolio-kardaan-handyman-services-at-your-door-stepearly-access___en",
+    "path": "/en/portfolio/kardaan-handyman-services-at-your-door-stepearly-access",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
+    "chunkName": "pages/portfolio/kardaan-handyman-services-at-your-door-stepearly-access/index",
+    "_name": "_b68b132e"
+  },
+  {
+    "name": "portfolio-scam___en",
+    "path": "/en/portfolio/scam",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\scam\\\\index.vue",
+    "chunkName": "pages/portfolio/scam/index",
+    "_name": "_509c1f22"
+  },
+  {
+    "name": "portfolio-smart-tvs-remote-control-for-ios-and-android___en",
+    "path": "/en/portfolio/smart-tvs-remote-control-for-ios-and-android",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
+    "chunkName": "pages/portfolio/smart-tvs-remote-control-for-ios-and-android/index",
+    "_name": "_41264acd"
+  },
+  {
+    "name": "portfolio-snap-war___en",
+    "path": "/en/portfolio/snap-war",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\snap-war\\\\index.vue",
+    "chunkName": "pages/portfolio/snap-war/index",
+    "_name": "_204d7866"
+  },
+  {
+    "name": "portfolio-sonybravia-android-tv-remote-control___en",
+    "path": "/en/portfolio/sonybravia-android-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\sonybravia-android-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/portfolio/sonybravia-android-tv-remote-control/index",
+    "_name": "_0b4e8ed1"
+  },
+  {
+    "name": "portfolio-the-blood-community-app___en",
+    "path": "/en/portfolio/the-blood-community-app",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\the-blood-community-app\\\\index.vue",
+    "chunkName": "pages/portfolio/the-blood-community-app/index",
+    "_name": "_3181f2bb"
+  },
+  {
+    "name": "portfolio-universal-remote-control-for-roku-devices___en",
+    "path": "/en/portfolio/universal-remote-control-for-roku-devices",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-remote-control-for-roku-devices\\\\index.vue",
+    "chunkName": "pages/portfolio/universal-remote-control-for-roku-devices/index",
+    "_name": "_35f8e579"
+  },
+  {
+    "name": "portfolio-universal-tv-remote-control___en",
+    "path": "/en/portfolio/universal-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/portfolio/universal-tv-remote-control/index",
+    "_name": "_4a2c546a"
   },
   {
     "name": "utils-coming-soon___en",
@@ -1358,6 +1106,90 @@
     "_name": "_5cd768a4"
   },
   {
+    "name": "portfolio-auto-silence-at-prayers-time___id",
+    "path": "/id/portfolio/auto-silence-at-prayers-time",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\auto-silence-at-prayers-time\\\\index.vue",
+    "chunkName": "pages/portfolio/auto-silence-at-prayers-time/index",
+    "_name": "_e5f337e6"
+  },
+  {
+    "name": "portfolio-codematics-lg-remote-control___id",
+    "path": "/id/portfolio/codematics-lg-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\codematics-lg-remote-control\\\\index.vue",
+    "chunkName": "pages/portfolio/codematics-lg-remote-control/index",
+    "_name": "_bb991bec"
+  },
+  {
+    "name": "portfolio-flash-on-call-and-sms___id",
+    "path": "/id/portfolio/flash-on-call-and-sms",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\flash-on-call-and-sms\\\\index.vue",
+    "chunkName": "pages/portfolio/flash-on-call-and-sms/index",
+    "_name": "_67384524"
+  },
+  {
+    "name": "portfolio-guess-the-word-multiplayer___id",
+    "path": "/id/portfolio/guess-the-word-multiplayer",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\guess-the-word-multiplayer\\\\index.vue",
+    "chunkName": "pages/portfolio/guess-the-word-multiplayer/index",
+    "_name": "_478eea3c"
+  },
+  {
+    "name": "portfolio-kardaan-handyman-services-at-your-door-stepearly-access___id",
+    "path": "/id/portfolio/kardaan-handyman-services-at-your-door-stepearly-access",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
+    "chunkName": "pages/portfolio/kardaan-handyman-services-at-your-door-stepearly-access/index",
+    "_name": "_b68b132e"
+  },
+  {
+    "name": "portfolio-scam___id",
+    "path": "/id/portfolio/scam",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\scam\\\\index.vue",
+    "chunkName": "pages/portfolio/scam/index",
+    "_name": "_509c1f22"
+  },
+  {
+    "name": "portfolio-smart-tvs-remote-control-for-ios-and-android___id",
+    "path": "/id/portfolio/smart-tvs-remote-control-for-ios-and-android",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
+    "chunkName": "pages/portfolio/smart-tvs-remote-control-for-ios-and-android/index",
+    "_name": "_41264acd"
+  },
+  {
+    "name": "portfolio-snap-war___id",
+    "path": "/id/portfolio/snap-war",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\snap-war\\\\index.vue",
+    "chunkName": "pages/portfolio/snap-war/index",
+    "_name": "_204d7866"
+  },
+  {
+    "name": "portfolio-sonybravia-android-tv-remote-control___id",
+    "path": "/id/portfolio/sonybravia-android-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\sonybravia-android-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/portfolio/sonybravia-android-tv-remote-control/index",
+    "_name": "_0b4e8ed1"
+  },
+  {
+    "name": "portfolio-the-blood-community-app___id",
+    "path": "/id/portfolio/the-blood-community-app",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\the-blood-community-app\\\\index.vue",
+    "chunkName": "pages/portfolio/the-blood-community-app/index",
+    "_name": "_3181f2bb"
+  },
+  {
+    "name": "portfolio-universal-remote-control-for-roku-devices___id",
+    "path": "/id/portfolio/universal-remote-control-for-roku-devices",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-remote-control-for-roku-devices\\\\index.vue",
+    "chunkName": "pages/portfolio/universal-remote-control-for-roku-devices/index",
+    "_name": "_35f8e579"
+  },
+  {
+    "name": "portfolio-universal-tv-remote-control___id",
+    "path": "/id/portfolio/universal-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/portfolio/universal-tv-remote-control/index",
+    "_name": "_4a2c546a"
+  },
+  {
     "name": "utils-coming-soon___id",
     "path": "/id/utils/coming-soon",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\coming-soon.vue",
@@ -1421,6 +1253,90 @@
     "_name": "_5cd768a4"
   },
   {
+    "name": "portfolio-auto-silence-at-prayers-time___pt",
+    "path": "/pt/portfolio/auto-silence-at-prayers-time",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\auto-silence-at-prayers-time\\\\index.vue",
+    "chunkName": "pages/portfolio/auto-silence-at-prayers-time/index",
+    "_name": "_e5f337e6"
+  },
+  {
+    "name": "portfolio-codematics-lg-remote-control___pt",
+    "path": "/pt/portfolio/codematics-lg-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\codematics-lg-remote-control\\\\index.vue",
+    "chunkName": "pages/portfolio/codematics-lg-remote-control/index",
+    "_name": "_bb991bec"
+  },
+  {
+    "name": "portfolio-flash-on-call-and-sms___pt",
+    "path": "/pt/portfolio/flash-on-call-and-sms",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\flash-on-call-and-sms\\\\index.vue",
+    "chunkName": "pages/portfolio/flash-on-call-and-sms/index",
+    "_name": "_67384524"
+  },
+  {
+    "name": "portfolio-guess-the-word-multiplayer___pt",
+    "path": "/pt/portfolio/guess-the-word-multiplayer",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\guess-the-word-multiplayer\\\\index.vue",
+    "chunkName": "pages/portfolio/guess-the-word-multiplayer/index",
+    "_name": "_478eea3c"
+  },
+  {
+    "name": "portfolio-kardaan-handyman-services-at-your-door-stepearly-access___pt",
+    "path": "/pt/portfolio/kardaan-handyman-services-at-your-door-stepearly-access",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
+    "chunkName": "pages/portfolio/kardaan-handyman-services-at-your-door-stepearly-access/index",
+    "_name": "_b68b132e"
+  },
+  {
+    "name": "portfolio-scam___pt",
+    "path": "/pt/portfolio/scam",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\scam\\\\index.vue",
+    "chunkName": "pages/portfolio/scam/index",
+    "_name": "_509c1f22"
+  },
+  {
+    "name": "portfolio-smart-tvs-remote-control-for-ios-and-android___pt",
+    "path": "/pt/portfolio/smart-tvs-remote-control-for-ios-and-android",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
+    "chunkName": "pages/portfolio/smart-tvs-remote-control-for-ios-and-android/index",
+    "_name": "_41264acd"
+  },
+  {
+    "name": "portfolio-snap-war___pt",
+    "path": "/pt/portfolio/snap-war",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\snap-war\\\\index.vue",
+    "chunkName": "pages/portfolio/snap-war/index",
+    "_name": "_204d7866"
+  },
+  {
+    "name": "portfolio-sonybravia-android-tv-remote-control___pt",
+    "path": "/pt/portfolio/sonybravia-android-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\sonybravia-android-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/portfolio/sonybravia-android-tv-remote-control/index",
+    "_name": "_0b4e8ed1"
+  },
+  {
+    "name": "portfolio-the-blood-community-app___pt",
+    "path": "/pt/portfolio/the-blood-community-app",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\the-blood-community-app\\\\index.vue",
+    "chunkName": "pages/portfolio/the-blood-community-app/index",
+    "_name": "_3181f2bb"
+  },
+  {
+    "name": "portfolio-universal-remote-control-for-roku-devices___pt",
+    "path": "/pt/portfolio/universal-remote-control-for-roku-devices",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-remote-control-for-roku-devices\\\\index.vue",
+    "chunkName": "pages/portfolio/universal-remote-control-for-roku-devices/index",
+    "_name": "_35f8e579"
+  },
+  {
+    "name": "portfolio-universal-tv-remote-control___pt",
+    "path": "/pt/portfolio/universal-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/portfolio/universal-tv-remote-control/index",
+    "_name": "_4a2c546a"
+  },
+  {
     "name": "utils-coming-soon___pt",
     "path": "/pt/utils/coming-soon",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\coming-soon.vue",
@@ -1482,6 +1398,90 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
     "chunkName": "pages/contact/with-map",
     "_name": "_5cd768a4"
+  },
+  {
+    "name": "portfolio-auto-silence-at-prayers-time___zh",
+    "path": "/zh/portfolio/auto-silence-at-prayers-time",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\auto-silence-at-prayers-time\\\\index.vue",
+    "chunkName": "pages/portfolio/auto-silence-at-prayers-time/index",
+    "_name": "_e5f337e6"
+  },
+  {
+    "name": "portfolio-codematics-lg-remote-control___zh",
+    "path": "/zh/portfolio/codematics-lg-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\codematics-lg-remote-control\\\\index.vue",
+    "chunkName": "pages/portfolio/codematics-lg-remote-control/index",
+    "_name": "_bb991bec"
+  },
+  {
+    "name": "portfolio-flash-on-call-and-sms___zh",
+    "path": "/zh/portfolio/flash-on-call-and-sms",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\flash-on-call-and-sms\\\\index.vue",
+    "chunkName": "pages/portfolio/flash-on-call-and-sms/index",
+    "_name": "_67384524"
+  },
+  {
+    "name": "portfolio-guess-the-word-multiplayer___zh",
+    "path": "/zh/portfolio/guess-the-word-multiplayer",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\guess-the-word-multiplayer\\\\index.vue",
+    "chunkName": "pages/portfolio/guess-the-word-multiplayer/index",
+    "_name": "_478eea3c"
+  },
+  {
+    "name": "portfolio-kardaan-handyman-services-at-your-door-stepearly-access___zh",
+    "path": "/zh/portfolio/kardaan-handyman-services-at-your-door-stepearly-access",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
+    "chunkName": "pages/portfolio/kardaan-handyman-services-at-your-door-stepearly-access/index",
+    "_name": "_b68b132e"
+  },
+  {
+    "name": "portfolio-scam___zh",
+    "path": "/zh/portfolio/scam",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\scam\\\\index.vue",
+    "chunkName": "pages/portfolio/scam/index",
+    "_name": "_509c1f22"
+  },
+  {
+    "name": "portfolio-smart-tvs-remote-control-for-ios-and-android___zh",
+    "path": "/zh/portfolio/smart-tvs-remote-control-for-ios-and-android",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
+    "chunkName": "pages/portfolio/smart-tvs-remote-control-for-ios-and-android/index",
+    "_name": "_41264acd"
+  },
+  {
+    "name": "portfolio-snap-war___zh",
+    "path": "/zh/portfolio/snap-war",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\snap-war\\\\index.vue",
+    "chunkName": "pages/portfolio/snap-war/index",
+    "_name": "_204d7866"
+  },
+  {
+    "name": "portfolio-sonybravia-android-tv-remote-control___zh",
+    "path": "/zh/portfolio/sonybravia-android-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\sonybravia-android-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/portfolio/sonybravia-android-tv-remote-control/index",
+    "_name": "_0b4e8ed1"
+  },
+  {
+    "name": "portfolio-the-blood-community-app___zh",
+    "path": "/zh/portfolio/the-blood-community-app",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\the-blood-community-app\\\\index.vue",
+    "chunkName": "pages/portfolio/the-blood-community-app/index",
+    "_name": "_3181f2bb"
+  },
+  {
+    "name": "portfolio-universal-remote-control-for-roku-devices___zh",
+    "path": "/zh/portfolio/universal-remote-control-for-roku-devices",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-remote-control-for-roku-devices\\\\index.vue",
+    "chunkName": "pages/portfolio/universal-remote-control-for-roku-devices/index",
+    "_name": "_35f8e579"
+  },
+  {
+    "name": "portfolio-universal-tv-remote-control___zh",
+    "path": "/zh/portfolio/universal-tv-remote-control",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-tv-remote-control\\\\index.vue",
+    "chunkName": "pages/portfolio/universal-tv-remote-control/index",
+    "_name": "_4a2c546a"
   },
   {
     "name": "utils-coming-soon___zh",

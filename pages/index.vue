@@ -27,21 +27,13 @@
           <csr />
         </section>
 
-        <!-- <section id="blog" :class="[isTablet ? '' : '']">
-          <blog />
-        </section> -->
-
         <section id="our-team" :class="[isTablet ? '' : '']">
           <our-team />
         </section>
 
-        <!-- <section
-          id="testimonials"
-          :class="[isMobile ? 'space-top-short' : '']"
-        >
-          <testimonials />
-        </section> -->
-
+        <section id="blog" :class="[isTablet ? '' : '']">
+          <blog />
+        </section>
 
         <section id="company" class="space-top-short space-bottom-short">
           <company-logo />

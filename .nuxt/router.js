@@ -7,35 +7,35 @@ import scrollBehavior from './router.scrollBehavior.js'
 const _21ff4601 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 const _7c8c9bfd = () => interopDefault(import('..\\pages\\3D-modeling-and-animation\\index.vue' /* webpackChunkName: "pages/3D-modeling-and-animation/index" */))
 const _ae99e474 = () => interopDefault(import('..\\pages\\about\\index.vue' /* webpackChunkName: "pages/about/index" */))
-const _62ce42e3 = () => interopDefault(import('..\\pages\\auto-silence-at-prayers-time\\index.vue' /* webpackChunkName: "pages/auto-silence-at-prayers-time/index" */))
 const _50fce8c9 = () => interopDefault(import('..\\pages\\blank-page.vue' /* webpackChunkName: "pages/blank-page" */))
 const _61d3f45f = () => interopDefault(import('..\\pages\\blog\\index.vue' /* webpackChunkName: "pages/blog/index" */))
-const _77fb50e0 = () => interopDefault(import('..\\pages\\codematics-lg-remote-control\\index.vue' /* webpackChunkName: "pages/codematics-lg-remote-control/index" */))
 const _6f7622a3 = () => interopDefault(import('..\\pages\\collection\\index.vue' /* webpackChunkName: "pages/collection/index" */))
 const _34980513 = () => interopDefault(import('..\\pages\\contact\\index.vue' /* webpackChunkName: "pages/contact/index" */))
 const _96651ebc = () => interopDefault(import('..\\pages\\digital-marketing\\index.vue' /* webpackChunkName: "pages/digital-marketing/index" */))
-const _6133cb0e = () => interopDefault(import('..\\pages\\flash-on-call-and-sms\\index.vue' /* webpackChunkName: "pages/flash-on-call-and-sms/index" */))
 const _7ff0c6e1 = () => interopDefault(import('..\\pages\\game-development\\index.vue' /* webpackChunkName: "pages/game-development/index" */))
 const _7d5da058 = () => interopDefault(import('..\\pages\\graphic-designing\\index.vue' /* webpackChunkName: "pages/graphic-designing/index" */))
-const _6af62738 = () => interopDefault(import('..\\pages\\guess-the-word-multiplayer\\index.vue' /* webpackChunkName: "pages/guess-the-word-multiplayer/index" */))
-const _0497fc5a = () => interopDefault(import('..\\pages\\kardaan-handyman-services-at-your-door-stepearly-access\\index.vue' /* webpackChunkName: "pages/kardaan-handyman-services-at-your-door-stepearly-access/index" */))
 const _28b22dd0 = () => interopDefault(import('..\\pages\\login.vue' /* webpackChunkName: "pages/login" */))
 const _ae82bac6 = () => interopDefault(import('..\\pages\\mobile-app-development\\index.vue' /* webpackChunkName: "pages/mobile-app-development/index" */))
 const _913a95ec = () => interopDefault(import('..\\pages\\privacy-policy\\index.vue' /* webpackChunkName: "pages/privacy-policy/index" */))
 const _5a3f0e78 = () => interopDefault(import('..\\pages\\register.vue' /* webpackChunkName: "pages/register" */))
-const _e8cd1d76 = () => interopDefault(import('..\\pages\\scam\\index.vue' /* webpackChunkName: "pages/scam/index" */))
-const _6571bda3 = () => interopDefault(import('..\\pages\\smart-tvs-remote-control-for-ios-and-android\\index.vue' /* webpackChunkName: "pages/smart-tvs-remote-control-for-ios-and-android/index" */))
-const _bf86c388 = () => interopDefault(import('..\\pages\\snap-war\\index.vue' /* webpackChunkName: "pages/snap-war/index" */))
-const _738d37a7 = () => interopDefault(import('..\\pages\\sonybravia-android-tv-remote-control\\index.vue' /* webpackChunkName: "pages/sonybravia-android-tv-remote-control/index" */))
-const _ca98b3b6 = () => interopDefault(import('..\\pages\\the-blood-community-app\\index.vue' /* webpackChunkName: "pages/the-blood-community-app/index" */))
-const _5fd05263 = () => interopDefault(import('..\\pages\\universal-remote-control-for-roku-devices\\index.vue' /* webpackChunkName: "pages/universal-remote-control-for-roku-devices/index" */))
-const _d9bb7a58 = () => interopDefault(import('..\\pages\\universal-tv-remote-control\\index.vue' /* webpackChunkName: "pages/universal-tv-remote-control/index" */))
 const _0a22aa9e = () => interopDefault(import('..\\pages\\web-development\\index.vue' /* webpackChunkName: "pages/web-development/index" */))
 const _a88890ce = () => interopDefault(import('..\\pages\\about\\team.vue' /* webpackChunkName: "pages/about/team" */))
 const _49723d6b = () => interopDefault(import('..\\pages\\blog\\detail-blog.vue' /* webpackChunkName: "pages/blog/detail-blog" */))
 const _758cd872 = () => interopDefault(import('..\\pages\\collection\\detail-product.vue' /* webpackChunkName: "pages/collection/detail-product" */))
 const _11441b23 = () => interopDefault(import('..\\pages\\collection\\products.vue' /* webpackChunkName: "pages/collection/products" */))
 const _5cd768a4 = () => interopDefault(import('..\\pages\\contact\\with-map.vue' /* webpackChunkName: "pages/contact/with-map" */))
+const _e5f337e6 = () => interopDefault(import('..\\pages\\portfolio\\auto-silence-at-prayers-time\\index.vue' /* webpackChunkName: "pages/portfolio/auto-silence-at-prayers-time/index" */))
+const _bb991bec = () => interopDefault(import('..\\pages\\portfolio\\codematics-lg-remote-control\\index.vue' /* webpackChunkName: "pages/portfolio/codematics-lg-remote-control/index" */))
+const _67384524 = () => interopDefault(import('..\\pages\\portfolio\\flash-on-call-and-sms\\index.vue' /* webpackChunkName: "pages/portfolio/flash-on-call-and-sms/index" */))
+const _478eea3c = () => interopDefault(import('..\\pages\\portfolio\\guess-the-word-multiplayer\\index.vue' /* webpackChunkName: "pages/portfolio/guess-the-word-multiplayer/index" */))
+const _b68b132e = () => interopDefault(import('..\\pages\\portfolio\\kardaan-handyman-services-at-your-door-stepearly-access\\index.vue' /* webpackChunkName: "pages/portfolio/kardaan-handyman-services-at-your-door-stepearly-access/index" */))
+const _509c1f22 = () => interopDefault(import('..\\pages\\portfolio\\scam\\index.vue' /* webpackChunkName: "pages/portfolio/scam/index" */))
+const _41264acd = () => interopDefault(import('..\\pages\\portfolio\\smart-tvs-remote-control-for-ios-and-android\\index.vue' /* webpackChunkName: "pages/portfolio/smart-tvs-remote-control-for-ios-and-android/index" */))
+const _204d7866 = () => interopDefault(import('..\\pages\\portfolio\\snap-war\\index.vue' /* webpackChunkName: "pages/portfolio/snap-war/index" */))
+const _0b4e8ed1 = () => interopDefault(import('..\\pages\\portfolio\\sonybravia-android-tv-remote-control\\index.vue' /* webpackChunkName: "pages/portfolio/sonybravia-android-tv-remote-control/index" */))
+const _3181f2bb = () => interopDefault(import('..\\pages\\portfolio\\the-blood-community-app\\index.vue' /* webpackChunkName: "pages/portfolio/the-blood-community-app/index" */))
+const _35f8e579 = () => interopDefault(import('..\\pages\\portfolio\\universal-remote-control-for-roku-devices\\index.vue' /* webpackChunkName: "pages/portfolio/universal-remote-control-for-roku-devices/index" */))
+const _4a2c546a = () => interopDefault(import('..\\pages\\portfolio\\universal-tv-remote-control\\index.vue' /* webpackChunkName: "pages/portfolio/universal-tv-remote-control/index" */))
 const _422df997 = () => interopDefault(import('..\\pages\\utils\\coming-soon.vue' /* webpackChunkName: "pages/utils/coming-soon" */))
 const _587e7066 = () => interopDefault(import('..\\pages\\utils\\faq.vue' /* webpackChunkName: "pages/utils/faq" */))
 const _798059e3 = () => interopDefault(import('..\\pages\\utils\\maintenance.vue' /* webpackChunkName: "pages/utils/maintenance" */))
@@ -85,10 +85,6 @@ export const routerOptions = {
     component: _ae99e474,
     name: "about___ar"
   }, {
-    path: "/ar/auto-silence-at-prayers-time",
-    component: _62ce42e3,
-    name: "auto-silence-at-prayers-time___ar"
-  }, {
     path: "/ar/blank-page",
     component: _50fce8c9,
     name: "blank-page___ar"
@@ -96,10 +92,6 @@ export const routerOptions = {
     path: "/ar/blog",
     component: _61d3f45f,
     name: "blog___ar"
-  }, {
-    path: "/ar/codematics-lg-remote-control",
-    component: _77fb50e0,
-    name: "codematics-lg-remote-control___ar"
   }, {
     path: "/ar/collection",
     component: _6f7622a3,
@@ -113,10 +105,6 @@ export const routerOptions = {
     component: _96651ebc,
     name: "digital-marketing___ar"
   }, {
-    path: "/ar/flash-on-call-and-sms",
-    component: _6133cb0e,
-    name: "flash-on-call-and-sms___ar"
-  }, {
     path: "/ar/game-development",
     component: _7ff0c6e1,
     name: "game-development___ar"
@@ -124,14 +112,6 @@ export const routerOptions = {
     path: "/ar/graphic-designing",
     component: _7d5da058,
     name: "graphic-designing___ar"
-  }, {
-    path: "/ar/guess-the-word-multiplayer",
-    component: _6af62738,
-    name: "guess-the-word-multiplayer___ar"
-  }, {
-    path: "/ar/kardaan-handyman-services-at-your-door-stepearly-access",
-    component: _0497fc5a,
-    name: "kardaan-handyman-services-at-your-door-stepearly-access___ar"
   }, {
     path: "/ar/login",
     component: _28b22dd0,
@@ -149,34 +129,6 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___ar"
   }, {
-    path: "/ar/scam",
-    component: _e8cd1d76,
-    name: "scam___ar"
-  }, {
-    path: "/ar/smart-tvs-remote-control-for-ios-and-android",
-    component: _6571bda3,
-    name: "smart-tvs-remote-control-for-ios-and-android___ar"
-  }, {
-    path: "/ar/snap-war",
-    component: _bf86c388,
-    name: "snap-war___ar"
-  }, {
-    path: "/ar/sonybravia-android-tv-remote-control",
-    component: _738d37a7,
-    name: "sonybravia-android-tv-remote-control___ar"
-  }, {
-    path: "/ar/the-blood-community-app",
-    component: _ca98b3b6,
-    name: "the-blood-community-app___ar"
-  }, {
-    path: "/ar/universal-remote-control-for-roku-devices",
-    component: _5fd05263,
-    name: "universal-remote-control-for-roku-devices___ar"
-  }, {
-    path: "/ar/universal-tv-remote-control",
-    component: _d9bb7a58,
-    name: "universal-tv-remote-control___ar"
-  }, {
     path: "/ar/web-development",
     component: _0a22aa9e,
     name: "web-development___ar"
@@ -189,10 +141,6 @@ export const routerOptions = {
     component: _ae99e474,
     name: "about___de"
   }, {
-    path: "/de/auto-silence-at-prayers-time",
-    component: _62ce42e3,
-    name: "auto-silence-at-prayers-time___de"
-  }, {
     path: "/de/blank-page",
     component: _50fce8c9,
     name: "blank-page___de"
@@ -200,10 +148,6 @@ export const routerOptions = {
     path: "/de/blog",
     component: _61d3f45f,
     name: "blog___de"
-  }, {
-    path: "/de/codematics-lg-remote-control",
-    component: _77fb50e0,
-    name: "codematics-lg-remote-control___de"
   }, {
     path: "/de/collection",
     component: _6f7622a3,
@@ -217,10 +161,6 @@ export const routerOptions = {
     component: _96651ebc,
     name: "digital-marketing___de"
   }, {
-    path: "/de/flash-on-call-and-sms",
-    component: _6133cb0e,
-    name: "flash-on-call-and-sms___de"
-  }, {
     path: "/de/game-development",
     component: _7ff0c6e1,
     name: "game-development___de"
@@ -228,14 +168,6 @@ export const routerOptions = {
     path: "/de/graphic-designing",
     component: _7d5da058,
     name: "graphic-designing___de"
-  }, {
-    path: "/de/guess-the-word-multiplayer",
-    component: _6af62738,
-    name: "guess-the-word-multiplayer___de"
-  }, {
-    path: "/de/kardaan-handyman-services-at-your-door-stepearly-access",
-    component: _0497fc5a,
-    name: "kardaan-handyman-services-at-your-door-stepearly-access___de"
   }, {
     path: "/de/login",
     component: _28b22dd0,
@@ -253,34 +185,6 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___de"
   }, {
-    path: "/de/scam",
-    component: _e8cd1d76,
-    name: "scam___de"
-  }, {
-    path: "/de/smart-tvs-remote-control-for-ios-and-android",
-    component: _6571bda3,
-    name: "smart-tvs-remote-control-for-ios-and-android___de"
-  }, {
-    path: "/de/snap-war",
-    component: _bf86c388,
-    name: "snap-war___de"
-  }, {
-    path: "/de/sonybravia-android-tv-remote-control",
-    component: _738d37a7,
-    name: "sonybravia-android-tv-remote-control___de"
-  }, {
-    path: "/de/the-blood-community-app",
-    component: _ca98b3b6,
-    name: "the-blood-community-app___de"
-  }, {
-    path: "/de/universal-remote-control-for-roku-devices",
-    component: _5fd05263,
-    name: "universal-remote-control-for-roku-devices___de"
-  }, {
-    path: "/de/universal-tv-remote-control",
-    component: _d9bb7a58,
-    name: "universal-tv-remote-control___de"
-  }, {
     path: "/de/web-development",
     component: _0a22aa9e,
     name: "web-development___de"
@@ -293,10 +197,6 @@ export const routerOptions = {
     component: _ae99e474,
     name: "about___en"
   }, {
-    path: "/en/auto-silence-at-prayers-time",
-    component: _62ce42e3,
-    name: "auto-silence-at-prayers-time___en"
-  }, {
     path: "/en/blank-page",
     component: _50fce8c9,
     name: "blank-page___en"
@@ -304,10 +204,6 @@ export const routerOptions = {
     path: "/en/blog",
     component: _61d3f45f,
     name: "blog___en"
-  }, {
-    path: "/en/codematics-lg-remote-control",
-    component: _77fb50e0,
-    name: "codematics-lg-remote-control___en"
   }, {
     path: "/en/collection",
     component: _6f7622a3,
@@ -321,10 +217,6 @@ export const routerOptions = {
     component: _96651ebc,
     name: "digital-marketing___en"
   }, {
-    path: "/en/flash-on-call-and-sms",
-    component: _6133cb0e,
-    name: "flash-on-call-and-sms___en"
-  }, {
     path: "/en/game-development",
     component: _7ff0c6e1,
     name: "game-development___en"
@@ -332,14 +224,6 @@ export const routerOptions = {
     path: "/en/graphic-designing",
     component: _7d5da058,
     name: "graphic-designing___en"
-  }, {
-    path: "/en/guess-the-word-multiplayer",
-    component: _6af62738,
-    name: "guess-the-word-multiplayer___en"
-  }, {
-    path: "/en/kardaan-handyman-services-at-your-door-stepearly-access",
-    component: _0497fc5a,
-    name: "kardaan-handyman-services-at-your-door-stepearly-access___en"
   }, {
     path: "/en/login",
     component: _28b22dd0,
@@ -357,34 +241,6 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___en"
   }, {
-    path: "/en/scam",
-    component: _e8cd1d76,
-    name: "scam___en"
-  }, {
-    path: "/en/smart-tvs-remote-control-for-ios-and-android",
-    component: _6571bda3,
-    name: "smart-tvs-remote-control-for-ios-and-android___en"
-  }, {
-    path: "/en/snap-war",
-    component: _bf86c388,
-    name: "snap-war___en"
-  }, {
-    path: "/en/sonybravia-android-tv-remote-control",
-    component: _738d37a7,
-    name: "sonybravia-android-tv-remote-control___en"
-  }, {
-    path: "/en/the-blood-community-app",
-    component: _ca98b3b6,
-    name: "the-blood-community-app___en"
-  }, {
-    path: "/en/universal-remote-control-for-roku-devices",
-    component: _5fd05263,
-    name: "universal-remote-control-for-roku-devices___en"
-  }, {
-    path: "/en/universal-tv-remote-control",
-    component: _d9bb7a58,
-    name: "universal-tv-remote-control___en"
-  }, {
     path: "/en/web-development",
     component: _0a22aa9e,
     name: "web-development___en"
@@ -397,10 +253,6 @@ export const routerOptions = {
     component: _ae99e474,
     name: "about___id"
   }, {
-    path: "/id/auto-silence-at-prayers-time",
-    component: _62ce42e3,
-    name: "auto-silence-at-prayers-time___id"
-  }, {
     path: "/id/blank-page",
     component: _50fce8c9,
     name: "blank-page___id"
@@ -408,10 +260,6 @@ export const routerOptions = {
     path: "/id/blog",
     component: _61d3f45f,
     name: "blog___id"
-  }, {
-    path: "/id/codematics-lg-remote-control",
-    component: _77fb50e0,
-    name: "codematics-lg-remote-control___id"
   }, {
     path: "/id/collection",
     component: _6f7622a3,
@@ -425,10 +273,6 @@ export const routerOptions = {
     component: _96651ebc,
     name: "digital-marketing___id"
   }, {
-    path: "/id/flash-on-call-and-sms",
-    component: _6133cb0e,
-    name: "flash-on-call-and-sms___id"
-  }, {
     path: "/id/game-development",
     component: _7ff0c6e1,
     name: "game-development___id"
@@ -436,14 +280,6 @@ export const routerOptions = {
     path: "/id/graphic-designing",
     component: _7d5da058,
     name: "graphic-designing___id"
-  }, {
-    path: "/id/guess-the-word-multiplayer",
-    component: _6af62738,
-    name: "guess-the-word-multiplayer___id"
-  }, {
-    path: "/id/kardaan-handyman-services-at-your-door-stepearly-access",
-    component: _0497fc5a,
-    name: "kardaan-handyman-services-at-your-door-stepearly-access___id"
   }, {
     path: "/id/login",
     component: _28b22dd0,
@@ -461,34 +297,6 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___id"
   }, {
-    path: "/id/scam",
-    component: _e8cd1d76,
-    name: "scam___id"
-  }, {
-    path: "/id/smart-tvs-remote-control-for-ios-and-android",
-    component: _6571bda3,
-    name: "smart-tvs-remote-control-for-ios-and-android___id"
-  }, {
-    path: "/id/snap-war",
-    component: _bf86c388,
-    name: "snap-war___id"
-  }, {
-    path: "/id/sonybravia-android-tv-remote-control",
-    component: _738d37a7,
-    name: "sonybravia-android-tv-remote-control___id"
-  }, {
-    path: "/id/the-blood-community-app",
-    component: _ca98b3b6,
-    name: "the-blood-community-app___id"
-  }, {
-    path: "/id/universal-remote-control-for-roku-devices",
-    component: _5fd05263,
-    name: "universal-remote-control-for-roku-devices___id"
-  }, {
-    path: "/id/universal-tv-remote-control",
-    component: _d9bb7a58,
-    name: "universal-tv-remote-control___id"
-  }, {
     path: "/id/web-development",
     component: _0a22aa9e,
     name: "web-development___id"
@@ -501,10 +309,6 @@ export const routerOptions = {
     component: _ae99e474,
     name: "about___pt"
   }, {
-    path: "/pt/auto-silence-at-prayers-time",
-    component: _62ce42e3,
-    name: "auto-silence-at-prayers-time___pt"
-  }, {
     path: "/pt/blank-page",
     component: _50fce8c9,
     name: "blank-page___pt"
@@ -512,10 +316,6 @@ export const routerOptions = {
     path: "/pt/blog",
     component: _61d3f45f,
     name: "blog___pt"
-  }, {
-    path: "/pt/codematics-lg-remote-control",
-    component: _77fb50e0,
-    name: "codematics-lg-remote-control___pt"
   }, {
     path: "/pt/collection",
     component: _6f7622a3,
@@ -529,10 +329,6 @@ export const routerOptions = {
     component: _96651ebc,
     name: "digital-marketing___pt"
   }, {
-    path: "/pt/flash-on-call-and-sms",
-    component: _6133cb0e,
-    name: "flash-on-call-and-sms___pt"
-  }, {
     path: "/pt/game-development",
     component: _7ff0c6e1,
     name: "game-development___pt"
@@ -540,14 +336,6 @@ export const routerOptions = {
     path: "/pt/graphic-designing",
     component: _7d5da058,
     name: "graphic-designing___pt"
-  }, {
-    path: "/pt/guess-the-word-multiplayer",
-    component: _6af62738,
-    name: "guess-the-word-multiplayer___pt"
-  }, {
-    path: "/pt/kardaan-handyman-services-at-your-door-stepearly-access",
-    component: _0497fc5a,
-    name: "kardaan-handyman-services-at-your-door-stepearly-access___pt"
   }, {
     path: "/pt/login",
     component: _28b22dd0,
@@ -565,34 +353,6 @@ export const routerOptions = {
     component: _5a3f0e78,
     name: "register___pt"
   }, {
-    path: "/pt/scam",
-    component: _e8cd1d76,
-    name: "scam___pt"
-  }, {
-    path: "/pt/smart-tvs-remote-control-for-ios-and-android",
-    component: _6571bda3,
-    name: "smart-tvs-remote-control-for-ios-and-android___pt"
-  }, {
-    path: "/pt/snap-war",
-    component: _bf86c388,
-    name: "snap-war___pt"
-  }, {
-    path: "/pt/sonybravia-android-tv-remote-control",
-    component: _738d37a7,
-    name: "sonybravia-android-tv-remote-control___pt"
-  }, {
-    path: "/pt/the-blood-community-app",
-    component: _ca98b3b6,
-    name: "the-blood-community-app___pt"
-  }, {
-    path: "/pt/universal-remote-control-for-roku-devices",
-    component: _5fd05263,
-    name: "universal-remote-control-for-roku-devices___pt"
-  }, {
-    path: "/pt/universal-tv-remote-control",
-    component: _d9bb7a58,
-    name: "universal-tv-remote-control___pt"
-  }, {
     path: "/pt/web-development",
     component: _0a22aa9e,
     name: "web-development___pt"
@@ -605,10 +365,6 @@ export const routerOptions = {
     component: _ae99e474,
     name: "about___zh"
   }, {
-    path: "/zh/auto-silence-at-prayers-time",
-    component: _62ce42e3,
-    name: "auto-silence-at-prayers-time___zh"
-  }, {
     path: "/zh/blank-page",
     component: _50fce8c9,
     name: "blank-page___zh"
@@ -616,10 +372,6 @@ export const routerOptions = {
     path: "/zh/blog",
     component: _61d3f45f,
     name: "blog___zh"
-  }, {
-    path: "/zh/codematics-lg-remote-control",
-    component: _77fb50e0,
-    name: "codematics-lg-remote-control___zh"
   }, {
     path: "/zh/collection",
     component: _6f7622a3,
@@ -633,10 +385,6 @@ export const routerOptions = {
     component: _96651ebc,
     name: "digital-marketing___zh"
   }, {
-    path: "/zh/flash-on-call-and-sms",
-    component: _6133cb0e,
-    name: "flash-on-call-and-sms___zh"
-  }, {
     path: "/zh/game-development",
     component: _7ff0c6e1,
     name: "game-development___zh"
@@ -644,14 +392,6 @@ export const routerOptions = {
     path: "/zh/graphic-designing",
     component: _7d5da058,
     name: "graphic-designing___zh"
-  }, {
-    path: "/zh/guess-the-word-multiplayer",
-    component: _6af62738,
-    name: "guess-the-word-multiplayer___zh"
-  }, {
-    path: "/zh/kardaan-handyman-services-at-your-door-stepearly-access",
-    component: _0497fc5a,
-    name: "kardaan-handyman-services-at-your-door-stepearly-access___zh"
   }, {
     path: "/zh/login",
     component: _28b22dd0,
@@ -668,34 +408,6 @@ export const routerOptions = {
     path: "/zh/register",
     component: _5a3f0e78,
     name: "register___zh"
-  }, {
-    path: "/zh/scam",
-    component: _e8cd1d76,
-    name: "scam___zh"
-  }, {
-    path: "/zh/smart-tvs-remote-control-for-ios-and-android",
-    component: _6571bda3,
-    name: "smart-tvs-remote-control-for-ios-and-android___zh"
-  }, {
-    path: "/zh/snap-war",
-    component: _bf86c388,
-    name: "snap-war___zh"
-  }, {
-    path: "/zh/sonybravia-android-tv-remote-control",
-    component: _738d37a7,
-    name: "sonybravia-android-tv-remote-control___zh"
-  }, {
-    path: "/zh/the-blood-community-app",
-    component: _ca98b3b6,
-    name: "the-blood-community-app___zh"
-  }, {
-    path: "/zh/universal-remote-control-for-roku-devices",
-    component: _5fd05263,
-    name: "universal-remote-control-for-roku-devices___zh"
-  }, {
-    path: "/zh/universal-tv-remote-control",
-    component: _d9bb7a58,
-    name: "universal-tv-remote-control___zh"
   }, {
     path: "/zh/web-development",
     component: _0a22aa9e,
@@ -720,6 +432,54 @@ export const routerOptions = {
     path: "/ar/contact/with-map",
     component: _5cd768a4,
     name: "contact-with-map___ar"
+  }, {
+    path: "/ar/portfolio/auto-silence-at-prayers-time",
+    component: _e5f337e6,
+    name: "portfolio-auto-silence-at-prayers-time___ar"
+  }, {
+    path: "/ar/portfolio/codematics-lg-remote-control",
+    component: _bb991bec,
+    name: "portfolio-codematics-lg-remote-control___ar"
+  }, {
+    path: "/ar/portfolio/flash-on-call-and-sms",
+    component: _67384524,
+    name: "portfolio-flash-on-call-and-sms___ar"
+  }, {
+    path: "/ar/portfolio/guess-the-word-multiplayer",
+    component: _478eea3c,
+    name: "portfolio-guess-the-word-multiplayer___ar"
+  }, {
+    path: "/ar/portfolio/kardaan-handyman-services-at-your-door-stepearly-access",
+    component: _b68b132e,
+    name: "portfolio-kardaan-handyman-services-at-your-door-stepearly-access___ar"
+  }, {
+    path: "/ar/portfolio/scam",
+    component: _509c1f22,
+    name: "portfolio-scam___ar"
+  }, {
+    path: "/ar/portfolio/smart-tvs-remote-control-for-ios-and-android",
+    component: _41264acd,
+    name: "portfolio-smart-tvs-remote-control-for-ios-and-android___ar"
+  }, {
+    path: "/ar/portfolio/snap-war",
+    component: _204d7866,
+    name: "portfolio-snap-war___ar"
+  }, {
+    path: "/ar/portfolio/sonybravia-android-tv-remote-control",
+    component: _0b4e8ed1,
+    name: "portfolio-sonybravia-android-tv-remote-control___ar"
+  }, {
+    path: "/ar/portfolio/the-blood-community-app",
+    component: _3181f2bb,
+    name: "portfolio-the-blood-community-app___ar"
+  }, {
+    path: "/ar/portfolio/universal-remote-control-for-roku-devices",
+    component: _35f8e579,
+    name: "portfolio-universal-remote-control-for-roku-devices___ar"
+  }, {
+    path: "/ar/portfolio/universal-tv-remote-control",
+    component: _4a2c546a,
+    name: "portfolio-universal-tv-remote-control___ar"
   }, {
     path: "/ar/utils/coming-soon",
     component: _422df997,
@@ -757,6 +517,54 @@ export const routerOptions = {
     component: _5cd768a4,
     name: "contact-with-map___de"
   }, {
+    path: "/de/portfolio/auto-silence-at-prayers-time",
+    component: _e5f337e6,
+    name: "portfolio-auto-silence-at-prayers-time___de"
+  }, {
+    path: "/de/portfolio/codematics-lg-remote-control",
+    component: _bb991bec,
+    name: "portfolio-codematics-lg-remote-control___de"
+  }, {
+    path: "/de/portfolio/flash-on-call-and-sms",
+    component: _67384524,
+    name: "portfolio-flash-on-call-and-sms___de"
+  }, {
+    path: "/de/portfolio/guess-the-word-multiplayer",
+    component: _478eea3c,
+    name: "portfolio-guess-the-word-multiplayer___de"
+  }, {
+    path: "/de/portfolio/kardaan-handyman-services-at-your-door-stepearly-access",
+    component: _b68b132e,
+    name: "portfolio-kardaan-handyman-services-at-your-door-stepearly-access___de"
+  }, {
+    path: "/de/portfolio/scam",
+    component: _509c1f22,
+    name: "portfolio-scam___de"
+  }, {
+    path: "/de/portfolio/smart-tvs-remote-control-for-ios-and-android",
+    component: _41264acd,
+    name: "portfolio-smart-tvs-remote-control-for-ios-and-android___de"
+  }, {
+    path: "/de/portfolio/snap-war",
+    component: _204d7866,
+    name: "portfolio-snap-war___de"
+  }, {
+    path: "/de/portfolio/sonybravia-android-tv-remote-control",
+    component: _0b4e8ed1,
+    name: "portfolio-sonybravia-android-tv-remote-control___de"
+  }, {
+    path: "/de/portfolio/the-blood-community-app",
+    component: _3181f2bb,
+    name: "portfolio-the-blood-community-app___de"
+  }, {
+    path: "/de/portfolio/universal-remote-control-for-roku-devices",
+    component: _35f8e579,
+    name: "portfolio-universal-remote-control-for-roku-devices___de"
+  }, {
+    path: "/de/portfolio/universal-tv-remote-control",
+    component: _4a2c546a,
+    name: "portfolio-universal-tv-remote-control___de"
+  }, {
     path: "/de/utils/coming-soon",
     component: _422df997,
     name: "utils-coming-soon___de"
@@ -792,6 +600,54 @@ export const routerOptions = {
     path: "/en/contact/with-map",
     component: _5cd768a4,
     name: "contact-with-map___en"
+  }, {
+    path: "/en/portfolio/auto-silence-at-prayers-time",
+    component: _e5f337e6,
+    name: "portfolio-auto-silence-at-prayers-time___en"
+  }, {
+    path: "/en/portfolio/codematics-lg-remote-control",
+    component: _bb991bec,
+    name: "portfolio-codematics-lg-remote-control___en"
+  }, {
+    path: "/en/portfolio/flash-on-call-and-sms",
+    component: _67384524,
+    name: "portfolio-flash-on-call-and-sms___en"
+  }, {
+    path: "/en/portfolio/guess-the-word-multiplayer",
+    component: _478eea3c,
+    name: "portfolio-guess-the-word-multiplayer___en"
+  }, {
+    path: "/en/portfolio/kardaan-handyman-services-at-your-door-stepearly-access",
+    component: _b68b132e,
+    name: "portfolio-kardaan-handyman-services-at-your-door-stepearly-access___en"
+  }, {
+    path: "/en/portfolio/scam",
+    component: _509c1f22,
+    name: "portfolio-scam___en"
+  }, {
+    path: "/en/portfolio/smart-tvs-remote-control-for-ios-and-android",
+    component: _41264acd,
+    name: "portfolio-smart-tvs-remote-control-for-ios-and-android___en"
+  }, {
+    path: "/en/portfolio/snap-war",
+    component: _204d7866,
+    name: "portfolio-snap-war___en"
+  }, {
+    path: "/en/portfolio/sonybravia-android-tv-remote-control",
+    component: _0b4e8ed1,
+    name: "portfolio-sonybravia-android-tv-remote-control___en"
+  }, {
+    path: "/en/portfolio/the-blood-community-app",
+    component: _3181f2bb,
+    name: "portfolio-the-blood-community-app___en"
+  }, {
+    path: "/en/portfolio/universal-remote-control-for-roku-devices",
+    component: _35f8e579,
+    name: "portfolio-universal-remote-control-for-roku-devices___en"
+  }, {
+    path: "/en/portfolio/universal-tv-remote-control",
+    component: _4a2c546a,
+    name: "portfolio-universal-tv-remote-control___en"
   }, {
     path: "/en/utils/coming-soon",
     component: _422df997,
@@ -829,6 +685,54 @@ export const routerOptions = {
     component: _5cd768a4,
     name: "contact-with-map___id"
   }, {
+    path: "/id/portfolio/auto-silence-at-prayers-time",
+    component: _e5f337e6,
+    name: "portfolio-auto-silence-at-prayers-time___id"
+  }, {
+    path: "/id/portfolio/codematics-lg-remote-control",
+    component: _bb991bec,
+    name: "portfolio-codematics-lg-remote-control___id"
+  }, {
+    path: "/id/portfolio/flash-on-call-and-sms",
+    component: _67384524,
+    name: "portfolio-flash-on-call-and-sms___id"
+  }, {
+    path: "/id/portfolio/guess-the-word-multiplayer",
+    component: _478eea3c,
+    name: "portfolio-guess-the-word-multiplayer___id"
+  }, {
+    path: "/id/portfolio/kardaan-handyman-services-at-your-door-stepearly-access",
+    component: _b68b132e,
+    name: "portfolio-kardaan-handyman-services-at-your-door-stepearly-access___id"
+  }, {
+    path: "/id/portfolio/scam",
+    component: _509c1f22,
+    name: "portfolio-scam___id"
+  }, {
+    path: "/id/portfolio/smart-tvs-remote-control-for-ios-and-android",
+    component: _41264acd,
+    name: "portfolio-smart-tvs-remote-control-for-ios-and-android___id"
+  }, {
+    path: "/id/portfolio/snap-war",
+    component: _204d7866,
+    name: "portfolio-snap-war___id"
+  }, {
+    path: "/id/portfolio/sonybravia-android-tv-remote-control",
+    component: _0b4e8ed1,
+    name: "portfolio-sonybravia-android-tv-remote-control___id"
+  }, {
+    path: "/id/portfolio/the-blood-community-app",
+    component: _3181f2bb,
+    name: "portfolio-the-blood-community-app___id"
+  }, {
+    path: "/id/portfolio/universal-remote-control-for-roku-devices",
+    component: _35f8e579,
+    name: "portfolio-universal-remote-control-for-roku-devices___id"
+  }, {
+    path: "/id/portfolio/universal-tv-remote-control",
+    component: _4a2c546a,
+    name: "portfolio-universal-tv-remote-control___id"
+  }, {
     path: "/id/utils/coming-soon",
     component: _422df997,
     name: "utils-coming-soon___id"
@@ -865,6 +769,54 @@ export const routerOptions = {
     component: _5cd768a4,
     name: "contact-with-map___pt"
   }, {
+    path: "/pt/portfolio/auto-silence-at-prayers-time",
+    component: _e5f337e6,
+    name: "portfolio-auto-silence-at-prayers-time___pt"
+  }, {
+    path: "/pt/portfolio/codematics-lg-remote-control",
+    component: _bb991bec,
+    name: "portfolio-codematics-lg-remote-control___pt"
+  }, {
+    path: "/pt/portfolio/flash-on-call-and-sms",
+    component: _67384524,
+    name: "portfolio-flash-on-call-and-sms___pt"
+  }, {
+    path: "/pt/portfolio/guess-the-word-multiplayer",
+    component: _478eea3c,
+    name: "portfolio-guess-the-word-multiplayer___pt"
+  }, {
+    path: "/pt/portfolio/kardaan-handyman-services-at-your-door-stepearly-access",
+    component: _b68b132e,
+    name: "portfolio-kardaan-handyman-services-at-your-door-stepearly-access___pt"
+  }, {
+    path: "/pt/portfolio/scam",
+    component: _509c1f22,
+    name: "portfolio-scam___pt"
+  }, {
+    path: "/pt/portfolio/smart-tvs-remote-control-for-ios-and-android",
+    component: _41264acd,
+    name: "portfolio-smart-tvs-remote-control-for-ios-and-android___pt"
+  }, {
+    path: "/pt/portfolio/snap-war",
+    component: _204d7866,
+    name: "portfolio-snap-war___pt"
+  }, {
+    path: "/pt/portfolio/sonybravia-android-tv-remote-control",
+    component: _0b4e8ed1,
+    name: "portfolio-sonybravia-android-tv-remote-control___pt"
+  }, {
+    path: "/pt/portfolio/the-blood-community-app",
+    component: _3181f2bb,
+    name: "portfolio-the-blood-community-app___pt"
+  }, {
+    path: "/pt/portfolio/universal-remote-control-for-roku-devices",
+    component: _35f8e579,
+    name: "portfolio-universal-remote-control-for-roku-devices___pt"
+  }, {
+    path: "/pt/portfolio/universal-tv-remote-control",
+    component: _4a2c546a,
+    name: "portfolio-universal-tv-remote-control___pt"
+  }, {
     path: "/pt/utils/coming-soon",
     component: _422df997,
     name: "utils-coming-soon___pt"
@@ -900,6 +852,54 @@ export const routerOptions = {
     path: "/zh/contact/with-map",
     component: _5cd768a4,
     name: "contact-with-map___zh"
+  }, {
+    path: "/zh/portfolio/auto-silence-at-prayers-time",
+    component: _e5f337e6,
+    name: "portfolio-auto-silence-at-prayers-time___zh"
+  }, {
+    path: "/zh/portfolio/codematics-lg-remote-control",
+    component: _bb991bec,
+    name: "portfolio-codematics-lg-remote-control___zh"
+  }, {
+    path: "/zh/portfolio/flash-on-call-and-sms",
+    component: _67384524,
+    name: "portfolio-flash-on-call-and-sms___zh"
+  }, {
+    path: "/zh/portfolio/guess-the-word-multiplayer",
+    component: _478eea3c,
+    name: "portfolio-guess-the-word-multiplayer___zh"
+  }, {
+    path: "/zh/portfolio/kardaan-handyman-services-at-your-door-stepearly-access",
+    component: _b68b132e,
+    name: "portfolio-kardaan-handyman-services-at-your-door-stepearly-access___zh"
+  }, {
+    path: "/zh/portfolio/scam",
+    component: _509c1f22,
+    name: "portfolio-scam___zh"
+  }, {
+    path: "/zh/portfolio/smart-tvs-remote-control-for-ios-and-android",
+    component: _41264acd,
+    name: "portfolio-smart-tvs-remote-control-for-ios-and-android___zh"
+  }, {
+    path: "/zh/portfolio/snap-war",
+    component: _204d7866,
+    name: "portfolio-snap-war___zh"
+  }, {
+    path: "/zh/portfolio/sonybravia-android-tv-remote-control",
+    component: _0b4e8ed1,
+    name: "portfolio-sonybravia-android-tv-remote-control___zh"
+  }, {
+    path: "/zh/portfolio/the-blood-community-app",
+    component: _3181f2bb,
+    name: "portfolio-the-blood-community-app___zh"
+  }, {
+    path: "/zh/portfolio/universal-remote-control-for-roku-devices",
+    component: _35f8e579,
+    name: "portfolio-universal-remote-control-for-roku-devices___zh"
+  }, {
+    path: "/zh/portfolio/universal-tv-remote-control",
+    component: _4a2c546a,
+    name: "portfolio-universal-tv-remote-control___zh"
   }, {
     path: "/zh/utils/coming-soon",
     component: _422df997,

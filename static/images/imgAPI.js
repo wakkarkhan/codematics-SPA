@@ -102,6 +102,8 @@ const imgAPI = {
     '/images/blog/fundometer.jpg',
     '/images/blog/bomber-warrior.jpg',
     '/images/blog/flicky.jpg',
+    '/images/blog/vizio-tv.jpg',
+    '/images/blog/blood-donation.jpg',
   ],
   team: [
     '/images/team/cover-1.jpg',

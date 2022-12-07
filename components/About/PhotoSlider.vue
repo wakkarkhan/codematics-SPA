@@ -96,7 +96,7 @@ export default {
         {
           title: 'Universal Remote Control for Roku Devices',
           img: imgAPI.projects[9],
-          href: '/portfolio/universal-remote-control-for-roku-devices'
+          href: '/mobile-apps/remote-control-for-roku-devices'
         },
         {
           title: 'Sony Bravia Android TV Remote Control',

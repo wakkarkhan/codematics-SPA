@@ -20,10 +20,12 @@ const _913a95ec = () => interopDefault(import('..\\pages\\privacy-policy\\index.
 const _5a3f0e78 = () => interopDefault(import('..\\pages\\register.vue' /* webpackChunkName: "pages/register" */))
 const _0a22aa9e = () => interopDefault(import('..\\pages\\web-development\\index.vue' /* webpackChunkName: "pages/web-development/index" */))
 const _a88890ce = () => interopDefault(import('..\\pages\\about\\team.vue' /* webpackChunkName: "pages/about/team" */))
+const _424dad2a = () => interopDefault(import('..\\pages\\blog\\cv-builder-app\\index.vue' /* webpackChunkName: "pages/blog/cv-builder-app/index" */))
 const _49723d6b = () => interopDefault(import('..\\pages\\blog\\detail-blog.vue' /* webpackChunkName: "pages/blog/detail-blog" */))
 const _758cd872 = () => interopDefault(import('..\\pages\\collection\\detail-product.vue' /* webpackChunkName: "pages/collection/detail-product" */))
 const _11441b23 = () => interopDefault(import('..\\pages\\collection\\products.vue' /* webpackChunkName: "pages/collection/products" */))
 const _5cd768a4 = () => interopDefault(import('..\\pages\\contact\\with-map.vue' /* webpackChunkName: "pages/contact/with-map" */))
+const _66dc84a8 = () => interopDefault(import('..\\pages\\mobile-apps\\remote-control-for-roku-devices\\index.vue' /* webpackChunkName: "pages/mobile-apps/remote-control-for-roku-devices/index" */))
 const _e5f337e6 = () => interopDefault(import('..\\pages\\portfolio\\auto-silence-at-prayers-time\\index.vue' /* webpackChunkName: "pages/portfolio/auto-silence-at-prayers-time/index" */))
 const _bb991bec = () => interopDefault(import('..\\pages\\portfolio\\codematics-lg-remote-control\\index.vue' /* webpackChunkName: "pages/portfolio/codematics-lg-remote-control/index" */))
 const _67384524 = () => interopDefault(import('..\\pages\\portfolio\\flash-on-call-and-sms\\index.vue' /* webpackChunkName: "pages/portfolio/flash-on-call-and-sms/index" */))
@@ -34,7 +36,6 @@ const _41264acd = () => interopDefault(import('..\\pages\\portfolio\\smart-tvs-r
 const _204d7866 = () => interopDefault(import('..\\pages\\portfolio\\snap-war\\index.vue' /* webpackChunkName: "pages/portfolio/snap-war/index" */))
 const _0b4e8ed1 = () => interopDefault(import('..\\pages\\portfolio\\sonybravia-android-tv-remote-control\\index.vue' /* webpackChunkName: "pages/portfolio/sonybravia-android-tv-remote-control/index" */))
 const _3181f2bb = () => interopDefault(import('..\\pages\\portfolio\\the-blood-community-app\\index.vue' /* webpackChunkName: "pages/portfolio/the-blood-community-app/index" */))
-const _35f8e579 = () => interopDefault(import('..\\pages\\portfolio\\universal-remote-control-for-roku-devices\\index.vue' /* webpackChunkName: "pages/portfolio/universal-remote-control-for-roku-devices/index" */))
 const _4a2c546a = () => interopDefault(import('..\\pages\\portfolio\\universal-tv-remote-control\\index.vue' /* webpackChunkName: "pages/portfolio/universal-tv-remote-control/index" */))
 const _422df997 = () => interopDefault(import('..\\pages\\utils\\coming-soon.vue' /* webpackChunkName: "pages/utils/coming-soon" */))
 const _587e7066 = () => interopDefault(import('..\\pages\\utils\\faq.vue' /* webpackChunkName: "pages/utils/faq" */))
@@ -417,6 +418,10 @@ export const routerOptions = {
     component: _a88890ce,
     name: "about-team___ar"
   }, {
+    path: "/ar/blog/cv-builder-app",
+    component: _424dad2a,
+    name: "blog-cv-builder-app___ar"
+  }, {
     path: "/ar/blog/detail-blog",
     component: _49723d6b,
     name: "blog-detail-blog___ar"
@@ -432,6 +437,10 @@ export const routerOptions = {
     path: "/ar/contact/with-map",
     component: _5cd768a4,
     name: "contact-with-map___ar"
+  }, {
+    path: "/ar/mobile-apps/remote-control-for-roku-devices",
+    component: _66dc84a8,
+    name: "mobile-apps-remote-control-for-roku-devices___ar"
   }, {
     path: "/ar/portfolio/auto-silence-at-prayers-time",
     component: _e5f337e6,
@@ -473,10 +482,6 @@ export const routerOptions = {
     component: _3181f2bb,
     name: "portfolio-the-blood-community-app___ar"
   }, {
-    path: "/ar/portfolio/universal-remote-control-for-roku-devices",
-    component: _35f8e579,
-    name: "portfolio-universal-remote-control-for-roku-devices___ar"
-  }, {
     path: "/ar/portfolio/universal-tv-remote-control",
     component: _4a2c546a,
     name: "portfolio-universal-tv-remote-control___ar"
@@ -501,6 +506,10 @@ export const routerOptions = {
     component: _a88890ce,
     name: "about-team___de"
   }, {
+    path: "/de/blog/cv-builder-app",
+    component: _424dad2a,
+    name: "blog-cv-builder-app___de"
+  }, {
     path: "/de/blog/detail-blog",
     component: _49723d6b,
     name: "blog-detail-blog___de"
@@ -516,6 +525,10 @@ export const routerOptions = {
     path: "/de/contact/with-map",
     component: _5cd768a4,
     name: "contact-with-map___de"
+  }, {
+    path: "/de/mobile-apps/remote-control-for-roku-devices",
+    component: _66dc84a8,
+    name: "mobile-apps-remote-control-for-roku-devices___de"
   }, {
     path: "/de/portfolio/auto-silence-at-prayers-time",
     component: _e5f337e6,
@@ -557,10 +570,6 @@ export const routerOptions = {
     component: _3181f2bb,
     name: "portfolio-the-blood-community-app___de"
   }, {
-    path: "/de/portfolio/universal-remote-control-for-roku-devices",
-    component: _35f8e579,
-    name: "portfolio-universal-remote-control-for-roku-devices___de"
-  }, {
     path: "/de/portfolio/universal-tv-remote-control",
     component: _4a2c546a,
     name: "portfolio-universal-tv-remote-control___de"
@@ -585,6 +594,10 @@ export const routerOptions = {
     component: _a88890ce,
     name: "about-team___en"
   }, {
+    path: "/en/blog/cv-builder-app",
+    component: _424dad2a,
+    name: "blog-cv-builder-app___en"
+  }, {
     path: "/en/blog/detail-blog",
     component: _49723d6b,
     name: "blog-detail-blog___en"
@@ -600,6 +613,10 @@ export const routerOptions = {
     path: "/en/contact/with-map",
     component: _5cd768a4,
     name: "contact-with-map___en"
+  }, {
+    path: "/en/mobile-apps/remote-control-for-roku-devices",
+    component: _66dc84a8,
+    name: "mobile-apps-remote-control-for-roku-devices___en"
   }, {
     path: "/en/portfolio/auto-silence-at-prayers-time",
     component: _e5f337e6,
@@ -641,10 +658,6 @@ export const routerOptions = {
     component: _3181f2bb,
     name: "portfolio-the-blood-community-app___en"
   }, {
-    path: "/en/portfolio/universal-remote-control-for-roku-devices",
-    component: _35f8e579,
-    name: "portfolio-universal-remote-control-for-roku-devices___en"
-  }, {
     path: "/en/portfolio/universal-tv-remote-control",
     component: _4a2c546a,
     name: "portfolio-universal-tv-remote-control___en"
@@ -669,6 +682,10 @@ export const routerOptions = {
     component: _a88890ce,
     name: "about-team___id"
   }, {
+    path: "/id/blog/cv-builder-app",
+    component: _424dad2a,
+    name: "blog-cv-builder-app___id"
+  }, {
     path: "/id/blog/detail-blog",
     component: _49723d6b,
     name: "blog-detail-blog___id"
@@ -684,6 +701,10 @@ export const routerOptions = {
     path: "/id/contact/with-map",
     component: _5cd768a4,
     name: "contact-with-map___id"
+  }, {
+    path: "/id/mobile-apps/remote-control-for-roku-devices",
+    component: _66dc84a8,
+    name: "mobile-apps-remote-control-for-roku-devices___id"
   }, {
     path: "/id/portfolio/auto-silence-at-prayers-time",
     component: _e5f337e6,
@@ -725,10 +746,6 @@ export const routerOptions = {
     component: _3181f2bb,
     name: "portfolio-the-blood-community-app___id"
   }, {
-    path: "/id/portfolio/universal-remote-control-for-roku-devices",
-    component: _35f8e579,
-    name: "portfolio-universal-remote-control-for-roku-devices___id"
-  }, {
     path: "/id/portfolio/universal-tv-remote-control",
     component: _4a2c546a,
     name: "portfolio-universal-tv-remote-control___id"
@@ -753,6 +770,10 @@ export const routerOptions = {
     component: _a88890ce,
     name: "about-team___pt"
   }, {
+    path: "/pt/blog/cv-builder-app",
+    component: _424dad2a,
+    name: "blog-cv-builder-app___pt"
+  }, {
     path: "/pt/blog/detail-blog",
     component: _49723d6b,
     name: "blog-detail-blog___pt"
@@ -768,6 +789,10 @@ export const routerOptions = {
     path: "/pt/contact/with-map",
     component: _5cd768a4,
     name: "contact-with-map___pt"
+  }, {
+    path: "/pt/mobile-apps/remote-control-for-roku-devices",
+    component: _66dc84a8,
+    name: "mobile-apps-remote-control-for-roku-devices___pt"
   }, {
     path: "/pt/portfolio/auto-silence-at-prayers-time",
     component: _e5f337e6,
@@ -809,10 +834,6 @@ export const routerOptions = {
     component: _3181f2bb,
     name: "portfolio-the-blood-community-app___pt"
   }, {
-    path: "/pt/portfolio/universal-remote-control-for-roku-devices",
-    component: _35f8e579,
-    name: "portfolio-universal-remote-control-for-roku-devices___pt"
-  }, {
     path: "/pt/portfolio/universal-tv-remote-control",
     component: _4a2c546a,
     name: "portfolio-universal-tv-remote-control___pt"
@@ -837,6 +858,10 @@ export const routerOptions = {
     component: _a88890ce,
     name: "about-team___zh"
   }, {
+    path: "/zh/blog/cv-builder-app",
+    component: _424dad2a,
+    name: "blog-cv-builder-app___zh"
+  }, {
     path: "/zh/blog/detail-blog",
     component: _49723d6b,
     name: "blog-detail-blog___zh"
@@ -852,6 +877,10 @@ export const routerOptions = {
     path: "/zh/contact/with-map",
     component: _5cd768a4,
     name: "contact-with-map___zh"
+  }, {
+    path: "/zh/mobile-apps/remote-control-for-roku-devices",
+    component: _66dc84a8,
+    name: "mobile-apps-remote-control-for-roku-devices___zh"
   }, {
     path: "/zh/portfolio/auto-silence-at-prayers-time",
     component: _e5f337e6,
@@ -892,10 +921,6 @@ export const routerOptions = {
     path: "/zh/portfolio/the-blood-community-app",
     component: _3181f2bb,
     name: "portfolio-the-blood-community-app___zh"
-  }, {
-    path: "/zh/portfolio/universal-remote-control-for-roku-devices",
-    component: _35f8e579,
-    name: "portfolio-universal-remote-control-for-roku-devices___zh"
   }, {
     path: "/zh/portfolio/universal-tv-remote-control",
     component: _4a2c546a,

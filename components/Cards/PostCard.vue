@@ -12,11 +12,11 @@
       <p>
         {{ date }}
       </p>
-      <v-card-text class="desc">
+      <!-- <v-card-text class="desc">
         <span class="text--primary">
           <span>{{ desc }}</span>
         </span>
-      </v-card-text>
+      </v-card-text> -->
       <v-card-actions>
         <v-btn :small="orientation === 'landscape'" :href="href" outlined class="action-btn" color="primary">
           {{ $t('common.btn_read_more') }}

@@ -637,6 +637,13 @@
     "_name": "_a88890ce"
   },
   {
+    "name": "blog-cv-builder-app___ar",
+    "path": "/ar/blog/cv-builder-app",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\cv-builder-app\\\\index.vue",
+    "chunkName": "pages/blog/cv-builder-app/index",
+    "_name": "_424dad2a"
+  },
+  {
     "name": "blog-detail-blog___ar",
     "path": "/ar/blog/detail-blog",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
@@ -663,6 +670,13 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
     "chunkName": "pages/contact/with-map",
     "_name": "_5cd768a4"
+  },
+  {
+    "name": "mobile-apps-remote-control-for-roku-devices___ar",
+    "path": "/ar/mobile-apps/remote-control-for-roku-devices",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-apps\\\\remote-control-for-roku-devices\\\\index.vue",
+    "chunkName": "pages/mobile-apps/remote-control-for-roku-devices/index",
+    "_name": "_66dc84a8"
   },
   {
     "name": "portfolio-auto-silence-at-prayers-time___ar",
@@ -735,13 +749,6 @@
     "_name": "_3181f2bb"
   },
   {
-    "name": "portfolio-universal-remote-control-for-roku-devices___ar",
-    "path": "/ar/portfolio/universal-remote-control-for-roku-devices",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-remote-control-for-roku-devices\\\\index.vue",
-    "chunkName": "pages/portfolio/universal-remote-control-for-roku-devices/index",
-    "_name": "_35f8e579"
-  },
-  {
     "name": "portfolio-universal-tv-remote-control___ar",
     "path": "/ar/portfolio/universal-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-tv-remote-control\\\\index.vue",
@@ -784,6 +791,13 @@
     "_name": "_a88890ce"
   },
   {
+    "name": "blog-cv-builder-app___de",
+    "path": "/de/blog/cv-builder-app",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\cv-builder-app\\\\index.vue",
+    "chunkName": "pages/blog/cv-builder-app/index",
+    "_name": "_424dad2a"
+  },
+  {
     "name": "blog-detail-blog___de",
     "path": "/de/blog/detail-blog",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
@@ -810,6 +824,13 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
     "chunkName": "pages/contact/with-map",
     "_name": "_5cd768a4"
+  },
+  {
+    "name": "mobile-apps-remote-control-for-roku-devices___de",
+    "path": "/de/mobile-apps/remote-control-for-roku-devices",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-apps\\\\remote-control-for-roku-devices\\\\index.vue",
+    "chunkName": "pages/mobile-apps/remote-control-for-roku-devices/index",
+    "_name": "_66dc84a8"
   },
   {
     "name": "portfolio-auto-silence-at-prayers-time___de",
@@ -882,13 +903,6 @@
     "_name": "_3181f2bb"
   },
   {
-    "name": "portfolio-universal-remote-control-for-roku-devices___de",
-    "path": "/de/portfolio/universal-remote-control-for-roku-devices",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-remote-control-for-roku-devices\\\\index.vue",
-    "chunkName": "pages/portfolio/universal-remote-control-for-roku-devices/index",
-    "_name": "_35f8e579"
-  },
-  {
     "name": "portfolio-universal-tv-remote-control___de",
     "path": "/de/portfolio/universal-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-tv-remote-control\\\\index.vue",
@@ -931,6 +945,13 @@
     "_name": "_a88890ce"
   },
   {
+    "name": "blog-cv-builder-app___en",
+    "path": "/en/blog/cv-builder-app",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\cv-builder-app\\\\index.vue",
+    "chunkName": "pages/blog/cv-builder-app/index",
+    "_name": "_424dad2a"
+  },
+  {
     "name": "blog-detail-blog___en",
     "path": "/en/blog/detail-blog",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
@@ -957,6 +978,13 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
     "chunkName": "pages/contact/with-map",
     "_name": "_5cd768a4"
+  },
+  {
+    "name": "mobile-apps-remote-control-for-roku-devices___en",
+    "path": "/en/mobile-apps/remote-control-for-roku-devices",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-apps\\\\remote-control-for-roku-devices\\\\index.vue",
+    "chunkName": "pages/mobile-apps/remote-control-for-roku-devices/index",
+    "_name": "_66dc84a8"
   },
   {
     "name": "portfolio-auto-silence-at-prayers-time___en",
@@ -1029,13 +1057,6 @@
     "_name": "_3181f2bb"
   },
   {
-    "name": "portfolio-universal-remote-control-for-roku-devices___en",
-    "path": "/en/portfolio/universal-remote-control-for-roku-devices",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-remote-control-for-roku-devices\\\\index.vue",
-    "chunkName": "pages/portfolio/universal-remote-control-for-roku-devices/index",
-    "_name": "_35f8e579"
-  },
-  {
     "name": "portfolio-universal-tv-remote-control___en",
     "path": "/en/portfolio/universal-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-tv-remote-control\\\\index.vue",
@@ -1078,6 +1099,13 @@
     "_name": "_a88890ce"
   },
   {
+    "name": "blog-cv-builder-app___id",
+    "path": "/id/blog/cv-builder-app",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\cv-builder-app\\\\index.vue",
+    "chunkName": "pages/blog/cv-builder-app/index",
+    "_name": "_424dad2a"
+  },
+  {
     "name": "blog-detail-blog___id",
     "path": "/id/blog/detail-blog",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
@@ -1104,6 +1132,13 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
     "chunkName": "pages/contact/with-map",
     "_name": "_5cd768a4"
+  },
+  {
+    "name": "mobile-apps-remote-control-for-roku-devices___id",
+    "path": "/id/mobile-apps/remote-control-for-roku-devices",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-apps\\\\remote-control-for-roku-devices\\\\index.vue",
+    "chunkName": "pages/mobile-apps/remote-control-for-roku-devices/index",
+    "_name": "_66dc84a8"
   },
   {
     "name": "portfolio-auto-silence-at-prayers-time___id",
@@ -1176,13 +1211,6 @@
     "_name": "_3181f2bb"
   },
   {
-    "name": "portfolio-universal-remote-control-for-roku-devices___id",
-    "path": "/id/portfolio/universal-remote-control-for-roku-devices",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-remote-control-for-roku-devices\\\\index.vue",
-    "chunkName": "pages/portfolio/universal-remote-control-for-roku-devices/index",
-    "_name": "_35f8e579"
-  },
-  {
     "name": "portfolio-universal-tv-remote-control___id",
     "path": "/id/portfolio/universal-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-tv-remote-control\\\\index.vue",
@@ -1225,6 +1253,13 @@
     "_name": "_a88890ce"
   },
   {
+    "name": "blog-cv-builder-app___pt",
+    "path": "/pt/blog/cv-builder-app",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\cv-builder-app\\\\index.vue",
+    "chunkName": "pages/blog/cv-builder-app/index",
+    "_name": "_424dad2a"
+  },
+  {
     "name": "blog-detail-blog___pt",
     "path": "/pt/blog/detail-blog",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
@@ -1251,6 +1286,13 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
     "chunkName": "pages/contact/with-map",
     "_name": "_5cd768a4"
+  },
+  {
+    "name": "mobile-apps-remote-control-for-roku-devices___pt",
+    "path": "/pt/mobile-apps/remote-control-for-roku-devices",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-apps\\\\remote-control-for-roku-devices\\\\index.vue",
+    "chunkName": "pages/mobile-apps/remote-control-for-roku-devices/index",
+    "_name": "_66dc84a8"
   },
   {
     "name": "portfolio-auto-silence-at-prayers-time___pt",
@@ -1323,13 +1365,6 @@
     "_name": "_3181f2bb"
   },
   {
-    "name": "portfolio-universal-remote-control-for-roku-devices___pt",
-    "path": "/pt/portfolio/universal-remote-control-for-roku-devices",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-remote-control-for-roku-devices\\\\index.vue",
-    "chunkName": "pages/portfolio/universal-remote-control-for-roku-devices/index",
-    "_name": "_35f8e579"
-  },
-  {
     "name": "portfolio-universal-tv-remote-control___pt",
     "path": "/pt/portfolio/universal-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-tv-remote-control\\\\index.vue",
@@ -1372,6 +1407,13 @@
     "_name": "_a88890ce"
   },
   {
+    "name": "blog-cv-builder-app___zh",
+    "path": "/zh/blog/cv-builder-app",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\cv-builder-app\\\\index.vue",
+    "chunkName": "pages/blog/cv-builder-app/index",
+    "_name": "_424dad2a"
+  },
+  {
     "name": "blog-detail-blog___zh",
     "path": "/zh/blog/detail-blog",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
@@ -1398,6 +1440,13 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
     "chunkName": "pages/contact/with-map",
     "_name": "_5cd768a4"
+  },
+  {
+    "name": "mobile-apps-remote-control-for-roku-devices___zh",
+    "path": "/zh/mobile-apps/remote-control-for-roku-devices",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-apps\\\\remote-control-for-roku-devices\\\\index.vue",
+    "chunkName": "pages/mobile-apps/remote-control-for-roku-devices/index",
+    "_name": "_66dc84a8"
   },
   {
     "name": "portfolio-auto-silence-at-prayers-time___zh",
@@ -1468,13 +1517,6 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\the-blood-community-app\\\\index.vue",
     "chunkName": "pages/portfolio/the-blood-community-app/index",
     "_name": "_3181f2bb"
-  },
-  {
-    "name": "portfolio-universal-remote-control-for-roku-devices___zh",
-    "path": "/zh/portfolio/universal-remote-control-for-roku-devices",
-    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-remote-control-for-roku-devices\\\\index.vue",
-    "chunkName": "pages/portfolio/universal-remote-control-for-roku-devices/index",
-    "_name": "_35f8e579"
   },
   {
     "name": "portfolio-universal-tv-remote-control___zh",

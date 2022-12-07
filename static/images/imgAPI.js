@@ -104,6 +104,12 @@ const imgAPI = {
     '/images/blog/flicky.jpg',
     '/images/blog/vizio-tv.jpg',
     '/images/blog/blood-donation.jpg',
+    '/images/blog/smart-tv-remote.jpg',
+    '/images/blog/foldable.jpg',
+    '/images/blog/data-privacy.jpg',
+    '/images/blog/pcam.jpg',
+    '/images/blog/bomb-diffuse.jpg',
+    '/images/blog/universal-tv.jpg',
   ],
   team: [
     '/images/team/cover-1.jpg',

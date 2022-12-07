@@ -3,19 +3,19 @@
     <main-header />
     <div class="container-general">
       <v-container>
-        <!-- <v-row>
+        <v-row>
           <v-col cols="12">
             <headline />
           </v-col>
-        </v-row> -->
+        </v-row>
         <!-- <v-row class="mt-8">
           <v-col md="6" cols="12" class="px-3">
-            <post-card :href="link.agency.blogDetail" :img="imgAPI.photo[37]" title="Maecenas rutrum dolor sed nisi"
+            <post-card href="#" :img="imgAPI.photo[37]" title="Maecenas rutrum dolor sed nisi"
               desc="Proin pretium arcu eget metus porta consectetur Pellentesque habitant" date="12 Nov 2020"
               orientation="landscape" type="round" />
           </v-col>
           <v-col md="6" cols="12" class="px-4">
-            <post-card :href="link.agency.blogDetail" :img="imgAPI.photo[36]" title="Maecenas rutrum dolor sed nisi"
+            <post-card href="#" :img="imgAPI.photo[36]" title="Maecenas rutrum dolor sed nisi"
               desc="Proin pretium arcu eget metus porta consectetur Pellentesque habitant" date="12 Nov 2020"
               orientation="landscape" type="round" />
           </v-col>
@@ -23,9 +23,10 @@
         <v-row class="mt-6">
           <v-col md="8">
             <div v-for="(item, index) in blogList" :key="index" :class="{ 'mt-15': index > 1 }">
-              <post-card :href="link.agency.blogDetail" :img="item.img" :title="item.title" :date="item.date"
-                orientation="portrait" type="over" />
+              <post-card :href="item.href" :img="item.bg" :title="item.title" :date="item.date" orientation="portrait"
+                type="full" />
             </div>
+
             <div class="arrow">
               <v-row justify="space-between" class="mt-5">
                 <v-btn text>
@@ -63,7 +64,6 @@ import PostCard from '~/components/Cards/PostCard'
 import Sidebar from '~/components/Blog/Sidebar'
 import Footer from '~/components/Footer'
 import imgAPI from '~/static/images/imgAPI'
-import link from '~/static/text/link'
 import blogs from '~/static/api/blogs'
 
 export default {
@@ -77,7 +77,6 @@ export default {
   data() {
     return {
       imgAPI: imgAPI,
-      link: link,
       blogList: blogs.ourBlogs,
     }
   },

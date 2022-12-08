@@ -6,73 +6,62 @@
         <v-row>
           <v-col md="8" cols="12">
             <article class="blog-content">
-              <h4 class="use-text-title2 title-blog">Bomber Warrior</h4>
+              <h4 class="use-text-title2 title-blog">Fund Raising Record Keeping</h4>
               <span class="caption">May 31, 2022 by Codematics</span>
               <figure class="image-blog">
-                <img :src="imgAPI.blog[4]" alt="blog" />
+                <img :src="imgAPI.blog[3]" alt="blog" />
               </figure>
 
-              <div class="post-content style-light double-bottom-padding">
-                <h3>Click to download for <a target="_blank"
-                    href="https://apps.apple.com/us/app/bomber-warriors-reloaded/id1626998664">iOS</a> and <a
-                    target="_blank"
-                    href="https://play.google.com/store/apps/details?id=codematics.bomberman.blast.bomberwarrior.bomb.reloaded">Android</a>
-                </h3>
-                <p>Bomber Warriors – Bomb Blast Strike, is a well-crafted bomb buster game with an intuitive and
-                  simplistic User
-                  Interface that spans multiple challenges for an evocative experience.</p>
-                <p>Strategically place the bomb to blast away your enemy, get the key and make way to the door, and be
-                  the last one to
-                  stand out! The craze of exploring the hidden key and making new strategies to blast the enemies in
-                  bomb blast strike
-                  will never make you feel like a slogging chore. The interactive game dialogues and power-ups will help
-                  you in
-                  reaching more entertaining levels of Bomber Warriors and scoring high. The addictive bomb blast
-                  gameplay is suitable
-                  to play for people of all ages and is compatible with both smartphones and tablet devices. It works
-                  pretty well
-                  without the internet connection to kill the boredom.</p>
-                <strong>Features</strong>
-                <ul class="list">
-                  <li>Captivating gameplay</li>
-                  <li>Fine equity of challenges and rewards</li>
-                  <li>Easy to hard bomb blast levels</li>
-                  <li>Powerful pickups to reach the levels</li>
-                  <li>Workable virtual pad</li>
-                  <li>Amazing soundtrack</li>
-                  <li>Improved level designs</li>
-                  <li>Suitable for all ages</li>
-                </ul>
-                <strong>How to Play the Game?</strong>
-                <p>Simply follow the tutorial and it’s all easy to play, but where there is strategy, you have to use
-                  your mind for passing
-                  out the level to reach the next one.</p>
-                <ul class="list">
-                  <li>A Virtual Pad is placed on the left bottom corner that allows the player to control the movement
-                    of the Bomber Warrior
-                    Character.</li>
-                  <li>Next, strategically drop the explosive bombs to blow away your enemy and find the key to unlock
-                    the door. This will
-                    lead you to the next level of the game.</li>
-                  <li>In order to create some thrill & difficulty for getting a win, 2 types of blocks are placed on the
-                    main screen. Some
-                    blocks are easily destructible using bombs, while some are indestructible.</li>
-                  <li>Besides the charm of reaching new levels, tile blasting and eliminating the enemies will make your
-                    score higher every
-                    single time.</li>
-                  <li>Be aware of the well-known enemies with powerful abilities if you fail to blast them first.</li>
-                  <li>Some power-ups like Bomb Range, Double Bomb, Shield, Speed, Lives, and Key are added throughout
-                    the game. Find them out
-                    and make your chances of getting a win more obvious.</li>
-                  <li>Once you get killed by the enemy, you will have to start the level again.</li>
-                </ul>
-                <p>So, get your thumbs and mind ready to enter this beautiful world. The nature of the gameplay and its
-                  craze to pass out
-                  the levels by fighting the enemies will surely make you addicted to the game.</p>
-                <p>Hit the comment section if you like this adventure-filled game or you can send your suggestions which
-                  we really
-                  appreciate.</p>
-              </div>
+              <h3>Click to download for <a href="#">iOS</a> and <a target="_blank"
+                  href="https://play.google.com/store/apps/details?id=codematics.bomberman.blast.bomberwarrior.bomb.reloaded">Android</a>
+              </h3>
+              <p>Fundraising is a feature-rich crowdfunding record keeper app that seamlessly brings a non-profit,
+                streamlined and
+                intuitive fundraising solution to create goals and raise money for donations from anywhere at any
+                time.</p>
+              <p>Looking for an online fundraising solution? The fundraising app makes money by raising a hassle-free
+                process and
+                stands out from the crowd by providing a simple yet responsive interface and versatile features.<br>
+                This app comes equipped with everything the user needs for setting and achieving fundraising goals
+                from start to end
+                for the causes or individuals you care about.</p>
+              <p>It helps to manage goals, track funding, accept donations securely and develop relations with the
+                donors on the go.
+                App users can also call for donations from contributors like friends and family directly from the app.
+                Beneficiaries
+                will receive a mobile-optimized link that allows them to join the campaign and donate money easily.
+                Moreover, it
+                centralizes contact viewing, record-keeping capabilities, and a custom-made dashboard for a better
+                user experience.
+              </p>
+              <p>Notable Features of Fundraising App<br>
+                &gt; Comprehensive dashboard<br>
+                &gt; Interactive screen layouts<br>
+                &gt; Push notifications<br>
+                &gt; Record tracking<br>
+                &gt; Quick response time<br>
+                &gt; Easy goals creation and sharing option<br>
+                &gt; Glitch-free and secured processing</p>
+              <p>Simple to Use<br>
+                1. Install the fundraising app and start organizing your goals. All you have to do is:<br>
+                2. After installation, enter your mobile number and type the OTP to get access to the home screen.<br>
+                3. Then add your goal name and amount required to achieve it.<br>
+                4. After entering the amount, the app will show the goal status with a percentage.<br>
+                5. You can also add contributors by sending invitations at any given time and tracking the donations
+                with a single
+                click.<br>
+                6. The contributor shall be added to the campaign after accepting the request.<br>
+                7. Donations collected will be shown on the fundraising dashboard of each individual separately and
+                the contributors
+                will get notified once they made a transaction.</p>
+              <p>This easy-to-use app a with user-friendly interface allows everyone to update the goals as per their
+                choice either
+                for their personal use or for the community. So keep an eye on your goals to make an impact and help
+                the community
+                to grow.</p>
+              <p>We’re open to new suggestions and updates. Kindly let us know about the app’s functionality and stay
+                hooked for
+                more exceptional features.</p>
             </article>
           </v-col>
           <v-col md="4" cols="12">

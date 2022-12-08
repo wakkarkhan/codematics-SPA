@@ -20,11 +20,23 @@ const _913a95ec = () => interopDefault(import('..\\pages\\privacy-policy\\index.
 const _5a3f0e78 = () => interopDefault(import('..\\pages\\register.vue' /* webpackChunkName: "pages/register" */))
 const _0a22aa9e = () => interopDefault(import('..\\pages\\web-development\\index.vue' /* webpackChunkName: "pages/web-development/index" */))
 const _a88890ce = () => interopDefault(import('..\\pages\\about\\team.vue' /* webpackChunkName: "pages/about/team" */))
+const _17fb0a2b = () => interopDefault(import('..\\pages\\blog\\blood-community-pakistan\\index.vue' /* webpackChunkName: "pages/blog/blood-community-pakistan/index" */))
+const _ceaf288c = () => interopDefault(import('..\\pages\\blog\\blood-donation\\index.vue' /* webpackChunkName: "pages/blog/blood-donation/index" */))
+const _a7b2d6f0 = () => interopDefault(import('..\\pages\\blog\\bomb-diffuse\\index.vue' /* webpackChunkName: "pages/blog/bomb-diffuse/index" */))
 const _3e6b1fca = () => interopDefault(import('..\\pages\\blog\\bomber-warrior\\index.vue' /* webpackChunkName: "pages/blog/bomber-warrior/index" */))
 const _424dad2a = () => interopDefault(import('..\\pages\\blog\\cv-builder-app\\index.vue' /* webpackChunkName: "pages/blog/cv-builder-app/index" */))
+const _9d424acc = () => interopDefault(import('..\\pages\\blog\\data-privacy\\index.vue' /* webpackChunkName: "pages/blog/data-privacy/index" */))
 const _49723d6b = () => interopDefault(import('..\\pages\\blog\\detail-blog.vue' /* webpackChunkName: "pages/blog/detail-blog" */))
 const _033547a8 = () => interopDefault(import('..\\pages\\blog\\flicky-chicky-game\\index.vue' /* webpackChunkName: "pages/blog/flicky-chicky-game/index" */))
+const _77d0c87a = () => interopDefault(import('..\\pages\\blog\\foldable-smartphones\\index.vue' /* webpackChunkName: "pages/blog/foldable-smartphones/index" */))
 const _73276188 = () => interopDefault(import('..\\pages\\blog\\fund-raising-record-keeping\\index.vue' /* webpackChunkName: "pages/blog/fund-raising-record-keeping/index" */))
+const _c545fc5c = () => interopDefault(import('..\\pages\\blog\\remote-control-for-sony-tv\\index.vue' /* webpackChunkName: "pages/blog/remote-control-for-sony-tv/index" */))
+const _ed415270 = () => interopDefault(import('..\\pages\\blog\\remote-for-vizio-tv-ios\\index.vue' /* webpackChunkName: "pages/blog/remote-for-vizio-tv-ios/index" */))
+const _0f0e2175 = () => interopDefault(import('..\\pages\\blog\\scam-secure-camera\\index.vue' /* webpackChunkName: "pages/blog/scam-secure-camera/index" */))
+const _53e4afcb = () => interopDefault(import('..\\pages\\blog\\smart-tvs-remote-control-for-ios-android\\index.vue' /* webpackChunkName: "pages/blog/smart-tvs-remote-control-for-ios-android/index" */))
+const _017e2276 = () => interopDefault(import('..\\pages\\blog\\universal-remote-control-for-ruko-devices\\index.vue' /* webpackChunkName: "pages/blog/universal-remote-control-for-ruko-devices/index" */))
+const _03fd291e = () => interopDefault(import('..\\pages\\blog\\universal-remote-for-lg-ios\\index.vue' /* webpackChunkName: "pages/blog/universal-remote-for-lg-ios/index" */))
+const _6fdb5936 = () => interopDefault(import('..\\pages\\blog\\universal-tv-remote-control\\index.vue' /* webpackChunkName: "pages/blog/universal-tv-remote-control/index" */))
 const _758cd872 = () => interopDefault(import('..\\pages\\collection\\detail-product.vue' /* webpackChunkName: "pages/collection/detail-product" */))
 const _11441b23 = () => interopDefault(import('..\\pages\\collection\\products.vue' /* webpackChunkName: "pages/collection/products" */))
 const _5cd768a4 = () => interopDefault(import('..\\pages\\contact\\with-map.vue' /* webpackChunkName: "pages/contact/with-map" */))
@@ -421,6 +433,18 @@ export const routerOptions = {
     component: _a88890ce,
     name: "about-team___ar"
   }, {
+    path: "/ar/blog/blood-community-pakistan",
+    component: _17fb0a2b,
+    name: "blog-blood-community-pakistan___ar"
+  }, {
+    path: "/ar/blog/blood-donation",
+    component: _ceaf288c,
+    name: "blog-blood-donation___ar"
+  }, {
+    path: "/ar/blog/bomb-diffuse",
+    component: _a7b2d6f0,
+    name: "blog-bomb-diffuse___ar"
+  }, {
     path: "/ar/blog/bomber-warrior",
     component: _3e6b1fca,
     name: "blog-bomber-warrior___ar"
@@ -428,6 +452,10 @@ export const routerOptions = {
     path: "/ar/blog/cv-builder-app",
     component: _424dad2a,
     name: "blog-cv-builder-app___ar"
+  }, {
+    path: "/ar/blog/data-privacy",
+    component: _9d424acc,
+    name: "blog-data-privacy___ar"
   }, {
     path: "/ar/blog/detail-blog",
     component: _49723d6b,
@@ -437,9 +465,41 @@ export const routerOptions = {
     component: _033547a8,
     name: "blog-flicky-chicky-game___ar"
   }, {
+    path: "/ar/blog/foldable-smartphones",
+    component: _77d0c87a,
+    name: "blog-foldable-smartphones___ar"
+  }, {
     path: "/ar/blog/fund-raising-record-keeping",
     component: _73276188,
     name: "blog-fund-raising-record-keeping___ar"
+  }, {
+    path: "/ar/blog/remote-control-for-sony-tv",
+    component: _c545fc5c,
+    name: "blog-remote-control-for-sony-tv___ar"
+  }, {
+    path: "/ar/blog/remote-for-vizio-tv-ios",
+    component: _ed415270,
+    name: "blog-remote-for-vizio-tv-ios___ar"
+  }, {
+    path: "/ar/blog/scam-secure-camera",
+    component: _0f0e2175,
+    name: "blog-scam-secure-camera___ar"
+  }, {
+    path: "/ar/blog/smart-tvs-remote-control-for-ios-android",
+    component: _53e4afcb,
+    name: "blog-smart-tvs-remote-control-for-ios-android___ar"
+  }, {
+    path: "/ar/blog/universal-remote-control-for-ruko-devices",
+    component: _017e2276,
+    name: "blog-universal-remote-control-for-ruko-devices___ar"
+  }, {
+    path: "/ar/blog/universal-remote-for-lg-ios",
+    component: _03fd291e,
+    name: "blog-universal-remote-for-lg-ios___ar"
+  }, {
+    path: "/ar/blog/universal-tv-remote-control",
+    component: _6fdb5936,
+    name: "blog-universal-tv-remote-control___ar"
   }, {
     path: "/ar/collection/detail-product",
     component: _758cd872,
@@ -521,6 +581,18 @@ export const routerOptions = {
     component: _a88890ce,
     name: "about-team___de"
   }, {
+    path: "/de/blog/blood-community-pakistan",
+    component: _17fb0a2b,
+    name: "blog-blood-community-pakistan___de"
+  }, {
+    path: "/de/blog/blood-donation",
+    component: _ceaf288c,
+    name: "blog-blood-donation___de"
+  }, {
+    path: "/de/blog/bomb-diffuse",
+    component: _a7b2d6f0,
+    name: "blog-bomb-diffuse___de"
+  }, {
     path: "/de/blog/bomber-warrior",
     component: _3e6b1fca,
     name: "blog-bomber-warrior___de"
@@ -528,6 +600,10 @@ export const routerOptions = {
     path: "/de/blog/cv-builder-app",
     component: _424dad2a,
     name: "blog-cv-builder-app___de"
+  }, {
+    path: "/de/blog/data-privacy",
+    component: _9d424acc,
+    name: "blog-data-privacy___de"
   }, {
     path: "/de/blog/detail-blog",
     component: _49723d6b,
@@ -537,9 +613,41 @@ export const routerOptions = {
     component: _033547a8,
     name: "blog-flicky-chicky-game___de"
   }, {
+    path: "/de/blog/foldable-smartphones",
+    component: _77d0c87a,
+    name: "blog-foldable-smartphones___de"
+  }, {
     path: "/de/blog/fund-raising-record-keeping",
     component: _73276188,
     name: "blog-fund-raising-record-keeping___de"
+  }, {
+    path: "/de/blog/remote-control-for-sony-tv",
+    component: _c545fc5c,
+    name: "blog-remote-control-for-sony-tv___de"
+  }, {
+    path: "/de/blog/remote-for-vizio-tv-ios",
+    component: _ed415270,
+    name: "blog-remote-for-vizio-tv-ios___de"
+  }, {
+    path: "/de/blog/scam-secure-camera",
+    component: _0f0e2175,
+    name: "blog-scam-secure-camera___de"
+  }, {
+    path: "/de/blog/smart-tvs-remote-control-for-ios-android",
+    component: _53e4afcb,
+    name: "blog-smart-tvs-remote-control-for-ios-android___de"
+  }, {
+    path: "/de/blog/universal-remote-control-for-ruko-devices",
+    component: _017e2276,
+    name: "blog-universal-remote-control-for-ruko-devices___de"
+  }, {
+    path: "/de/blog/universal-remote-for-lg-ios",
+    component: _03fd291e,
+    name: "blog-universal-remote-for-lg-ios___de"
+  }, {
+    path: "/de/blog/universal-tv-remote-control",
+    component: _6fdb5936,
+    name: "blog-universal-tv-remote-control___de"
   }, {
     path: "/de/collection/detail-product",
     component: _758cd872,
@@ -621,6 +729,18 @@ export const routerOptions = {
     component: _a88890ce,
     name: "about-team___en"
   }, {
+    path: "/en/blog/blood-community-pakistan",
+    component: _17fb0a2b,
+    name: "blog-blood-community-pakistan___en"
+  }, {
+    path: "/en/blog/blood-donation",
+    component: _ceaf288c,
+    name: "blog-blood-donation___en"
+  }, {
+    path: "/en/blog/bomb-diffuse",
+    component: _a7b2d6f0,
+    name: "blog-bomb-diffuse___en"
+  }, {
     path: "/en/blog/bomber-warrior",
     component: _3e6b1fca,
     name: "blog-bomber-warrior___en"
@@ -628,6 +748,10 @@ export const routerOptions = {
     path: "/en/blog/cv-builder-app",
     component: _424dad2a,
     name: "blog-cv-builder-app___en"
+  }, {
+    path: "/en/blog/data-privacy",
+    component: _9d424acc,
+    name: "blog-data-privacy___en"
   }, {
     path: "/en/blog/detail-blog",
     component: _49723d6b,
@@ -637,9 +761,41 @@ export const routerOptions = {
     component: _033547a8,
     name: "blog-flicky-chicky-game___en"
   }, {
+    path: "/en/blog/foldable-smartphones",
+    component: _77d0c87a,
+    name: "blog-foldable-smartphones___en"
+  }, {
     path: "/en/blog/fund-raising-record-keeping",
     component: _73276188,
     name: "blog-fund-raising-record-keeping___en"
+  }, {
+    path: "/en/blog/remote-control-for-sony-tv",
+    component: _c545fc5c,
+    name: "blog-remote-control-for-sony-tv___en"
+  }, {
+    path: "/en/blog/remote-for-vizio-tv-ios",
+    component: _ed415270,
+    name: "blog-remote-for-vizio-tv-ios___en"
+  }, {
+    path: "/en/blog/scam-secure-camera",
+    component: _0f0e2175,
+    name: "blog-scam-secure-camera___en"
+  }, {
+    path: "/en/blog/smart-tvs-remote-control-for-ios-android",
+    component: _53e4afcb,
+    name: "blog-smart-tvs-remote-control-for-ios-android___en"
+  }, {
+    path: "/en/blog/universal-remote-control-for-ruko-devices",
+    component: _017e2276,
+    name: "blog-universal-remote-control-for-ruko-devices___en"
+  }, {
+    path: "/en/blog/universal-remote-for-lg-ios",
+    component: _03fd291e,
+    name: "blog-universal-remote-for-lg-ios___en"
+  }, {
+    path: "/en/blog/universal-tv-remote-control",
+    component: _6fdb5936,
+    name: "blog-universal-tv-remote-control___en"
   }, {
     path: "/en/collection/detail-product",
     component: _758cd872,
@@ -721,6 +877,18 @@ export const routerOptions = {
     component: _a88890ce,
     name: "about-team___id"
   }, {
+    path: "/id/blog/blood-community-pakistan",
+    component: _17fb0a2b,
+    name: "blog-blood-community-pakistan___id"
+  }, {
+    path: "/id/blog/blood-donation",
+    component: _ceaf288c,
+    name: "blog-blood-donation___id"
+  }, {
+    path: "/id/blog/bomb-diffuse",
+    component: _a7b2d6f0,
+    name: "blog-bomb-diffuse___id"
+  }, {
     path: "/id/blog/bomber-warrior",
     component: _3e6b1fca,
     name: "blog-bomber-warrior___id"
@@ -728,6 +896,10 @@ export const routerOptions = {
     path: "/id/blog/cv-builder-app",
     component: _424dad2a,
     name: "blog-cv-builder-app___id"
+  }, {
+    path: "/id/blog/data-privacy",
+    component: _9d424acc,
+    name: "blog-data-privacy___id"
   }, {
     path: "/id/blog/detail-blog",
     component: _49723d6b,
@@ -737,9 +909,41 @@ export const routerOptions = {
     component: _033547a8,
     name: "blog-flicky-chicky-game___id"
   }, {
+    path: "/id/blog/foldable-smartphones",
+    component: _77d0c87a,
+    name: "blog-foldable-smartphones___id"
+  }, {
     path: "/id/blog/fund-raising-record-keeping",
     component: _73276188,
     name: "blog-fund-raising-record-keeping___id"
+  }, {
+    path: "/id/blog/remote-control-for-sony-tv",
+    component: _c545fc5c,
+    name: "blog-remote-control-for-sony-tv___id"
+  }, {
+    path: "/id/blog/remote-for-vizio-tv-ios",
+    component: _ed415270,
+    name: "blog-remote-for-vizio-tv-ios___id"
+  }, {
+    path: "/id/blog/scam-secure-camera",
+    component: _0f0e2175,
+    name: "blog-scam-secure-camera___id"
+  }, {
+    path: "/id/blog/smart-tvs-remote-control-for-ios-android",
+    component: _53e4afcb,
+    name: "blog-smart-tvs-remote-control-for-ios-android___id"
+  }, {
+    path: "/id/blog/universal-remote-control-for-ruko-devices",
+    component: _017e2276,
+    name: "blog-universal-remote-control-for-ruko-devices___id"
+  }, {
+    path: "/id/blog/universal-remote-for-lg-ios",
+    component: _03fd291e,
+    name: "blog-universal-remote-for-lg-ios___id"
+  }, {
+    path: "/id/blog/universal-tv-remote-control",
+    component: _6fdb5936,
+    name: "blog-universal-tv-remote-control___id"
   }, {
     path: "/id/collection/detail-product",
     component: _758cd872,
@@ -821,6 +1025,18 @@ export const routerOptions = {
     component: _a88890ce,
     name: "about-team___pt"
   }, {
+    path: "/pt/blog/blood-community-pakistan",
+    component: _17fb0a2b,
+    name: "blog-blood-community-pakistan___pt"
+  }, {
+    path: "/pt/blog/blood-donation",
+    component: _ceaf288c,
+    name: "blog-blood-donation___pt"
+  }, {
+    path: "/pt/blog/bomb-diffuse",
+    component: _a7b2d6f0,
+    name: "blog-bomb-diffuse___pt"
+  }, {
     path: "/pt/blog/bomber-warrior",
     component: _3e6b1fca,
     name: "blog-bomber-warrior___pt"
@@ -828,6 +1044,10 @@ export const routerOptions = {
     path: "/pt/blog/cv-builder-app",
     component: _424dad2a,
     name: "blog-cv-builder-app___pt"
+  }, {
+    path: "/pt/blog/data-privacy",
+    component: _9d424acc,
+    name: "blog-data-privacy___pt"
   }, {
     path: "/pt/blog/detail-blog",
     component: _49723d6b,
@@ -837,9 +1057,41 @@ export const routerOptions = {
     component: _033547a8,
     name: "blog-flicky-chicky-game___pt"
   }, {
+    path: "/pt/blog/foldable-smartphones",
+    component: _77d0c87a,
+    name: "blog-foldable-smartphones___pt"
+  }, {
     path: "/pt/blog/fund-raising-record-keeping",
     component: _73276188,
     name: "blog-fund-raising-record-keeping___pt"
+  }, {
+    path: "/pt/blog/remote-control-for-sony-tv",
+    component: _c545fc5c,
+    name: "blog-remote-control-for-sony-tv___pt"
+  }, {
+    path: "/pt/blog/remote-for-vizio-tv-ios",
+    component: _ed415270,
+    name: "blog-remote-for-vizio-tv-ios___pt"
+  }, {
+    path: "/pt/blog/scam-secure-camera",
+    component: _0f0e2175,
+    name: "blog-scam-secure-camera___pt"
+  }, {
+    path: "/pt/blog/smart-tvs-remote-control-for-ios-android",
+    component: _53e4afcb,
+    name: "blog-smart-tvs-remote-control-for-ios-android___pt"
+  }, {
+    path: "/pt/blog/universal-remote-control-for-ruko-devices",
+    component: _017e2276,
+    name: "blog-universal-remote-control-for-ruko-devices___pt"
+  }, {
+    path: "/pt/blog/universal-remote-for-lg-ios",
+    component: _03fd291e,
+    name: "blog-universal-remote-for-lg-ios___pt"
+  }, {
+    path: "/pt/blog/universal-tv-remote-control",
+    component: _6fdb5936,
+    name: "blog-universal-tv-remote-control___pt"
   }, {
     path: "/pt/collection/detail-product",
     component: _758cd872,
@@ -921,6 +1173,18 @@ export const routerOptions = {
     component: _a88890ce,
     name: "about-team___zh"
   }, {
+    path: "/zh/blog/blood-community-pakistan",
+    component: _17fb0a2b,
+    name: "blog-blood-community-pakistan___zh"
+  }, {
+    path: "/zh/blog/blood-donation",
+    component: _ceaf288c,
+    name: "blog-blood-donation___zh"
+  }, {
+    path: "/zh/blog/bomb-diffuse",
+    component: _a7b2d6f0,
+    name: "blog-bomb-diffuse___zh"
+  }, {
     path: "/zh/blog/bomber-warrior",
     component: _3e6b1fca,
     name: "blog-bomber-warrior___zh"
@@ -928,6 +1192,10 @@ export const routerOptions = {
     path: "/zh/blog/cv-builder-app",
     component: _424dad2a,
     name: "blog-cv-builder-app___zh"
+  }, {
+    path: "/zh/blog/data-privacy",
+    component: _9d424acc,
+    name: "blog-data-privacy___zh"
   }, {
     path: "/zh/blog/detail-blog",
     component: _49723d6b,
@@ -937,9 +1205,41 @@ export const routerOptions = {
     component: _033547a8,
     name: "blog-flicky-chicky-game___zh"
   }, {
+    path: "/zh/blog/foldable-smartphones",
+    component: _77d0c87a,
+    name: "blog-foldable-smartphones___zh"
+  }, {
     path: "/zh/blog/fund-raising-record-keeping",
     component: _73276188,
     name: "blog-fund-raising-record-keeping___zh"
+  }, {
+    path: "/zh/blog/remote-control-for-sony-tv",
+    component: _c545fc5c,
+    name: "blog-remote-control-for-sony-tv___zh"
+  }, {
+    path: "/zh/blog/remote-for-vizio-tv-ios",
+    component: _ed415270,
+    name: "blog-remote-for-vizio-tv-ios___zh"
+  }, {
+    path: "/zh/blog/scam-secure-camera",
+    component: _0f0e2175,
+    name: "blog-scam-secure-camera___zh"
+  }, {
+    path: "/zh/blog/smart-tvs-remote-control-for-ios-android",
+    component: _53e4afcb,
+    name: "blog-smart-tvs-remote-control-for-ios-android___zh"
+  }, {
+    path: "/zh/blog/universal-remote-control-for-ruko-devices",
+    component: _017e2276,
+    name: "blog-universal-remote-control-for-ruko-devices___zh"
+  }, {
+    path: "/zh/blog/universal-remote-for-lg-ios",
+    component: _03fd291e,
+    name: "blog-universal-remote-for-lg-ios___zh"
+  }, {
+    path: "/zh/blog/universal-tv-remote-control",
+    component: _6fdb5936,
+    name: "blog-universal-tv-remote-control___zh"
   }, {
     path: "/zh/collection/detail-product",
     component: _758cd872,

@@ -3,12 +3,12 @@
     <v-img target="_blank" class="white--text align-end" gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.8)"
       height="460px">
       <a href="/blog/cv-builder-app" class="anchor-content">
-        <v-card-title class="headline-title use-text-title">CV Builder App</v-card-title>
-        <v-card-subtitle class="use-text-subtitle">Resume CV Builder app is a free and effective resume maker with an
+        <v-card-title class="headline-title use-text-title">CV Maker | Resume Builder</v-card-title>
+        <!-- <v-card-subtitle class="use-text-subtitle">Resume CV Builder app is a free and effective resume maker with an
           intuitive user interface that facilitates the
           creation of a convincing and professional resume with multiple data-driven templates in a matter of minutes to
           land a
-          dream job.</v-card-subtitle>
+          dream job.</v-card-subtitle> -->
       </a>
     </v-img>
   </v-card>

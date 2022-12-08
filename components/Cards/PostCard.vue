@@ -18,7 +18,7 @@
         </span>
       </v-card-text> -->
       <v-card-actions>
-        <v-btn :small="orientation === 'landscape'" :href="href" outlined class="action-btn" color="primary">
+        <v-btn :small="orientation === 'landscape'" :href="href" target="_blank" class="action-btn" color="primary">
           {{ $t('common.btn_read_more') }}
         </v-btn>
       </v-card-actions>
@@ -28,6 +28,10 @@
 
 <style scoped lang="scss">
 @import './post-news-card';
+
+.action-btn {
+  color: white !important;
+}
 </style>
 
 <script>

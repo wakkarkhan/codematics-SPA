@@ -96,20 +96,22 @@ const imgAPI = {
     '/images/logos/13.png',
   ],
   blog: [
-    '/images/blog/smart-tv.jpg',
-    '/images/blog/cv-app.png',
-    '/images/blog/blood.jpg',
-    '/images/blog/fundometer.jpg',
-    '/images/blog/bomber-warrior.jpg',
-    '/images/blog/flicky.jpg',
-    '/images/blog/vizio-tv.jpg',
-    '/images/blog/blood-donation.jpg',
-    '/images/blog/smart-tv-remote.jpg',
-    '/images/blog/foldable.jpg',
-    '/images/blog/data-privacy.jpg',
-    '/images/blog/pcam.jpg',
-    '/images/blog/bomb-diffuse.jpg',
-    '/images/blog/universal-tv.jpg',
+    '/images/blog/smart-tv.jpg', // 0
+    '/images/blog/cv-app.png', // 1
+    '/images/blog/blood.jpg', // 2
+    '/images/blog/fundometer.jpg', // 3
+    '/images/blog/bomber-warrior.jpg', // 4
+    '/images/blog/flicky.jpg', // 5
+    '/images/blog/vizio-tv.jpg', // 6
+    '/images/blog/blood-donation.jpg', // 7
+    '/images/blog/smart-tv-remote.jpg', // 8
+    '/images/blog/foldable.jpg', // 9
+    '/images/blog/data-privacy.jpg', // 10
+    '/images/blog/pcam.jpg', // 11
+    '/images/blog/bomb-diffuse.jpg', // 12
+    '/images/blog/universal-tv.jpg', // 13
+    '/images/blog/flicky-chicky.jpg', // 14
+    '/images/blog/bomber-warriors.jpg', // 15
   ],
   team: [
     '/images/team/cover-1.jpg',

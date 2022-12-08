@@ -8,21 +8,15 @@
             <headline />
           </v-col>
         </v-row>
-        <!-- <v-row class="mt-8">
-          <v-col md="6" cols="12" class="px-3">
-            <post-card href="#" :img="imgAPI.photo[37]" title="Maecenas rutrum dolor sed nisi"
-              desc="Proin pretium arcu eget metus porta consectetur Pellentesque habitant" date="12 Nov 2020"
-              orientation="landscape" type="round" />
+        <v-row class="mt-6">
+          <v-col md="6" cols="12" class="px-3" v-for="(item, index) in blogsSmall" :key="index">
+            <post-card :href="item.href" :img="item.bg" :title="item.title" :date="item.date" orientation="landscape"
+              type="round" />
           </v-col>
-          <v-col md="6" cols="12" class="px-4">
-            <post-card href="#" :img="imgAPI.photo[36]" title="Maecenas rutrum dolor sed nisi"
-              desc="Proin pretium arcu eget metus porta consectetur Pellentesque habitant" date="12 Nov 2020"
-              orientation="landscape" type="round" />
-          </v-col>
-        </v-row> -->
+        </v-row>
         <v-row class="mt-6">
           <v-col md="8">
-            <div v-for="(item, index) in blogList" :key="index" :class="{ 'mt-15': index > 1 }">
+            <div v-for="(item, index) in blogsMedium" :key="index" :class="{ 'mt-15': index > 0 }">
               <post-card :href="item.href" :img="item.bg" :title="item.title" :date="item.date" orientation="portrait"
                 type="full" />
             </div>
@@ -77,7 +71,8 @@ export default {
   data() {
     return {
       imgAPI: imgAPI,
-      blogList: blogs.ourBlogs,
+      blogsMedium: blogs.blogsMedium,
+      blogsSmall: blogs.blogsSmall,
     }
   },
   head() {

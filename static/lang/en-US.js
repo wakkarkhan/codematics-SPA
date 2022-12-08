@@ -61,7 +61,7 @@ export default () => {
         "blog_subscribe": "Subscribe",
         "blog_subscribe_desc": "Subscribe our newsletter",
         "blog_about": "About Us",
-        "blog_born": "Born",
+        "blog_mail": "Mail",
         "blog_phone": "Phone",
         "blog_address": "Address",
         "blog_post": "Latest Post",

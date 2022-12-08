@@ -637,6 +637,13 @@
     "_name": "_a88890ce"
   },
   {
+    "name": "blog-bomber-warrior___ar",
+    "path": "/ar/blog/bomber-warrior",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\bomber-warrior\\\\index.vue",
+    "chunkName": "pages/blog/bomber-warrior/index",
+    "_name": "_3e6b1fca"
+  },
+  {
     "name": "blog-cv-builder-app___ar",
     "path": "/ar/blog/cv-builder-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\cv-builder-app\\\\index.vue",
@@ -649,6 +656,20 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
     "chunkName": "pages/blog/detail-blog",
     "_name": "_49723d6b"
+  },
+  {
+    "name": "blog-flicky-chicky-game___ar",
+    "path": "/ar/blog/flicky-chicky-game",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\flicky-chicky-game\\\\index.vue",
+    "chunkName": "pages/blog/flicky-chicky-game/index",
+    "_name": "_033547a8"
+  },
+  {
+    "name": "blog-fund-raising-record-keeping___ar",
+    "path": "/ar/blog/fund-raising-record-keeping",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\fund-raising-record-keeping\\\\index.vue",
+    "chunkName": "pages/blog/fund-raising-record-keeping/index",
+    "_name": "_73276188"
   },
   {
     "name": "collection-detail-product___ar",
@@ -791,6 +812,13 @@
     "_name": "_a88890ce"
   },
   {
+    "name": "blog-bomber-warrior___de",
+    "path": "/de/blog/bomber-warrior",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\bomber-warrior\\\\index.vue",
+    "chunkName": "pages/blog/bomber-warrior/index",
+    "_name": "_3e6b1fca"
+  },
+  {
     "name": "blog-cv-builder-app___de",
     "path": "/de/blog/cv-builder-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\cv-builder-app\\\\index.vue",
@@ -803,6 +831,20 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
     "chunkName": "pages/blog/detail-blog",
     "_name": "_49723d6b"
+  },
+  {
+    "name": "blog-flicky-chicky-game___de",
+    "path": "/de/blog/flicky-chicky-game",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\flicky-chicky-game\\\\index.vue",
+    "chunkName": "pages/blog/flicky-chicky-game/index",
+    "_name": "_033547a8"
+  },
+  {
+    "name": "blog-fund-raising-record-keeping___de",
+    "path": "/de/blog/fund-raising-record-keeping",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\fund-raising-record-keeping\\\\index.vue",
+    "chunkName": "pages/blog/fund-raising-record-keeping/index",
+    "_name": "_73276188"
   },
   {
     "name": "collection-detail-product___de",
@@ -945,6 +987,13 @@
     "_name": "_a88890ce"
   },
   {
+    "name": "blog-bomber-warrior___en",
+    "path": "/en/blog/bomber-warrior",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\bomber-warrior\\\\index.vue",
+    "chunkName": "pages/blog/bomber-warrior/index",
+    "_name": "_3e6b1fca"
+  },
+  {
     "name": "blog-cv-builder-app___en",
     "path": "/en/blog/cv-builder-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\cv-builder-app\\\\index.vue",
@@ -957,6 +1006,20 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
     "chunkName": "pages/blog/detail-blog",
     "_name": "_49723d6b"
+  },
+  {
+    "name": "blog-flicky-chicky-game___en",
+    "path": "/en/blog/flicky-chicky-game",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\flicky-chicky-game\\\\index.vue",
+    "chunkName": "pages/blog/flicky-chicky-game/index",
+    "_name": "_033547a8"
+  },
+  {
+    "name": "blog-fund-raising-record-keeping___en",
+    "path": "/en/blog/fund-raising-record-keeping",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\fund-raising-record-keeping\\\\index.vue",
+    "chunkName": "pages/blog/fund-raising-record-keeping/index",
+    "_name": "_73276188"
   },
   {
     "name": "collection-detail-product___en",
@@ -1099,6 +1162,13 @@
     "_name": "_a88890ce"
   },
   {
+    "name": "blog-bomber-warrior___id",
+    "path": "/id/blog/bomber-warrior",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\bomber-warrior\\\\index.vue",
+    "chunkName": "pages/blog/bomber-warrior/index",
+    "_name": "_3e6b1fca"
+  },
+  {
     "name": "blog-cv-builder-app___id",
     "path": "/id/blog/cv-builder-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\cv-builder-app\\\\index.vue",
@@ -1111,6 +1181,20 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
     "chunkName": "pages/blog/detail-blog",
     "_name": "_49723d6b"
+  },
+  {
+    "name": "blog-flicky-chicky-game___id",
+    "path": "/id/blog/flicky-chicky-game",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\flicky-chicky-game\\\\index.vue",
+    "chunkName": "pages/blog/flicky-chicky-game/index",
+    "_name": "_033547a8"
+  },
+  {
+    "name": "blog-fund-raising-record-keeping___id",
+    "path": "/id/blog/fund-raising-record-keeping",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\fund-raising-record-keeping\\\\index.vue",
+    "chunkName": "pages/blog/fund-raising-record-keeping/index",
+    "_name": "_73276188"
   },
   {
     "name": "collection-detail-product___id",
@@ -1253,6 +1337,13 @@
     "_name": "_a88890ce"
   },
   {
+    "name": "blog-bomber-warrior___pt",
+    "path": "/pt/blog/bomber-warrior",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\bomber-warrior\\\\index.vue",
+    "chunkName": "pages/blog/bomber-warrior/index",
+    "_name": "_3e6b1fca"
+  },
+  {
     "name": "blog-cv-builder-app___pt",
     "path": "/pt/blog/cv-builder-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\cv-builder-app\\\\index.vue",
@@ -1265,6 +1356,20 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
     "chunkName": "pages/blog/detail-blog",
     "_name": "_49723d6b"
+  },
+  {
+    "name": "blog-flicky-chicky-game___pt",
+    "path": "/pt/blog/flicky-chicky-game",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\flicky-chicky-game\\\\index.vue",
+    "chunkName": "pages/blog/flicky-chicky-game/index",
+    "_name": "_033547a8"
+  },
+  {
+    "name": "blog-fund-raising-record-keeping___pt",
+    "path": "/pt/blog/fund-raising-record-keeping",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\fund-raising-record-keeping\\\\index.vue",
+    "chunkName": "pages/blog/fund-raising-record-keeping/index",
+    "_name": "_73276188"
   },
   {
     "name": "collection-detail-product___pt",
@@ -1407,6 +1512,13 @@
     "_name": "_a88890ce"
   },
   {
+    "name": "blog-bomber-warrior___zh",
+    "path": "/zh/blog/bomber-warrior",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\bomber-warrior\\\\index.vue",
+    "chunkName": "pages/blog/bomber-warrior/index",
+    "_name": "_3e6b1fca"
+  },
+  {
     "name": "blog-cv-builder-app___zh",
     "path": "/zh/blog/cv-builder-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\cv-builder-app\\\\index.vue",
@@ -1419,6 +1531,20 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
     "chunkName": "pages/blog/detail-blog",
     "_name": "_49723d6b"
+  },
+  {
+    "name": "blog-flicky-chicky-game___zh",
+    "path": "/zh/blog/flicky-chicky-game",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\flicky-chicky-game\\\\index.vue",
+    "chunkName": "pages/blog/flicky-chicky-game/index",
+    "_name": "_033547a8"
+  },
+  {
+    "name": "blog-fund-raising-record-keeping___zh",
+    "path": "/zh/blog/fund-raising-record-keeping",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\fund-raising-record-keeping\\\\index.vue",
+    "chunkName": "pages/blog/fund-raising-record-keeping/index",
+    "_name": "_73276188"
   },
   {
     "name": "collection-detail-product___zh",

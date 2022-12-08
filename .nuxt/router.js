@@ -20,8 +20,11 @@ const _913a95ec = () => interopDefault(import('..\\pages\\privacy-policy\\index.
 const _5a3f0e78 = () => interopDefault(import('..\\pages\\register.vue' /* webpackChunkName: "pages/register" */))
 const _0a22aa9e = () => interopDefault(import('..\\pages\\web-development\\index.vue' /* webpackChunkName: "pages/web-development/index" */))
 const _a88890ce = () => interopDefault(import('..\\pages\\about\\team.vue' /* webpackChunkName: "pages/about/team" */))
+const _3e6b1fca = () => interopDefault(import('..\\pages\\blog\\bomber-warrior\\index.vue' /* webpackChunkName: "pages/blog/bomber-warrior/index" */))
 const _424dad2a = () => interopDefault(import('..\\pages\\blog\\cv-builder-app\\index.vue' /* webpackChunkName: "pages/blog/cv-builder-app/index" */))
 const _49723d6b = () => interopDefault(import('..\\pages\\blog\\detail-blog.vue' /* webpackChunkName: "pages/blog/detail-blog" */))
+const _033547a8 = () => interopDefault(import('..\\pages\\blog\\flicky-chicky-game\\index.vue' /* webpackChunkName: "pages/blog/flicky-chicky-game/index" */))
+const _73276188 = () => interopDefault(import('..\\pages\\blog\\fund-raising-record-keeping\\index.vue' /* webpackChunkName: "pages/blog/fund-raising-record-keeping/index" */))
 const _758cd872 = () => interopDefault(import('..\\pages\\collection\\detail-product.vue' /* webpackChunkName: "pages/collection/detail-product" */))
 const _11441b23 = () => interopDefault(import('..\\pages\\collection\\products.vue' /* webpackChunkName: "pages/collection/products" */))
 const _5cd768a4 = () => interopDefault(import('..\\pages\\contact\\with-map.vue' /* webpackChunkName: "pages/contact/with-map" */))
@@ -418,6 +421,10 @@ export const routerOptions = {
     component: _a88890ce,
     name: "about-team___ar"
   }, {
+    path: "/ar/blog/bomber-warrior",
+    component: _3e6b1fca,
+    name: "blog-bomber-warrior___ar"
+  }, {
     path: "/ar/blog/cv-builder-app",
     component: _424dad2a,
     name: "blog-cv-builder-app___ar"
@@ -425,6 +432,14 @@ export const routerOptions = {
     path: "/ar/blog/detail-blog",
     component: _49723d6b,
     name: "blog-detail-blog___ar"
+  }, {
+    path: "/ar/blog/flicky-chicky-game",
+    component: _033547a8,
+    name: "blog-flicky-chicky-game___ar"
+  }, {
+    path: "/ar/blog/fund-raising-record-keeping",
+    component: _73276188,
+    name: "blog-fund-raising-record-keeping___ar"
   }, {
     path: "/ar/collection/detail-product",
     component: _758cd872,
@@ -506,6 +521,10 @@ export const routerOptions = {
     component: _a88890ce,
     name: "about-team___de"
   }, {
+    path: "/de/blog/bomber-warrior",
+    component: _3e6b1fca,
+    name: "blog-bomber-warrior___de"
+  }, {
     path: "/de/blog/cv-builder-app",
     component: _424dad2a,
     name: "blog-cv-builder-app___de"
@@ -513,6 +532,14 @@ export const routerOptions = {
     path: "/de/blog/detail-blog",
     component: _49723d6b,
     name: "blog-detail-blog___de"
+  }, {
+    path: "/de/blog/flicky-chicky-game",
+    component: _033547a8,
+    name: "blog-flicky-chicky-game___de"
+  }, {
+    path: "/de/blog/fund-raising-record-keeping",
+    component: _73276188,
+    name: "blog-fund-raising-record-keeping___de"
   }, {
     path: "/de/collection/detail-product",
     component: _758cd872,
@@ -594,6 +621,10 @@ export const routerOptions = {
     component: _a88890ce,
     name: "about-team___en"
   }, {
+    path: "/en/blog/bomber-warrior",
+    component: _3e6b1fca,
+    name: "blog-bomber-warrior___en"
+  }, {
     path: "/en/blog/cv-builder-app",
     component: _424dad2a,
     name: "blog-cv-builder-app___en"
@@ -601,6 +632,14 @@ export const routerOptions = {
     path: "/en/blog/detail-blog",
     component: _49723d6b,
     name: "blog-detail-blog___en"
+  }, {
+    path: "/en/blog/flicky-chicky-game",
+    component: _033547a8,
+    name: "blog-flicky-chicky-game___en"
+  }, {
+    path: "/en/blog/fund-raising-record-keeping",
+    component: _73276188,
+    name: "blog-fund-raising-record-keeping___en"
   }, {
     path: "/en/collection/detail-product",
     component: _758cd872,
@@ -682,6 +721,10 @@ export const routerOptions = {
     component: _a88890ce,
     name: "about-team___id"
   }, {
+    path: "/id/blog/bomber-warrior",
+    component: _3e6b1fca,
+    name: "blog-bomber-warrior___id"
+  }, {
     path: "/id/blog/cv-builder-app",
     component: _424dad2a,
     name: "blog-cv-builder-app___id"
@@ -689,6 +732,14 @@ export const routerOptions = {
     path: "/id/blog/detail-blog",
     component: _49723d6b,
     name: "blog-detail-blog___id"
+  }, {
+    path: "/id/blog/flicky-chicky-game",
+    component: _033547a8,
+    name: "blog-flicky-chicky-game___id"
+  }, {
+    path: "/id/blog/fund-raising-record-keeping",
+    component: _73276188,
+    name: "blog-fund-raising-record-keeping___id"
   }, {
     path: "/id/collection/detail-product",
     component: _758cd872,
@@ -770,6 +821,10 @@ export const routerOptions = {
     component: _a88890ce,
     name: "about-team___pt"
   }, {
+    path: "/pt/blog/bomber-warrior",
+    component: _3e6b1fca,
+    name: "blog-bomber-warrior___pt"
+  }, {
     path: "/pt/blog/cv-builder-app",
     component: _424dad2a,
     name: "blog-cv-builder-app___pt"
@@ -777,6 +832,14 @@ export const routerOptions = {
     path: "/pt/blog/detail-blog",
     component: _49723d6b,
     name: "blog-detail-blog___pt"
+  }, {
+    path: "/pt/blog/flicky-chicky-game",
+    component: _033547a8,
+    name: "blog-flicky-chicky-game___pt"
+  }, {
+    path: "/pt/blog/fund-raising-record-keeping",
+    component: _73276188,
+    name: "blog-fund-raising-record-keeping___pt"
   }, {
     path: "/pt/collection/detail-product",
     component: _758cd872,
@@ -858,6 +921,10 @@ export const routerOptions = {
     component: _a88890ce,
     name: "about-team___zh"
   }, {
+    path: "/zh/blog/bomber-warrior",
+    component: _3e6b1fca,
+    name: "blog-bomber-warrior___zh"
+  }, {
     path: "/zh/blog/cv-builder-app",
     component: _424dad2a,
     name: "blog-cv-builder-app___zh"
@@ -865,6 +932,14 @@ export const routerOptions = {
     path: "/zh/blog/detail-blog",
     component: _49723d6b,
     name: "blog-detail-blog___zh"
+  }, {
+    path: "/zh/blog/flicky-chicky-game",
+    component: _033547a8,
+    name: "blog-flicky-chicky-game___zh"
+  }, {
+    path: "/zh/blog/fund-raising-record-keeping",
+    component: _73276188,
+    name: "blog-fund-raising-record-keeping___zh"
   }, {
     path: "/zh/collection/detail-product",
     component: _758cd872,

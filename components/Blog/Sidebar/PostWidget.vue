@@ -1,16 +1,12 @@
 <template>
   <paper :title="$t('common.blog_post')" icon="mdi-bookmark-outline">
     <div>
-      <v-list
-        subheader
-        two-line
-      >
-        <v-list-item
-          v-for="(item, index) in news"
-          :key="index"
-        >
+      <v-list subheader two-line>
+        <v-list-item v-for="(item, index) in blogsDate" :key="index">
           <v-list-item-content>
-            <v-list-item-title>{{ item.title }}</v-list-item-title>
+            <a :href="item.href">
+              <v-list-item-title>{{ item.title }}</v-list-item-title>
+            </a>
             <v-list-item-subtitle>{{ item.date }}</v-list-item-subtitle>
           </v-list-item-content>
         </v-list-item>
@@ -19,8 +15,19 @@
   </paper>
 </template>
 
+<style>
+a {
+  text-decoration: none !important;
+  color: #000000DE !important;
+}
+
+a:hover {
+  color: var(--v-anchor-base) !important;
+}
+</style>
 <script>
 import Paper from '../../Paper'
+import blogs from '~/static/api/blogs'
 
 export default {
   components: {
@@ -28,28 +35,7 @@ export default {
   },
   data() {
     return {
-      news: [
-        {
-          title: 'Vestibulum bibendum nisi eget magna',
-          date: 'Jan 9, 2014'
-        },
-        {
-          title: 'Quisque a consequat ante',
-          date: 'Jan 9, 2014'
-        },
-        {
-          title: 'Donec dignissim, odio ac imperdiet luctus',
-          date: 'Jan 9, 2014'
-        },
-        {
-          title: 'Suspendisse eleifend nunc non',
-          date: 'Jan 9, 2014'
-        },
-        {
-          title: 'Vestibulum a massa vestibulum',
-          date: 'Jan 9, 2014'
-        }
-      ]
+      blogsDate: blogs.blogsDate,
     }
   }
 }

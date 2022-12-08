@@ -6,75 +6,61 @@
         <v-row>
           <v-col md="8" cols="12">
             <article class="blog-content">
-              <h4 class="use-text-title2 title-blog">CV Builder App</h4>
+              <h4 class="use-text-title2 title-blog">CV Maker | Resume Builder</h4>
               <span class="caption">May 16, 2022 by Codematics</span>
               <figure class="image-blog">
                 <img :src="imgAPI.blog[1]" alt="blog" />
               </figure>
-              <p>Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id
-                dolor id nibh
-                ultricies vehicula ut id elit.</p>
-              <p>Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum.
-                Aenean lacinia
-                bibendum nulla sed consectetur.</p>
-              <strong>Heading</strong>
-              <p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo
-                luctus, nisi
-                erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac,
-                vestibulum at
-                eros.</p>
-              <strong>Sub-heading</strong>
-              <p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo
-                luctus, nisi
-                erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac,
-                vestibulum at
-                eros.</p>
-              <p>Example code block Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna
-                mollis euismod.
-                Fusce dapibus, tellus ac cursus commodo. Tortor mauris condimentum nibh, ut fermentum massa.</p>
-              <strong>Sub-heading</strong>
-              <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia
-                bibendum
-                nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus
-                commodo,
-                tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-              <figure class="image-blog">
-                <img :src="imgAPI.photo[6]" alt="blog" />
-              </figure>
+
+              <h3>Click to Download for
+                <a target="_blank" href="https://apps.apple.com/cz/app/cv-maker-resume-builder/id1608333252">iOS</a> and
+                <a target="_blank"
+                  href="https://play.google.com/store/apps/details?id=codematics.cv.resume.builder.jobs">Android</a>
+              </h3>
+              <p>Resume CV Builder app is a free and effective resume maker with an intuitive user interface that
+                facilitates the
+                creation of a convincing and professional resume with multiple data-driven templates in a matter of
+                minutes to land
+                a dream job.</p>
+              <p>Spending hours and days to build a professional resume? Resume CV builder app is a free, simple yet
+                productive app
+                tailored to effortlessly create a representative, persuasive and streamlined resume based on the job
+                requirements in
+                several clicks rather than hours. This CV template builder allows the users to generate and manage
+                various resumes
+                quickly in an organized manner with a broad range of customization options and supplemental features.
+              </p>
+              <p>Crafting competitive resumes has never been this simple and easy! With the quick, attractive, and
+                user-friendly
+                interface, you can easily share your resume in PDF format with the world to get your dream job.
+                Notably, the
+                standout feature of Resume CV Builder over other similar apps is that it permits the users to skip the
+                sections
+                (experience, background info, etc) they don’t want to add as it comes down to personal preferences and
+                it won’t
+                appear on the resume. Moreover, the inclusion of profile pictures is also not mandatory in the CV
+                template builder.
+              </p>
+              <strong>Resume CV Builder App Offers Unique Features</strong>
               <ul class="list">
-                <li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
-                <li>Donec id elit non mi porta gravida at eget metus.</li>
-                <li>Nulla vitae elit libero, a pharetra augue.</li>
+                <li>Simple yet attractive interface</li>
+                <li>Professionally designed templates</li>
+                <li>Easy saving and sharing option</li>
+                <li>Broad customisation options</li>
+                <li>Allows to rename the file</li>
+                <li>Offers to skip sections to meet user’s needs</li>
+                <li>Multi-platform compatible resumes in PDF format</li>
               </ul>
-              <p>Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.</p>
-              <ol>
-                <li>Vestibulum id ligula porta felis euismod semper.</li>
-                <li>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</li>
-                <li>Maecenas sed diam eget risus varius blandit sit amet non magna.</li>
-              </ol>
-              <div class="share-socmed">
-                <h3 class="subtitle">{{ $t('common.blog_share') }}</h3>
-                <v-btn :icon="isMobile" outlined rounded class="facebook">
-                  <v-icon>mdi-facebook</v-icon>
-                  {{ isMobile ? '' : 'facebook' }}
-                </v-btn>
-                <v-btn :icon="isMobile" outlined rounded class="twitter">
-                  <v-icon>mdi-twitter</v-icon>
-                  {{ isMobile ? '' : 'twitter' }}
-                </v-btn>
-                <v-btn :icon="isMobile" outlined rounded class="linkedin">
-                  <v-icon>mdi-linkedin</v-icon>
-                  {{ isMobile ? '' : 'linkedin' }}
-                </v-btn>
-              </div>
-              <div class="comment">
-                <h3 class="subtitle">{{ $t('common.blog_write') }}</h3>
-                <comment-form avatar="/images/avatars/pp_boy2.svg" />
-                <v-list class="comments" three-line>
-                  <comment-item v-for="(item, index) in comments" :key="index" :avatar="item.avatar" :name="item.name"
-                    :date="item.date" :comment="item.comment" :last="index >= comments.length - 1" />
-                </v-list>
-              </div>
+              <p>It offers a complete solution for those seeking hands-off resume creation services and makes the CV
+                building
+                process easier and quicker. You just need to add personal details once, like qualification,
+                competencies/skills, and
+                experience that could be used in any template with a single click.</p>
+              <p>So save your time plus energy and get your hands on a professional template format editor to create
+                your own.
+                Download the resume builder app free CV maker and enjoy seeking new opportunities and a dream career.
+              </p>
+              <p>If you’ve any suggestions regarding the Resume CV Builder app, feel free to comment below.</p>
             </article>
           </v-col>
           <v-col md="4" cols="12">
@@ -93,63 +79,33 @@
 <style scoped lang="scss">
 @import '../../../components/Blog/blog-style.scss';
 @import '~/assets/pages';
+
+h3 {
+  padding-bottom: 15px !important;
+}
 </style>
 
 <script>
 import brand from '~/static/text/brand'
 import imgAPI from '~/static/images/imgAPI'
-import Form from '../../../components/Comment/Form'
-import Item from '../../../components/Comment/Item'
-import BlogHeader from '~/components/Header/BlogHeader'
+import BlogHeader from '~/components/Header/NavScroll'
 import Sidebar from '~/components/Blog/Sidebar'
 import Footer from '~/components/Footer'
 
 export default {
   components: {
-    'comment-item': Item,
-    'comment-form': Form,
     'main-header': BlogHeader,
     'main-footer': Footer,
     Sidebar,
   },
   head() {
     return {
-      title: 'CV Builder App | ' + brand.agency.desc
+      title: 'CV Maker | Resume Builder | ' + brand.agency.desc
     }
   },
   data() {
     return {
       imgAPI: imgAPI,
-      comments: [
-        {
-          name: 'John Doe',
-          avatar: '/images/avatars/pp_boy4.svg',
-          date: '13 Jan 2020',
-          comment:
-            'Maecenas nisl libero, tincidunt id odio id, feugiat vulputate quam. Vestibulum feugiat rhoncus metus. In non erat et ipsum molestie porta sit amet ut felis. Vestibulum a massa vestibulum, gravida odio id, fringilla ipsum.'
-        },
-        {
-          name: 'John Doe',
-          avatar: '/images/avatars/pp_boy4.svg',
-          date: '13 Jan 2020',
-          comment:
-            'Maecenas nisl libero, tincidunt id odio id, feugiat vulputate quam. Vestibulum feugiat rhoncus metus. In non erat et ipsum molestie porta sit amet ut felis. Vestibulum a massa vestibulum, gravida odio id, fringilla ipsum.'
-        },
-        {
-          name: 'John Doe',
-          avatar: '/images/avatars/pp_boy4.svg',
-          date: '13 Jan 2020',
-          comment:
-            'Maecenas nisl libero, tincidunt id odio id, feugiat vulputate quam. Vestibulum feugiat rhoncus metus. In non erat et ipsum molestie porta sit amet ut felis. Vestibulum a massa vestibulum, gravida odio id, fringilla ipsum.'
-        },
-        {
-          name: 'John Doe',
-          avatar: '/images/avatars/pp_boy4.svg',
-          date: '13 Jan 2020',
-          comment:
-            'Maecenas nisl libero, tincidunt id odio id, feugiat vulputate quam. Vestibulum feugiat rhoncus metus. In non erat et ipsum molestie porta sit amet ut felis. Vestibulum a massa vestibulum, gravida odio id, fringilla ipsum.'
-        }
-      ]
     }
   },
   computed: {

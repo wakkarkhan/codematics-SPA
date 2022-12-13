@@ -7,9 +7,9 @@
     <!-- <div class="py-6" /> -->
     <!-- <comment-widget /> -->
     <div class="py-6" />
-    <list-widget />
+    <!-- <list-widget /> -->
     <div class="py-6" />
-    <gallery-widget />
+    <!-- <gallery-widget /> -->
   </div>
 </template>
 

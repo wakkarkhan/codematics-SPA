@@ -40,7 +40,7 @@ import navMenu from './data/single'
 
 let counter = 0
 function createData(name, link, offset) {
-  counter += 1
+  // counter += 1
   return {
     id: counter,
     name,
@@ -64,9 +64,9 @@ export default {
         createData(navMenu[0], '#' + navMenu[0]),
         createData(navMenu[1], '#' + navMenu[1]),
         createData(navMenu[2], '#' + navMenu[2]),
-        createData(navMenu[3], '#' + navMenu[3],),
-        createData(navMenu[4], '#' + navMenu[4],),
-        createData(navMenu[5], '#' + navMenu[5],),
+        createData(navMenu[3], '#' + navMenu[3]),
+        createData(navMenu[4], '#' + navMenu[4]),
+        createData(navMenu[5], '#' + navMenu[5]),
         createData(navMenu[6], '#' + navMenu[6], -40)
       ]
     }

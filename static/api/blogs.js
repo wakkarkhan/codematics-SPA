@@ -7,36 +7,43 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[0],
       href: '/blog/smart-tvs-remote-control-for-ios-android',
+      size: 'medium'
     },
     {
       title: "CV Maker | Resume Builder",
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[1],
-      href: '/blog/cv-builder-app'
+      href: '/blog/cv-builder-app',
+      size: 'medium'
     },
     {
       title: "Blood Community Pakistan - Our Mission and Vision",
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[2],
       href: '/blog/blood-community-pakistan',
+      size: 'medium'
     },
     {
       title: "Fund Raising Record Keeping",
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[3],
       href: '/blog/fund-raising-record-keeping',
+      size: 'medium'
     },
     {
       title: "Flicky Chicky",
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[5],
       href: '/blog/flicky-chicky-game',
+      size: 'medium'
     },
     {
       title: "Bomber Warrior",
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[4],
       href: '/blog/bomber-warrior',
+      size: 'medium'
+
     },
   ],
 

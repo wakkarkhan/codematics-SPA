@@ -300,8 +300,8 @@ strong {
   }
 
   .services {
-    width: 400px !important;
-    height: 90px !important;
+    width: 100% !important;
+    height: 140px !important;
     margin: auto !important;
   }
 

@@ -17,8 +17,10 @@
               class="pa-3">
               <u-animate name="fadeInUpShort" delay="0.4s" duration="0.4s">
                 <div>
-                  <case-card :bg="item.bg || ''" :logo="item.logo" :href="item.href" :title="item.title"
-                    :size="item.size" :simple="item.simple || false" :show-img="() => showImg(index)" />
+                  <a target="_blank" :href="item.href">
+                    <case-card :bg="item.bg || ''" :logo="item.logo" :title="item.title" :size="item.size"
+                      :simple="item.simple || false" :show-img="() => showImg(index)" />
+                  </a>
                 </div>
               </u-animate>
             </v-col>
@@ -74,43 +76,6 @@ export default {
       loaded: false,
       item: 0,
       blogList: blogs.blogsMain,
-      caseData: [
-        {
-          bg: '/images/projects/lg-tv.jpg',
-          logo: '/images/codematics-logo.png',
-          title: 'Donec commodo convallis ligula',
-          desc: 'Vestibulum consequat hendrerit',
-          size: 'big'
-        },
-        {
-          bg: '/images/projects/lg-tv.jpg',
-          logo: '/images/codematics-logo.png',
-          title: 'Donec commodo convallis ligula',
-          desc: 'Vestibulum consequat hendrerit',
-          size: 'big'
-        },
-        {
-          bg: imgAPI.blog[2],
-          logo: '/images/codematics-logo.png',
-          title: 'Donec commodo convallis ligula',
-          desc: 'Vestibulum consequat hendrerit',
-          size: 'medium'
-        },
-        {
-          bg: imgAPI.blog[3],
-          logo: '/images/codematics-logo.png',
-          title: 'Donec commodo convallis ligula',
-          desc: 'Vestibulum consequat hendrerit',
-          size: 'medium'
-        },
-        {
-          bg: imgAPI.blog[4],
-          logo: '/images/codematics-logo.png',
-          title: 'Donec commodo convallis ligula',
-          desc: 'Vestibulum consequat hendrerit',
-          size: 'medium'
-        }
-      ]
     }
   },
   mounted() {

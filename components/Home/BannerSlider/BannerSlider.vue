@@ -4,52 +4,16 @@
 
       <slick class="slider-deco" ref="sliderDeco" :options="slickOptionsDeco">
         <div class="slide" :class="{ cur: currentSlide === 0 }">
-          <!-- <div class="inner">
-            <div class="deco-wrap">
-              <div class="deco bottom s1">&nbsp;</div>
-              <div class="deco top s1">&nbsp;</div>
-            </div>
-          </div> -->
         </div>
         <div class="slide" :class="{ cur: currentSlide === 1 }">
-          <!-- <div class="inner">
-            <div class="deco-wrap">
-              <div class="deco bottom s2">&nbsp;</div>
-              <div class="deco top s2">&nbsp;</div>
-            </div>
-          </div> -->
         </div>
         <div class="slide" :class="{ cur: currentSlide === 2 }">
-          <!-- <div class="inner">
-            <div class="deco-wrap">
-              <div class="deco bottom s3">&nbsp;</div>
-              <div class="deco top s3">&nbsp;</div>
-            </div>
-          </div> -->
         </div>
         <div class="slide" :class="{ cur: currentSlide === 3 }">
-          <!-- <div class="inner">
-            <div class="deco-wrap">
-              <div class="deco bottom s3">&nbsp;</div>
-              <div class="deco top s3">&nbsp;</div>
-            </div>
-          </div> -->
         </div>
         <div class="slide" :class="{ cur: currentSlide === 4 }">
-          <!-- <div class="inner">
-            <div class="deco-wrap">
-              <div class="deco bottom s3">&nbsp;</div>
-              <div class="deco top s3">&nbsp;</div>
-            </div>
-          </div> -->
         </div>
         <div class="slide" :class="{ cur: currentSlide === 5 }">
-          <!-- <div class="inner">
-            <div class="deco-wrap">
-              <div class="deco bottom s3">&nbsp;</div>
-              <div class="deco top s3">&nbsp;</div>
-            </div>
-          </div> -->
         </div>
       </slick>
 
@@ -336,8 +300,9 @@ strong {
   }
 
   .services {
-    width: 100% !important;
-    margin-top: 0 !important;
+    width: 400px !important;
+    height: 90px !important;
+    margin: auto !important;
   }
 
   img {
@@ -354,10 +319,6 @@ strong {
   .icons-play {
     width: 80% !important;
     height: 80% !important;
-  }
-
-  .slide img {
-    margin: 0 !important;
   }
 
   .icons a:first-child>img {
@@ -382,7 +343,6 @@ strong {
   .text-center {
     padding-top: 30px !important;
   }
-
 
   .use-text-title {
     font-size: 90px !important;
@@ -455,7 +415,7 @@ export default {
         slidesToShow: 1,
         slidesToScroll: 1,
         infinite: true,
-        autoplay: true,
+        autoplay: false,
         autoplaySpeed: 5000,
         cssEase: 'ease-out',
         asNavFor: '.slider-deco',

@@ -12,7 +12,7 @@
 
       <v-container>
         <div class="massonry">
-          <v-row class="justify-center align-center">
+          <v-row class="align-center">
             <v-col v-for="(item, index) in blogList" :key="index" v-if="item.size === 'medium'" cols="12" md="4" sm="6"
               class="pa-3">
               <u-animate name="fadeInUpShort" delay="0.4s" duration="0.4s">
@@ -43,10 +43,11 @@
 
 .root {
   // background: rgb(255, 255, 255);
-  background: -moz-linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(255, 183, 163, 1) 50%, rgba(255, 155, 136, 1) 100%);
-  background: -webkit-linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(255, 183, 163, 1) 50%, rgba(255, 155, 136, 1) 100%);
-  background: linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(255, 183, 163, 1) 50%, rgba(255, 155, 136, 1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff", endColorstr="#ff9b88", GradientType=1);
+  // background: -moz-linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(255, 183, 163, 1) 50%, rgba(255, 155, 136, 1) 100%);
+  // background: -webkit-linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(255, 183, 163, 1) 50%, rgba(255, 155, 136, 1) 100%);
+  // background: linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(255, 183, 163, 1) 50%, rgba(255, 155, 136, 1) 100%);
+  // filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff", endColorstr="#ff9b88", GradientType=1);
+  background: linear-gradient(0deg, #fff, #FFF0EC 50%, #FFF0EC);
 }
 
 .root::before {

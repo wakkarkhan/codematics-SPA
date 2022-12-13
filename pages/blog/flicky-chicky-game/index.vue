@@ -7,7 +7,7 @@
           <v-col md="8" cols="12">
             <article class="blog-content">
               <h4 class="use-text-title2 title-blog">Flicky Chicky Fun Platform Jump Arcader</h4>
-              <span class="caption">May 26, 2022 by Codematics</span>
+              <span class="caption">May 26, 2018 by Codematics</span>
               <figure class="image-blog">
                 <img :src="imgAPI.blog[5]" alt="blog" />
               </figure>

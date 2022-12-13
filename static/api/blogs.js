@@ -3,42 +3,40 @@ import imgAPI from '../images/imgAPI'
 const blogs = {
   blogsMain: [
     {
-      title: "Smart TV Remote Control for iOS",
+      title: "Smart TV Remote Control for iOS & Android",
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[0],
-      size: 'medium',
-      href: '/blog/smart-tvs-remote-control-for-ios-android'
+      href: '/blog/smart-tvs-remote-control-for-ios-android',
     },
     {
       title: "CV Maker | Resume Builder",
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[1],
-      size: 'medium',
       href: '/blog/cv-builder-app'
     },
     {
       title: "Blood Community Pakistan - Our Mission and Vision",
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[2],
-      size: 'medium',
+      href: '/blog/blood-community-pakistan',
     },
     {
       title: "Fund Raising Record Keeping",
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[3],
-      size: 'medium',
+      href: '/blog/fund-raising-record-keeping',
     },
     {
       title: "Flicky Chicky",
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[5],
-      size: 'medium',
+      href: '/blog/flicky-chicky-game',
     },
     {
       title: "Bomber Warrior",
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[4],
-      size: 'medium',
+      href: '/blog/bomber-warrior',
     },
   ],
 
@@ -84,14 +82,6 @@ const blogs = {
       bg: imgAPI.blog[0],
       href: '/blog/smart-tvs-remote-control-for-ios-android',
       date: '27 Feb 2020',
-      category: 'Mobile Apps'
-    },
-    {
-      title: "Smart TVs Remote Control for iOS",
-      logo: '/images/codematics-logo.png',
-      bg: imgAPI.blog[8],
-      href: '/blog/smart-tvs-remote-control-for-ios-android',
-      date: '21 Dec 2019',
       category: 'Mobile Apps'
     },
     {
@@ -258,6 +248,14 @@ const blogs = {
       category: 'Cyber Security'
     },
     {
+      title: "Remote Control for Sony TV by Codematics",
+      logo: '/images/codematics-logo.png',
+      bg: '',
+      href: '/blog/remote-control-for-sony-tv',
+      date: '16 Jan 2019',
+      category: 'Mobile Apps'
+    },
+    {
       title: "Bomb Diffuse Game by Codematics",
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[12],
@@ -305,14 +303,7 @@ const blogs = {
       date: '6 Dec 2018',
       category: 'Mobile Apps'
     },
-    {
-      title: "Remote Control for Sony TV by Codematics",
-      logo: '/images/codematics-logo.png',
-      bg: '',
-      href: '/blog/remote-control-for-sony-tv',
-      date: '16 Jan 2019',
-      category: 'Mobile Apps'
-    },
+
   ],
 }
 

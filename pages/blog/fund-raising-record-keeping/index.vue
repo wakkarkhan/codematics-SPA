@@ -7,13 +7,12 @@
           <v-col md="8" cols="12">
             <article class="blog-content">
               <h4 class="use-text-title2 title-blog">Fund Raising Record Keeping</h4>
-              <span class="caption">May 31, 2022 by Codematics</span>
+              <span class="caption">May 31, 2020 by Codematics</span>
               <figure class="image-blog">
                 <img :src="imgAPI.blog[3]" alt="blog" />
               </figure>
 
-              <h3>Click to download for <a href="#">iOS</a> and <a target="_blank"
-                  href="https://play.google.com/store/apps/details?id=codematics.bomberman.blast.bomberwarrior.bomb.reloaded">Android</a>
+              <h3>Click to download for <a href="../#home">iOS</a> and <a target="_blank" href="../#home">Android</a>
               </h3>
               <p>Fundraising is a feature-rich crowdfunding record keeper app that seamlessly brings a non-profit,
                 streamlined and
@@ -34,26 +33,29 @@
                 centralizes contact viewing, record-keeping capabilities, and a custom-made dashboard for a better
                 user experience.
               </p>
-              <p>Notable Features of Fundraising App<br>
-                &gt; Comprehensive dashboard<br>
-                &gt; Interactive screen layouts<br>
-                &gt; Push notifications<br>
-                &gt; Record tracking<br>
-                &gt; Quick response time<br>
-                &gt; Easy goals creation and sharing option<br>
-                &gt; Glitch-free and secured processing</p>
-              <p>Simple to Use<br>
-                1. Install the fundraising app and start organizing your goals. All you have to do is:<br>
-                2. After installation, enter your mobile number and type the OTP to get access to the home screen.<br>
-                3. Then add your goal name and amount required to achieve it.<br>
-                4. After entering the amount, the app will show the goal status with a percentage.<br>
-                5. You can also add contributors by sending invitations at any given time and tracking the donations
-                with a single
-                click.<br>
-                6. The contributor shall be added to the campaign after accepting the request.<br>
-                7. Donations collected will be shown on the fundraising dashboard of each individual separately and
-                the contributors
-                will get notified once they made a transaction.</p>
+              <strong>Notable Features of Fundraising App</strong>
+              <ul class="list">
+                <li>Comprehensive dashboard</li>
+                <li>Interactive screen layouts</li>
+                <li>Push notifications</li>
+                <li>Record tracking</li>
+                <li>Quick response time</li>
+                <li>Easy goals creation and sharing option</li>
+                <li>Glitch-free and secured processing</li>
+              </ul>
+              <strong>Simple to Use</strong>
+              <ol class="list">
+                <li>Install the fundraising app and start organizing your goals. All you have to do is.</li>
+                <li>After installation, enter your mobile number and type the OTP to get access to the home screen.</li>
+                <li>Then add your goal name and amount required to achieve it.</li>
+                <li>After entering the amount, the app will show the goal status with a percentage.</li>
+                <li>You can also add contributors by sending invitations at any given time and tracking the donations
+                  with a single click.</li>
+                <li>The contributor shall be added to the campaign after accepting the request.</li>
+                <li>Donations collected will be shown on the fundraising dashboard of each individual separately and the
+                  contributors will
+                  get notified once they made a transaction.</li>
+              </ol>
               <p>This easy-to-use app a with user-friendly interface allows everyone to update the goals as per their
                 choice either
                 for their personal use or for the community. So keep an eye on your goals to make an impact and help

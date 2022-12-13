@@ -97,11 +97,15 @@ const imgAPI = {
   ],
   blog: [
     '/images/blog/smart-tv.jpg', // 0
-    '/images/blog/cv-app.png', // 1
+
+    '/images/blog/cv-big.jpg', // 1
+
     '/images/blog/blood.jpg', // 2
-    '/images/blog/fundometer.jpg', // 3
-    '/images/blog/bomber-warrior.jpg', // 4
-    '/images/blog/flicky.jpg', // 5
+
+    '/images/blog/fundraiser-big.jpg', // 3
+    '/images/blog/bomber-big.jpg', // 4
+    '/images/blog/flicky-big.jpg', // 5
+
     '/images/blog/vizio-tv.jpg', // 6
     '/images/blog/blood-donation.jpg', // 7
     '/images/blog/smart-tv-remote.jpg', // 8
@@ -110,8 +114,9 @@ const imgAPI = {
     '/images/blog/pcam.jpg', // 11
     '/images/blog/bomb-diffuse.jpg', // 12
     '/images/blog/universal-tv.jpg', // 13
-    '/images/blog/flicky-chicky.jpg', // 14
-    '/images/blog/bomber-warriors.jpg', // 15
+
+    '/images/blog/flicky-small.jpg', // 14
+    '/images/blog/bomber-small.jpg', // 15
   ],
   team: [
     '/images/team/cover-1.jpg',

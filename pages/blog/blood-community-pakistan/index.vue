@@ -7,13 +7,13 @@
           <v-col md="8" cols="12">
             <article class="blog-content">
               <h4 class="use-text-title2 title-blog">Blood Community Pakistan - Our Mission and Vision</h4>
-              <span class="caption">June 14, 2022 by Codematics</span>
+              <span class="caption">June 14, 2019 by Codematics</span>
               <figure class="image-blog">
                 <img :src="imgAPI.blog[2]" alt="blog" />
               </figure>
 
-              <h4>How Blood Community is working across the country to fulfill blood supply for needy public.</h4>
-              <h3>Click to download for <a target="_blank"
+              <h2>How Blood Community is working across the country to fulfill blood supply for needy public.</h2>
+              <h3 class="pt-5">Click to download for <a target="_blank"
                   href="https://apps.apple.com/us/app/blood-community/id1235599120">iOS</a>
                 and <a target="_blank"
                   href="https://play.google.com/store/apps/details?id=codematcis.blood.donor.bloodrequest.community">Android</a>
@@ -31,7 +31,7 @@
                 and their families searching for blood during emergency. Because people hesitate from donating blood
                 due to lack of
                 awareness and benefits of blood donation.</p>
-              <h4>Blood Community:</h4>
+              <strong>Blood Community</strong>
               <p>Realizing the importance of Blood-Supply and lack of its availability. Blood Community Pakistan
                 stepped forward in
                 year 2017 with the aim of serving needy people of its country. This community connects Blood Donor and
@@ -45,16 +45,7 @@
                 number of relevant donors near them through this application anywhere anytime. Blood Community is
                 working on totally
                 non-profit basis just for sake of helping humanity as Corporate-Social-Responsibility.</p>
-              <p>Download Link for Application: </p>
-              <ul>
-                <li><strong><a
-                      href="https://play.google.com/store/apps/details?id=codematcis.blood.donor.bloodrequest.community&amp;hl=en">Blood
-                      Community Android</a></strong></li>
-                <li><strong><a href="https://apps.apple.com/us/app/blood-community/id1235599120">Blood Community
-                      iTunes</a></strong>
-                </li>
-              </ul>
-              <h4>How Blood Community Works:</h4>
+              <strong>How Blood Community Works</strong>
               <p>So far more than 22,000 registered members are part of this social movement with us from all over the
                 country.
                 Their mandatory data is available on application for user who is searching out for required blood
@@ -70,7 +61,7 @@
                 Momentum Conference and various educational institutes has honored us to present our transparent
                 motive in front of
                 general public.</p>
-              <h4>Blood Community Team:</h4>
+              <strong>Blood Community Team</strong>
               <p>Blood Community consists of most energetic, skillful and passionate team panel. There are 4
                 provincial leads of
                 Blood Community under which 70 ambassadors are working in different cities, districts and towns of
@@ -80,7 +71,7 @@
                 young heroes is smoothly holding the tasks and set of responsibility on priority basis given by Core
                 Leads. They are
                 truly an inspiration and valuable asset of Blood Community Platform. </p>
-              <h4>Future Plan of Blood Community:</h4>
+              <strong>Future Plan of Blood Community</strong>
               <p>Blood Community passionate about expanding its services in other countries of world as well. Because
                 there is need
                 of more awareness and knowledge among the people towards blood donation and its importance. There is

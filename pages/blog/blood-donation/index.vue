@@ -7,26 +7,26 @@
           <v-col md="8" cols="12">
             <article class="blog-content">
               <h4 class="use-text-title2 title-blog">Blood Donation Importance - Give Blood Save Lives</h4>
-              <span class="caption">June 13, 2022 by Codematics</span>
+              <span class="caption">June 13, 2019 by Codematics</span>
               <figure class="image-blog">
                 <img :src="imgAPI.blog[7]" alt="blog" />
               </figure>
 
-              <h4>Human Nature relies on helping each other during the life saving moments. Blood Donation is one of
+              <h2>Human Nature relies on helping each other during the life saving moments. Blood Donation is one of
                 the aspect
-                among them.</h4>
-              <h3><strong>Blood &amp; Blood Donation:</strong></h3>
-              <h3>Click to download for <a href="https://apps.apple.com/us/app/blood-community/id1235599120">IOS</a>
-                and <a
-                  href="https://play.google.com/store/apps/details?id=codematcis.blood.donor.bloodrequest.community">Android</a>.
+                among them.</h2>
+              <h3 class="pt-5">Click to download for <a target="_blank"
+                  href="https://apps.apple.com/us/app/blood-community/id1235599120">iOS</a>
+                and <a target="_blank"
+                  href="https://play.google.com/store/apps/details?id=codematcis.blood.donor.bloodrequest.community">Android</a>
               </h3>
-              <p>“The Red Liquid circulating in veins structure of human being and other living organisms is called
-                <strong><em>Blood</em></strong>“. It provides oxygen to heart while removes quantity of waste elements
+              <p>"The Red Liquid circulating in veins structure of human being and other living organisms is called
+                <strong><em>Blood</em></strong>". It provides oxygen to heart while removes quantity of waste elements
                 in form of
                 carbon dioxide. Life-Cycle of living creatures revolve around this whole mechanism. On the other hand
-                “When a person
+                "When a person
                 voluntarily gives blood for transfusion process to other person in need is called <strong><em>Blood
-                    Donation</em></strong>“. Lab person stores that blood under proper observation for several testing
+                    Donation</em></strong>". Lab person stores that blood under proper observation for several testing
                 procedures to
                 make it completely compatible for transfusion. This is basically a social cause without any reward or
                 profit in
@@ -34,7 +34,7 @@
                 donors for this
                 act of kindness.
               </p>
-              <h3><strong>Statistical Measures:</strong></h3>
+              <strong>Statistical Measures</strong>
               <p>With every passing minute, thousand of people who suffer from life threatening situation depends on
                 blood supply to
                 keep their breathes alive. During the emergency situations, there is demand of approximately 1.6
@@ -48,7 +48,7 @@
                 how less there is number of people who donates blood on priority basis. There is need of more blood
                 supply in
                 comparison with its demand scale.</p>
-              <h3><strong>Awareness Campaign of Donating:</strong></h3>
+              <strong>Awareness Campaign of Donating</strong>
               <p>For spreading the importance of donating blood, awareness sessions and events should be conducted at
                 every platform
                 for motivating public towards life savior act. Because there is large number of people who still
@@ -60,12 +60,7 @@
                 mission of serving humanity. But they need a proper track and support from government bodies to get a
                 gainful
                 outcome. It would not be wrong to say that saving one life is saving the whole humanity. </p>
-              <div class="wp-block-image">
-                <figure class="aligncenter"><img
-                    src="http://www.codematics.co/wp-content/uploads/2019/06/48077513_1318937964914358_8851849974112059392_n.jpg"
-                    alt="Blood Donation" class="wp-image-3505"></figure>
-              </div>
-              <h3><strong>Who can Donate Blood:</strong></h3>
+              <strong>Who can Donate Blood</strong>
               <p>Before donating blood to someone, there is a medical criteria needs to be fulfilled by the person
                 willing to
                 donate. </p>
@@ -82,7 +77,7 @@
                 <li>Person suffering form any kind of major or minor disease should avoid donating blood.</li>
                 <li>Person with empty stomach should avoid donating blood.</li>
               </ul>
-              <h3><strong> Advantages of Blood Donation:</strong></h3>
+              <strong> Advantages of Blood Donation</strong>
               <p>According to medical research there are countless benefits of donating blood. Following are major
                 advantages </p>
               <ul>
@@ -97,12 +92,7 @@
                 <li>Person gets free medical analysis of overall blood system before donating.</li>
                 <li>Last but not least, a person who donates blood lives long and healthy.</li>
               </ul>
-              <div class="wp-block-image">
-                <figure class="aligncenter"><img
-                    src="http://www.codematics.co/wp-content/uploads/2019/06/45003833_1288206497987505_3578348944645685248_n.jpg"
-                    alt="Blood Donation" class="wp-image-3507"></figure>
-              </div>
-              <h3><strong>Disadvantages of Blood Donation:</strong></h3>
+              <strong>Disadvantages of Blood Donation</strong>
               <p>There are very rare and temporary disadvantages of donating blood as compare to its need and
                 advantages.</p>
               <ul>
@@ -120,8 +110,8 @@
                 donated blood can save life of three persons. People should not hesitate from donating blood, without
                 any doubt it’s
                 totally safe and secure. Beauty of humanity is in helping each other during ups and downs.</p>
-              <h3><strong>The Blood Community:</strong></h3>
-              <p>So here at end of article, i would proudly like to share a social initiative “<a
+              <strong>The Blood Community</strong>
+              <p>So here at end of article, I would proudly like to share a social initiative “<a
                   href="https://www.bloodcommunity.com/"><strong>Blood Community</strong></a>” by Codematics Inc. as a
                 corporate
                 social responsibility. This is a platform which directly connects donor and receiver with each other
@@ -139,15 +129,6 @@
                 moral contribution over any other thing. Because when there is humanity there is every thing. Social
                 and download
                 links for The Blood Community are mentioned below.</p>
-              <p><em>Website Link: </em><strong><a href="https://www.bloodcommunity.com/">The Blood
-                    Community</a></strong></p>
-              <p><em>Mobile Application Links</em>: <a
-                  href="https://play.google.com/store/apps/details?id=codematcis.blood.donor.bloodrequest.community&amp;hl=en"><strong>Android</strong></a>
-                <a href="https://apps.apple.com/us/app/blood-community/id1235599120"><strong>iTunes</strong></a>
-              </p>
-              <p><em>Social Media Links: </em><strong><a href="https://www.facebook.com/BloodCommunity/">Facebook </a>
-                  <a href="https://www.instagram.com/thebloodcommunity/?igshid=1cuhlqpzxpj37">Instagram </a> <a
-                    href="https://www.linkedin.com/company/28166667/admin/">LinkedIn</a></strong></p>
             </article>
           </v-col>
           <v-col md="4" cols="12">

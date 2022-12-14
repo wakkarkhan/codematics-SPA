@@ -1,14 +1,17 @@
 .root {
   padding: spacing(5, 0);
 }
+
 .blog-headline {
   cursor: pointer;
-  & > * {
+
+  &>* {
     @include breakpoints-down(xs) {
       margin-top: $spacing3;
       height: auto !important;
     }
   }
+
   .v-card__subtitle {
     @include breakpoints-down(xs) {
       display: none;
@@ -21,6 +24,7 @@ a.anchor-content {
   color: #fff;
   text-decoration: none;
   padding: $spacing2;
+
   @include breakpoints-up(md) {
     padding: $spacing10;
   }
@@ -37,12 +41,14 @@ a.anchor-content {
 
 .image-blog {
   margin: spacing(5, 0);
+
   img {
     width: 100%;
   }
 }
 
 .blog-content {
+
   ul,
   ol {
     margin-bottom: $spacing2;
@@ -65,6 +71,7 @@ a.anchor-content {
   @include palette-divider;
   padding: spacing(3, 0);
   margin: spacing(3, 0);
+
   ::v-deep .v-btn {
     border-width: 2px;
     @include margin-right($spacing2);
@@ -73,6 +80,7 @@ a.anchor-content {
 
 .facebook {
   border-color: #0d47a1;
+
   ::v-deep .v-icon {
     color: #0d47a1;
   }
@@ -80,6 +88,7 @@ a.anchor-content {
 
 .twitter {
   border-color: #00bcd4;
+
   ::v-deep .v-icon {
     color: #00bcd4;
   }
@@ -87,6 +96,7 @@ a.anchor-content {
 
 .linkedin {
   border-color: #2196f3;
+
   ::v-deep .v-icon {
     color: #2196f3;
   }
@@ -100,6 +110,11 @@ a.anchor-content {
 
 .gallery-item {
   padding: 2px;
+}
+
+.v-list--two-line .v-list-item,
+.v-list-item--two-line {
+  min-height: inherit !important;
 }
 
 .form {

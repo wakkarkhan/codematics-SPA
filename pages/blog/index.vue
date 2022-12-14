@@ -21,7 +21,7 @@
                 type="full" />
             </div>
 
-            <div class="arrow">
+            <!-- <div class="arrow">
               <v-row justify="space-between" class="mt-5">
                 <v-btn text>
                   <v-icon>mdi-arrow-left</v-icon>
@@ -32,7 +32,7 @@
                   <v-icon>mdi-arrow-right</v-icon>
                 </v-btn>
               </v-row>
-            </div>
+            </div> -->
           </v-col>
           <v-col md="4" cols="12">
             <sidebar />

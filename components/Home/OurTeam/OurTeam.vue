@@ -20,7 +20,8 @@
 @import '../../Title/title-style.scss';
 
 .root {
-  background: var(--v-primary-lighten5) !important;
+  // background: var(--v-primary-lighten5) !important;
+  background: #ffffff !important;
 }
 
 .theme--light .deco:before {

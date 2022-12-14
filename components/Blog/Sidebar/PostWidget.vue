@@ -2,7 +2,7 @@
   <paper :title="$t('common.blog_post')" icon="mdi-bookmark-outline">
     <div>
       <v-list subheader two-line>
-        <v-list-item v-for="(item, index) in blogsDate" :key="index">
+        <v-list-item v-for="(item, index) in blogsDate.slice(0, 3)" :key="index">
           <v-list-item-content>
             <a :href="item.href">
               <v-list-item-title>{{ item.title }}</v-list-item-title>

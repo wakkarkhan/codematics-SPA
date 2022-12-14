@@ -24,6 +24,10 @@
 
 <style lang="scss" scoped>
 @import './case-card.scss';
+
+.logo img {
+  transform: rotate(-8deg) !important;
+}
 </style>
 
 <script>

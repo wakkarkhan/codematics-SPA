@@ -37,6 +37,11 @@ const _53e4afcb = () => interopDefault(import('..\\pages\\blog\\smart-tvs-remote
 const _017e2276 = () => interopDefault(import('..\\pages\\blog\\universal-remote-control-for-ruko-devices\\index.vue' /* webpackChunkName: "pages/blog/universal-remote-control-for-ruko-devices/index" */))
 const _03fd291e = () => interopDefault(import('..\\pages\\blog\\universal-remote-for-lg-ios\\index.vue' /* webpackChunkName: "pages/blog/universal-remote-for-lg-ios/index" */))
 const _6fdb5936 = () => interopDefault(import('..\\pages\\blog\\universal-tv-remote-control\\index.vue' /* webpackChunkName: "pages/blog/universal-tv-remote-control/index" */))
+const _cdaf3c62 = () => interopDefault(import('..\\pages\\category\\cyber-security\\index.vue' /* webpackChunkName: "pages/category/cyber-security/index" */))
+const _76f9a3d0 = () => interopDefault(import('..\\pages\\category\\games\\index.vue' /* webpackChunkName: "pages/category/games/index" */))
+const _c84c01d8 = () => interopDefault(import('..\\pages\\category\\mobile-apps\\index.vue' /* webpackChunkName: "pages/category/mobile-apps/index" */))
+const _7c42bf63 = () => interopDefault(import('..\\pages\\category\\smartphones\\index.vue' /* webpackChunkName: "pages/category/smartphones/index" */))
+const _9d624014 = () => interopDefault(import('..\\pages\\category\\social\\index.vue' /* webpackChunkName: "pages/category/social/index" */))
 const _758cd872 = () => interopDefault(import('..\\pages\\collection\\detail-product.vue' /* webpackChunkName: "pages/collection/detail-product" */))
 const _11441b23 = () => interopDefault(import('..\\pages\\collection\\products.vue' /* webpackChunkName: "pages/collection/products" */))
 const _5cd768a4 = () => interopDefault(import('..\\pages\\contact\\with-map.vue' /* webpackChunkName: "pages/contact/with-map" */))
@@ -501,6 +506,26 @@ export const routerOptions = {
     component: _6fdb5936,
     name: "blog-universal-tv-remote-control___ar"
   }, {
+    path: "/ar/category/cyber-security",
+    component: _cdaf3c62,
+    name: "category-cyber-security___ar"
+  }, {
+    path: "/ar/category/games",
+    component: _76f9a3d0,
+    name: "category-games___ar"
+  }, {
+    path: "/ar/category/mobile-apps",
+    component: _c84c01d8,
+    name: "category-mobile-apps___ar"
+  }, {
+    path: "/ar/category/smartphones",
+    component: _7c42bf63,
+    name: "category-smartphones___ar"
+  }, {
+    path: "/ar/category/social",
+    component: _9d624014,
+    name: "category-social___ar"
+  }, {
     path: "/ar/collection/detail-product",
     component: _758cd872,
     name: "collection-detail-product___ar"
@@ -648,6 +673,26 @@ export const routerOptions = {
     path: "/de/blog/universal-tv-remote-control",
     component: _6fdb5936,
     name: "blog-universal-tv-remote-control___de"
+  }, {
+    path: "/de/category/cyber-security",
+    component: _cdaf3c62,
+    name: "category-cyber-security___de"
+  }, {
+    path: "/de/category/games",
+    component: _76f9a3d0,
+    name: "category-games___de"
+  }, {
+    path: "/de/category/mobile-apps",
+    component: _c84c01d8,
+    name: "category-mobile-apps___de"
+  }, {
+    path: "/de/category/smartphones",
+    component: _7c42bf63,
+    name: "category-smartphones___de"
+  }, {
+    path: "/de/category/social",
+    component: _9d624014,
+    name: "category-social___de"
   }, {
     path: "/de/collection/detail-product",
     component: _758cd872,
@@ -797,6 +842,26 @@ export const routerOptions = {
     component: _6fdb5936,
     name: "blog-universal-tv-remote-control___en"
   }, {
+    path: "/en/category/cyber-security",
+    component: _cdaf3c62,
+    name: "category-cyber-security___en"
+  }, {
+    path: "/en/category/games",
+    component: _76f9a3d0,
+    name: "category-games___en"
+  }, {
+    path: "/en/category/mobile-apps",
+    component: _c84c01d8,
+    name: "category-mobile-apps___en"
+  }, {
+    path: "/en/category/smartphones",
+    component: _7c42bf63,
+    name: "category-smartphones___en"
+  }, {
+    path: "/en/category/social",
+    component: _9d624014,
+    name: "category-social___en"
+  }, {
     path: "/en/collection/detail-product",
     component: _758cd872,
     name: "collection-detail-product___en"
@@ -944,6 +1009,26 @@ export const routerOptions = {
     path: "/id/blog/universal-tv-remote-control",
     component: _6fdb5936,
     name: "blog-universal-tv-remote-control___id"
+  }, {
+    path: "/id/category/cyber-security",
+    component: _cdaf3c62,
+    name: "category-cyber-security___id"
+  }, {
+    path: "/id/category/games",
+    component: _76f9a3d0,
+    name: "category-games___id"
+  }, {
+    path: "/id/category/mobile-apps",
+    component: _c84c01d8,
+    name: "category-mobile-apps___id"
+  }, {
+    path: "/id/category/smartphones",
+    component: _7c42bf63,
+    name: "category-smartphones___id"
+  }, {
+    path: "/id/category/social",
+    component: _9d624014,
+    name: "category-social___id"
   }, {
     path: "/id/collection/detail-product",
     component: _758cd872,
@@ -1093,6 +1178,26 @@ export const routerOptions = {
     component: _6fdb5936,
     name: "blog-universal-tv-remote-control___pt"
   }, {
+    path: "/pt/category/cyber-security",
+    component: _cdaf3c62,
+    name: "category-cyber-security___pt"
+  }, {
+    path: "/pt/category/games",
+    component: _76f9a3d0,
+    name: "category-games___pt"
+  }, {
+    path: "/pt/category/mobile-apps",
+    component: _c84c01d8,
+    name: "category-mobile-apps___pt"
+  }, {
+    path: "/pt/category/smartphones",
+    component: _7c42bf63,
+    name: "category-smartphones___pt"
+  }, {
+    path: "/pt/category/social",
+    component: _9d624014,
+    name: "category-social___pt"
+  }, {
     path: "/pt/collection/detail-product",
     component: _758cd872,
     name: "collection-detail-product___pt"
@@ -1240,6 +1345,26 @@ export const routerOptions = {
     path: "/zh/blog/universal-tv-remote-control",
     component: _6fdb5936,
     name: "blog-universal-tv-remote-control___zh"
+  }, {
+    path: "/zh/category/cyber-security",
+    component: _cdaf3c62,
+    name: "category-cyber-security___zh"
+  }, {
+    path: "/zh/category/games",
+    component: _76f9a3d0,
+    name: "category-games___zh"
+  }, {
+    path: "/zh/category/mobile-apps",
+    component: _c84c01d8,
+    name: "category-mobile-apps___zh"
+  }, {
+    path: "/zh/category/smartphones",
+    component: _7c42bf63,
+    name: "category-smartphones___zh"
+  }, {
+    path: "/zh/category/social",
+    component: _9d624014,
+    name: "category-social___zh"
   }, {
     path: "/zh/collection/detail-product",
     component: _758cd872,

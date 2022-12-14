@@ -68,6 +68,7 @@ export default () => {
         "blog_comment": "Latest Comment",
         "blog_archived": "Archived",
         "blog_album": "Album Post",
+        "blog_categories": "Categories",
         "blog_share": "Share to social media",
         "blog_write": "Write Comments",
         "about_team": "Team Member",

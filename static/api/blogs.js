@@ -53,7 +53,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[15],
       href: '/blog/bomber-warrior',
-      date: '31 May 2022',
+      date: 'May 31, 2022',
       category: 'Games'
     },
     {
@@ -61,7 +61,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[14],
       href: '/blog/flicky-chicky-game',
-      date: '26 May 2018',
+      date: 'May 26, 2018',
       category: 'Games'
     },
   ],
@@ -72,7 +72,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[3],
       href: '/blog/fund-raising-record-keeping',
-      date: '31 May 2022',
+      date: 'May 31, 2022',
       category: 'Mobile Apps'
     },
     {
@@ -80,7 +80,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[6],
       href: '/blog/remote-for-vizio-tv-ios',
-      date: '17 Nov 2020',
+      date: 'Nov 17,2020',
       category: 'Mobile Apps'
     },
     {
@@ -88,7 +88,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[0],
       href: '/blog/smart-tvs-remote-control-for-ios-android',
-      date: '27 Feb 2020',
+      date: 'Feb 27, 2020',
       category: 'Mobile Apps'
     },
     {
@@ -96,7 +96,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[2],
       href: '/blog/blood-community-pakistan',
-      date: '14 June 2019',
+      date: 'June 14, 2019',
       category: 'Social'
     },
     {
@@ -104,7 +104,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[7],
       href: '/blog/blood-donation',
-      date: '13 June 2019',
+      date: 'June 13, 2019',
       category: 'Social'
     },
     {
@@ -112,7 +112,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[9],
       href: '/blog/foldable-smartphones',
-      date: '18 April 2019',
+      date: 'April 18, 2019',
       category: 'Smartphones'
     },
     {
@@ -120,7 +120,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[10],
       href: '/blog/data-privacy',
-      date: '3 April 2019',
+      date: 'April 3, 2019',
       category: 'Cyber Security'
     },
     {
@@ -128,7 +128,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[12],
       href: '/blog/bomb-diffuse',
-      date: '26 May 2018',
+      date: 'May 26, 2018',
       category: 'Games'
     },
     {
@@ -136,7 +136,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[11],
       href: '/blog/scam-secure-camera',
-      date: '26 May 2018',
+      date: 'May 26, 2018',
       category: 'Mobile Apps'
     },
     {
@@ -144,7 +144,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[13],
       href: '/blog/universal-tv-remote-control',
-      date: '27 May 2018',
+      date: 'May 27, 2018',
       category: 'Mobile Apps'
     },
     {
@@ -152,7 +152,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: '',
       href: '/blog/universal-remote-control-for-ruko-devices',
-      date: '6 Dec 2018',
+      date: 'Dec 6, 2018',
       category: 'Mobile Apps'
     },
     {
@@ -160,7 +160,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[13],
       href: '/blog/universal-remote-for-lg-ios',
-      date: '6 Dec 2018',
+      date: 'Dec 6, 2018',
       category: 'Mobile Apps'
     },
     {
@@ -168,7 +168,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: '',
       href: '/blog/remote-control-for-sony-tv',
-      date: '16 Jan 2019',
+      date: 'Jan 16, 2019',
       category: 'Mobile Apps'
     },
   ],
@@ -179,7 +179,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[3],
       href: '/blog/fund-raising-record-keeping',
-      date: '31 May 2022',
+      date: 'May 31, 2022',
       category: 'Mobile Apps'
     },
     {
@@ -187,7 +187,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[4],
       href: '/blog/bomber-warrior',
-      date: '31 May 2022',
+      date: 'May 31, 2022',
       category: 'Games'
     },
     {
@@ -195,7 +195,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[1],
       href: '/blog/cv-builder-app',
-      date: '16 May 2022',
+      date: 'May 16, 2022',
       category: 'Mobile Apps'
     },
     {
@@ -203,7 +203,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[6],
       href: '/blog/remote-for-vizio-tv-ios',
-      date: '17 Nov 2020',
+      date: 'Nov 17, 2020',
       category: 'Mobile Apps'
     },
     {
@@ -211,7 +211,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[0],
       href: '/blog/smart-tvs-remote-control-for-ios-android',
-      date: '27 Feb 2020',
+      date: 'Feb 27, 2020',
       category: 'Mobile Apps'
     },
     {
@@ -219,7 +219,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[8],
       href: '/blog/smart-tvs-remote-control-for-ios-android',
-      date: '21 Dec 2019',
+      date: 'Dec 21, 2019',
       category: 'Mobile Apps'
     },
     {
@@ -227,7 +227,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[2],
       href: '/blog/blood-community-pakistan',
-      date: '14 June 2019',
+      date: 'June 14, 2019',
       category: 'Social'
     },
     {
@@ -235,7 +235,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[7],
       href: '/blog/blood-donation',
-      date: '13 June 2019',
+      date: 'June 13, 2019',
       category: 'Social'
     },
     {
@@ -243,7 +243,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[9],
       href: '/blog/foldable-smartphones',
-      date: '18 April 2019',
+      date: 'April 18, 2019',
       category: 'Smartphones'
     },
     {
@@ -251,7 +251,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[10],
       href: '/blog/data-privacy',
-      date: '3 April 2019',
+      date: 'April 3, 2019',
       category: 'Cyber Security'
     },
     {
@@ -259,7 +259,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: '',
       href: '/blog/remote-control-for-sony-tv',
-      date: '16 Jan 2019',
+      date: 'Jan 16, 2019',
       category: 'Mobile Apps'
     },
     {
@@ -267,7 +267,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[12],
       href: '/blog/bomb-diffuse',
-      date: '26 May 2018',
+      date: 'May 26, 2018',
       category: 'Games'
     },
     {
@@ -275,7 +275,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[5],
       href: '/blog/flicky-chicky-game',
-      date: '26 May 2018',
+      date: 'May 26, 2018',
       category: 'Games'
     },
     {
@@ -283,7 +283,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[11],
       href: '/blog/scam-secure-camera',
-      date: '26 May 2018',
+      date: 'May 26, 2018',
       category: 'Mobile Apps'
     },
     {
@@ -291,7 +291,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[13],
       href: '/blog/universal-tv-remote-control',
-      date: '27 May 2018',
+      date: 'May 27, 2018',
       category: 'Mobile Apps'
     },
     {
@@ -299,7 +299,7 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: '',
       href: '/blog/universal-remote-control-for-ruko-devices',
-      date: '6 Dec 2018',
+      date: 'Dec 6, 2018',
       category: 'Mobile Apps'
     },
     {
@@ -307,10 +307,9 @@ const blogs = {
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[13],
       href: '/blog/universal-remote-for-lg-ios',
-      date: '6 Dec 2018',
+      date: 'Dec 6, 2018',
       category: 'Mobile Apps'
     },
-
   ],
 }
 

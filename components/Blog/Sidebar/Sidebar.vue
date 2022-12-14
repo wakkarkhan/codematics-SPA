@@ -7,9 +7,11 @@
     <!-- <div class="py-6" /> -->
     <!-- <comment-widget /> -->
     <div class="py-6" />
-    <!-- <list-widget /> -->
+    <list-widget />
     <div class="py-6" />
     <!-- <gallery-widget /> -->
+    <categories-widget />
+    <div class="py-6" />
   </div>
 </template>
 
@@ -20,6 +22,7 @@ import PostWidget from './PostWidget'
 // import CommentWidget from './CommentWidget'
 import ListWidget from './ListWidget'
 import GalleryWidget from './GalleryWidget'
+import CategoriesWidget from './CategoriesWidget.vue'
 
 export default {
   components: {
@@ -28,7 +31,8 @@ export default {
     PostWidget,
     // CommentWidget,
     ListWidget,
-    GalleryWidget
+    // GalleryWidget
+    CategoriesWidget
   }
 }
 </script>

@@ -756,6 +756,41 @@
     "_name": "_6fdb5936"
   },
   {
+    "name": "category-cyber-security___ar",
+    "path": "/ar/category/cyber-security",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\cyber-security\\\\index.vue",
+    "chunkName": "pages/category/cyber-security/index",
+    "_name": "_cdaf3c62"
+  },
+  {
+    "name": "category-games___ar",
+    "path": "/ar/category/games",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\games\\\\index.vue",
+    "chunkName": "pages/category/games/index",
+    "_name": "_76f9a3d0"
+  },
+  {
+    "name": "category-mobile-apps___ar",
+    "path": "/ar/category/mobile-apps",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\mobile-apps\\\\index.vue",
+    "chunkName": "pages/category/mobile-apps/index",
+    "_name": "_c84c01d8"
+  },
+  {
+    "name": "category-smartphones___ar",
+    "path": "/ar/category/smartphones",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\smartphones\\\\index.vue",
+    "chunkName": "pages/category/smartphones/index",
+    "_name": "_7c42bf63"
+  },
+  {
+    "name": "category-social___ar",
+    "path": "/ar/category/social",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\social\\\\index.vue",
+    "chunkName": "pages/category/social/index",
+    "_name": "_9d624014"
+  },
+  {
     "name": "collection-detail-product___ar",
     "path": "/ar/collection/detail-product",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\detail-product.vue",
@@ -1013,6 +1048,41 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-tv-remote-control\\\\index.vue",
     "chunkName": "pages/blog/universal-tv-remote-control/index",
     "_name": "_6fdb5936"
+  },
+  {
+    "name": "category-cyber-security___de",
+    "path": "/de/category/cyber-security",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\cyber-security\\\\index.vue",
+    "chunkName": "pages/category/cyber-security/index",
+    "_name": "_cdaf3c62"
+  },
+  {
+    "name": "category-games___de",
+    "path": "/de/category/games",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\games\\\\index.vue",
+    "chunkName": "pages/category/games/index",
+    "_name": "_76f9a3d0"
+  },
+  {
+    "name": "category-mobile-apps___de",
+    "path": "/de/category/mobile-apps",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\mobile-apps\\\\index.vue",
+    "chunkName": "pages/category/mobile-apps/index",
+    "_name": "_c84c01d8"
+  },
+  {
+    "name": "category-smartphones___de",
+    "path": "/de/category/smartphones",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\smartphones\\\\index.vue",
+    "chunkName": "pages/category/smartphones/index",
+    "_name": "_7c42bf63"
+  },
+  {
+    "name": "category-social___de",
+    "path": "/de/category/social",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\social\\\\index.vue",
+    "chunkName": "pages/category/social/index",
+    "_name": "_9d624014"
   },
   {
     "name": "collection-detail-product___de",
@@ -1274,6 +1344,41 @@
     "_name": "_6fdb5936"
   },
   {
+    "name": "category-cyber-security___en",
+    "path": "/en/category/cyber-security",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\cyber-security\\\\index.vue",
+    "chunkName": "pages/category/cyber-security/index",
+    "_name": "_cdaf3c62"
+  },
+  {
+    "name": "category-games___en",
+    "path": "/en/category/games",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\games\\\\index.vue",
+    "chunkName": "pages/category/games/index",
+    "_name": "_76f9a3d0"
+  },
+  {
+    "name": "category-mobile-apps___en",
+    "path": "/en/category/mobile-apps",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\mobile-apps\\\\index.vue",
+    "chunkName": "pages/category/mobile-apps/index",
+    "_name": "_c84c01d8"
+  },
+  {
+    "name": "category-smartphones___en",
+    "path": "/en/category/smartphones",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\smartphones\\\\index.vue",
+    "chunkName": "pages/category/smartphones/index",
+    "_name": "_7c42bf63"
+  },
+  {
+    "name": "category-social___en",
+    "path": "/en/category/social",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\social\\\\index.vue",
+    "chunkName": "pages/category/social/index",
+    "_name": "_9d624014"
+  },
+  {
     "name": "collection-detail-product___en",
     "path": "/en/collection/detail-product",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\detail-product.vue",
@@ -1531,6 +1636,41 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-tv-remote-control\\\\index.vue",
     "chunkName": "pages/blog/universal-tv-remote-control/index",
     "_name": "_6fdb5936"
+  },
+  {
+    "name": "category-cyber-security___id",
+    "path": "/id/category/cyber-security",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\cyber-security\\\\index.vue",
+    "chunkName": "pages/category/cyber-security/index",
+    "_name": "_cdaf3c62"
+  },
+  {
+    "name": "category-games___id",
+    "path": "/id/category/games",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\games\\\\index.vue",
+    "chunkName": "pages/category/games/index",
+    "_name": "_76f9a3d0"
+  },
+  {
+    "name": "category-mobile-apps___id",
+    "path": "/id/category/mobile-apps",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\mobile-apps\\\\index.vue",
+    "chunkName": "pages/category/mobile-apps/index",
+    "_name": "_c84c01d8"
+  },
+  {
+    "name": "category-smartphones___id",
+    "path": "/id/category/smartphones",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\smartphones\\\\index.vue",
+    "chunkName": "pages/category/smartphones/index",
+    "_name": "_7c42bf63"
+  },
+  {
+    "name": "category-social___id",
+    "path": "/id/category/social",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\social\\\\index.vue",
+    "chunkName": "pages/category/social/index",
+    "_name": "_9d624014"
   },
   {
     "name": "collection-detail-product___id",
@@ -1792,6 +1932,41 @@
     "_name": "_6fdb5936"
   },
   {
+    "name": "category-cyber-security___pt",
+    "path": "/pt/category/cyber-security",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\cyber-security\\\\index.vue",
+    "chunkName": "pages/category/cyber-security/index",
+    "_name": "_cdaf3c62"
+  },
+  {
+    "name": "category-games___pt",
+    "path": "/pt/category/games",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\games\\\\index.vue",
+    "chunkName": "pages/category/games/index",
+    "_name": "_76f9a3d0"
+  },
+  {
+    "name": "category-mobile-apps___pt",
+    "path": "/pt/category/mobile-apps",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\mobile-apps\\\\index.vue",
+    "chunkName": "pages/category/mobile-apps/index",
+    "_name": "_c84c01d8"
+  },
+  {
+    "name": "category-smartphones___pt",
+    "path": "/pt/category/smartphones",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\smartphones\\\\index.vue",
+    "chunkName": "pages/category/smartphones/index",
+    "_name": "_7c42bf63"
+  },
+  {
+    "name": "category-social___pt",
+    "path": "/pt/category/social",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\social\\\\index.vue",
+    "chunkName": "pages/category/social/index",
+    "_name": "_9d624014"
+  },
+  {
     "name": "collection-detail-product___pt",
     "path": "/pt/collection/detail-product",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\detail-product.vue",
@@ -2049,6 +2224,41 @@
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-tv-remote-control\\\\index.vue",
     "chunkName": "pages/blog/universal-tv-remote-control/index",
     "_name": "_6fdb5936"
+  },
+  {
+    "name": "category-cyber-security___zh",
+    "path": "/zh/category/cyber-security",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\cyber-security\\\\index.vue",
+    "chunkName": "pages/category/cyber-security/index",
+    "_name": "_cdaf3c62"
+  },
+  {
+    "name": "category-games___zh",
+    "path": "/zh/category/games",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\games\\\\index.vue",
+    "chunkName": "pages/category/games/index",
+    "_name": "_76f9a3d0"
+  },
+  {
+    "name": "category-mobile-apps___zh",
+    "path": "/zh/category/mobile-apps",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\mobile-apps\\\\index.vue",
+    "chunkName": "pages/category/mobile-apps/index",
+    "_name": "_c84c01d8"
+  },
+  {
+    "name": "category-smartphones___zh",
+    "path": "/zh/category/smartphones",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\smartphones\\\\index.vue",
+    "chunkName": "pages/category/smartphones/index",
+    "_name": "_7c42bf63"
+  },
+  {
+    "name": "category-social___zh",
+    "path": "/zh/category/social",
+    "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\social\\\\index.vue",
+    "chunkName": "pages/category/social/index",
+    "_name": "_9d624014"
   },
   {
     "name": "collection-detail-product___zh",

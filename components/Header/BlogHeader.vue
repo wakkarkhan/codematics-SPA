@@ -1,32 +1,13 @@
 <template>
   <fragment>
-    <v-navigation-drawer
-      v-if="isTablet"
-      v-model="openNavMobile"
-      fixed
-      temporary
-      class="mobile-nav"
-    >
+    <v-navigation-drawer v-if="isTablet" v-model="openNavMobile" fixed temporary class="mobile-nav">
       <mobile-menu :data-menu="dataMenu" />
     </v-navigation-drawer>
-    <v-app-bar
-      v-scroll="handleScroll"
-      :class="{ fixed: fixed }"
-      class="header"
-      fixed
-      dense
-      app
-      height="auto"
-    >
+    <v-app-bar v-scroll="handleScroll" :class="{ fixed: fixed }" class="header" fixed dense app height="auto">
       <v-container>
         <div class="header-content">
           <nav class="nav-menu">
-            <v-btn
-              v-if="isTablet"
-              text
-              icon
-              @click.stop="handleToggleOpen"
-            >
+            <v-btn v-if="isTablet" text icon @click.stop="handleToggleOpen">
               <v-icon>mdi-menu</v-icon>
             </v-btn>
             <div class="logo">
@@ -35,17 +16,14 @@
               </a>
             </div>
             <div v-if="loaded">
-              <header-menu :data-menu="dataMenu" v-if="isDesktop"/>
+              <header-menu :data-menu="dataMenu" v-if="isDesktop" />
             </div>
           </nav>
           <nav>
             <hidden point="xsDown">
               <search-field short />
             </hidden>
-            <v-spacer
-              v-if="isDesktop"
-              class="vertical-divider"
-            />
+            <v-spacer v-if="isDesktop" class="vertical-divider" />
             <setting-menu />
           </nav>
         </div>
@@ -91,13 +69,13 @@ export default {
     this.loaded = true
   },
   methods: {
-    handleScroll: function() {
+    handleScroll: function () {
       if (window.scrollY > 100) {
         return (this.fixed = true)
       }
       return (this.fixed = false)
     },
-    handleToggleOpen: function() {
+    handleToggleOpen: function () {
       this.openNavMobile = !this.openNavMobile
     }
   },

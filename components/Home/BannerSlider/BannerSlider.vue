@@ -301,7 +301,7 @@ strong {
 
   .services {
     width: 100% !important;
-    height: 140px !important;
+    height: 100px !important;
     margin: auto !important;
   }
 
@@ -312,6 +312,10 @@ strong {
 
 // The following changes show at the `sm` breakpoint and up
 @include breakpoints-up(sm) {
+  .services {
+    height: 120px !important;
+  }
+
   .use-text-title {
     font-size: 80px !important;
   }
@@ -336,6 +340,10 @@ strong {
 
 // The following changes show at the `md` breakpoint and up
 @include breakpoints-up(md) {
+  .services {
+    height: 140px !important;
+  }
+
   .icons {
     justify-content: start;
   }

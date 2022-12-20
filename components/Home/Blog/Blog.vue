@@ -44,11 +44,6 @@
 @import '../../Blog/blog-style.scss';
 
 .root {
-  // background: rgb(255, 255, 255);
-  // background: -moz-linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(255, 183, 163, 1) 50%, rgba(255, 155, 136, 1) 100%);
-  // background: -webkit-linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(255, 183, 163, 1) 50%, rgba(255, 155, 136, 1) 100%);
-  // background: linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(255, 183, 163, 1) 50%, rgba(255, 155, 136, 1) 100%);
-  // filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff", endColorstr="#ff9b88", GradientType=1);
   background: linear-gradient(0deg, #fff, #FFF0EC 50%, #FFF0EC);
 }
 
@@ -60,7 +55,6 @@
 
 <script>
 import CaseCard from '../../Cards/CaseCard'
-import imgAPI from '~/static/images/imgAPI'
 import link from '~/static/text/link'
 import blogs from '~/static/api/blogs'
 

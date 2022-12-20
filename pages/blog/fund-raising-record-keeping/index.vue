@@ -12,8 +12,8 @@
                 <img :src="imgAPI.blog[3]" alt="blog" />
               </figure>
 
-              <h3>Click to download for <a href="../#home">iOS</a> and <a target="_blank" href="../#home">Android</a>
-              </h3>
+              <!-- <h3>Click to download for <a href="../#home">iOS</a> and <a target="_blank" href="../#home">Android</a>
+              </h3> -->
               <p>Fundraising is a feature-rich crowdfunding record keeper app that seamlessly brings a non-profit,
                 streamlined and
                 intuitive fundraising solution to create goals and raise money for donations from anywhere at any

@@ -2,10 +2,15 @@
   <fragment>
     <scrollactive v-if="isDesktop" :offset="navOffset" active-class="active" tag="div">
 
-      <v-btn v-if="singleNav" v-for="(item, index) in dataMenu" :key="index" :href="item.link"
+      <v-btn v-if="singleNav" v-for="(item, index) in dataMenu" :key="index" :href="item.link" target="_blank"
         class="anchor-link scrollactive-item" text @click="setOffset(item.offset)">
         {{ $t('agency.header_' + item.name) }}
       </v-btn>
+
+      <!-- <v-btn v-if="singleNav" v-for="(item, index) in dataMenu" :key="index" :href="item.link" target="_blank"
+        class="anchor-link scrollactive-item" text @click="setOffset(item.offset)">
+        {{ $t('agency.header_' + item.name) }}
+      </v-btn> -->
 
       <v-btn v-if="!singleNav" v-for="(item, index) in dataMenu" :key="index" :href="'/' + item.link" text>
         {{ $t('agency.header_' + item.name) }}

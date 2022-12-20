@@ -99,15 +99,13 @@ const imgAPI = {
     '/images/blog/smart-tv.jpg', // 0
 
     '/images/blog/cv-big.jpg', // 1
-
-    '/images/blog/blood.jpg', // 2
-
+    '/images/blog/blood-community-big.jpg', // 2
     '/images/blog/fundraiser-big.jpg', // 3
     '/images/blog/bomber-big.jpg', // 4
     '/images/blog/flicky-big.jpg', // 5
 
     '/images/blog/vizio-tv.jpg', // 6
-    '/images/blog/blood-donation.jpg', // 7
+    '/images/blog/blood-donation-long.png', // 7
     '/images/blog/smart-tv-remote.jpg', // 8
     '/images/blog/foldable.jpg', // 9
     '/images/blog/data-privacy.jpg', // 10
@@ -117,6 +115,13 @@ const imgAPI = {
 
     '/images/blog/flicky-small.jpg', // 14
     '/images/blog/bomber-small.jpg', // 15
+
+    '/images/blog/cv-banner.png', // 16
+    '/images/blog/fundraiser-long.png', // 17
+    '/images/blog/blood-community-long.jpg', // 18
+    '/images/blog/blood-main.png', // 19
+    '/images/blog/blood-donation-big.png', // 20
+
   ],
   team: [
     '/images/team/cover-1.jpg',

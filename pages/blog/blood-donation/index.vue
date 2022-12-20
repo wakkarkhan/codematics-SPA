@@ -9,7 +9,7 @@
               <h4 class="use-text-title2 title-blog">Blood Donation Importance - Give Blood Save Lives</h4>
               <span class="caption">June 13, 2019 by Codematics</span>
               <figure class="image-blog">
-                <img :src="imgAPI.blog[7]" alt="blog" />
+                <img :src="imgAPI.blog[20]" alt="blog" />
               </figure>
 
               <h2>Human Nature relies on helping each other during the life saving moments. Blood Donation is one of

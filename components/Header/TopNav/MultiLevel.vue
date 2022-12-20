@@ -1,22 +1,10 @@
 <template>
   <div class="multi-menu">
-    <fragment
-      v-for="(item, index) in dataMenu"
-      :key="index"
-    >
+    <fragment v-for="(item, index) in dataMenu" :key="index">
       <!-- Multilevel Nav -->
-      <v-menu
-        v-if="item.child"
-        :open-on-hover="hover"
-        offset-y
-        class="wrap-menu"
-      >
+      <v-menu v-if="item.child" :open-on-hover="hover" offset-y class="wrap-menu">
         <template #activator="{ attrs, on }">
-          <v-btn
-            v-bind="attrs"
-            v-on="on"
-            text
-          >
+          <v-btn v-bind="attrs" v-on="on" text>
             {{ item.name }}
             <v-icon right>
               mdi-chevron-down
@@ -25,20 +13,11 @@
         </template>
         <v-list class="rounded-menu">
           <!-- SubMenu -->
-          <submenu
-            v-for="(subitem, index) in item.child"
-            :key="index"
-            :menu-items="subitem"
-          />
+          <submenu v-for="(subitem, index) in item.child" :key="index" :menu-items="subitem" />
         </v-list>
       </v-menu>
       <!-- Single Nav -->
-      <v-btn
-        v-else
-        :href="item.link || '#'"
-        :class="{ current: curURL === (curOrigin+langPath+item.link)}"
-        text
-      >
+      <v-btn v-else :href="item.link || '#'" :class="{ current: curURL === (curOrigin + langPath + item.link) }" text>
         {{ item.name }}
       </v-btn>
     </fragment>

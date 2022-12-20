@@ -2,13 +2,7 @@ import imgAPI from '../images/imgAPI'
 
 const blogs = {
   blogsMain: [
-    {
-      title: "Smart TV Remote Control for iOS & Android",
-      logo: '/images/codematics-logo.png',
-      bg: imgAPI.blog[0],
-      href: '/blog/smart-tvs-remote-control-for-ios-android',
-      size: 'medium'
-    },
+
     {
       title: "CV Maker | Resume Builder",
       logo: '/images/codematics-logo.png',
@@ -17,9 +11,16 @@ const blogs = {
       size: 'medium'
     },
     {
+      title: "Flicky Chicky",
+      logo: '/images/codematics-logo.png',
+      bg: imgAPI.blog[5],
+      href: '/blog/flicky-chicky-game',
+      size: 'medium'
+    },
+    {
       title: "Blood Community Pakistan - Our Mission and Vision",
       logo: '/images/codematics-logo.png',
-      bg: imgAPI.blog[2],
+      bg: imgAPI.blog[19],
       href: '/blog/blood-community-pakistan',
       size: 'medium'
     },
@@ -31,19 +32,19 @@ const blogs = {
       size: 'medium'
     },
     {
-      title: "Flicky Chicky",
-      logo: '/images/codematics-logo.png',
-      bg: imgAPI.blog[5],
-      href: '/blog/flicky-chicky-game',
-      size: 'medium'
-    },
-    {
       title: "Bomber Warrior",
       logo: '/images/codematics-logo.png',
       bg: imgAPI.blog[4],
       href: '/blog/bomber-warrior',
       size: 'medium'
 
+    },
+    {
+      title: "Smart TV Remote Control for iOS & Android",
+      logo: '/images/codematics-logo.png',
+      bg: imgAPI.blog[0],
+      href: '/blog/smart-tvs-remote-control-for-ios-android',
+      size: 'medium'
     },
   ],
 
@@ -70,7 +71,7 @@ const blogs = {
     {
       title: "Fund Raising Record Keeping",
       logo: '/images/codematics-logo.png',
-      bg: imgAPI.blog[3],
+      bg: imgAPI.blog[17],
       href: '/blog/fund-raising-record-keeping',
       date: 'May 31, 2022',
       category: 'Mobile Apps'
@@ -94,7 +95,7 @@ const blogs = {
     {
       title: "Blood Community Pakistan - Our Mission and Vision",
       logo: '/images/codematics-logo.png',
-      bg: imgAPI.blog[2],
+      bg: imgAPI.blog[18],
       href: '/blog/blood-community-pakistan',
       date: 'June 14, 2019',
       category: 'Social'

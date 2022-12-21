@@ -81,7 +81,7 @@ h3 {
 <script>
 import brand from '~/static/text/brand'
 import imgAPI from '~/static/images/imgAPI'
-import BlogHeader from '~/components/Header/NavScroll'
+import BlogHeader from '~/components/Header/Main'
 import Sidebar from '~/components/Blog/Sidebar'
 import Footer from '~/components/Footer'
 

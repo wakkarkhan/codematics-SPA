@@ -1,34 +1,14 @@
 <template>
   <fragment>
-    <v-navigation-drawer
-      v-if="isTablet"
-      v-model="openNavMobile"
-      fixed
-      temporary
-      class="mobile-nav"
-    >
+    <v-navigation-drawer v-if="isTablet" v-model="openNavMobile" fixed temporary class="mobile-nav">
       <mobile-menu :data-menu="dataMenu" />
     </v-navigation-drawer>
-    <v-app-bar
-      v-scroll="handleScroll"
-      :class="{ fixed: fixed }"
-      class="header"
-      fixed
-      dense
-      app
-      height="auto"
-    >
+    <v-app-bar v-scroll="handleScroll" :class="{ fixed: fixed }" class="header" fixed dense app height="auto">
       <v-container>
         <div class="header-content">
           <nav class="nav-menu">
-            <v-btn
-              v-if="isTablet"
-              :class="{ 'is-active': openNavMobile }"
-              class="hamburger hamburger--spin mobile-menu"
-              icon
-              small
-              @click.stop="handleToggleOpen"
-            >
+            <v-btn v-if="isTablet" :class="{ 'is-active': openNavMobile }" class="hamburger hamburger--spin mobile-menu"
+              icon small @click.stop="handleToggleOpen">
               <span class="hamburger-box">
                 <span class="bar hamburger-inner" />
               </span>
@@ -81,13 +61,13 @@ export default {
     this.loaded = true
   },
   methods: {
-    handleScroll: function() {
+    handleScroll: function () {
       if (window.scrollY > 100) {
         return (this.fixed = true)
       }
       return (this.fixed = false)
     },
-    handleToggleOpen: function() {
+    handleToggleOpen: function () {
       this.openNavMobile = !this.openNavMobile
     }
   },

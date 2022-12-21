@@ -52,7 +52,7 @@
 
 <script>
 import brand from '~/static/text/brand'
-import BlogHeader from '~/components/Header/BlogHeader'
+import BlogHeader from '~/components/Header/Main'
 import Headline from '~/components/Blog/Headline'
 import PostCard from '~/components/Cards/PostCard'
 import Sidebar from '~/components/Blog/Sidebar'

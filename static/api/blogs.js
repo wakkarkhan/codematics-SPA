@@ -2,7 +2,6 @@ import imgAPI from '../images/imgAPI'
 
 const blogs = {
   blogsMain: [
-
     {
       title: "CV Maker | Resume Builder",
       logo: '/images/codematics-logo.png',

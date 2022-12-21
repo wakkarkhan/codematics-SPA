@@ -3,6 +3,7 @@
     <v-navigation-drawer v-if="isTablet" v-model="openNavMobile" fixed temporary class="mobile-nav">
       <mobile-menu :data-menu="dataMenu" />
     </v-navigation-drawer>
+
     <v-app-bar v-scroll="handleScroll" :class="{ fixed: fixed }" class="header" fixed dense app height="auto">
       <v-container>
         <div class="header-content">
@@ -19,6 +20,7 @@
               <header-menu :data-menu="dataMenu" v-if="isDesktop" />
             </div>
           </nav>
+
           <nav>
             <hidden point="xsDown">
               <search-field short />

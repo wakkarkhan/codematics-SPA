@@ -3,6 +3,7 @@
     <v-navigation-drawer v-if="isTablet" v-model="openNavMobile" fixed temporary class="mobile-nav">
       <mobile-menu :data-menu="dataMenu" :single-nav="home" />
     </v-navigation-drawer>
+
     <v-app-bar v-scroll="handleScroll" :class="{ fixed: fixed }" class="header" fixed dense app height="auto">
       <v-container>
         <div class="header-content">
@@ -13,11 +14,13 @@
                 <span class="bar hamburger-inner" />
               </span>
             </v-btn>
+
             <div class="logo">
-              <a href="#home">
+              <a href="../../#home">
                 <logo type="landscape" />
               </a>
             </div>
+
             <div class="main-menu text-right" v-if="loaded && isDesktop">
               <header-menu :data-menu="dataMenu" :single-nav="home" />
             </div>

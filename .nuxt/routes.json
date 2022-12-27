@@ -3,2052 +3,2394 @@
     "name": "index___ar",
     "path": "/ar",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_21ff4601"
   },
   {
     "name": "index___de",
     "path": "/de",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_21ff4601"
   },
   {
     "name": "index___en",
     "path": "/en",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_21ff4601"
   },
   {
     "name": "index___id",
     "path": "/id",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_21ff4601"
   },
   {
     "name": "index___pt",
     "path": "/pt",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_21ff4601"
   },
   {
     "name": "index___zh",
     "path": "/zh",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_21ff4601"
   },
   {
     "name": "3D-modeling-and-animation___ar",
     "path": "/ar/3D-modeling-and-animation",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\3D-modeling-and-animation\\\\index.vue",
-    "chunkName": "pages/3D-modeling-and-animation/index"
+    "chunkName": "pages/3D-modeling-and-animation/index",
+    "_name": "_7c8c9bfd"
   },
   {
     "name": "about___ar",
     "path": "/ar/about",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\index.vue",
-    "chunkName": "pages/about/index"
+    "chunkName": "pages/about/index",
+    "_name": "_ae99e474"
   },
   {
     "name": "blank-page___ar",
     "path": "/ar/blank-page",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blank-page.vue",
-    "chunkName": "pages/blank-page"
+    "chunkName": "pages/blank-page",
+    "_name": "_50fce8c9"
   },
   {
     "name": "blog___ar",
     "path": "/ar/blog",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
-    "chunkName": "pages/blog/index"
+    "chunkName": "pages/blog/index",
+    "_name": "_61d3f45f"
   },
   {
     "name": "collection___ar",
     "path": "/ar/collection",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\index.vue",
-    "chunkName": "pages/collection/index"
+    "chunkName": "pages/collection/index",
+    "_name": "_6f7622a3"
   },
   {
     "name": "contact___ar",
     "path": "/ar/contact",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\index.vue",
-    "chunkName": "pages/contact/index"
+    "chunkName": "pages/contact/index",
+    "_name": "_34980513"
   },
   {
     "name": "digital-marketing___ar",
     "path": "/ar/digital-marketing",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\digital-marketing\\\\index.vue",
-    "chunkName": "pages/digital-marketing/index"
+    "chunkName": "pages/digital-marketing/index",
+    "_name": "_96651ebc"
   },
   {
     "name": "game-development___ar",
     "path": "/ar/game-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
-    "chunkName": "pages/game-development/index"
+    "chunkName": "pages/game-development/index",
+    "_name": "_7ff0c6e1"
   },
   {
     "name": "graphic-designing___ar",
     "path": "/ar/graphic-designing",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
-    "chunkName": "pages/graphic-designing/index"
+    "chunkName": "pages/graphic-designing/index",
+    "_name": "_7d5da058"
   },
   {
     "name": "login___ar",
     "path": "/ar/login",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
-    "chunkName": "pages/login"
+    "chunkName": "pages/login",
+    "_name": "_28b22dd0"
   },
   {
     "name": "mobile-app-development___ar",
     "path": "/ar/mobile-app-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-app-development\\\\index.vue",
-    "chunkName": "pages/mobile-app-development/index"
+    "chunkName": "pages/mobile-app-development/index",
+    "_name": "_ae82bac6"
   },
   {
     "name": "privacy-policy___ar",
     "path": "/ar/privacy-policy",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\privacy-policy\\\\index.vue",
-    "chunkName": "pages/privacy-policy/index"
+    "chunkName": "pages/privacy-policy/index",
+    "_name": "_913a95ec"
   },
   {
     "name": "register___ar",
     "path": "/ar/register",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\register.vue",
-    "chunkName": "pages/register"
+    "chunkName": "pages/register",
+    "_name": "_5a3f0e78"
   },
   {
     "name": "web-development___ar",
     "path": "/ar/web-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
-    "chunkName": "pages/web-development/index"
+    "chunkName": "pages/web-development/index",
+    "_name": "_0a22aa9e"
   },
   {
     "name": "3D-modeling-and-animation___de",
     "path": "/de/3D-modeling-and-animation",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\3D-modeling-and-animation\\\\index.vue",
-    "chunkName": "pages/3D-modeling-and-animation/index"
+    "chunkName": "pages/3D-modeling-and-animation/index",
+    "_name": "_7c8c9bfd"
   },
   {
     "name": "about___de",
     "path": "/de/about",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\index.vue",
-    "chunkName": "pages/about/index"
+    "chunkName": "pages/about/index",
+    "_name": "_ae99e474"
   },
   {
     "name": "blank-page___de",
     "path": "/de/blank-page",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blank-page.vue",
-    "chunkName": "pages/blank-page"
+    "chunkName": "pages/blank-page",
+    "_name": "_50fce8c9"
   },
   {
     "name": "blog___de",
     "path": "/de/blog",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
-    "chunkName": "pages/blog/index"
+    "chunkName": "pages/blog/index",
+    "_name": "_61d3f45f"
   },
   {
     "name": "collection___de",
     "path": "/de/collection",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\index.vue",
-    "chunkName": "pages/collection/index"
+    "chunkName": "pages/collection/index",
+    "_name": "_6f7622a3"
   },
   {
     "name": "contact___de",
     "path": "/de/contact",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\index.vue",
-    "chunkName": "pages/contact/index"
+    "chunkName": "pages/contact/index",
+    "_name": "_34980513"
   },
   {
     "name": "digital-marketing___de",
     "path": "/de/digital-marketing",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\digital-marketing\\\\index.vue",
-    "chunkName": "pages/digital-marketing/index"
+    "chunkName": "pages/digital-marketing/index",
+    "_name": "_96651ebc"
   },
   {
     "name": "game-development___de",
     "path": "/de/game-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
-    "chunkName": "pages/game-development/index"
+    "chunkName": "pages/game-development/index",
+    "_name": "_7ff0c6e1"
   },
   {
     "name": "graphic-designing___de",
     "path": "/de/graphic-designing",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
-    "chunkName": "pages/graphic-designing/index"
+    "chunkName": "pages/graphic-designing/index",
+    "_name": "_7d5da058"
   },
   {
     "name": "login___de",
     "path": "/de/login",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
-    "chunkName": "pages/login"
+    "chunkName": "pages/login",
+    "_name": "_28b22dd0"
   },
   {
     "name": "mobile-app-development___de",
     "path": "/de/mobile-app-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-app-development\\\\index.vue",
-    "chunkName": "pages/mobile-app-development/index"
+    "chunkName": "pages/mobile-app-development/index",
+    "_name": "_ae82bac6"
   },
   {
     "name": "privacy-policy___de",
     "path": "/de/privacy-policy",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\privacy-policy\\\\index.vue",
-    "chunkName": "pages/privacy-policy/index"
+    "chunkName": "pages/privacy-policy/index",
+    "_name": "_913a95ec"
   },
   {
     "name": "register___de",
     "path": "/de/register",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\register.vue",
-    "chunkName": "pages/register"
+    "chunkName": "pages/register",
+    "_name": "_5a3f0e78"
   },
   {
     "name": "web-development___de",
     "path": "/de/web-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
-    "chunkName": "pages/web-development/index"
+    "chunkName": "pages/web-development/index",
+    "_name": "_0a22aa9e"
   },
   {
     "name": "3D-modeling-and-animation___en",
     "path": "/en/3D-modeling-and-animation",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\3D-modeling-and-animation\\\\index.vue",
-    "chunkName": "pages/3D-modeling-and-animation/index"
+    "chunkName": "pages/3D-modeling-and-animation/index",
+    "_name": "_7c8c9bfd"
   },
   {
     "name": "about___en",
     "path": "/en/about",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\index.vue",
-    "chunkName": "pages/about/index"
+    "chunkName": "pages/about/index",
+    "_name": "_ae99e474"
   },
   {
     "name": "blank-page___en",
     "path": "/en/blank-page",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blank-page.vue",
-    "chunkName": "pages/blank-page"
+    "chunkName": "pages/blank-page",
+    "_name": "_50fce8c9"
   },
   {
     "name": "blog___en",
     "path": "/en/blog",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
-    "chunkName": "pages/blog/index"
+    "chunkName": "pages/blog/index",
+    "_name": "_61d3f45f"
   },
   {
     "name": "collection___en",
     "path": "/en/collection",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\index.vue",
-    "chunkName": "pages/collection/index"
+    "chunkName": "pages/collection/index",
+    "_name": "_6f7622a3"
   },
   {
     "name": "contact___en",
     "path": "/en/contact",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\index.vue",
-    "chunkName": "pages/contact/index"
+    "chunkName": "pages/contact/index",
+    "_name": "_34980513"
   },
   {
     "name": "digital-marketing___en",
     "path": "/en/digital-marketing",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\digital-marketing\\\\index.vue",
-    "chunkName": "pages/digital-marketing/index"
+    "chunkName": "pages/digital-marketing/index",
+    "_name": "_96651ebc"
   },
   {
     "name": "game-development___en",
     "path": "/en/game-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
-    "chunkName": "pages/game-development/index"
+    "chunkName": "pages/game-development/index",
+    "_name": "_7ff0c6e1"
   },
   {
     "name": "graphic-designing___en",
     "path": "/en/graphic-designing",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
-    "chunkName": "pages/graphic-designing/index"
+    "chunkName": "pages/graphic-designing/index",
+    "_name": "_7d5da058"
   },
   {
     "name": "login___en",
     "path": "/en/login",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
-    "chunkName": "pages/login"
+    "chunkName": "pages/login",
+    "_name": "_28b22dd0"
   },
   {
     "name": "mobile-app-development___en",
     "path": "/en/mobile-app-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-app-development\\\\index.vue",
-    "chunkName": "pages/mobile-app-development/index"
+    "chunkName": "pages/mobile-app-development/index",
+    "_name": "_ae82bac6"
   },
   {
     "name": "privacy-policy___en",
     "path": "/en/privacy-policy",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\privacy-policy\\\\index.vue",
-    "chunkName": "pages/privacy-policy/index"
+    "chunkName": "pages/privacy-policy/index",
+    "_name": "_913a95ec"
   },
   {
     "name": "register___en",
     "path": "/en/register",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\register.vue",
-    "chunkName": "pages/register"
+    "chunkName": "pages/register",
+    "_name": "_5a3f0e78"
   },
   {
     "name": "web-development___en",
     "path": "/en/web-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
-    "chunkName": "pages/web-development/index"
+    "chunkName": "pages/web-development/index",
+    "_name": "_0a22aa9e"
   },
   {
     "name": "3D-modeling-and-animation___id",
     "path": "/id/3D-modeling-and-animation",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\3D-modeling-and-animation\\\\index.vue",
-    "chunkName": "pages/3D-modeling-and-animation/index"
+    "chunkName": "pages/3D-modeling-and-animation/index",
+    "_name": "_7c8c9bfd"
   },
   {
     "name": "about___id",
     "path": "/id/about",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\index.vue",
-    "chunkName": "pages/about/index"
+    "chunkName": "pages/about/index",
+    "_name": "_ae99e474"
   },
   {
     "name": "blank-page___id",
     "path": "/id/blank-page",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blank-page.vue",
-    "chunkName": "pages/blank-page"
+    "chunkName": "pages/blank-page",
+    "_name": "_50fce8c9"
   },
   {
     "name": "blog___id",
     "path": "/id/blog",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
-    "chunkName": "pages/blog/index"
+    "chunkName": "pages/blog/index",
+    "_name": "_61d3f45f"
   },
   {
     "name": "collection___id",
     "path": "/id/collection",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\index.vue",
-    "chunkName": "pages/collection/index"
+    "chunkName": "pages/collection/index",
+    "_name": "_6f7622a3"
   },
   {
     "name": "contact___id",
     "path": "/id/contact",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\index.vue",
-    "chunkName": "pages/contact/index"
+    "chunkName": "pages/contact/index",
+    "_name": "_34980513"
   },
   {
     "name": "digital-marketing___id",
     "path": "/id/digital-marketing",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\digital-marketing\\\\index.vue",
-    "chunkName": "pages/digital-marketing/index"
+    "chunkName": "pages/digital-marketing/index",
+    "_name": "_96651ebc"
   },
   {
     "name": "game-development___id",
     "path": "/id/game-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
-    "chunkName": "pages/game-development/index"
+    "chunkName": "pages/game-development/index",
+    "_name": "_7ff0c6e1"
   },
   {
     "name": "graphic-designing___id",
     "path": "/id/graphic-designing",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
-    "chunkName": "pages/graphic-designing/index"
+    "chunkName": "pages/graphic-designing/index",
+    "_name": "_7d5da058"
   },
   {
     "name": "login___id",
     "path": "/id/login",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
-    "chunkName": "pages/login"
+    "chunkName": "pages/login",
+    "_name": "_28b22dd0"
   },
   {
     "name": "mobile-app-development___id",
     "path": "/id/mobile-app-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-app-development\\\\index.vue",
-    "chunkName": "pages/mobile-app-development/index"
+    "chunkName": "pages/mobile-app-development/index",
+    "_name": "_ae82bac6"
   },
   {
     "name": "privacy-policy___id",
     "path": "/id/privacy-policy",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\privacy-policy\\\\index.vue",
-    "chunkName": "pages/privacy-policy/index"
+    "chunkName": "pages/privacy-policy/index",
+    "_name": "_913a95ec"
   },
   {
     "name": "register___id",
     "path": "/id/register",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\register.vue",
-    "chunkName": "pages/register"
+    "chunkName": "pages/register",
+    "_name": "_5a3f0e78"
   },
   {
     "name": "web-development___id",
     "path": "/id/web-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
-    "chunkName": "pages/web-development/index"
+    "chunkName": "pages/web-development/index",
+    "_name": "_0a22aa9e"
   },
   {
     "name": "3D-modeling-and-animation___pt",
     "path": "/pt/3D-modeling-and-animation",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\3D-modeling-and-animation\\\\index.vue",
-    "chunkName": "pages/3D-modeling-and-animation/index"
+    "chunkName": "pages/3D-modeling-and-animation/index",
+    "_name": "_7c8c9bfd"
   },
   {
     "name": "about___pt",
     "path": "/pt/about",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\index.vue",
-    "chunkName": "pages/about/index"
+    "chunkName": "pages/about/index",
+    "_name": "_ae99e474"
   },
   {
     "name": "blank-page___pt",
     "path": "/pt/blank-page",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blank-page.vue",
-    "chunkName": "pages/blank-page"
+    "chunkName": "pages/blank-page",
+    "_name": "_50fce8c9"
   },
   {
     "name": "blog___pt",
     "path": "/pt/blog",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
-    "chunkName": "pages/blog/index"
+    "chunkName": "pages/blog/index",
+    "_name": "_61d3f45f"
   },
   {
     "name": "collection___pt",
     "path": "/pt/collection",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\index.vue",
-    "chunkName": "pages/collection/index"
+    "chunkName": "pages/collection/index",
+    "_name": "_6f7622a3"
   },
   {
     "name": "contact___pt",
     "path": "/pt/contact",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\index.vue",
-    "chunkName": "pages/contact/index"
+    "chunkName": "pages/contact/index",
+    "_name": "_34980513"
   },
   {
     "name": "digital-marketing___pt",
     "path": "/pt/digital-marketing",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\digital-marketing\\\\index.vue",
-    "chunkName": "pages/digital-marketing/index"
+    "chunkName": "pages/digital-marketing/index",
+    "_name": "_96651ebc"
   },
   {
     "name": "game-development___pt",
     "path": "/pt/game-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
-    "chunkName": "pages/game-development/index"
+    "chunkName": "pages/game-development/index",
+    "_name": "_7ff0c6e1"
   },
   {
     "name": "graphic-designing___pt",
     "path": "/pt/graphic-designing",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
-    "chunkName": "pages/graphic-designing/index"
+    "chunkName": "pages/graphic-designing/index",
+    "_name": "_7d5da058"
   },
   {
     "name": "login___pt",
     "path": "/pt/login",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
-    "chunkName": "pages/login"
+    "chunkName": "pages/login",
+    "_name": "_28b22dd0"
   },
   {
     "name": "mobile-app-development___pt",
     "path": "/pt/mobile-app-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-app-development\\\\index.vue",
-    "chunkName": "pages/mobile-app-development/index"
+    "chunkName": "pages/mobile-app-development/index",
+    "_name": "_ae82bac6"
   },
   {
     "name": "privacy-policy___pt",
     "path": "/pt/privacy-policy",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\privacy-policy\\\\index.vue",
-    "chunkName": "pages/privacy-policy/index"
+    "chunkName": "pages/privacy-policy/index",
+    "_name": "_913a95ec"
   },
   {
     "name": "register___pt",
     "path": "/pt/register",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\register.vue",
-    "chunkName": "pages/register"
+    "chunkName": "pages/register",
+    "_name": "_5a3f0e78"
   },
   {
     "name": "web-development___pt",
     "path": "/pt/web-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
-    "chunkName": "pages/web-development/index"
+    "chunkName": "pages/web-development/index",
+    "_name": "_0a22aa9e"
   },
   {
     "name": "3D-modeling-and-animation___zh",
     "path": "/zh/3D-modeling-and-animation",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\3D-modeling-and-animation\\\\index.vue",
-    "chunkName": "pages/3D-modeling-and-animation/index"
+    "chunkName": "pages/3D-modeling-and-animation/index",
+    "_name": "_7c8c9bfd"
   },
   {
     "name": "about___zh",
     "path": "/zh/about",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\index.vue",
-    "chunkName": "pages/about/index"
+    "chunkName": "pages/about/index",
+    "_name": "_ae99e474"
   },
   {
     "name": "blank-page___zh",
     "path": "/zh/blank-page",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blank-page.vue",
-    "chunkName": "pages/blank-page"
+    "chunkName": "pages/blank-page",
+    "_name": "_50fce8c9"
   },
   {
     "name": "blog___zh",
     "path": "/zh/blog",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\index.vue",
-    "chunkName": "pages/blog/index"
+    "chunkName": "pages/blog/index",
+    "_name": "_61d3f45f"
   },
   {
     "name": "collection___zh",
     "path": "/zh/collection",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\index.vue",
-    "chunkName": "pages/collection/index"
+    "chunkName": "pages/collection/index",
+    "_name": "_6f7622a3"
   },
   {
     "name": "contact___zh",
     "path": "/zh/contact",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\index.vue",
-    "chunkName": "pages/contact/index"
+    "chunkName": "pages/contact/index",
+    "_name": "_34980513"
   },
   {
     "name": "digital-marketing___zh",
     "path": "/zh/digital-marketing",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\digital-marketing\\\\index.vue",
-    "chunkName": "pages/digital-marketing/index"
+    "chunkName": "pages/digital-marketing/index",
+    "_name": "_96651ebc"
   },
   {
     "name": "game-development___zh",
     "path": "/zh/game-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\game-development\\\\index.vue",
-    "chunkName": "pages/game-development/index"
+    "chunkName": "pages/game-development/index",
+    "_name": "_7ff0c6e1"
   },
   {
     "name": "graphic-designing___zh",
     "path": "/zh/graphic-designing",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\graphic-designing\\\\index.vue",
-    "chunkName": "pages/graphic-designing/index"
+    "chunkName": "pages/graphic-designing/index",
+    "_name": "_7d5da058"
   },
   {
     "name": "login___zh",
     "path": "/zh/login",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\login.vue",
-    "chunkName": "pages/login"
+    "chunkName": "pages/login",
+    "_name": "_28b22dd0"
   },
   {
     "name": "mobile-app-development___zh",
     "path": "/zh/mobile-app-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-app-development\\\\index.vue",
-    "chunkName": "pages/mobile-app-development/index"
+    "chunkName": "pages/mobile-app-development/index",
+    "_name": "_ae82bac6"
   },
   {
     "name": "privacy-policy___zh",
     "path": "/zh/privacy-policy",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\privacy-policy\\\\index.vue",
-    "chunkName": "pages/privacy-policy/index"
+    "chunkName": "pages/privacy-policy/index",
+    "_name": "_913a95ec"
   },
   {
     "name": "register___zh",
     "path": "/zh/register",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\register.vue",
-    "chunkName": "pages/register"
+    "chunkName": "pages/register",
+    "_name": "_5a3f0e78"
   },
   {
     "name": "web-development___zh",
     "path": "/zh/web-development",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\web-development\\\\index.vue",
-    "chunkName": "pages/web-development/index"
+    "chunkName": "pages/web-development/index",
+    "_name": "_0a22aa9e"
   },
   {
     "name": "about-team___ar",
     "path": "/ar/about/team",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\team.vue",
-    "chunkName": "pages/about/team"
+    "chunkName": "pages/about/team",
+    "_name": "_a88890ce"
   },
   {
     "name": "blog-blood-community-pakistan___ar",
     "path": "/ar/blog/blood-community-pakistan",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\blood-community-pakistan\\\\index.vue",
-    "chunkName": "pages/blog/blood-community-pakistan/index"
+    "chunkName": "pages/blog/blood-community-pakistan/index",
+    "_name": "_17fb0a2b"
   },
   {
     "name": "blog-blood-donation___ar",
     "path": "/ar/blog/blood-donation",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\blood-donation\\\\index.vue",
-    "chunkName": "pages/blog/blood-donation/index"
+    "chunkName": "pages/blog/blood-donation/index",
+    "_name": "_ceaf288c"
   },
   {
     "name": "blog-bomb-diffuse___ar",
     "path": "/ar/blog/bomb-diffuse",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\bomb-diffuse\\\\index.vue",
-    "chunkName": "pages/blog/bomb-diffuse/index"
+    "chunkName": "pages/blog/bomb-diffuse/index",
+    "_name": "_a7b2d6f0"
   },
   {
     "name": "blog-bomber-warrior___ar",
     "path": "/ar/blog/bomber-warrior",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\bomber-warrior\\\\index.vue",
-    "chunkName": "pages/blog/bomber-warrior/index"
+    "chunkName": "pages/blog/bomber-warrior/index",
+    "_name": "_3e6b1fca"
   },
   {
     "name": "blog-cv-builder-app___ar",
     "path": "/ar/blog/cv-builder-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\cv-builder-app\\\\index.vue",
-    "chunkName": "pages/blog/cv-builder-app/index"
+    "chunkName": "pages/blog/cv-builder-app/index",
+    "_name": "_424dad2a"
   },
   {
     "name": "blog-data-privacy___ar",
     "path": "/ar/blog/data-privacy",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\data-privacy\\\\index.vue",
-    "chunkName": "pages/blog/data-privacy/index"
+    "chunkName": "pages/blog/data-privacy/index",
+    "_name": "_9d424acc"
   },
   {
     "name": "blog-detail-blog___ar",
     "path": "/ar/blog/detail-blog",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
-    "chunkName": "pages/blog/detail-blog"
+    "chunkName": "pages/blog/detail-blog",
+    "_name": "_49723d6b"
   },
   {
     "name": "blog-flicky-chicky-game___ar",
     "path": "/ar/blog/flicky-chicky-game",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\flicky-chicky-game\\\\index.vue",
-    "chunkName": "pages/blog/flicky-chicky-game/index"
+    "chunkName": "pages/blog/flicky-chicky-game/index",
+    "_name": "_033547a8"
   },
   {
     "name": "blog-foldable-smartphones___ar",
     "path": "/ar/blog/foldable-smartphones",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\foldable-smartphones\\\\index.vue",
-    "chunkName": "pages/blog/foldable-smartphones/index"
+    "chunkName": "pages/blog/foldable-smartphones/index",
+    "_name": "_77d0c87a"
   },
   {
     "name": "blog-fund-raising-record-keeping___ar",
     "path": "/ar/blog/fund-raising-record-keeping",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\fund-raising-record-keeping\\\\index.vue",
-    "chunkName": "pages/blog/fund-raising-record-keeping/index"
+    "chunkName": "pages/blog/fund-raising-record-keeping/index",
+    "_name": "_73276188"
   },
   {
     "name": "blog-remote-control-for-sony-tv___ar",
     "path": "/ar/blog/remote-control-for-sony-tv",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\remote-control-for-sony-tv\\\\index.vue",
-    "chunkName": "pages/blog/remote-control-for-sony-tv/index"
+    "chunkName": "pages/blog/remote-control-for-sony-tv/index",
+    "_name": "_c545fc5c"
   },
   {
     "name": "blog-remote-for-vizio-tv-ios___ar",
     "path": "/ar/blog/remote-for-vizio-tv-ios",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\remote-for-vizio-tv-ios\\\\index.vue",
-    "chunkName": "pages/blog/remote-for-vizio-tv-ios/index"
+    "chunkName": "pages/blog/remote-for-vizio-tv-ios/index",
+    "_name": "_ed415270"
   },
   {
     "name": "blog-scam-secure-camera___ar",
     "path": "/ar/blog/scam-secure-camera",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\scam-secure-camera\\\\index.vue",
-    "chunkName": "pages/blog/scam-secure-camera/index"
+    "chunkName": "pages/blog/scam-secure-camera/index",
+    "_name": "_0f0e2175"
   },
   {
     "name": "blog-smart-tvs-remote-control-for-ios-android___ar",
     "path": "/ar/blog/smart-tvs-remote-control-for-ios-android",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\smart-tvs-remote-control-for-ios-android\\\\index.vue",
-    "chunkName": "pages/blog/smart-tvs-remote-control-for-ios-android/index"
+    "chunkName": "pages/blog/smart-tvs-remote-control-for-ios-android/index",
+    "_name": "_53e4afcb"
   },
   {
     "name": "blog-universal-remote-control-for-ruko-devices___ar",
     "path": "/ar/blog/universal-remote-control-for-ruko-devices",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-remote-control-for-ruko-devices\\\\index.vue",
-    "chunkName": "pages/blog/universal-remote-control-for-ruko-devices/index"
+    "chunkName": "pages/blog/universal-remote-control-for-ruko-devices/index",
+    "_name": "_017e2276"
   },
   {
     "name": "blog-universal-remote-for-lg-ios___ar",
     "path": "/ar/blog/universal-remote-for-lg-ios",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-remote-for-lg-ios\\\\index.vue",
-    "chunkName": "pages/blog/universal-remote-for-lg-ios/index"
+    "chunkName": "pages/blog/universal-remote-for-lg-ios/index",
+    "_name": "_03fd291e"
   },
   {
     "name": "blog-universal-tv-remote-control___ar",
     "path": "/ar/blog/universal-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/blog/universal-tv-remote-control/index"
+    "chunkName": "pages/blog/universal-tv-remote-control/index",
+    "_name": "_6fdb5936"
   },
   {
     "name": "category-cyber-security___ar",
     "path": "/ar/category/cyber-security",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\cyber-security\\\\index.vue",
-    "chunkName": "pages/category/cyber-security/index"
+    "chunkName": "pages/category/cyber-security/index",
+    "_name": "_cdaf3c62"
   },
   {
     "name": "category-games___ar",
     "path": "/ar/category/games",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\games\\\\index.vue",
-    "chunkName": "pages/category/games/index"
+    "chunkName": "pages/category/games/index",
+    "_name": "_76f9a3d0"
   },
   {
     "name": "category-mobile-apps___ar",
     "path": "/ar/category/mobile-apps",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\mobile-apps\\\\index.vue",
-    "chunkName": "pages/category/mobile-apps/index"
+    "chunkName": "pages/category/mobile-apps/index",
+    "_name": "_c84c01d8"
   },
   {
     "name": "category-smartphones___ar",
     "path": "/ar/category/smartphones",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\smartphones\\\\index.vue",
-    "chunkName": "pages/category/smartphones/index"
+    "chunkName": "pages/category/smartphones/index",
+    "_name": "_7c42bf63"
   },
   {
     "name": "category-social___ar",
     "path": "/ar/category/social",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\social\\\\index.vue",
-    "chunkName": "pages/category/social/index"
+    "chunkName": "pages/category/social/index",
+    "_name": "_9d624014"
   },
   {
     "name": "collection-detail-product___ar",
     "path": "/ar/collection/detail-product",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\detail-product.vue",
-    "chunkName": "pages/collection/detail-product"
+    "chunkName": "pages/collection/detail-product",
+    "_name": "_758cd872"
   },
   {
     "name": "collection-products___ar",
     "path": "/ar/collection/products",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\products.vue",
-    "chunkName": "pages/collection/products"
+    "chunkName": "pages/collection/products",
+    "_name": "_11441b23"
   },
   {
     "name": "contact-with-map___ar",
     "path": "/ar/contact/with-map",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
-    "chunkName": "pages/contact/with-map"
+    "chunkName": "pages/contact/with-map",
+    "_name": "_5cd768a4"
   },
   {
     "name": "mobile-apps-remote-control-for-roku-devices___ar",
     "path": "/ar/mobile-apps/remote-control-for-roku-devices",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-apps\\\\remote-control-for-roku-devices\\\\index.vue",
-    "chunkName": "pages/mobile-apps/remote-control-for-roku-devices/index"
+    "chunkName": "pages/mobile-apps/remote-control-for-roku-devices/index",
+    "_name": "_66dc84a8"
   },
   {
     "name": "portfolio-auto-silence-at-prayers-time___ar",
     "path": "/ar/portfolio/auto-silence-at-prayers-time",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\auto-silence-at-prayers-time\\\\index.vue",
-    "chunkName": "pages/portfolio/auto-silence-at-prayers-time/index"
+    "chunkName": "pages/portfolio/auto-silence-at-prayers-time/index",
+    "_name": "_e5f337e6"
   },
   {
     "name": "portfolio-codematics-lg-remote-control___ar",
     "path": "/ar/portfolio/codematics-lg-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\codematics-lg-remote-control\\\\index.vue",
-    "chunkName": "pages/portfolio/codematics-lg-remote-control/index"
+    "chunkName": "pages/portfolio/codematics-lg-remote-control/index",
+    "_name": "_bb991bec"
   },
   {
     "name": "portfolio-flash-on-call-and-sms___ar",
     "path": "/ar/portfolio/flash-on-call-and-sms",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\flash-on-call-and-sms\\\\index.vue",
-    "chunkName": "pages/portfolio/flash-on-call-and-sms/index"
+    "chunkName": "pages/portfolio/flash-on-call-and-sms/index",
+    "_name": "_67384524"
   },
   {
     "name": "portfolio-guess-the-word-multiplayer___ar",
     "path": "/ar/portfolio/guess-the-word-multiplayer",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\guess-the-word-multiplayer\\\\index.vue",
-    "chunkName": "pages/portfolio/guess-the-word-multiplayer/index"
+    "chunkName": "pages/portfolio/guess-the-word-multiplayer/index",
+    "_name": "_478eea3c"
   },
   {
     "name": "portfolio-kardaan-handyman-services-at-your-door-stepearly-access___ar",
     "path": "/ar/portfolio/kardaan-handyman-services-at-your-door-stepearly-access",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
-    "chunkName": "pages/portfolio/kardaan-handyman-services-at-your-door-stepearly-access/index"
+    "chunkName": "pages/portfolio/kardaan-handyman-services-at-your-door-stepearly-access/index",
+    "_name": "_b68b132e"
   },
   {
     "name": "portfolio-scam___ar",
     "path": "/ar/portfolio/scam",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\scam\\\\index.vue",
-    "chunkName": "pages/portfolio/scam/index"
+    "chunkName": "pages/portfolio/scam/index",
+    "_name": "_509c1f22"
   },
   {
     "name": "portfolio-smart-tvs-remote-control-for-ios-and-android___ar",
     "path": "/ar/portfolio/smart-tvs-remote-control-for-ios-and-android",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
-    "chunkName": "pages/portfolio/smart-tvs-remote-control-for-ios-and-android/index"
+    "chunkName": "pages/portfolio/smart-tvs-remote-control-for-ios-and-android/index",
+    "_name": "_41264acd"
   },
   {
     "name": "portfolio-snap-war___ar",
     "path": "/ar/portfolio/snap-war",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\snap-war\\\\index.vue",
-    "chunkName": "pages/portfolio/snap-war/index"
+    "chunkName": "pages/portfolio/snap-war/index",
+    "_name": "_204d7866"
   },
   {
     "name": "portfolio-sonybravia-android-tv-remote-control___ar",
     "path": "/ar/portfolio/sonybravia-android-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\sonybravia-android-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/portfolio/sonybravia-android-tv-remote-control/index"
+    "chunkName": "pages/portfolio/sonybravia-android-tv-remote-control/index",
+    "_name": "_0b4e8ed1"
   },
   {
     "name": "portfolio-the-blood-community-app___ar",
     "path": "/ar/portfolio/the-blood-community-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\the-blood-community-app\\\\index.vue",
-    "chunkName": "pages/portfolio/the-blood-community-app/index"
+    "chunkName": "pages/portfolio/the-blood-community-app/index",
+    "_name": "_3181f2bb"
   },
   {
     "name": "portfolio-universal-tv-remote-control___ar",
     "path": "/ar/portfolio/universal-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/portfolio/universal-tv-remote-control/index"
+    "chunkName": "pages/portfolio/universal-tv-remote-control/index",
+    "_name": "_4a2c546a"
   },
   {
     "name": "utils-coming-soon___ar",
     "path": "/ar/utils/coming-soon",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\coming-soon.vue",
-    "chunkName": "pages/utils/coming-soon"
+    "chunkName": "pages/utils/coming-soon",
+    "_name": "_422df997"
   },
   {
     "name": "utils-faq___ar",
     "path": "/ar/utils/faq",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\faq.vue",
-    "chunkName": "pages/utils/faq"
+    "chunkName": "pages/utils/faq",
+    "_name": "_587e7066"
   },
   {
     "name": "utils-maintenance___ar",
     "path": "/ar/utils/maintenance",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\maintenance.vue",
-    "chunkName": "pages/utils/maintenance"
+    "chunkName": "pages/utils/maintenance",
+    "_name": "_798059e3"
   },
   {
     "name": "utils-pricing___ar",
     "path": "/ar/utils/pricing",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\pricing.vue",
-    "chunkName": "pages/utils/pricing"
+    "chunkName": "pages/utils/pricing",
+    "_name": "_473e1116"
   },
   {
     "name": "about-team___de",
     "path": "/de/about/team",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\team.vue",
-    "chunkName": "pages/about/team"
+    "chunkName": "pages/about/team",
+    "_name": "_a88890ce"
   },
   {
     "name": "blog-blood-community-pakistan___de",
     "path": "/de/blog/blood-community-pakistan",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\blood-community-pakistan\\\\index.vue",
-    "chunkName": "pages/blog/blood-community-pakistan/index"
+    "chunkName": "pages/blog/blood-community-pakistan/index",
+    "_name": "_17fb0a2b"
   },
   {
     "name": "blog-blood-donation___de",
     "path": "/de/blog/blood-donation",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\blood-donation\\\\index.vue",
-    "chunkName": "pages/blog/blood-donation/index"
+    "chunkName": "pages/blog/blood-donation/index",
+    "_name": "_ceaf288c"
   },
   {
     "name": "blog-bomb-diffuse___de",
     "path": "/de/blog/bomb-diffuse",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\bomb-diffuse\\\\index.vue",
-    "chunkName": "pages/blog/bomb-diffuse/index"
+    "chunkName": "pages/blog/bomb-diffuse/index",
+    "_name": "_a7b2d6f0"
   },
   {
     "name": "blog-bomber-warrior___de",
     "path": "/de/blog/bomber-warrior",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\bomber-warrior\\\\index.vue",
-    "chunkName": "pages/blog/bomber-warrior/index"
+    "chunkName": "pages/blog/bomber-warrior/index",
+    "_name": "_3e6b1fca"
   },
   {
     "name": "blog-cv-builder-app___de",
     "path": "/de/blog/cv-builder-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\cv-builder-app\\\\index.vue",
-    "chunkName": "pages/blog/cv-builder-app/index"
+    "chunkName": "pages/blog/cv-builder-app/index",
+    "_name": "_424dad2a"
   },
   {
     "name": "blog-data-privacy___de",
     "path": "/de/blog/data-privacy",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\data-privacy\\\\index.vue",
-    "chunkName": "pages/blog/data-privacy/index"
+    "chunkName": "pages/blog/data-privacy/index",
+    "_name": "_9d424acc"
   },
   {
     "name": "blog-detail-blog___de",
     "path": "/de/blog/detail-blog",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
-    "chunkName": "pages/blog/detail-blog"
+    "chunkName": "pages/blog/detail-blog",
+    "_name": "_49723d6b"
   },
   {
     "name": "blog-flicky-chicky-game___de",
     "path": "/de/blog/flicky-chicky-game",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\flicky-chicky-game\\\\index.vue",
-    "chunkName": "pages/blog/flicky-chicky-game/index"
+    "chunkName": "pages/blog/flicky-chicky-game/index",
+    "_name": "_033547a8"
   },
   {
     "name": "blog-foldable-smartphones___de",
     "path": "/de/blog/foldable-smartphones",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\foldable-smartphones\\\\index.vue",
-    "chunkName": "pages/blog/foldable-smartphones/index"
+    "chunkName": "pages/blog/foldable-smartphones/index",
+    "_name": "_77d0c87a"
   },
   {
     "name": "blog-fund-raising-record-keeping___de",
     "path": "/de/blog/fund-raising-record-keeping",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\fund-raising-record-keeping\\\\index.vue",
-    "chunkName": "pages/blog/fund-raising-record-keeping/index"
+    "chunkName": "pages/blog/fund-raising-record-keeping/index",
+    "_name": "_73276188"
   },
   {
     "name": "blog-remote-control-for-sony-tv___de",
     "path": "/de/blog/remote-control-for-sony-tv",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\remote-control-for-sony-tv\\\\index.vue",
-    "chunkName": "pages/blog/remote-control-for-sony-tv/index"
+    "chunkName": "pages/blog/remote-control-for-sony-tv/index",
+    "_name": "_c545fc5c"
   },
   {
     "name": "blog-remote-for-vizio-tv-ios___de",
     "path": "/de/blog/remote-for-vizio-tv-ios",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\remote-for-vizio-tv-ios\\\\index.vue",
-    "chunkName": "pages/blog/remote-for-vizio-tv-ios/index"
+    "chunkName": "pages/blog/remote-for-vizio-tv-ios/index",
+    "_name": "_ed415270"
   },
   {
     "name": "blog-scam-secure-camera___de",
     "path": "/de/blog/scam-secure-camera",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\scam-secure-camera\\\\index.vue",
-    "chunkName": "pages/blog/scam-secure-camera/index"
+    "chunkName": "pages/blog/scam-secure-camera/index",
+    "_name": "_0f0e2175"
   },
   {
     "name": "blog-smart-tvs-remote-control-for-ios-android___de",
     "path": "/de/blog/smart-tvs-remote-control-for-ios-android",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\smart-tvs-remote-control-for-ios-android\\\\index.vue",
-    "chunkName": "pages/blog/smart-tvs-remote-control-for-ios-android/index"
+    "chunkName": "pages/blog/smart-tvs-remote-control-for-ios-android/index",
+    "_name": "_53e4afcb"
   },
   {
     "name": "blog-universal-remote-control-for-ruko-devices___de",
     "path": "/de/blog/universal-remote-control-for-ruko-devices",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-remote-control-for-ruko-devices\\\\index.vue",
-    "chunkName": "pages/blog/universal-remote-control-for-ruko-devices/index"
+    "chunkName": "pages/blog/universal-remote-control-for-ruko-devices/index",
+    "_name": "_017e2276"
   },
   {
     "name": "blog-universal-remote-for-lg-ios___de",
     "path": "/de/blog/universal-remote-for-lg-ios",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-remote-for-lg-ios\\\\index.vue",
-    "chunkName": "pages/blog/universal-remote-for-lg-ios/index"
+    "chunkName": "pages/blog/universal-remote-for-lg-ios/index",
+    "_name": "_03fd291e"
   },
   {
     "name": "blog-universal-tv-remote-control___de",
     "path": "/de/blog/universal-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/blog/universal-tv-remote-control/index"
+    "chunkName": "pages/blog/universal-tv-remote-control/index",
+    "_name": "_6fdb5936"
   },
   {
     "name": "category-cyber-security___de",
     "path": "/de/category/cyber-security",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\cyber-security\\\\index.vue",
-    "chunkName": "pages/category/cyber-security/index"
+    "chunkName": "pages/category/cyber-security/index",
+    "_name": "_cdaf3c62"
   },
   {
     "name": "category-games___de",
     "path": "/de/category/games",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\games\\\\index.vue",
-    "chunkName": "pages/category/games/index"
+    "chunkName": "pages/category/games/index",
+    "_name": "_76f9a3d0"
   },
   {
     "name": "category-mobile-apps___de",
     "path": "/de/category/mobile-apps",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\mobile-apps\\\\index.vue",
-    "chunkName": "pages/category/mobile-apps/index"
+    "chunkName": "pages/category/mobile-apps/index",
+    "_name": "_c84c01d8"
   },
   {
     "name": "category-smartphones___de",
     "path": "/de/category/smartphones",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\smartphones\\\\index.vue",
-    "chunkName": "pages/category/smartphones/index"
+    "chunkName": "pages/category/smartphones/index",
+    "_name": "_7c42bf63"
   },
   {
     "name": "category-social___de",
     "path": "/de/category/social",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\social\\\\index.vue",
-    "chunkName": "pages/category/social/index"
+    "chunkName": "pages/category/social/index",
+    "_name": "_9d624014"
   },
   {
     "name": "collection-detail-product___de",
     "path": "/de/collection/detail-product",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\detail-product.vue",
-    "chunkName": "pages/collection/detail-product"
+    "chunkName": "pages/collection/detail-product",
+    "_name": "_758cd872"
   },
   {
     "name": "collection-products___de",
     "path": "/de/collection/products",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\products.vue",
-    "chunkName": "pages/collection/products"
+    "chunkName": "pages/collection/products",
+    "_name": "_11441b23"
   },
   {
     "name": "contact-with-map___de",
     "path": "/de/contact/with-map",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
-    "chunkName": "pages/contact/with-map"
+    "chunkName": "pages/contact/with-map",
+    "_name": "_5cd768a4"
   },
   {
     "name": "mobile-apps-remote-control-for-roku-devices___de",
     "path": "/de/mobile-apps/remote-control-for-roku-devices",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-apps\\\\remote-control-for-roku-devices\\\\index.vue",
-    "chunkName": "pages/mobile-apps/remote-control-for-roku-devices/index"
+    "chunkName": "pages/mobile-apps/remote-control-for-roku-devices/index",
+    "_name": "_66dc84a8"
   },
   {
     "name": "portfolio-auto-silence-at-prayers-time___de",
     "path": "/de/portfolio/auto-silence-at-prayers-time",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\auto-silence-at-prayers-time\\\\index.vue",
-    "chunkName": "pages/portfolio/auto-silence-at-prayers-time/index"
+    "chunkName": "pages/portfolio/auto-silence-at-prayers-time/index",
+    "_name": "_e5f337e6"
   },
   {
     "name": "portfolio-codematics-lg-remote-control___de",
     "path": "/de/portfolio/codematics-lg-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\codematics-lg-remote-control\\\\index.vue",
-    "chunkName": "pages/portfolio/codematics-lg-remote-control/index"
+    "chunkName": "pages/portfolio/codematics-lg-remote-control/index",
+    "_name": "_bb991bec"
   },
   {
     "name": "portfolio-flash-on-call-and-sms___de",
     "path": "/de/portfolio/flash-on-call-and-sms",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\flash-on-call-and-sms\\\\index.vue",
-    "chunkName": "pages/portfolio/flash-on-call-and-sms/index"
+    "chunkName": "pages/portfolio/flash-on-call-and-sms/index",
+    "_name": "_67384524"
   },
   {
     "name": "portfolio-guess-the-word-multiplayer___de",
     "path": "/de/portfolio/guess-the-word-multiplayer",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\guess-the-word-multiplayer\\\\index.vue",
-    "chunkName": "pages/portfolio/guess-the-word-multiplayer/index"
+    "chunkName": "pages/portfolio/guess-the-word-multiplayer/index",
+    "_name": "_478eea3c"
   },
   {
     "name": "portfolio-kardaan-handyman-services-at-your-door-stepearly-access___de",
     "path": "/de/portfolio/kardaan-handyman-services-at-your-door-stepearly-access",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
-    "chunkName": "pages/portfolio/kardaan-handyman-services-at-your-door-stepearly-access/index"
+    "chunkName": "pages/portfolio/kardaan-handyman-services-at-your-door-stepearly-access/index",
+    "_name": "_b68b132e"
   },
   {
     "name": "portfolio-scam___de",
     "path": "/de/portfolio/scam",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\scam\\\\index.vue",
-    "chunkName": "pages/portfolio/scam/index"
+    "chunkName": "pages/portfolio/scam/index",
+    "_name": "_509c1f22"
   },
   {
     "name": "portfolio-smart-tvs-remote-control-for-ios-and-android___de",
     "path": "/de/portfolio/smart-tvs-remote-control-for-ios-and-android",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
-    "chunkName": "pages/portfolio/smart-tvs-remote-control-for-ios-and-android/index"
+    "chunkName": "pages/portfolio/smart-tvs-remote-control-for-ios-and-android/index",
+    "_name": "_41264acd"
   },
   {
     "name": "portfolio-snap-war___de",
     "path": "/de/portfolio/snap-war",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\snap-war\\\\index.vue",
-    "chunkName": "pages/portfolio/snap-war/index"
+    "chunkName": "pages/portfolio/snap-war/index",
+    "_name": "_204d7866"
   },
   {
     "name": "portfolio-sonybravia-android-tv-remote-control___de",
     "path": "/de/portfolio/sonybravia-android-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\sonybravia-android-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/portfolio/sonybravia-android-tv-remote-control/index"
+    "chunkName": "pages/portfolio/sonybravia-android-tv-remote-control/index",
+    "_name": "_0b4e8ed1"
   },
   {
     "name": "portfolio-the-blood-community-app___de",
     "path": "/de/portfolio/the-blood-community-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\the-blood-community-app\\\\index.vue",
-    "chunkName": "pages/portfolio/the-blood-community-app/index"
+    "chunkName": "pages/portfolio/the-blood-community-app/index",
+    "_name": "_3181f2bb"
   },
   {
     "name": "portfolio-universal-tv-remote-control___de",
     "path": "/de/portfolio/universal-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/portfolio/universal-tv-remote-control/index"
+    "chunkName": "pages/portfolio/universal-tv-remote-control/index",
+    "_name": "_4a2c546a"
   },
   {
     "name": "utils-coming-soon___de",
     "path": "/de/utils/coming-soon",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\coming-soon.vue",
-    "chunkName": "pages/utils/coming-soon"
+    "chunkName": "pages/utils/coming-soon",
+    "_name": "_422df997"
   },
   {
     "name": "utils-faq___de",
     "path": "/de/utils/faq",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\faq.vue",
-    "chunkName": "pages/utils/faq"
+    "chunkName": "pages/utils/faq",
+    "_name": "_587e7066"
   },
   {
     "name": "utils-maintenance___de",
     "path": "/de/utils/maintenance",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\maintenance.vue",
-    "chunkName": "pages/utils/maintenance"
+    "chunkName": "pages/utils/maintenance",
+    "_name": "_798059e3"
   },
   {
     "name": "utils-pricing___de",
     "path": "/de/utils/pricing",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\pricing.vue",
-    "chunkName": "pages/utils/pricing"
+    "chunkName": "pages/utils/pricing",
+    "_name": "_473e1116"
   },
   {
     "name": "about-team___en",
     "path": "/en/about/team",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\team.vue",
-    "chunkName": "pages/about/team"
+    "chunkName": "pages/about/team",
+    "_name": "_a88890ce"
   },
   {
     "name": "blog-blood-community-pakistan___en",
     "path": "/en/blog/blood-community-pakistan",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\blood-community-pakistan\\\\index.vue",
-    "chunkName": "pages/blog/blood-community-pakistan/index"
+    "chunkName": "pages/blog/blood-community-pakistan/index",
+    "_name": "_17fb0a2b"
   },
   {
     "name": "blog-blood-donation___en",
     "path": "/en/blog/blood-donation",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\blood-donation\\\\index.vue",
-    "chunkName": "pages/blog/blood-donation/index"
+    "chunkName": "pages/blog/blood-donation/index",
+    "_name": "_ceaf288c"
   },
   {
     "name": "blog-bomb-diffuse___en",
     "path": "/en/blog/bomb-diffuse",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\bomb-diffuse\\\\index.vue",
-    "chunkName": "pages/blog/bomb-diffuse/index"
+    "chunkName": "pages/blog/bomb-diffuse/index",
+    "_name": "_a7b2d6f0"
   },
   {
     "name": "blog-bomber-warrior___en",
     "path": "/en/blog/bomber-warrior",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\bomber-warrior\\\\index.vue",
-    "chunkName": "pages/blog/bomber-warrior/index"
+    "chunkName": "pages/blog/bomber-warrior/index",
+    "_name": "_3e6b1fca"
   },
   {
     "name": "blog-cv-builder-app___en",
     "path": "/en/blog/cv-builder-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\cv-builder-app\\\\index.vue",
-    "chunkName": "pages/blog/cv-builder-app/index"
+    "chunkName": "pages/blog/cv-builder-app/index",
+    "_name": "_424dad2a"
   },
   {
     "name": "blog-data-privacy___en",
     "path": "/en/blog/data-privacy",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\data-privacy\\\\index.vue",
-    "chunkName": "pages/blog/data-privacy/index"
+    "chunkName": "pages/blog/data-privacy/index",
+    "_name": "_9d424acc"
   },
   {
     "name": "blog-detail-blog___en",
     "path": "/en/blog/detail-blog",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
-    "chunkName": "pages/blog/detail-blog"
+    "chunkName": "pages/blog/detail-blog",
+    "_name": "_49723d6b"
   },
   {
     "name": "blog-flicky-chicky-game___en",
     "path": "/en/blog/flicky-chicky-game",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\flicky-chicky-game\\\\index.vue",
-    "chunkName": "pages/blog/flicky-chicky-game/index"
+    "chunkName": "pages/blog/flicky-chicky-game/index",
+    "_name": "_033547a8"
   },
   {
     "name": "blog-foldable-smartphones___en",
     "path": "/en/blog/foldable-smartphones",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\foldable-smartphones\\\\index.vue",
-    "chunkName": "pages/blog/foldable-smartphones/index"
+    "chunkName": "pages/blog/foldable-smartphones/index",
+    "_name": "_77d0c87a"
   },
   {
     "name": "blog-fund-raising-record-keeping___en",
     "path": "/en/blog/fund-raising-record-keeping",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\fund-raising-record-keeping\\\\index.vue",
-    "chunkName": "pages/blog/fund-raising-record-keeping/index"
+    "chunkName": "pages/blog/fund-raising-record-keeping/index",
+    "_name": "_73276188"
   },
   {
     "name": "blog-remote-control-for-sony-tv___en",
     "path": "/en/blog/remote-control-for-sony-tv",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\remote-control-for-sony-tv\\\\index.vue",
-    "chunkName": "pages/blog/remote-control-for-sony-tv/index"
+    "chunkName": "pages/blog/remote-control-for-sony-tv/index",
+    "_name": "_c545fc5c"
   },
   {
     "name": "blog-remote-for-vizio-tv-ios___en",
     "path": "/en/blog/remote-for-vizio-tv-ios",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\remote-for-vizio-tv-ios\\\\index.vue",
-    "chunkName": "pages/blog/remote-for-vizio-tv-ios/index"
+    "chunkName": "pages/blog/remote-for-vizio-tv-ios/index",
+    "_name": "_ed415270"
   },
   {
     "name": "blog-scam-secure-camera___en",
     "path": "/en/blog/scam-secure-camera",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\scam-secure-camera\\\\index.vue",
-    "chunkName": "pages/blog/scam-secure-camera/index"
+    "chunkName": "pages/blog/scam-secure-camera/index",
+    "_name": "_0f0e2175"
   },
   {
     "name": "blog-smart-tvs-remote-control-for-ios-android___en",
     "path": "/en/blog/smart-tvs-remote-control-for-ios-android",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\smart-tvs-remote-control-for-ios-android\\\\index.vue",
-    "chunkName": "pages/blog/smart-tvs-remote-control-for-ios-android/index"
+    "chunkName": "pages/blog/smart-tvs-remote-control-for-ios-android/index",
+    "_name": "_53e4afcb"
   },
   {
     "name": "blog-universal-remote-control-for-ruko-devices___en",
     "path": "/en/blog/universal-remote-control-for-ruko-devices",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-remote-control-for-ruko-devices\\\\index.vue",
-    "chunkName": "pages/blog/universal-remote-control-for-ruko-devices/index"
+    "chunkName": "pages/blog/universal-remote-control-for-ruko-devices/index",
+    "_name": "_017e2276"
   },
   {
     "name": "blog-universal-remote-for-lg-ios___en",
     "path": "/en/blog/universal-remote-for-lg-ios",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-remote-for-lg-ios\\\\index.vue",
-    "chunkName": "pages/blog/universal-remote-for-lg-ios/index"
+    "chunkName": "pages/blog/universal-remote-for-lg-ios/index",
+    "_name": "_03fd291e"
   },
   {
     "name": "blog-universal-tv-remote-control___en",
     "path": "/en/blog/universal-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/blog/universal-tv-remote-control/index"
+    "chunkName": "pages/blog/universal-tv-remote-control/index",
+    "_name": "_6fdb5936"
   },
   {
     "name": "category-cyber-security___en",
     "path": "/en/category/cyber-security",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\cyber-security\\\\index.vue",
-    "chunkName": "pages/category/cyber-security/index"
+    "chunkName": "pages/category/cyber-security/index",
+    "_name": "_cdaf3c62"
   },
   {
     "name": "category-games___en",
     "path": "/en/category/games",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\games\\\\index.vue",
-    "chunkName": "pages/category/games/index"
+    "chunkName": "pages/category/games/index",
+    "_name": "_76f9a3d0"
   },
   {
     "name": "category-mobile-apps___en",
     "path": "/en/category/mobile-apps",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\mobile-apps\\\\index.vue",
-    "chunkName": "pages/category/mobile-apps/index"
+    "chunkName": "pages/category/mobile-apps/index",
+    "_name": "_c84c01d8"
   },
   {
     "name": "category-smartphones___en",
     "path": "/en/category/smartphones",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\smartphones\\\\index.vue",
-    "chunkName": "pages/category/smartphones/index"
+    "chunkName": "pages/category/smartphones/index",
+    "_name": "_7c42bf63"
   },
   {
     "name": "category-social___en",
     "path": "/en/category/social",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\social\\\\index.vue",
-    "chunkName": "pages/category/social/index"
+    "chunkName": "pages/category/social/index",
+    "_name": "_9d624014"
   },
   {
     "name": "collection-detail-product___en",
     "path": "/en/collection/detail-product",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\detail-product.vue",
-    "chunkName": "pages/collection/detail-product"
+    "chunkName": "pages/collection/detail-product",
+    "_name": "_758cd872"
   },
   {
     "name": "collection-products___en",
     "path": "/en/collection/products",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\products.vue",
-    "chunkName": "pages/collection/products"
+    "chunkName": "pages/collection/products",
+    "_name": "_11441b23"
   },
   {
     "name": "contact-with-map___en",
     "path": "/en/contact/with-map",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
-    "chunkName": "pages/contact/with-map"
+    "chunkName": "pages/contact/with-map",
+    "_name": "_5cd768a4"
   },
   {
     "name": "mobile-apps-remote-control-for-roku-devices___en",
     "path": "/en/mobile-apps/remote-control-for-roku-devices",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-apps\\\\remote-control-for-roku-devices\\\\index.vue",
-    "chunkName": "pages/mobile-apps/remote-control-for-roku-devices/index"
+    "chunkName": "pages/mobile-apps/remote-control-for-roku-devices/index",
+    "_name": "_66dc84a8"
   },
   {
     "name": "portfolio-auto-silence-at-prayers-time___en",
     "path": "/en/portfolio/auto-silence-at-prayers-time",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\auto-silence-at-prayers-time\\\\index.vue",
-    "chunkName": "pages/portfolio/auto-silence-at-prayers-time/index"
+    "chunkName": "pages/portfolio/auto-silence-at-prayers-time/index",
+    "_name": "_e5f337e6"
   },
   {
     "name": "portfolio-codematics-lg-remote-control___en",
     "path": "/en/portfolio/codematics-lg-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\codematics-lg-remote-control\\\\index.vue",
-    "chunkName": "pages/portfolio/codematics-lg-remote-control/index"
+    "chunkName": "pages/portfolio/codematics-lg-remote-control/index",
+    "_name": "_bb991bec"
   },
   {
     "name": "portfolio-flash-on-call-and-sms___en",
     "path": "/en/portfolio/flash-on-call-and-sms",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\flash-on-call-and-sms\\\\index.vue",
-    "chunkName": "pages/portfolio/flash-on-call-and-sms/index"
+    "chunkName": "pages/portfolio/flash-on-call-and-sms/index",
+    "_name": "_67384524"
   },
   {
     "name": "portfolio-guess-the-word-multiplayer___en",
     "path": "/en/portfolio/guess-the-word-multiplayer",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\guess-the-word-multiplayer\\\\index.vue",
-    "chunkName": "pages/portfolio/guess-the-word-multiplayer/index"
+    "chunkName": "pages/portfolio/guess-the-word-multiplayer/index",
+    "_name": "_478eea3c"
   },
   {
     "name": "portfolio-kardaan-handyman-services-at-your-door-stepearly-access___en",
     "path": "/en/portfolio/kardaan-handyman-services-at-your-door-stepearly-access",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
-    "chunkName": "pages/portfolio/kardaan-handyman-services-at-your-door-stepearly-access/index"
+    "chunkName": "pages/portfolio/kardaan-handyman-services-at-your-door-stepearly-access/index",
+    "_name": "_b68b132e"
   },
   {
     "name": "portfolio-scam___en",
     "path": "/en/portfolio/scam",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\scam\\\\index.vue",
-    "chunkName": "pages/portfolio/scam/index"
+    "chunkName": "pages/portfolio/scam/index",
+    "_name": "_509c1f22"
   },
   {
     "name": "portfolio-smart-tvs-remote-control-for-ios-and-android___en",
     "path": "/en/portfolio/smart-tvs-remote-control-for-ios-and-android",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
-    "chunkName": "pages/portfolio/smart-tvs-remote-control-for-ios-and-android/index"
+    "chunkName": "pages/portfolio/smart-tvs-remote-control-for-ios-and-android/index",
+    "_name": "_41264acd"
   },
   {
     "name": "portfolio-snap-war___en",
     "path": "/en/portfolio/snap-war",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\snap-war\\\\index.vue",
-    "chunkName": "pages/portfolio/snap-war/index"
+    "chunkName": "pages/portfolio/snap-war/index",
+    "_name": "_204d7866"
   },
   {
     "name": "portfolio-sonybravia-android-tv-remote-control___en",
     "path": "/en/portfolio/sonybravia-android-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\sonybravia-android-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/portfolio/sonybravia-android-tv-remote-control/index"
+    "chunkName": "pages/portfolio/sonybravia-android-tv-remote-control/index",
+    "_name": "_0b4e8ed1"
   },
   {
     "name": "portfolio-the-blood-community-app___en",
     "path": "/en/portfolio/the-blood-community-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\the-blood-community-app\\\\index.vue",
-    "chunkName": "pages/portfolio/the-blood-community-app/index"
+    "chunkName": "pages/portfolio/the-blood-community-app/index",
+    "_name": "_3181f2bb"
   },
   {
     "name": "portfolio-universal-tv-remote-control___en",
     "path": "/en/portfolio/universal-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/portfolio/universal-tv-remote-control/index"
+    "chunkName": "pages/portfolio/universal-tv-remote-control/index",
+    "_name": "_4a2c546a"
   },
   {
     "name": "utils-coming-soon___en",
     "path": "/en/utils/coming-soon",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\coming-soon.vue",
-    "chunkName": "pages/utils/coming-soon"
+    "chunkName": "pages/utils/coming-soon",
+    "_name": "_422df997"
   },
   {
     "name": "utils-faq___en",
     "path": "/en/utils/faq",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\faq.vue",
-    "chunkName": "pages/utils/faq"
+    "chunkName": "pages/utils/faq",
+    "_name": "_587e7066"
   },
   {
     "name": "utils-maintenance___en",
     "path": "/en/utils/maintenance",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\maintenance.vue",
-    "chunkName": "pages/utils/maintenance"
+    "chunkName": "pages/utils/maintenance",
+    "_name": "_798059e3"
   },
   {
     "name": "utils-pricing___en",
     "path": "/en/utils/pricing",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\pricing.vue",
-    "chunkName": "pages/utils/pricing"
+    "chunkName": "pages/utils/pricing",
+    "_name": "_473e1116"
   },
   {
     "name": "about-team___id",
     "path": "/id/about/team",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\team.vue",
-    "chunkName": "pages/about/team"
+    "chunkName": "pages/about/team",
+    "_name": "_a88890ce"
   },
   {
     "name": "blog-blood-community-pakistan___id",
     "path": "/id/blog/blood-community-pakistan",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\blood-community-pakistan\\\\index.vue",
-    "chunkName": "pages/blog/blood-community-pakistan/index"
+    "chunkName": "pages/blog/blood-community-pakistan/index",
+    "_name": "_17fb0a2b"
   },
   {
     "name": "blog-blood-donation___id",
     "path": "/id/blog/blood-donation",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\blood-donation\\\\index.vue",
-    "chunkName": "pages/blog/blood-donation/index"
+    "chunkName": "pages/blog/blood-donation/index",
+    "_name": "_ceaf288c"
   },
   {
     "name": "blog-bomb-diffuse___id",
     "path": "/id/blog/bomb-diffuse",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\bomb-diffuse\\\\index.vue",
-    "chunkName": "pages/blog/bomb-diffuse/index"
+    "chunkName": "pages/blog/bomb-diffuse/index",
+    "_name": "_a7b2d6f0"
   },
   {
     "name": "blog-bomber-warrior___id",
     "path": "/id/blog/bomber-warrior",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\bomber-warrior\\\\index.vue",
-    "chunkName": "pages/blog/bomber-warrior/index"
+    "chunkName": "pages/blog/bomber-warrior/index",
+    "_name": "_3e6b1fca"
   },
   {
     "name": "blog-cv-builder-app___id",
     "path": "/id/blog/cv-builder-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\cv-builder-app\\\\index.vue",
-    "chunkName": "pages/blog/cv-builder-app/index"
+    "chunkName": "pages/blog/cv-builder-app/index",
+    "_name": "_424dad2a"
   },
   {
     "name": "blog-data-privacy___id",
     "path": "/id/blog/data-privacy",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\data-privacy\\\\index.vue",
-    "chunkName": "pages/blog/data-privacy/index"
+    "chunkName": "pages/blog/data-privacy/index",
+    "_name": "_9d424acc"
   },
   {
     "name": "blog-detail-blog___id",
     "path": "/id/blog/detail-blog",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
-    "chunkName": "pages/blog/detail-blog"
+    "chunkName": "pages/blog/detail-blog",
+    "_name": "_49723d6b"
   },
   {
     "name": "blog-flicky-chicky-game___id",
     "path": "/id/blog/flicky-chicky-game",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\flicky-chicky-game\\\\index.vue",
-    "chunkName": "pages/blog/flicky-chicky-game/index"
+    "chunkName": "pages/blog/flicky-chicky-game/index",
+    "_name": "_033547a8"
   },
   {
     "name": "blog-foldable-smartphones___id",
     "path": "/id/blog/foldable-smartphones",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\foldable-smartphones\\\\index.vue",
-    "chunkName": "pages/blog/foldable-smartphones/index"
+    "chunkName": "pages/blog/foldable-smartphones/index",
+    "_name": "_77d0c87a"
   },
   {
     "name": "blog-fund-raising-record-keeping___id",
     "path": "/id/blog/fund-raising-record-keeping",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\fund-raising-record-keeping\\\\index.vue",
-    "chunkName": "pages/blog/fund-raising-record-keeping/index"
+    "chunkName": "pages/blog/fund-raising-record-keeping/index",
+    "_name": "_73276188"
   },
   {
     "name": "blog-remote-control-for-sony-tv___id",
     "path": "/id/blog/remote-control-for-sony-tv",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\remote-control-for-sony-tv\\\\index.vue",
-    "chunkName": "pages/blog/remote-control-for-sony-tv/index"
+    "chunkName": "pages/blog/remote-control-for-sony-tv/index",
+    "_name": "_c545fc5c"
   },
   {
     "name": "blog-remote-for-vizio-tv-ios___id",
     "path": "/id/blog/remote-for-vizio-tv-ios",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\remote-for-vizio-tv-ios\\\\index.vue",
-    "chunkName": "pages/blog/remote-for-vizio-tv-ios/index"
+    "chunkName": "pages/blog/remote-for-vizio-tv-ios/index",
+    "_name": "_ed415270"
   },
   {
     "name": "blog-scam-secure-camera___id",
     "path": "/id/blog/scam-secure-camera",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\scam-secure-camera\\\\index.vue",
-    "chunkName": "pages/blog/scam-secure-camera/index"
+    "chunkName": "pages/blog/scam-secure-camera/index",
+    "_name": "_0f0e2175"
   },
   {
     "name": "blog-smart-tvs-remote-control-for-ios-android___id",
     "path": "/id/blog/smart-tvs-remote-control-for-ios-android",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\smart-tvs-remote-control-for-ios-android\\\\index.vue",
-    "chunkName": "pages/blog/smart-tvs-remote-control-for-ios-android/index"
+    "chunkName": "pages/blog/smart-tvs-remote-control-for-ios-android/index",
+    "_name": "_53e4afcb"
   },
   {
     "name": "blog-universal-remote-control-for-ruko-devices___id",
     "path": "/id/blog/universal-remote-control-for-ruko-devices",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-remote-control-for-ruko-devices\\\\index.vue",
-    "chunkName": "pages/blog/universal-remote-control-for-ruko-devices/index"
+    "chunkName": "pages/blog/universal-remote-control-for-ruko-devices/index",
+    "_name": "_017e2276"
   },
   {
     "name": "blog-universal-remote-for-lg-ios___id",
     "path": "/id/blog/universal-remote-for-lg-ios",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-remote-for-lg-ios\\\\index.vue",
-    "chunkName": "pages/blog/universal-remote-for-lg-ios/index"
+    "chunkName": "pages/blog/universal-remote-for-lg-ios/index",
+    "_name": "_03fd291e"
   },
   {
     "name": "blog-universal-tv-remote-control___id",
     "path": "/id/blog/universal-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/blog/universal-tv-remote-control/index"
+    "chunkName": "pages/blog/universal-tv-remote-control/index",
+    "_name": "_6fdb5936"
   },
   {
     "name": "category-cyber-security___id",
     "path": "/id/category/cyber-security",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\cyber-security\\\\index.vue",
-    "chunkName": "pages/category/cyber-security/index"
+    "chunkName": "pages/category/cyber-security/index",
+    "_name": "_cdaf3c62"
   },
   {
     "name": "category-games___id",
     "path": "/id/category/games",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\games\\\\index.vue",
-    "chunkName": "pages/category/games/index"
+    "chunkName": "pages/category/games/index",
+    "_name": "_76f9a3d0"
   },
   {
     "name": "category-mobile-apps___id",
     "path": "/id/category/mobile-apps",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\mobile-apps\\\\index.vue",
-    "chunkName": "pages/category/mobile-apps/index"
+    "chunkName": "pages/category/mobile-apps/index",
+    "_name": "_c84c01d8"
   },
   {
     "name": "category-smartphones___id",
     "path": "/id/category/smartphones",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\smartphones\\\\index.vue",
-    "chunkName": "pages/category/smartphones/index"
+    "chunkName": "pages/category/smartphones/index",
+    "_name": "_7c42bf63"
   },
   {
     "name": "category-social___id",
     "path": "/id/category/social",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\social\\\\index.vue",
-    "chunkName": "pages/category/social/index"
+    "chunkName": "pages/category/social/index",
+    "_name": "_9d624014"
   },
   {
     "name": "collection-detail-product___id",
     "path": "/id/collection/detail-product",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\detail-product.vue",
-    "chunkName": "pages/collection/detail-product"
+    "chunkName": "pages/collection/detail-product",
+    "_name": "_758cd872"
   },
   {
     "name": "collection-products___id",
     "path": "/id/collection/products",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\products.vue",
-    "chunkName": "pages/collection/products"
+    "chunkName": "pages/collection/products",
+    "_name": "_11441b23"
   },
   {
     "name": "contact-with-map___id",
     "path": "/id/contact/with-map",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
-    "chunkName": "pages/contact/with-map"
+    "chunkName": "pages/contact/with-map",
+    "_name": "_5cd768a4"
   },
   {
     "name": "mobile-apps-remote-control-for-roku-devices___id",
     "path": "/id/mobile-apps/remote-control-for-roku-devices",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-apps\\\\remote-control-for-roku-devices\\\\index.vue",
-    "chunkName": "pages/mobile-apps/remote-control-for-roku-devices/index"
+    "chunkName": "pages/mobile-apps/remote-control-for-roku-devices/index",
+    "_name": "_66dc84a8"
   },
   {
     "name": "portfolio-auto-silence-at-prayers-time___id",
     "path": "/id/portfolio/auto-silence-at-prayers-time",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\auto-silence-at-prayers-time\\\\index.vue",
-    "chunkName": "pages/portfolio/auto-silence-at-prayers-time/index"
+    "chunkName": "pages/portfolio/auto-silence-at-prayers-time/index",
+    "_name": "_e5f337e6"
   },
   {
     "name": "portfolio-codematics-lg-remote-control___id",
     "path": "/id/portfolio/codematics-lg-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\codematics-lg-remote-control\\\\index.vue",
-    "chunkName": "pages/portfolio/codematics-lg-remote-control/index"
+    "chunkName": "pages/portfolio/codematics-lg-remote-control/index",
+    "_name": "_bb991bec"
   },
   {
     "name": "portfolio-flash-on-call-and-sms___id",
     "path": "/id/portfolio/flash-on-call-and-sms",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\flash-on-call-and-sms\\\\index.vue",
-    "chunkName": "pages/portfolio/flash-on-call-and-sms/index"
+    "chunkName": "pages/portfolio/flash-on-call-and-sms/index",
+    "_name": "_67384524"
   },
   {
     "name": "portfolio-guess-the-word-multiplayer___id",
     "path": "/id/portfolio/guess-the-word-multiplayer",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\guess-the-word-multiplayer\\\\index.vue",
-    "chunkName": "pages/portfolio/guess-the-word-multiplayer/index"
+    "chunkName": "pages/portfolio/guess-the-word-multiplayer/index",
+    "_name": "_478eea3c"
   },
   {
     "name": "portfolio-kardaan-handyman-services-at-your-door-stepearly-access___id",
     "path": "/id/portfolio/kardaan-handyman-services-at-your-door-stepearly-access",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
-    "chunkName": "pages/portfolio/kardaan-handyman-services-at-your-door-stepearly-access/index"
+    "chunkName": "pages/portfolio/kardaan-handyman-services-at-your-door-stepearly-access/index",
+    "_name": "_b68b132e"
   },
   {
     "name": "portfolio-scam___id",
     "path": "/id/portfolio/scam",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\scam\\\\index.vue",
-    "chunkName": "pages/portfolio/scam/index"
+    "chunkName": "pages/portfolio/scam/index",
+    "_name": "_509c1f22"
   },
   {
     "name": "portfolio-smart-tvs-remote-control-for-ios-and-android___id",
     "path": "/id/portfolio/smart-tvs-remote-control-for-ios-and-android",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
-    "chunkName": "pages/portfolio/smart-tvs-remote-control-for-ios-and-android/index"
+    "chunkName": "pages/portfolio/smart-tvs-remote-control-for-ios-and-android/index",
+    "_name": "_41264acd"
   },
   {
     "name": "portfolio-snap-war___id",
     "path": "/id/portfolio/snap-war",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\snap-war\\\\index.vue",
-    "chunkName": "pages/portfolio/snap-war/index"
+    "chunkName": "pages/portfolio/snap-war/index",
+    "_name": "_204d7866"
   },
   {
     "name": "portfolio-sonybravia-android-tv-remote-control___id",
     "path": "/id/portfolio/sonybravia-android-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\sonybravia-android-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/portfolio/sonybravia-android-tv-remote-control/index"
+    "chunkName": "pages/portfolio/sonybravia-android-tv-remote-control/index",
+    "_name": "_0b4e8ed1"
   },
   {
     "name": "portfolio-the-blood-community-app___id",
     "path": "/id/portfolio/the-blood-community-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\the-blood-community-app\\\\index.vue",
-    "chunkName": "pages/portfolio/the-blood-community-app/index"
+    "chunkName": "pages/portfolio/the-blood-community-app/index",
+    "_name": "_3181f2bb"
   },
   {
     "name": "portfolio-universal-tv-remote-control___id",
     "path": "/id/portfolio/universal-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/portfolio/universal-tv-remote-control/index"
+    "chunkName": "pages/portfolio/universal-tv-remote-control/index",
+    "_name": "_4a2c546a"
   },
   {
     "name": "utils-coming-soon___id",
     "path": "/id/utils/coming-soon",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\coming-soon.vue",
-    "chunkName": "pages/utils/coming-soon"
+    "chunkName": "pages/utils/coming-soon",
+    "_name": "_422df997"
   },
   {
     "name": "utils-faq___id",
     "path": "/id/utils/faq",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\faq.vue",
-    "chunkName": "pages/utils/faq"
+    "chunkName": "pages/utils/faq",
+    "_name": "_587e7066"
   },
   {
     "name": "utils-maintenance___id",
     "path": "/id/utils/maintenance",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\maintenance.vue",
-    "chunkName": "pages/utils/maintenance"
+    "chunkName": "pages/utils/maintenance",
+    "_name": "_798059e3"
   },
   {
     "name": "utils-pricing___id",
     "path": "/id/utils/pricing",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\pricing.vue",
-    "chunkName": "pages/utils/pricing"
+    "chunkName": "pages/utils/pricing",
+    "_name": "_473e1116"
   },
   {
     "name": "about-team___pt",
     "path": "/pt/about/team",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\team.vue",
-    "chunkName": "pages/about/team"
+    "chunkName": "pages/about/team",
+    "_name": "_a88890ce"
   },
   {
     "name": "blog-blood-community-pakistan___pt",
     "path": "/pt/blog/blood-community-pakistan",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\blood-community-pakistan\\\\index.vue",
-    "chunkName": "pages/blog/blood-community-pakistan/index"
+    "chunkName": "pages/blog/blood-community-pakistan/index",
+    "_name": "_17fb0a2b"
   },
   {
     "name": "blog-blood-donation___pt",
     "path": "/pt/blog/blood-donation",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\blood-donation\\\\index.vue",
-    "chunkName": "pages/blog/blood-donation/index"
+    "chunkName": "pages/blog/blood-donation/index",
+    "_name": "_ceaf288c"
   },
   {
     "name": "blog-bomb-diffuse___pt",
     "path": "/pt/blog/bomb-diffuse",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\bomb-diffuse\\\\index.vue",
-    "chunkName": "pages/blog/bomb-diffuse/index"
+    "chunkName": "pages/blog/bomb-diffuse/index",
+    "_name": "_a7b2d6f0"
   },
   {
     "name": "blog-bomber-warrior___pt",
     "path": "/pt/blog/bomber-warrior",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\bomber-warrior\\\\index.vue",
-    "chunkName": "pages/blog/bomber-warrior/index"
+    "chunkName": "pages/blog/bomber-warrior/index",
+    "_name": "_3e6b1fca"
   },
   {
     "name": "blog-cv-builder-app___pt",
     "path": "/pt/blog/cv-builder-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\cv-builder-app\\\\index.vue",
-    "chunkName": "pages/blog/cv-builder-app/index"
+    "chunkName": "pages/blog/cv-builder-app/index",
+    "_name": "_424dad2a"
   },
   {
     "name": "blog-data-privacy___pt",
     "path": "/pt/blog/data-privacy",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\data-privacy\\\\index.vue",
-    "chunkName": "pages/blog/data-privacy/index"
+    "chunkName": "pages/blog/data-privacy/index",
+    "_name": "_9d424acc"
   },
   {
     "name": "blog-detail-blog___pt",
     "path": "/pt/blog/detail-blog",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
-    "chunkName": "pages/blog/detail-blog"
+    "chunkName": "pages/blog/detail-blog",
+    "_name": "_49723d6b"
   },
   {
     "name": "blog-flicky-chicky-game___pt",
     "path": "/pt/blog/flicky-chicky-game",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\flicky-chicky-game\\\\index.vue",
-    "chunkName": "pages/blog/flicky-chicky-game/index"
+    "chunkName": "pages/blog/flicky-chicky-game/index",
+    "_name": "_033547a8"
   },
   {
     "name": "blog-foldable-smartphones___pt",
     "path": "/pt/blog/foldable-smartphones",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\foldable-smartphones\\\\index.vue",
-    "chunkName": "pages/blog/foldable-smartphones/index"
+    "chunkName": "pages/blog/foldable-smartphones/index",
+    "_name": "_77d0c87a"
   },
   {
     "name": "blog-fund-raising-record-keeping___pt",
     "path": "/pt/blog/fund-raising-record-keeping",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\fund-raising-record-keeping\\\\index.vue",
-    "chunkName": "pages/blog/fund-raising-record-keeping/index"
+    "chunkName": "pages/blog/fund-raising-record-keeping/index",
+    "_name": "_73276188"
   },
   {
     "name": "blog-remote-control-for-sony-tv___pt",
     "path": "/pt/blog/remote-control-for-sony-tv",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\remote-control-for-sony-tv\\\\index.vue",
-    "chunkName": "pages/blog/remote-control-for-sony-tv/index"
+    "chunkName": "pages/blog/remote-control-for-sony-tv/index",
+    "_name": "_c545fc5c"
   },
   {
     "name": "blog-remote-for-vizio-tv-ios___pt",
     "path": "/pt/blog/remote-for-vizio-tv-ios",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\remote-for-vizio-tv-ios\\\\index.vue",
-    "chunkName": "pages/blog/remote-for-vizio-tv-ios/index"
+    "chunkName": "pages/blog/remote-for-vizio-tv-ios/index",
+    "_name": "_ed415270"
   },
   {
     "name": "blog-scam-secure-camera___pt",
     "path": "/pt/blog/scam-secure-camera",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\scam-secure-camera\\\\index.vue",
-    "chunkName": "pages/blog/scam-secure-camera/index"
+    "chunkName": "pages/blog/scam-secure-camera/index",
+    "_name": "_0f0e2175"
   },
   {
     "name": "blog-smart-tvs-remote-control-for-ios-android___pt",
     "path": "/pt/blog/smart-tvs-remote-control-for-ios-android",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\smart-tvs-remote-control-for-ios-android\\\\index.vue",
-    "chunkName": "pages/blog/smart-tvs-remote-control-for-ios-android/index"
+    "chunkName": "pages/blog/smart-tvs-remote-control-for-ios-android/index",
+    "_name": "_53e4afcb"
   },
   {
     "name": "blog-universal-remote-control-for-ruko-devices___pt",
     "path": "/pt/blog/universal-remote-control-for-ruko-devices",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-remote-control-for-ruko-devices\\\\index.vue",
-    "chunkName": "pages/blog/universal-remote-control-for-ruko-devices/index"
+    "chunkName": "pages/blog/universal-remote-control-for-ruko-devices/index",
+    "_name": "_017e2276"
   },
   {
     "name": "blog-universal-remote-for-lg-ios___pt",
     "path": "/pt/blog/universal-remote-for-lg-ios",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-remote-for-lg-ios\\\\index.vue",
-    "chunkName": "pages/blog/universal-remote-for-lg-ios/index"
+    "chunkName": "pages/blog/universal-remote-for-lg-ios/index",
+    "_name": "_03fd291e"
   },
   {
     "name": "blog-universal-tv-remote-control___pt",
     "path": "/pt/blog/universal-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/blog/universal-tv-remote-control/index"
+    "chunkName": "pages/blog/universal-tv-remote-control/index",
+    "_name": "_6fdb5936"
   },
   {
     "name": "category-cyber-security___pt",
     "path": "/pt/category/cyber-security",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\cyber-security\\\\index.vue",
-    "chunkName": "pages/category/cyber-security/index"
+    "chunkName": "pages/category/cyber-security/index",
+    "_name": "_cdaf3c62"
   },
   {
     "name": "category-games___pt",
     "path": "/pt/category/games",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\games\\\\index.vue",
-    "chunkName": "pages/category/games/index"
+    "chunkName": "pages/category/games/index",
+    "_name": "_76f9a3d0"
   },
   {
     "name": "category-mobile-apps___pt",
     "path": "/pt/category/mobile-apps",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\mobile-apps\\\\index.vue",
-    "chunkName": "pages/category/mobile-apps/index"
+    "chunkName": "pages/category/mobile-apps/index",
+    "_name": "_c84c01d8"
   },
   {
     "name": "category-smartphones___pt",
     "path": "/pt/category/smartphones",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\smartphones\\\\index.vue",
-    "chunkName": "pages/category/smartphones/index"
+    "chunkName": "pages/category/smartphones/index",
+    "_name": "_7c42bf63"
   },
   {
     "name": "category-social___pt",
     "path": "/pt/category/social",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\social\\\\index.vue",
-    "chunkName": "pages/category/social/index"
+    "chunkName": "pages/category/social/index",
+    "_name": "_9d624014"
   },
   {
     "name": "collection-detail-product___pt",
     "path": "/pt/collection/detail-product",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\detail-product.vue",
-    "chunkName": "pages/collection/detail-product"
+    "chunkName": "pages/collection/detail-product",
+    "_name": "_758cd872"
   },
   {
     "name": "collection-products___pt",
     "path": "/pt/collection/products",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\products.vue",
-    "chunkName": "pages/collection/products"
+    "chunkName": "pages/collection/products",
+    "_name": "_11441b23"
   },
   {
     "name": "contact-with-map___pt",
     "path": "/pt/contact/with-map",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
-    "chunkName": "pages/contact/with-map"
+    "chunkName": "pages/contact/with-map",
+    "_name": "_5cd768a4"
   },
   {
     "name": "mobile-apps-remote-control-for-roku-devices___pt",
     "path": "/pt/mobile-apps/remote-control-for-roku-devices",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-apps\\\\remote-control-for-roku-devices\\\\index.vue",
-    "chunkName": "pages/mobile-apps/remote-control-for-roku-devices/index"
+    "chunkName": "pages/mobile-apps/remote-control-for-roku-devices/index",
+    "_name": "_66dc84a8"
   },
   {
     "name": "portfolio-auto-silence-at-prayers-time___pt",
     "path": "/pt/portfolio/auto-silence-at-prayers-time",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\auto-silence-at-prayers-time\\\\index.vue",
-    "chunkName": "pages/portfolio/auto-silence-at-prayers-time/index"
+    "chunkName": "pages/portfolio/auto-silence-at-prayers-time/index",
+    "_name": "_e5f337e6"
   },
   {
     "name": "portfolio-codematics-lg-remote-control___pt",
     "path": "/pt/portfolio/codematics-lg-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\codematics-lg-remote-control\\\\index.vue",
-    "chunkName": "pages/portfolio/codematics-lg-remote-control/index"
+    "chunkName": "pages/portfolio/codematics-lg-remote-control/index",
+    "_name": "_bb991bec"
   },
   {
     "name": "portfolio-flash-on-call-and-sms___pt",
     "path": "/pt/portfolio/flash-on-call-and-sms",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\flash-on-call-and-sms\\\\index.vue",
-    "chunkName": "pages/portfolio/flash-on-call-and-sms/index"
+    "chunkName": "pages/portfolio/flash-on-call-and-sms/index",
+    "_name": "_67384524"
   },
   {
     "name": "portfolio-guess-the-word-multiplayer___pt",
     "path": "/pt/portfolio/guess-the-word-multiplayer",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\guess-the-word-multiplayer\\\\index.vue",
-    "chunkName": "pages/portfolio/guess-the-word-multiplayer/index"
+    "chunkName": "pages/portfolio/guess-the-word-multiplayer/index",
+    "_name": "_478eea3c"
   },
   {
     "name": "portfolio-kardaan-handyman-services-at-your-door-stepearly-access___pt",
     "path": "/pt/portfolio/kardaan-handyman-services-at-your-door-stepearly-access",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
-    "chunkName": "pages/portfolio/kardaan-handyman-services-at-your-door-stepearly-access/index"
+    "chunkName": "pages/portfolio/kardaan-handyman-services-at-your-door-stepearly-access/index",
+    "_name": "_b68b132e"
   },
   {
     "name": "portfolio-scam___pt",
     "path": "/pt/portfolio/scam",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\scam\\\\index.vue",
-    "chunkName": "pages/portfolio/scam/index"
+    "chunkName": "pages/portfolio/scam/index",
+    "_name": "_509c1f22"
   },
   {
     "name": "portfolio-smart-tvs-remote-control-for-ios-and-android___pt",
     "path": "/pt/portfolio/smart-tvs-remote-control-for-ios-and-android",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
-    "chunkName": "pages/portfolio/smart-tvs-remote-control-for-ios-and-android/index"
+    "chunkName": "pages/portfolio/smart-tvs-remote-control-for-ios-and-android/index",
+    "_name": "_41264acd"
   },
   {
     "name": "portfolio-snap-war___pt",
     "path": "/pt/portfolio/snap-war",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\snap-war\\\\index.vue",
-    "chunkName": "pages/portfolio/snap-war/index"
+    "chunkName": "pages/portfolio/snap-war/index",
+    "_name": "_204d7866"
   },
   {
     "name": "portfolio-sonybravia-android-tv-remote-control___pt",
     "path": "/pt/portfolio/sonybravia-android-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\sonybravia-android-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/portfolio/sonybravia-android-tv-remote-control/index"
+    "chunkName": "pages/portfolio/sonybravia-android-tv-remote-control/index",
+    "_name": "_0b4e8ed1"
   },
   {
     "name": "portfolio-the-blood-community-app___pt",
     "path": "/pt/portfolio/the-blood-community-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\the-blood-community-app\\\\index.vue",
-    "chunkName": "pages/portfolio/the-blood-community-app/index"
+    "chunkName": "pages/portfolio/the-blood-community-app/index",
+    "_name": "_3181f2bb"
   },
   {
     "name": "portfolio-universal-tv-remote-control___pt",
     "path": "/pt/portfolio/universal-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/portfolio/universal-tv-remote-control/index"
+    "chunkName": "pages/portfolio/universal-tv-remote-control/index",
+    "_name": "_4a2c546a"
   },
   {
     "name": "utils-coming-soon___pt",
     "path": "/pt/utils/coming-soon",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\coming-soon.vue",
-    "chunkName": "pages/utils/coming-soon"
+    "chunkName": "pages/utils/coming-soon",
+    "_name": "_422df997"
   },
   {
     "name": "utils-faq___pt",
     "path": "/pt/utils/faq",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\faq.vue",
-    "chunkName": "pages/utils/faq"
+    "chunkName": "pages/utils/faq",
+    "_name": "_587e7066"
   },
   {
     "name": "utils-maintenance___pt",
     "path": "/pt/utils/maintenance",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\maintenance.vue",
-    "chunkName": "pages/utils/maintenance"
+    "chunkName": "pages/utils/maintenance",
+    "_name": "_798059e3"
   },
   {
     "name": "utils-pricing___pt",
     "path": "/pt/utils/pricing",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\pricing.vue",
-    "chunkName": "pages/utils/pricing"
+    "chunkName": "pages/utils/pricing",
+    "_name": "_473e1116"
   },
   {
     "name": "about-team___zh",
     "path": "/zh/about/team",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\about\\\\team.vue",
-    "chunkName": "pages/about/team"
+    "chunkName": "pages/about/team",
+    "_name": "_a88890ce"
   },
   {
     "name": "blog-blood-community-pakistan___zh",
     "path": "/zh/blog/blood-community-pakistan",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\blood-community-pakistan\\\\index.vue",
-    "chunkName": "pages/blog/blood-community-pakistan/index"
+    "chunkName": "pages/blog/blood-community-pakistan/index",
+    "_name": "_17fb0a2b"
   },
   {
     "name": "blog-blood-donation___zh",
     "path": "/zh/blog/blood-donation",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\blood-donation\\\\index.vue",
-    "chunkName": "pages/blog/blood-donation/index"
+    "chunkName": "pages/blog/blood-donation/index",
+    "_name": "_ceaf288c"
   },
   {
     "name": "blog-bomb-diffuse___zh",
     "path": "/zh/blog/bomb-diffuse",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\bomb-diffuse\\\\index.vue",
-    "chunkName": "pages/blog/bomb-diffuse/index"
+    "chunkName": "pages/blog/bomb-diffuse/index",
+    "_name": "_a7b2d6f0"
   },
   {
     "name": "blog-bomber-warrior___zh",
     "path": "/zh/blog/bomber-warrior",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\bomber-warrior\\\\index.vue",
-    "chunkName": "pages/blog/bomber-warrior/index"
+    "chunkName": "pages/blog/bomber-warrior/index",
+    "_name": "_3e6b1fca"
   },
   {
     "name": "blog-cv-builder-app___zh",
     "path": "/zh/blog/cv-builder-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\cv-builder-app\\\\index.vue",
-    "chunkName": "pages/blog/cv-builder-app/index"
+    "chunkName": "pages/blog/cv-builder-app/index",
+    "_name": "_424dad2a"
   },
   {
     "name": "blog-data-privacy___zh",
     "path": "/zh/blog/data-privacy",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\data-privacy\\\\index.vue",
-    "chunkName": "pages/blog/data-privacy/index"
+    "chunkName": "pages/blog/data-privacy/index",
+    "_name": "_9d424acc"
   },
   {
     "name": "blog-detail-blog___zh",
     "path": "/zh/blog/detail-blog",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\detail-blog.vue",
-    "chunkName": "pages/blog/detail-blog"
+    "chunkName": "pages/blog/detail-blog",
+    "_name": "_49723d6b"
   },
   {
     "name": "blog-flicky-chicky-game___zh",
     "path": "/zh/blog/flicky-chicky-game",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\flicky-chicky-game\\\\index.vue",
-    "chunkName": "pages/blog/flicky-chicky-game/index"
+    "chunkName": "pages/blog/flicky-chicky-game/index",
+    "_name": "_033547a8"
   },
   {
     "name": "blog-foldable-smartphones___zh",
     "path": "/zh/blog/foldable-smartphones",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\foldable-smartphones\\\\index.vue",
-    "chunkName": "pages/blog/foldable-smartphones/index"
+    "chunkName": "pages/blog/foldable-smartphones/index",
+    "_name": "_77d0c87a"
   },
   {
     "name": "blog-fund-raising-record-keeping___zh",
     "path": "/zh/blog/fund-raising-record-keeping",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\fund-raising-record-keeping\\\\index.vue",
-    "chunkName": "pages/blog/fund-raising-record-keeping/index"
+    "chunkName": "pages/blog/fund-raising-record-keeping/index",
+    "_name": "_73276188"
   },
   {
     "name": "blog-remote-control-for-sony-tv___zh",
     "path": "/zh/blog/remote-control-for-sony-tv",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\remote-control-for-sony-tv\\\\index.vue",
-    "chunkName": "pages/blog/remote-control-for-sony-tv/index"
+    "chunkName": "pages/blog/remote-control-for-sony-tv/index",
+    "_name": "_c545fc5c"
   },
   {
     "name": "blog-remote-for-vizio-tv-ios___zh",
     "path": "/zh/blog/remote-for-vizio-tv-ios",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\remote-for-vizio-tv-ios\\\\index.vue",
-    "chunkName": "pages/blog/remote-for-vizio-tv-ios/index"
+    "chunkName": "pages/blog/remote-for-vizio-tv-ios/index",
+    "_name": "_ed415270"
   },
   {
     "name": "blog-scam-secure-camera___zh",
     "path": "/zh/blog/scam-secure-camera",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\scam-secure-camera\\\\index.vue",
-    "chunkName": "pages/blog/scam-secure-camera/index"
+    "chunkName": "pages/blog/scam-secure-camera/index",
+    "_name": "_0f0e2175"
   },
   {
     "name": "blog-smart-tvs-remote-control-for-ios-android___zh",
     "path": "/zh/blog/smart-tvs-remote-control-for-ios-android",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\smart-tvs-remote-control-for-ios-android\\\\index.vue",
-    "chunkName": "pages/blog/smart-tvs-remote-control-for-ios-android/index"
+    "chunkName": "pages/blog/smart-tvs-remote-control-for-ios-android/index",
+    "_name": "_53e4afcb"
   },
   {
     "name": "blog-universal-remote-control-for-ruko-devices___zh",
     "path": "/zh/blog/universal-remote-control-for-ruko-devices",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-remote-control-for-ruko-devices\\\\index.vue",
-    "chunkName": "pages/blog/universal-remote-control-for-ruko-devices/index"
+    "chunkName": "pages/blog/universal-remote-control-for-ruko-devices/index",
+    "_name": "_017e2276"
   },
   {
     "name": "blog-universal-remote-for-lg-ios___zh",
     "path": "/zh/blog/universal-remote-for-lg-ios",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-remote-for-lg-ios\\\\index.vue",
-    "chunkName": "pages/blog/universal-remote-for-lg-ios/index"
+    "chunkName": "pages/blog/universal-remote-for-lg-ios/index",
+    "_name": "_03fd291e"
   },
   {
     "name": "blog-universal-tv-remote-control___zh",
     "path": "/zh/blog/universal-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\blog\\\\universal-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/blog/universal-tv-remote-control/index"
+    "chunkName": "pages/blog/universal-tv-remote-control/index",
+    "_name": "_6fdb5936"
   },
   {
     "name": "category-cyber-security___zh",
     "path": "/zh/category/cyber-security",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\cyber-security\\\\index.vue",
-    "chunkName": "pages/category/cyber-security/index"
+    "chunkName": "pages/category/cyber-security/index",
+    "_name": "_cdaf3c62"
   },
   {
     "name": "category-games___zh",
     "path": "/zh/category/games",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\games\\\\index.vue",
-    "chunkName": "pages/category/games/index"
+    "chunkName": "pages/category/games/index",
+    "_name": "_76f9a3d0"
   },
   {
     "name": "category-mobile-apps___zh",
     "path": "/zh/category/mobile-apps",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\mobile-apps\\\\index.vue",
-    "chunkName": "pages/category/mobile-apps/index"
+    "chunkName": "pages/category/mobile-apps/index",
+    "_name": "_c84c01d8"
   },
   {
     "name": "category-smartphones___zh",
     "path": "/zh/category/smartphones",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\smartphones\\\\index.vue",
-    "chunkName": "pages/category/smartphones/index"
+    "chunkName": "pages/category/smartphones/index",
+    "_name": "_7c42bf63"
   },
   {
     "name": "category-social___zh",
     "path": "/zh/category/social",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\category\\\\social\\\\index.vue",
-    "chunkName": "pages/category/social/index"
+    "chunkName": "pages/category/social/index",
+    "_name": "_9d624014"
   },
   {
     "name": "collection-detail-product___zh",
     "path": "/zh/collection/detail-product",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\detail-product.vue",
-    "chunkName": "pages/collection/detail-product"
+    "chunkName": "pages/collection/detail-product",
+    "_name": "_758cd872"
   },
   {
     "name": "collection-products___zh",
     "path": "/zh/collection/products",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\collection\\\\products.vue",
-    "chunkName": "pages/collection/products"
+    "chunkName": "pages/collection/products",
+    "_name": "_11441b23"
   },
   {
     "name": "contact-with-map___zh",
     "path": "/zh/contact/with-map",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\contact\\\\with-map.vue",
-    "chunkName": "pages/contact/with-map"
+    "chunkName": "pages/contact/with-map",
+    "_name": "_5cd768a4"
   },
   {
     "name": "mobile-apps-remote-control-for-roku-devices___zh",
     "path": "/zh/mobile-apps/remote-control-for-roku-devices",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\mobile-apps\\\\remote-control-for-roku-devices\\\\index.vue",
-    "chunkName": "pages/mobile-apps/remote-control-for-roku-devices/index"
+    "chunkName": "pages/mobile-apps/remote-control-for-roku-devices/index",
+    "_name": "_66dc84a8"
   },
   {
     "name": "portfolio-auto-silence-at-prayers-time___zh",
     "path": "/zh/portfolio/auto-silence-at-prayers-time",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\auto-silence-at-prayers-time\\\\index.vue",
-    "chunkName": "pages/portfolio/auto-silence-at-prayers-time/index"
+    "chunkName": "pages/portfolio/auto-silence-at-prayers-time/index",
+    "_name": "_e5f337e6"
   },
   {
     "name": "portfolio-codematics-lg-remote-control___zh",
     "path": "/zh/portfolio/codematics-lg-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\codematics-lg-remote-control\\\\index.vue",
-    "chunkName": "pages/portfolio/codematics-lg-remote-control/index"
+    "chunkName": "pages/portfolio/codematics-lg-remote-control/index",
+    "_name": "_bb991bec"
   },
   {
     "name": "portfolio-flash-on-call-and-sms___zh",
     "path": "/zh/portfolio/flash-on-call-and-sms",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\flash-on-call-and-sms\\\\index.vue",
-    "chunkName": "pages/portfolio/flash-on-call-and-sms/index"
+    "chunkName": "pages/portfolio/flash-on-call-and-sms/index",
+    "_name": "_67384524"
   },
   {
     "name": "portfolio-guess-the-word-multiplayer___zh",
     "path": "/zh/portfolio/guess-the-word-multiplayer",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\guess-the-word-multiplayer\\\\index.vue",
-    "chunkName": "pages/portfolio/guess-the-word-multiplayer/index"
+    "chunkName": "pages/portfolio/guess-the-word-multiplayer/index",
+    "_name": "_478eea3c"
   },
   {
     "name": "portfolio-kardaan-handyman-services-at-your-door-stepearly-access___zh",
     "path": "/zh/portfolio/kardaan-handyman-services-at-your-door-stepearly-access",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\kardaan-handyman-services-at-your-door-stepearly-access\\\\index.vue",
-    "chunkName": "pages/portfolio/kardaan-handyman-services-at-your-door-stepearly-access/index"
+    "chunkName": "pages/portfolio/kardaan-handyman-services-at-your-door-stepearly-access/index",
+    "_name": "_b68b132e"
   },
   {
     "name": "portfolio-scam___zh",
     "path": "/zh/portfolio/scam",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\scam\\\\index.vue",
-    "chunkName": "pages/portfolio/scam/index"
+    "chunkName": "pages/portfolio/scam/index",
+    "_name": "_509c1f22"
   },
   {
     "name": "portfolio-smart-tvs-remote-control-for-ios-and-android___zh",
     "path": "/zh/portfolio/smart-tvs-remote-control-for-ios-and-android",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\smart-tvs-remote-control-for-ios-and-android\\\\index.vue",
-    "chunkName": "pages/portfolio/smart-tvs-remote-control-for-ios-and-android/index"
+    "chunkName": "pages/portfolio/smart-tvs-remote-control-for-ios-and-android/index",
+    "_name": "_41264acd"
   },
   {
     "name": "portfolio-snap-war___zh",
     "path": "/zh/portfolio/snap-war",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\snap-war\\\\index.vue",
-    "chunkName": "pages/portfolio/snap-war/index"
+    "chunkName": "pages/portfolio/snap-war/index",
+    "_name": "_204d7866"
   },
   {
     "name": "portfolio-sonybravia-android-tv-remote-control___zh",
     "path": "/zh/portfolio/sonybravia-android-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\sonybravia-android-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/portfolio/sonybravia-android-tv-remote-control/index"
+    "chunkName": "pages/portfolio/sonybravia-android-tv-remote-control/index",
+    "_name": "_0b4e8ed1"
   },
   {
     "name": "portfolio-the-blood-community-app___zh",
     "path": "/zh/portfolio/the-blood-community-app",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\the-blood-community-app\\\\index.vue",
-    "chunkName": "pages/portfolio/the-blood-community-app/index"
+    "chunkName": "pages/portfolio/the-blood-community-app/index",
+    "_name": "_3181f2bb"
   },
   {
     "name": "portfolio-universal-tv-remote-control___zh",
     "path": "/zh/portfolio/universal-tv-remote-control",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\portfolio\\\\universal-tv-remote-control\\\\index.vue",
-    "chunkName": "pages/portfolio/universal-tv-remote-control/index"
+    "chunkName": "pages/portfolio/universal-tv-remote-control/index",
+    "_name": "_4a2c546a"
   },
   {
     "name": "utils-coming-soon___zh",
     "path": "/zh/utils/coming-soon",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\coming-soon.vue",
-    "chunkName": "pages/utils/coming-soon"
+    "chunkName": "pages/utils/coming-soon",
+    "_name": "_422df997"
   },
   {
     "name": "utils-faq___zh",
     "path": "/zh/utils/faq",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\faq.vue",
-    "chunkName": "pages/utils/faq"
+    "chunkName": "pages/utils/faq",
+    "_name": "_587e7066"
   },
   {
     "name": "utils-maintenance___zh",
     "path": "/zh/utils/maintenance",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\maintenance.vue",
-    "chunkName": "pages/utils/maintenance"
+    "chunkName": "pages/utils/maintenance",
+    "_name": "_798059e3"
   },
   {
     "name": "utils-pricing___zh",
     "path": "/zh/utils/pricing",
     "component": "C:\\\\xampp\\\\htdocs\\\\codematics-SPA\\\\pages\\\\utils\\\\pricing.vue",
-    "chunkName": "pages/utils/pricing"
+    "chunkName": "pages/utils/pricing",
+    "_name": "_473e1116"
   }
 ]

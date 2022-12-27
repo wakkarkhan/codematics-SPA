@@ -116,8 +116,8 @@ const imgAPI = {
     '/images/blog/flicky-small.jpg', // 14
     '/images/blog/bomber-small.jpg', // 15
 
-    '/images/blog/cv-banner.png', // 16
-    '/images/blog/fundraiser-long.png', // 17
+    '/images/blog/cv-banner.jpg', // 16
+    '/images/blog/fundraiser-long.jpg', // 17
     '/images/blog/blood-community-long.jpg', // 18
     '/images/blog/blood-main.png', // 19
     '/images/blog/blood-donation-big.png', // 20
